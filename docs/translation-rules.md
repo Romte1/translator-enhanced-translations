@@ -1,7 +1,7 @@
 # Translation rules
 
 These rules are the contract for every reviewed translation: contributors, maintainers and
-the automated first pass all apply the same checklist. `InterfaceDictionaryTest` enforces the
+the automated first pass all apply the same checklist. `scripts/validate-translations.mjs` enforces the
 mechanical parts (tags, numbers, placeholders, duplicates).
 
 They are language neutral: every text that is not a proper noun is translated **into the
