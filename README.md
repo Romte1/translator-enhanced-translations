@@ -13,9 +13,9 @@ the network is unavailable.
 ```text
 manifest.json
 translations/
-  interface/<language>.txt
-  menu_entry_option/<language>.txt
-  overrides/<language>.txt
+  translations/interface/<language>.txt
+  translations/menu_entry_option/<language>.txt
+  translations/overrides/<language>.txt
 docs/
   translation-rules.md
   menu-entry-rules.md

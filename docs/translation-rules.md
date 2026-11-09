@@ -88,4 +88,4 @@ The output is reviewed before merging; it is never committed automatically.
 - [ ] no new/removed line breaks
 - [ ] written entirely in the target language
 - [ ] reads naturally
-- [ ] `./gradlew build` passes
+- [ ] `node scripts/validate-translations.mjs` passes
