@@ -20,7 +20,7 @@
 #>
 param(
     [string]$Language = "spanish",
-    [string]$Source = "$env:USERPROFILE\.runelite\translator\untranslated",
+    [string]$Source = "$env:USERPROFILE\.runelite\plugin-data\translator-enhanced\untranslated",
     [string]$TranslationFile = "$PSScriptRoot\..\translations\interface\$Language.txt",
     [string]$Output = "$PSScriptRoot\..\build\pending-$Language.txt"
 )
