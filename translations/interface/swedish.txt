@@ -1,0 +1,230 @@
+
+Difficulty:;Svårighetsgrad:
+Length:;Längd:
+Storyline:;Handlingslinje:
+Release Year:;Utgivningsår:
+Requirements:;Krav:
+Recommendations:;Rekommendationer:
+Show on Map;Visa på karta
+Novice;Nybörjare
+Intermediate;Medel
+Experienced;Erfaren
+Master;Mästare
+Grandmaster;Stormästare
+Easy;Lätt
+Medium;Medel
+Hard;Svår
+Elite;Elit
+Short;Kort
+Long;Lång
+Very Short;Mycket kort
+Very Long;Mycket lång
+Standalone;Fristående
+I can start this quest by talking to <col=800000>Elena<col=000080> at her home in northern <col=800000>East Ardougne<col=000080>.;Jag kan starta det här uppdraget genom att prata med <col=800000>Elena<col=000080> i hennes hem i norra <col=800000>East Ardougne<col=000080>.
+I can start this quest by talking to <col=800000>Willow<col=000080> on the path south of <col=800000>Ice Mountain<col=000080>.;Jag kan starta det här uppdraget genom att prata med <col=800000>Willow<col=000080> på stigen söder om <col=800000>Ice Mountain<col=000080>.
+I can start this quest by talking to <col=800000>Sir Amik Varze<col=000080> in the <col=800000>White Knights' Castle<col=000080>.;Jag kan starta det här uppdraget genom att prata med <col=800000>Sir Amik Varze<col=000080> i <col=800000>White Knights' Castle<col=000080>.
+I can start this quest by talking to <col=800000>Doric<col=000080> at his home north of <col=800000>Falador<col=000080>.;Jag kan starta det här uppdraget genom att prata med <col=800000>Doric<col=000080> i hans hem norr om <col=800000>Falador<col=000080>.
+I can start this quest by talking to <col=800000>Aris<col=000080> in her tent in <col=800000>Varrock Square<col=000080>.;Jag kan starta det här uppdraget genom att prata med <col=800000>Aris<col=000080> i hennes tält på <col=800000>Varrock Square<col=000080>.
+I can start this quest by talking to <col=800000>Captain Tock<col=000080> north of <col=800000>Port Sarim<col=000080>.;Jag kan starta det här uppdraget genom att prata med <col=800000>Captain Tock<col=000080> norr om <col=800000>Port Sarim<col=000080>.
+I can start this quest by talking to the <col=800000>Guildmaster<col=000080> in the <col=800000>Champions' Guild<col=000080>.;Jag kan starta det här uppdraget genom att prata med <col=800000>Guildmaster<col=000080> i <col=800000>Champions' Guild<col=000080>.
+I can start this quest by talking to the <col=800000>Goblin Generals<col=000080> in <col=800000>Goblin Village<col=000080>.;Jag kan starta det här uppdraget genom att prata med <col=800000>Goblin Generals<col=000080> i <col=800000>Goblin Village<col=000080>.
+I can start this quest by talking to <col=800000>Redbeard Frank<col=000080> on the <col=800000>Port Sarim<col=000080> docks.;Jag kan starta det här uppdraget genom att prata med <col=800000>Redbeard Frank<col=000080> på kajerna i <col=800000>Port Sarim<col=000080>.
+I can start this quest by talking to <col=800000>Rantz<col=000080> south east of <col=800000>Gu'Tanoth<col=000080>.;Jag kan starta det här uppdraget genom att prata med <col=800000>Rantz<col=000080> sydöst om <col=800000>Gu'Tanoth<col=000080>.
+I can start this quest by talking to <col=800000>Curator Haig Halen<col=000080> in the <col=800000>Varrock Museum<col=000080>.;Jag kan starta det här uppdraget genom att prata med <col=800000>Curator Haig Halen<col=000080> på <col=800000>Varrock Museum<col=000080>.
+I can start this quest by talking to <col=800000>Bill Teach<col=000080> in the <col=800000>Green Ghost Inn<col=000080> in <col=800000>Port Phasmatys<col=000080>.;Jag kan starta det här uppdraget genom att prata med <col=800000>Bill Teach<col=000080> på <col=800000>Green Ghost Inn<col=000080> i <col=800000>Port Phasmatys<col=000080>.
+I can start this quest by talking to <col=800000>Veronica<col=000080> south of <col=800000>Draynor Manor<col=000080>.;Jag kan starta det här uppdraget genom att prata med <col=800000>Veronica<col=000080> söder om <col=800000>Draynor Manor<col=000080>.
+I can start this quest by talking to <col=800000>Ava<col=000080> in <col=800000>Draynor Manor<col=000080>.;Jag kan starta det här uppdraget genom att prata med <col=800000>Ava<col=000080> i <col=800000>Draynor Manor<col=000080>.
+I can start this quest by talking to <col=800000>Ur-tag<col=000080> at his home in <col=800000>Dorgesh-Kaan<col=000080>.;Jag kan starta det här uppdraget genom att prata med <col=800000>Ur-tag<col=000080> hemma hos honom i <col=800000>Dorgesh-Kaan<col=000080>.
+I can start this quest by talking to <col=800000>Mori<col=000080> in <col=800000>Arceuus<col=000080>.;Jag kan starta det här uppdraget genom att prata med <col=800000>Mori<col=000080> i <col=800000>Arceuus<col=000080>.
+I can start this quest by talking to <col=800000>Guildmaster Apatura<col=000080> in the <col=800000>Hunter Guild<col=000080>.;Jag kan starta det här uppdraget genom att prata med <col=800000>Guildmaster Apatura<col=000080> i <col=800000>Hunter Guild<col=000080>.
+I started this quest by talking to the <col=800000>Cook<col=000080> in <col=800000>Lumbridge Castle<col=000080>.;Jag startade det här uppdraget genom att prata med <col=800000>Cook<col=000080> i <col=800000>Lumbridge Castle<col=000080>.
+I can start this quest by talking to <col=800000>Wizard Mizgog<col=000080> in the <col=800000>Wizards' Tower<col=000080>.;Jag kan starta det här uppdraget genom att prata med <col=800000>Wizard Mizgog<col=000080> i <col=800000>Wizards' Tower<col=000080>.
+I can start this quest by talking to <col=800000>Romeo<col=000080> in <col=800000>Varrock Square<col=000080>.;Jag kan starta det här uppdraget genom att prata med <col=800000>Romeo<col=000080> på <col=800000>Varrock Square<col=000080>.
+I can start this quest by talking to <col=800000>Cassius<col=000080> south of the <col=800000>Lumbridge Windmill<col=000080>.;Jag kan starta det här uppdraget genom att prata med <col=800000>Cassius<col=000080> söder om <col=800000>Lumbridge Windmill<col=000080>.
+I can start this quest by talking to <col=800000>Abigale<col=000080> by the shore in <col=800000>Lumbridge Swamp<col=000080>.;Jag kan starta det här uppdraget genom att prata med <col=800000>Abigale<col=000080> vid stranden i <col=800000>Lumbridge Swamp<col=000080>.
+I can start this quest by talking to <col=800000>Jamila<col=000080> at her stall in <col=800000>Sophanem<col=000080>.;Jag kan starta det här uppdraget genom att prata med <col=800000>Jamila<col=000080> vid hennes stånd i <col=800000>Sophanem<col=000080>.
+<col=800000>None;<col=800000>Inga
+<str>It was the Duke of Lumbridge's birthday, but his cook had;<str>Det var Duke of Lumbridges födelsedag, men hans kock hade
+<str>forgotten to buy the ingredients he needed to make him a;<str>glömt att köpa ingredienserna han behövde för att göra honom en
+<str>cake. I brought the cook an egg, some flour and some milk and;<str>cake. Jag tog med ett egg, lite flour och lite milk till kocken och
+<str>the cook made a delicious looking cake with them.;<str>kocken gjorde en cake som såg läcker ut av dem.
+<str>As a reward he now lets me use his high quality range which;<str>Som belöning låter han mig nu använda hans högkvalitativa spis som
+<str>lets me burn things less whenever I wish to cook there.;<str>gör att jag bränner saker mindre när jag vill laga mat där.
+<col=ffff00>Kandarin Tasks;<col=ffff00>Kandarin-uppdrag
+<col=ff0000>QUEST COMPLETE!;<col=ff0000>UPPDRAGET SLUTFÖRT!
+<col=ffff00>Fremennik Tasks;<col=ffff00>Fremennik-uppdrag
+<col=000000>Catch a Cerulean twitch.<col=ffffff>(<col=800000>11 Hunter<col=000080><col=ffffff>);<col=000000>Fånga en Cerulean twitch.<col=ffffff>(<col=800000>11 Hunter<col=000080><col=ffffff>)
+<col=000000>Change your boots at Yrsa's Shoe Store.<col=ffffff>(<col=800000>The Fremennik Trials<col=000080><col=ffffff>);<col=000000>Byt dina boots i Yrsa's Shoe Store.<col=ffffff>(<col=800000>The Fremennik Trials<col=000080><col=ffffff>)
+<col=000000>Kill 5 Rock crabs.;<col=000000>Döda 5 Rock crabs.
+<col=000000>Craft a tiara from scratch in Rellekka.;<col=000000>Tillverka en tiara från grunden i Rellekka.
+<col=000000>Browse the Stonemasons shop.<col=ffffff>(<col=800000>Started The Giant Dwarf<col=000080><col=ffffff>);<col=000000>Bläddra i Stonemasons butik.<col=ffffff>(<col=800000>Startade The Giant Dwarf<col=000080><col=ffffff>)
+<col=000000>Collect 5 Snape grass on Waterbirth Island.;<col=000000>Samla 5 Snape grass på Waterbirth Island.
+<col=000000>Steal from the Keldagrim crafting or baker's stall.;<col=000000>Stjäl från hantverks- eller bagarståndet i Keldagrim.
+<col=000000>Fill a bucket with water at the Rellekka well.;<col=000000>Fyll en bucket med vatten vid brunnen i Rellekka.
+<col=000000>Enter the Troll Stronghold.<col=ffffff>(<col=800000>Death Plateau<col=000080>, <col=800000>Started Troll Stronghold<col=000080><col=ffffff>);<col=000000>Gå in i Troll Stronghold.<col=ffffff>(<col=800000>Death Plateau<col=000080>, <col=800000>Startade Troll Stronghold<col=000080><col=ffffff>)
+<col=000000>Chop and burn some oak logs in the Fremennik Province.;<col=000000>Hugg och bränn lite oak logs i Fremennik-provinsen.
+<col=000000>Slay a Brine rat.<col=ffffff>(<col=800000>47 Slayer<col=000080>, <col=800000>Started Olaf's Quest<col=000080><col=ffffff>);<col=000000>Döda en Brine rat.<col=ffffff>(<col=800000>47 Slayer<col=000080>, <col=800000>Startade Olaf's Quest<col=000080><col=ffffff>)
+<col=000000>Travel to the Snowy Hunter Area via Eagle.<col=ffffff>(<col=800000>Eagles' Peak<col=000080><col=ffffff>);<col=000000>Res till Snowy Hunter Area via örn.<col=ffffff>(<col=800000>Eagles' Peak<col=000080><col=ffffff>)
+<col=000000>Mine some coal in Rellekka.<col=ffffff>(<col=800000>30 Mining<col=000080>, <col=800000>The Fremennik Trials<col=000080><col=ffffff>);<col=000000>Bryt lite coal i Rellekka.<col=ffffff>(<col=800000>30 Mining<col=000080>, <col=800000>The Fremennik Trials<col=000080><col=ffffff>)
+<col=000000>Steal from the Rellekka Fish stalls.<col=ffffff>(<col=800000>42 Thieving<col=000080>, <col=800000>The Fremennik Trials<col=000080><col=ffffff>);<col=000000>Stjäl från fiskstånden i Rellekka.<col=ffffff>(<col=800000>42 Thieving<col=000080>, <col=800000>The Fremennik Trials<col=000080><col=ffffff>)
+<col=000000>Travel to Miscellania by Fairy ring.;<col=000000>Res till Miscellania med Fairy ring.
+<col=ffffff>(<col=800000>The Fremennik Trials<col=000080>, <col=800000>Started Fairytale II - Cure a Queen<col=000080><col=ffffff>);<col=ffffff>(<col=800000>The Fremennik Trials<col=000080>, <col=800000>Startade Fairytale II - Cure a Queen<col=000080><col=ffffff>)
+<col=000000>Catch a Snowy knight.<col=ffffff>(<col=800000>35 Hunter<col=000080><col=ffffff>);<col=000000>Fånga en Snowy knight.<col=ffffff>(<col=800000>35 Hunter<col=000080><col=ffffff>)
+<col=000000>Pick up your Pet Rock from your POH Menagerie.;<col=000000>Hämta din Pet Rock från din POH Menagerie.
+<col=000000>Visit the Lighthouse from Waterbirth island.;<col=000000>Besök Lighthouse från Waterbirth island.
+<col=ffffff>(<col=800000>Horror from the Deep<col=000080>, <col=800000>Started The Fremennik Trials<col=000080><col=ffffff>);<col=ffffff>(<col=800000>Horror from the Deep<col=000080>, <col=800000>Startade The Fremennik Trials<col=000080><col=ffffff>)
+<col=000000>Mine some gold at the Arzinian mine.;<col=000000>Bryt lite gold vid Arzinian mine.
+<col=ffffff>(<col=800000>40 Mining<col=000080>, <col=800000>Started Between a Rock...<col=000080><col=ffffff>);<col=ffffff>(<col=800000>40 Mining<col=000080>, <col=800000>Startade Between a Rock...<col=000080><col=ffffff>)
+<col=000000>Teleport to Trollheim.<col=ffffff>(<col=800000>61 Magic<col=000080>, <col=800000>Eadgar's Ruse<col=000080><col=ffffff>);<col=000000>Teleportera till Trollheim.<col=ffffff>(<col=800000>61 Magic<col=000080>, <col=800000>Eadgar's Ruse<col=000080><col=ffffff>)
+<col=000000>Catch a Sabre-toothed Kyatt.<col=ffffff>(<col=800000>55 Hunter<col=000080><col=ffffff>);<col=000000>Fånga en Sabre-toothed Kyatt.<col=ffffff>(<col=800000>55 Hunter<col=000080><col=ffffff>)
+<col=000000>Mix a super defence potion in the Fremennik province.;<col=000000>Blanda en super defence potion i Fremennik-provinsen.
+<col=000000>Steal from the Keldagrim Gem Stall.;<col=000000>Stjäl från ädelstensståndet i Keldagrim.
+<col=ffffff>(<col=800000>75 Thieving<col=000080>, <col=800000>Started The Giant Dwarf<col=000080><col=ffffff>);<col=ffffff>(<col=800000>75 Thieving<col=000080>, <col=800000>Startade The Giant Dwarf<col=000080><col=ffffff>)
+<col=000000>Craft a Neitiznot shield on Neitiznot.;<col=000000>Tillverka en Neitiznot shield på Neitiznot.
+Dancing with Statues;Dans med statyer
+Dodging the Dragon;Undvika draken
+Hot on Your Feet;Het på fötterna
+Playing with Lasers;Leka med laser
+Supplies? Who Needs 'em?;Förnödenheter? Vem behöver dem?
+... 'til Dawn;... till gryningen
+A siphon will solve this;En sifon löser detta
+All out of medics;Ingen sjukvård kvar
+Back in My Day...;På min tid...
+Back so soon?;Tillbaka så snart?
+Better get movin';Bättre skynda sig
+Big, Black and Fiery;Stor, svart och flammande
+Calm Before the Storm;Stilla före stormen
+Camping the King;Campa kungen
+Chambers of Xeric (5-Scale) Speed-Chaser;Chambers of Xeric (5-Scale) Snabbhetsjägare
+Chambers of Xeric (Solo) Speed-Chaser;Chambers of Xeric (Solo) Snabbhetsjägare
+Chambers of Xeric (Trio) Speed-Chaser;Chambers of Xeric (Trio) Snabbhetsjägare
+Chambers of Xeric Master;Chambers of Xeric Mästare
+Chambers of Xeric: CM (5-Scale) Speed-Chaser;Chambers of Xeric: CM (5-Scale) Snabbhetsjägare
+Chambers of Xeric: CM (Solo) Speed-Chaser;Chambers of Xeric: CM (Solo) Snabbhetsjägare
+Chambers of Xeric: CM (Trio) Speed-Chaser;Chambers of Xeric: CM (Trio) Snabbhetsjägare
+Chambers of Xeric: CM Master;Chambers of Xeric: CM Mästare
+Contain this!;Håll tillbaka detta!
+Death to the Archer King;Döda Archer King
+Death to the Seer King;Döda Seer King
+Death to the Warrior King;Döda Warrior King
+Denying the Healers;Hindra helarna
+Description: <col=ffffff>Kill a Black Dragon.</col>;Beskrivning: <col=ffffff>Döda en Black Dragon.</col>
+Description: <col=ffffff>Kill any Barrows Brother using only magical damage.</col>;Beskrivning: <col=ffffff>Döda någon Barrows Brother med endast magisk skada.</col>
+Description: <col=ffffff>Kill the Chaos Fanatic without anyone being hit by his explosion attack.</col>;Beskrivning: <col=ffffff>Döda Chaos Fanatic utan att någon blir träffad av hans explosionsattack.</col>
+Description: <col=ffffff>Open the Barrows chest 10 times.</col>;Beskrivning: <col=ffffff>Öppna Barrows chest 10 gånger.</col>
+Digging in;Gräva
+Doesn't bug me;Det stör mig inte
+Don't Look at Me!;Titta inte på mig!
+Don't Look at the Eclipse;Titta inte på solförmörkelsen
+Done before Dusk;Gjort innan skymning
+Dropped the ball;Tappade bollen
+Fancy feet;Fina fötter
+Fat of the Land;Fett från landet
+Fighting as Intended;Kämpa som avsett
+Finding the Weak Spot;Hitta den svaga punkten
+Fire fighter;Brandman
+Fire in the Hole!;Eld i hålet!
+Fragment of Seren Speed-Trialist;Fragment av Seren Speed-Trialist
+From One King to Another;Från en kung till en annan
+Helpful spirit who?;Hjälpsam ande vem?
+I need room;Jag behöver plats
+I was here first!;Jag var här först!
+I'm in a rush;Jag har bråttom
+I'm your son;Jag är din son
+Into the Den of Giants;In i Jättarnas håla
+Is it a bird?;Är det en fågel?
+Kill It with Fire;Döda den med eld
+King-sized clobbering;Kungstor smäll
+Let it seep in;Låt det sippra in
+Let them fight;Låt dem kämpa
+Master of Buckets;Mästare av hinkar
+More than just a ranged weapon;Mer än bara ett ranged weapon
+Movin' on up;På väg upp
+No Time for Death;Ingen tid för döden
+No skipping allowed;Ingen överhoppning tillåten
+No time to pray;Ingen tid att be
+No toppings, no drinks, thanks;Inga pålägg, inga drycker, tack
+Nylocas, On the Rocks;Nylocas, På is
+One by one;En efter en
+Praying to the Gods;Be till gudarna
+Putting It Olm on the Line;Sätta Olm på spel
+Ready to Pounce;Redo att hoppa
+Reflecting on This Encounter;Reflektera över detta möte
+Rockin' around the croc;Rocka runt krokodilen
+Shadow dancer;Skuggdansare
+Smarter than a Cow;Smartare än en ko
+Something of an expert myself;Jag är något av en expert
+Space is Tight;Utrymmet är trångt
+Stick 'em With the Pointy End;Stick dem med den spetsiga änden
+Stop Drop and Roll;Stanna, släpp och rulla
+The Bane of Demons;Demonernas förbannelse
+Theatre of Blood Master;Theatre of Blood-mästare
+There is no escape!;Det finns ingen flykt!
+Three Times the Thrashing;Tre gånger piskning
+Through Fire and Flames;Genom eld och lågor
+Toppling the Diarchy;Störta diarkin
+Trying to fit in;Försöker passa in
+Two Times the Torment;Två gånger plågan
+Up for the Challenge;Redo för utmaningen
+Who Is the King Now?;Vem är kungen nu?
+You Didn't Say Anything About a Bat;Du nämnde inget om en fladdermus
+You are not prepared;Du är inte förberedd
+<col=000000>Plant some Logavano seeds at the Tithe Farm.</col><col=ffffff>(<col=800000>74 Farming<col=000080><col=ffffff>);<col=000000>Plantera några Logavano-frön på Tithe Farm.</col><col=ffffff>(<col=800000>74 Farming<col=000080><col=ffffff>)
+Description: <col=ffffff>Kill a Bloodveld.</col>;Beskrivning: <col=ffffff>Döda en Bloodveld.</col>
+Description: <col=ffffff>Kill a Lizardman Shaman in Molch which has not dealt damage to anyone (excluding its Spawns).</col>;Beskrivning: <col=ffffff>Döda en Lizardman Shaman i Molch som inte har skadat någon (exklusive dess Spawns).</col>
+Description: <col=ffffff>Kill an Aberrant Spectre.</col>;Beskrivning: <col=ffffff>Döda en Aberrant Spectre.</col>
+<col=000000>Mine 5 Adamantite ores on Jatizso.<col=ffffff>(<col=800000>70 Mining<col=000080>, <col=800000>The Fremennik Isles<col=000080><col=ffffff>);<col=000000>Bryt 5 Adamantite ores på Jatizso.<col=ffffff>(<col=800000>70 Mining<col=000080>, <col=800000>The Fremennik Isles<col=000080><col=ffffff>)
+<col=000000>Obtain 100% support from your kingdom subjects.;<col=000000>Få 100% stöd från dina kungadömetsundersåtar.
+Warden't you believe it;Warden, tror du inte det?
+<col=000000>Teleport to Waterbirth Island.<col=ffffff>(<col=800000>72 Magic<col=000080>, <col=800000>Lunar Diplomacy<col=000080><col=ffffff>);<col=000000>Teleportera till Waterbirth Island.<col=ffffff>(<col=800000>72 Magic<col=000080>, <col=800000>Lunar Diplomacy<col=000080><col=ffffff>)
+<col=000000>Obtain the Blast Furnace Foreman's permission to use the;<col=000000>Skaffa Blast Furnace-förmans tillstånd att använda den
+<col=000000>Blast Furnace for free.<col=ffffff>(<col=800000>60 Smithing<col=000080>, <col=800000>Started The Giant Dwarf<col=000080><col=ffffff>);<col=000000>Blast Furnace gratis.<col=ffffff>(<col=800000>60 Smithing<col=000080>, <col=800000>Started The Giant Dwarf<col=000080><col=ffffff>)
+<col=000000>Kill each of the Dagannoth Kings.;<col=000000>Döda var och en av Dagannoth Kings.
+<col=000000>Craft 56 astral runes simultaneously from Essence;<col=000000>Tillverka 56 astral runes samtidigt från Essence
+<col=000000>without the use of Extracts.<col=ffffff>(<col=800000>82 Runecraft<col=000080>, <col=800000>Lunar Diplomacy<col=000080><col=ffffff>);<col=000000>utan att använda Extracts.<col=ffffff>(<col=800000>82 Runecraft<col=000080>, <col=800000>Lunar Diplomacy<col=000080><col=ffffff>)
+<col=000000>Create a dragonstone amulet in the Neitiznot furnace.;<col=000000>Skapa ett dragonstone amulet i Neitiznots ugn.
+<col=000000>Complete a lap of the Rellekka agility course.<col=ffffff>(<col=800000>80 Agility<col=000080><col=ffffff>);<col=000000>Fullfölj ett varv av Rellekka agility-bana.<col=ffffff>(<col=800000>80 Agility<col=000080><col=ffffff>)
+<col=000000>Kill the generals of Armadyl, Bandos, Saradomin and;<col=000000>Döda generalerna för Armadyl, Bandos, Saradomin och
+<col=000000>Zamorak in the God Wars Dungeon.;<col=000000>Zamorak i God Wars Dungeon.
+<col=000000>Slay a Spiritual mage within the Godwars Dungeon.<col=ffffff>(<col=800000>83 Slayer<col=000080>, <col=800000>Troll Stronghold<col=000080><col=ffffff>);<col=000000>Döda en Spiritual mage i Godwars Dungeon.<col=ffffff>(<col=800000>83 Slayer<col=000080>, <col=800000>Troll Stronghold<col=000080><col=ffffff>)
+<col=000000>Find out what your family crest is from Sir Renitee.<col=ffffff>(<col=800000>16 Construction<col=000080><col=ffffff>);<col=000000>Ta reda på ditt familjevapen från Sir Renitee.<col=ffffff>(<col=800000>16 Construction<col=000080><col=ffffff>)
+<col=000000>Climb over the western Falador wall.<col=ffffff>(<col=800000>5 Agility<col=000080><col=ffffff>);<col=000000>Klättra över den västra Falador-muren.<col=ffffff>(<col=800000>5 Agility<col=000080><col=ffffff>)
+<col=000000>Browse Sarah's farm shop.;<col=000000>Bläddra i Sarahs gårdsbutik.
+<col=000000>Fill a bucket from the pump north of Falador west bank.;<col=000000>Fyll en hink från pumpen norr om västra banken i Falador.
+<col=000000>Make a mind tiara.;<col=000000>Tillverka en mind tiara.
+<col=000000>the Falador Castle courtyard.;<col=000000>gården i Falador Castle.
+You are awarded:;Du får:
+<col=000000>If I ever lose my Falador shield I can speak to Sir Rebral in;<col=000000>Om jag någonsin förlorar mitt Falador shield kan jag prata med Sir Rebral i
+<col=000000>If I ever lose my Wilderness sword I can speak to<br>the;<col=000000>Om jag någonsin förlorar mitt Wilderness sword kan jag prata med<br>
+<col=000000>Lesser Fanatic by the Wilderness ditch in<br>Edgeville.;<col=000000>Lesser Fanatic vid Wilderness ditch i<br>Edgeville.
+<col=000000>Gnome Child north at the Gnome Stronghold.;<col=000000>Gnome Child norr om Gnome Stronghold.
+<str>Kill the Thermonuclear Smoke devil.;<str>Döda Thermonuclear Smoke devil.
+<col=000000>Varrock square.;<col=000000>Varrock torg.
+<str>Bake a summer pie in the Cooking Guild.<col=ffffff>(<col=000080><str>95 Cooking</str><col=ffffff>);<str>Baka en summer pie i Cooking Guild.<col=ffffff>(<col=000080><str>95 Cooking</str><col=ffffff>)
+<str>Browse Thessalia's store.;<str>Bläddra i Thessalias butik.
+<str>Buy a newspaper.;<str>Köp en newspaper.
+<str>Catch some trout in the River Lum at Barbarian Village.<col=ffffff>(<col=000080><str>20 Fishing</str><col=ffffff>);<str>Fånga några trout i River Lum vid Barbarian Village.<col=ffffff>(<col=000080><str>20 Fishing</str><col=ffffff>)
+<str>Chop down a dying tree in the Lumber Yard.;<str>Hugg ner ett dying tree i Lumber Yard.
+<str>Complete a lap of the Varrock Agility course.<col=ffffff>(<col=000080><str>30 Agility</str><col=ffffff>);<str>Fullfölj ett varv av Varrock Agility course.<col=ffffff>(<col=000080><str>30 Agility</str><col=ffffff>)
+<str>Craft some Earth runes from Essence.<col=ffffff>(<col=000080><str>9 Runecraft</str><col=ffffff>);<str>Tillverka några Earth runes från Essence.<col=ffffff>(<col=000080><str>9 Runecraft</str><col=ffffff>)
+<str>Enter the Champions' Guild.<col=ffffff>(<col=000080><str>32 Quest points</str><col=ffffff>);<str>Gå in i Champions' Guild.<col=ffffff>(<col=000080><str>32 Quest points</str><col=ffffff>)
+<str>Enter the second level of the Stronghold of<br>Security.;<str>Gå in på andra nivån av Stronghold of<br>Security.
+<str>Get a Slayer task from Vannaka.<col=ffffff>(<col=000080><str>40 Combat</str><col=ffffff>);<str>Få ett Slayer-uppdrag från Vannaka.<col=ffffff>(<col=000080><str>40 Combat</str><col=ffffff>)
+<str>Give a dog a bone!;<str>Ge en hund en bone!
+<str>Jump over the fence south of Varrock.<col=ffffff>(<col=000080><str>13 Agility</str><col=ffffff>);<str>Hoppa över staketet söder om Varrock.<col=ffffff>(<col=000080><str>13 Agility</str><col=ffffff>)
+<str>Make 20 Mahogany Planks in one go.;<str>Tillverka 20 Mahogany Planks på en gång.
+<str>Make a normal plank at the Sawmill.;<str>Tillverka en normal plank vid Sawmill.
+<str>Mine some Iron in the south east mining patch near;<str>Bryt lite Iron i den sydöstra gruvfläcken nära
+<str>Perform the 4 emotes from the Stronghold of<br>Security.;<str>Utför de 4 emotes från Stronghold of<br>Security.
+<str>Pray at the altar in Varrock palace with Smite active.<col=ffffff>(<col=000080><str>52 Prayer</str><col=ffffff>);<str>Be vid altaret i palatset i Varrock med Smite aktiv.<col=ffffff>(<col=000080><str>52 Prayer</str><col=ffffff>)
+<str>Select a colour for your kitten.;<str>Välj en färg för din kattunge.
+<str>Steal from the Tea stall in Varrock.<col=ffffff>(<col=000080><str>5 Thieving</str><col=ffffff>);<str>Stjäl från Tea stall i Varrock.<col=ffffff>(<col=000080><str>5 Thieving</str><col=ffffff>)
+<str>Teleport to Barbarian Village with a skull<br>sceptre.;<str>Teleporter till Barbarian Village med en skull<br>sceptre.
+<str>Teleport to Paddewwa.<col=ffffff>(<col=000080><str>54 Magic</str>, <col=000080><str>Desert Treasure I</str><col=ffffff>);<str>Teleporter till Paddewwa.<col=ffffff>(<col=000080><str>54 Magic</str>, <col=000080><str>Desert Treasure I</str><col=ffffff>)
+<str>Teleport to the digsite using a Digsite pendant.<col=ffffff>(<col=000080><str>The Dig Site</str><col=ffffff>);<str>Teleporter till Digsite med en Digsite pendant.<col=ffffff>(<col=000080><str>The Dig Site</str><col=ffffff>)
+<str>Trade furs with the Fancy Dress Seller for a<br>spottier cape;<str>Handla furs med Fancy Dress Seller för en<br>spottier cape
+<str>Use the balloon to travel from Varrock.;<str>Använd ballongen för att resa från Varrock.
+<str>Use the spirit tree north of Varrock.<col=ffffff>(<col=000080><str>Tree Gnome Village</str><col=ffffff>);<str>Använd spirit tree norr om Varrock.<col=ffffff>(<col=000080><str>Tree Gnome Village</str><col=ffffff>)
+<str>and equip it.<col=ffffff>(<col=000080><str>66 Hunter</str><col=ffffff>);<str>och utrusta den.<col=ffffff>(<col=000080><str>66 Hunter</str><col=ffffff>)
+<col=000000>If I ever lose my Varrock armour I can speak to<br>Toby in;<col=000000>Om jag någonsin förlorar min Varrock armour kan jag prata med<br>Toby i
+<col=000000>If I ever lose my Western banner I can speak to the Elder;<col=000000>Om jag någonsin förlorar min Western banner kan jag prata med Elder

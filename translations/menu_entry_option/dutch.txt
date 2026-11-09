@@ -1,0 +1,3650 @@
+Follow;Volgen
+Sets;Stelt in
+Exchange;Aandelenbeurs
+History;Geschiedenis
+Trade with;Handel mee
+Walk here;Loop hier
+Examine;Onderzoeken
+Talk-to;Praat mee
+Bank;Bank
+Lookup;Opzoeken
+Cancel;Annuleren
+Report;Rapport
+Collect;Verzamelen
+Prices;Prijzen
+Drop;Druppel
+Decant;Decanteren
+Use;Gebruik
+View guide prices;Bekijk richtprijzen
+View <col=ff981f>Farming</col> guide;Bekijk de gids <col=ff981f>Boeren</col>
+Wiki;Wiki
+Add to canvas;Toevoegen aan canvas
+View <col=ff981f>Agility</col> guide;Bekijk de <col=ff981f>Agility</col>-gids
+View equipment stats;Bekijk uitrustingsstatistieken
+View <col=ff981f>Herblore</col> guide;Bekijk de <col=ff981f>Herblore</col>-gids
+Remove;Verwijderen
+View <col=ff981f>Magic</col> guide;Bekijk de <col=ff981f>Magische</col>-gids
+View <col=ff981f>Sailing</col> guide;Bekijk de <col=ff981f>Zeilgids</col>
+Call follower;Bel volger
+View <col=ff981f>Thieving</col> guide;Bekijk de <col=ff981f>Thieving</col>-gids
+View <col=ff981f>Woodcutting</col> guide;Bekijk de gids <col=ff981f>Houtsnijden</col>
+View <col=ff981f>Construction</col> guide;Bekijk de <col=ff981f>Bouw</col> handleiding
+View <col=ff981f>Ranged</col> guide;Bekijk de <col=ff981f>Ranged</col>-gids
+View items kept on death;Bekijk items die bij overlijden worden bewaard
+View <col=ff981f>Runecraft</col> guide;Bekijk de <col=ff981f>Runecraft</col>-gids
+View <col=ff981f>Cooking</col> guide;Bekijk de <col=ff981f>Kookgids</col>
+View <col=ff981f>Crafting</col> guide;Bekijk de <col=ff981f>Crafting</col>-gids
+View <col=ff981f>Prayer</col> guide;Bekijk de gids <col=ff981f>Gebeden</col>
+Play;Toneelstuk
+Rewards;Beloningen
+Skull;Schedel
+View <col=ff981f>Strength</col> guide;Bekijk de <col=ff981f>Kracht</col>-gids
+View <col=ff981f>Defence</col> guide;Bekijk de gids <col=ff981f>Verdediging</col>
+View <col=ff981f>Slayer</col> guide;Bekijk de <col=ff981f>Slayer</col>-gids
+View <col=ff981f>Hunter</col> guide;Bekijk de <col=ff981f>Hunter</col>-gids
+View <col=ff981f>Hitpoints</col> guide;Bekijk de <col=ff981f>Hitpoints</col>-gids
+View <col=ff981f>Fletching</col> guide;Bekijk de <col=ff981f>Fletching</col>-gids
+View <col=ff981f>Mining</col> guide;Bekijk de gids voor <col=ff981f>Mijnbouw</col>
+View <col=ff981f>Attack</col> guide;Bekijk de <col=ff981f>Aanval</col>-gids
+View <col=ff981f>Smithing</col> guide;Bekijk de <col=ff981f>Smiding</col>-gids
+View <col=ff981f>Firemaking</col> guide;Bekijk de <col=ff981f>Vuurmaken</col> handleiding
+Read journal:;Journaal lezen:
+Open wiki guide:;Wikigids openen:
+Start Helper;Helper starten
+Wiki <col=ff9040>Ardougne Journal</col>;Wiki <col=ff9040>Ardougne Journal</col>
+Wiki <col=ff9040>Desert Journal</col>;Wiki <col=ff9040>Woestijnjournaal</col>
+Show on map:;Toon op kaart:
+Start Quest Helper;Zoektochthelper starten
+Open wiki quick guide:;Wiki-korte handleiding openen:
+Open <col=ff9040>Desert Journal</col>;Open <col=ff9040>Woestijnjournaal</col>
+Open <col=ff9040>Ardougne Journal</col>;Open <col=ff9040>Ardougne Journal</col>
+Collection Overview;Collectieoverzicht
+Tasks;Taken
+Achievement Diaries;Prestatiedagboeken
+Bosses;Bazen
+Overview;Overzicht
+Collection Log;Verzamellogboek
+Reveal;Onthullen
+Activate;Activeren
+View;Weergave
+Cast;Vorm
+Setup;Installatie
+Join;Meedoen
+Grouping;Groepering
+View another clan;Bekijk een andere clan
+Configure;Configureer
+Grand Exchange;Grote Beurs
+Your Clan;Jouw clan
+Random;Willekeurig
+Toggle;Schakelaar
+Manual;Handmatig
+Auto retaliate;Automatische vergelding
+Block;Blok
+Settings;Instellingen
+Punch;Pons
+Kick;Trap
+Unlock hint;Ontgrendel hint
+I don't know it.;Ik weet het niet.
+Exit;Uitgang
+Select;Selecteer
+View Inbox;Bekijk Postvak IN
+Skills;Vaardigheden
+View <col=ff981f>Fishing</col> guide;Bekijk de <col=ff981f>Visserij</col> gids
+Combat Options;Gevechtsopties
+Enable spell filtering;Schakel spellingfiltering in
+Disable prayer filtering;Schakel gebedsfiltering uit
+Worn Equipment;Versleten uitrusting
+Character Summary;Karaktersamenvatting
+Enable spell reordering;Schakel het opnieuw ordenen van spellingen in
+Enable prayer reordering;Schakel het opnieuw ordenen van gebeden in
+Quest List;Questlijst
+Magic;Magie
+Prayer;Gebed
+Show;Show
+Open Store;Winkel openen
+Deposit;Borg
+Loot;Buit
+Destroy;Vernietigen
+Music Player;Muziekspeler
+Chop down;Hak neer
+Inventory;Inventaris
+Useful links;Nuttige links
+<col=ffff00>Trade:</col> Show none;<col=ffff00>Handel:</col> Geen tonen
+<col=ffff00>Trade:</col> Show friends;<col=ffff00>Ruilen:</col> Laat vrienden zien
+Community;Gemeenschap
+<col=ffff00>Clan:</col> Show none;<col=ffff00>Clan:</col> Geen tonen
+<col=ffff00>Channel:</col> Show none;<col=ffff00>Kanaal:</col> Geen tonen
+Display;Weergave
+<col=ffff00>Private:</col> Show friends;<col=ffff00>Privé:</col> Laat vrienden zien
+Audio;Audio
+<col=ffff00>Set chat mode:</col> Clan (/@c);<col=ffff00>Chatmodus instellen:</col> Clan (@c)
+Switch tab;Van tabblad wisselen
+Report game bug;Spelfout melden
+<col=ffff00>Private:</col> Clear history;<col=ffff00>Privé:</col> Geschiedenis wissen
+<col=ffff00>Channel:</col> Show all;<col=ffff00>Kanaal:</col> Toon alles
+Configure filter;Configureer filter
+Emotes;Emotes
+Account;Rekening
+<col=ffff00>Public:</col> Show autochat;<col=ffff00>Openbaar:</col> Autochat tonen
+<col=ffff00>Clan:</col> Clear history;<col=ffff00>Clan:</col> Geschiedenis wissen
+Report abuse;Misbruik melden
+<col=ffff00>Public:</col> Show none;<col=ffff00>Openbaar:</col> Geen tonen
+Ignore List;Lijst negeren
+<col=00ff00>Filter public chat</col>;<col=00ff00>Openbare chat filteren</col>
+<col=ffff00>Game:</col> Filter;<col=ffff00>Spel:</col> Filter
+<col=00afff>Setup your autochat</col>;<col=00afff>Stel uw autochat in</col>
+Take;Nemen
+<col=ffff00>Private:</col> Show none;<col=ffff00>Privé:</col> Geen tonen
+<col=ffff00>Trade:</col> Show all;<col=ffff00>Handel:</col> Toon alles
+<col=ffff00>Clan:</col> Show friends;<col=ffff00>Clan:</col> Toon vrienden
+Account Management;Accountbeheer
+Chat-channel;Chat-kanaal
+<col=ffff00>Public:</col> Clear history;<col=ffff00>Openbaar:</col> Geschiedenis wissen
+<col=ffff00>Clan:</col> Show all;<col=ffff00>Clan:</col> Toon alles
+<col=ffff00>Channel:</col> Show friends;<col=ffff00>Kanaal:</col> Toon vrienden
+<col=ffff00>Private:</col> Show all;<col=ffff00>Privé:</col> Alles weergeven
+Logout;Uitloggen
+<col=ffff00>Set chat mode:</col> Guest Clan (/@gc);<col=ffff00>Chatmodus instellen:</col> Gastclan (@gc)
+<col=ffff00>Channel:</col> Clear history;<col=ffff00>Kanaal:</col> Geschiedenis wissen
+Friends List;Vriendenlijst
+World Switcher;Wereldwisselaar
+<col=ffff00>Public:</col> Show standard;<col=ffff00>Openbaar:</col> Toon standaard
+<col=ffff00>Set chat mode:</col> Channel (/@f);<col=ffff00>Chatmodus instellen:</col> Kanaal (@f)
+<col=ffff00>Set chat mode:</col> Public (/@p);<col=ffff00>Chatmodus instellen:</col> Openbaar (@p)
+Controls;Controles
+<col=ffff00>Public:</col> Hide;<col=ffff00>Openbaar:</col> Verbergen
+<col=ffff00>Public:</col> Show friends;<col=ffff00>Openbaar:</col> Toon vrienden
+Close;Dichtbij
+Show on Map;Toon op kaart
+Outside;Buiten
+Yanille;Yanille
+Warnings;Waarschuwingen
+Seers';zieners
+Enable warning;Waarschuwing inschakelen
+Animation;Animatie
+Open <col=ff9040>Fremennik Journal</col>;Open <col=ff9040>Fremennik Journal</col>
+Wiki <col=ff9040>Lumbridge & Draynor Journal</col>;Wiki <col=ff9040>Lumbridge & Draynor Journal</col>
+Wiki <col=ff9040>Kourend & Kebos Journal</col>;Wiki <col=ff9040>Kourend & Kebos Journal</col>
+Open <col=ff9040>Karamja Journal</col>;Open <col=ff9040>Karamja-dagboek</col>
+Open <col=ff9040>Lumbridge & Draynor Journal</col>;Open <col=ff9040>Lumbridge & Draynor Journal</col>
+Wiki <col=ff9040>Falador Journal</col>;Wiki <col=ff9040>Falador-dagboek</col>
+Wiki <col=ff9040>Fremennik Journal</col>;Wiki <col=ff9040>Fremennik-tijdschrift</col>
+Open <col=ff9040>Kandarin Journal</col>;Open <col=ff9040>Kandarin-dagboek</col>
+Wiki <col=ff9040>Karamja Journal</col>;Wiki <col=ff9040>Karamja-dagboek</col>
+Open <col=ff9040>Falador Journal</col>;Open <col=ff9040>Falador Journaal</col>
+Open <col=ff9040>Kourend & Kebos Journal</col>;Open <col=ff9040>Kourend & Kebos Journaal</col>
+Wiki <col=ff9040>Kandarin Journal</col>;Wiki <col=ff9040>Kandarin-dagboek</col>
+Bond Pouch;Bond-zakje
+DPS;DPS
+Search;Zoekopdracht
+Learn More;Meer informatie
+Open;Open
+Pick;Kies
+Join Castle Wars;Sluit je aan bij Castle Wars
+Attack;Aanval
+Climb-down;Klim naar beneden
+Travel;Reis
+Rest;Rest
+Build;Bouwen
+Check;Rekening
+Tend-to;Neiging tot
+Add friend;Vriend toevoegen
+Add ignore;Voeg negeren toe
+Enter-guest;Enter-gast
+Climb-up;Klim omhoog
+Enter;Binnenkomen
+Enter-member;Enter-lid
+Items;Artikelen
+Knock-at;Klop-op
+Smith;Smit
+Pet;Huisdier
+Shoo-away;Schiet weg
+Continue;Doorgaan
+Trade;Handel
+Create <col=ff9040>Sell</col> offer;Maak een <col=ff9040>Verkoop</col> aanbieding
+Favourite;Favoriet
+Switch;Schakelaar
+2;2 
+Create <col=ff9040>Buy</col> offer;Maak een <col=ff9040>Koop</col> aanbieding
+1;1 
+Clear;Duidelijk
+-5%;-5%
+Collect to inventory;Verzamel naar inventaris
++5%;+5%
+Modify offer;Aanbieding aanpassen
+Confirm;Bevestigen
+Abort offer;Aanbieding afbreken
+View offer;Bekijk aanbieding
+Collect to bank;Verzamelen naar de bank
+Enter price;Voer prijs in
+Customise;Pas aan
+Guide price;Richtprijs
+All;Alle
+Enter quantity;Voer het aantal in
++1;+1
+Offer;Aanbod
+Buy-offer;Koop-aanbieding
+Chop-down;Afhaken
+Look North;Kijk naar het noorden
+Look South;Kijk naar het zuiden
+Look East;Kijk naar het oosten
+Look West;Kijk naar het westen
+Hide;Verbergen
+Cook;Kok
+Refresh;Vernieuwen
+Message;Bericht
+Delete;Verwijderen
+Add Friend;Vriend toevoegen
+Delete Friend;Vriend verwijderen
+Find;Vinden
+Toggle Run;Schakel Uitvoeren in
+Open subsection;Onderafdeling openen
+Pickpocket;Zakkenroller
+Claim-staves;Claim-stokken
+Rake;Hark
+3;3 
+Inspect;Inspecteren
+Toggle unlock message;Schakel het ontgrendelingsbericht in
+Select <col=ff981f>Chat;Selecteer <col=ff981f>Chatten
+Mute;Stom
+All Settings;Alle instellingen
+Select <col=ff981f>Activities;Selecteer <col=ff981f>Activiteiten
+Select <col=ff981f>Gameplay;Selecteer <col=ff981f>Gameplay
+Select <col=ff981f>Audio;Selecteer <col=ff981f>Audio
+Select <col=ff981f>Display;Selecteer <col=ff981f>Weergeven
+Select <col=ff981f>Warnings;Selecteer <col=ff981f>Waarschuwingen
+View-journal;Bekijk-dagboek
+Stats;Statistieken
+Rummage;Snuffelen
+Switch View;Weergave wijzigen
+Guide;Gids
+View tab;Tabblad bekijken
+Collapse tab;Tabblad samenvouwen
+Withdraw-X;Intrekken-X
+Withdraw-All;Alles intrekken
+Remove placeholders;Tijdelijke aanduidingen verwijderen
+Withdraw-All-but-1;Trek-alles-behalve-1 terug
+Release;Uitgave
+Set custom quantity;Aangepaste hoeveelheid instellen
+View tag tab;Tabblad Tag bekijken
+Rename tag tab;Hernoem het tagtabblad
+Delete tag tab;Tabblad Tag verwijderen
+Enable layout;Indeling inschakelen
+Change icon;Pictogram wijzigen
+Export tag tab;Tabblad Exporttag
+Makeover;Make-over
+Unlock;Ontgrendelen
+Read;Lezen
+Walk-down;Naar beneden lopen
+Study;Studie
+Dismiss;Afwijzen
+Look-at;Kijk-naar
+Focus on;Focus op
+Cancelar;Annuleren
+Climb;Beklimmen
+Clear history;Geschiedenis wissen
+Item;Item
+Note;Opmerking
+Swap;Ruil
+Insert;Invoegen
+Default quantity: All;Standaardhoeveelheid: Alles
+Deposit inventory;Inventaris deponeren
+Deposit worn items;Bewaar versleten artikelen
+Disable;Uitzetten
+Pay (Fruit tree);Betalen (Fruitboom)
+Wield;Hanteren
+Wear;Dragen
+Dismantle;Ontmantelen
+Minimise <col=ff9040>Minimap</col>;Minimaliseer <col=ff9040>Minimap</col>
+Floating <col=ff9040>World Map</col>;Zwevende <col=ff9040>Wereldkaart</col>
+Fullscreen <col=ff9040>World Map</col>;Volledig scherm <col=ff9040>Wereldkaart</col>
+Castle Wars;Kasteeloorlogen
+Collect-from;Verzamel-van
+Tears of Guthix;Tranen van Guthix
+Farm Teleport;Boerderij Teleport
+Pray-at;Bid-bij
+Story;Verhaal
+Equip;Uitrusten
+Wintertodt Camp;Wintertodt-kamp
+Rub;Wrijven
+Corporeal Beast;Lichamelijk beest
+Monastery Teleport;Klooster Teleport
+Fortis Colosseum;FortisColosseum
+Ferox Enclave;Ferox-enclave
+Barbarian Outpost;Barbaarse buitenpost
+Emir's Arena;Emir's Arena
+Burthorpe;Burthorpe
+Drink;Drankje
+Open Activity Adviser;Open activiteitenadviseur
+Mine;De mijne
+Uncharge;Ontladen
+Xeric's Lookout;Xerics uitkijkpost
+Steal-from;Steel-van
+Xeric's Honour;Xerics eer
+Check steps;Controleer stappen
+Teleport;Teleporteren
+Enable prayer filtering;Schakel gebedsfiltering in
+Trim;Trimmen
+Perform;Presteren
+Loop;Lus
+Xeric's Glade;Xerics Glade
+Xeric's Heart;Xerics hart
+Remove default;Standaard verwijderen
+Xeric's Inferno;Xerics Inferno
+Deposit-X;Storting-X
+Deposit-All;Storting-Alles
+Default quantity: <col=ff9040>5</col>;Standaard aantal: <col=ff9040>5</col>
+Deposit Lock Settings;Instellingen voor stortingsvergrendeling
+Disable inventory locks;Schakel voorraadvergrendelingen uit
+Default quantity: <col=ff9040>1</col>;Standaard aantal: <col=ff9040>1</col>
+Shave;Scheren
+Haircut;Kapsel
+Net;Netto
+Toggle Accept Aid;Schakel Hulp accepteren in
+Empty;Leeg
+Eat;Eten
+Adventure Paths;Avonturenpaden
+Clean;Schoon
+Smith set;Smit ingesteld
+Stab;Steken
+Lunge;Longe
+Slash;Snij
+Placeholder;Tijdelijke aanduiding
+Name Changer;Naamwisselaar
+Upgrade Now;Upgrade nu
+Disable spell filtering;Schakel spellingfiltering uit
+Close <col=ff9040>Floating panel</col>;Sluit <col=ff9040>Zwevend paneel</col>
+Ultimate Ironman;Ultieme Ironman
+7 days;7 dagen
+Hardcore Group Ironman;Hardcoregroep Ironman
+Unranked Group Ironman;Niet-gerangschikte groep Ironman
+None;Geen
+Group Ironman;Groep Ironman
+Ironman;Ijzerman
+Hardcore Ironman;Harde Ironman
+Proceed;Doorgaan
+90 days;90 dagen
+Top-floor;Bovenste verdieping
+Cross;Kruis
+Smelt;Spiering
+Bait;Aas
+Toggle warnings;Schakel waarschuwingen in
+Lure;Lokken
+Buy;Kopen
+Bury;Begraven
+Check Kudos;Controleer complimenten
+Look at;Kijken naar
+Light;Licht
+Adjust Brightness;Pas de helderheid aan
+Select <col=ff981f>Controls;Selecteer <col=ff981f>Besturingselementen
+Board;Bord
+Grapple;Grijper
+Toggle skull prevention;Schakel schedelpreventie in of uit
+Restore Default Zoom;Herstel standaardzoom
+Select <col=ff981f>Interfaces;Selecteer <col=ff981f>Interfaces
+Buy-X;Koop-X
+Potions;Drankjes
+Buy-All;Koop-alles
+Show worn items;Laat gedragen items zien
+Bottom-floor;Benedenverdieping
+Locate;Lokaliseren
+Disable Adventure Paths;Schakel avonturenpaden uit
+Repair;Reparatie
+Show<col=ff9040> Task information;Toon<col=ff9040> ​​Taakinformatie
+Expand;Uitbreiden
+Show task: <col=ff9040>Getting started with Mining;Taak weergeven: <col=ff9040>Aan de slag met mijnbouw
+More info;Meer informatie
+Check reward;Controleer beloning
+Show<col=ff9040> Paths;Toon<col=ff9040> ​​paden
+Claim-trophies;Claim-trofeeën
+Set<col=ff9040> Focus;Stel<col=ff9040> ​​Focus in
+Show task: <col=ff9040>Getting started with Fishing;Taak weergeven: <col=ff9040>Aan de slag met vissen
+Select <col=ff9040>Gatherer path;Selecteer <col=ff9040>Verzamelaarpad
+Show task: <col=ff9040>Getting started with Woodcutting;Taak weergeven: <col=ff9040>Aan de slag met houtsnijden
+Pick-from;Pick-van
+Drop<col=ff9040> Focus;Laat de focus vallen<col=ff9040>
+Suck;Zuigen
+Close dropdown;Sluit de vervolgkeuzelijst
+Select <col=ff9040>Combat path;Selecteer <col=ff9040>Gevechtspad
+Armour;Pantser
+Show<col=ff9040> Settings;Toon<col=ff9040> ​​Instellingen
+Show <col=ff9040>path reward;Toon <col=ff9040>padbeloning
+View House Options;Bekijk huisopties
+Open Bond Pouch;Open Bond-zakje
+Empty containers;Lege containers
+Enable <col=ff9040>Notes;Schakel <col=ff9040>Notities in
+Enable <col=ff9040>Insert;Schakel <col=ff9040>Invoegen in
+Age;Leeftijd
+Enable;Inschakelen
+Open Adventure Paths;Open avonturenpaden
+Show task: <col=ff9040>Sharpshooter;Taak weergeven: <col=ff9040>Scherpschutter
+Claim;Claim
+Show task: <col=ff9040>Getting started with Magic;Taak weergeven: <col=ff9040>Aan de slag met Magic
+Show task: <col=ff9040>Getting a grip on it;Toon taak: <col=ff9040>Er grip op krijgen
+Show task: <col=ff9040>Body builder;Taak weergeven: <col=ff9040>Bodybuilder
+Show task: <col=ff9040>Getting started with Attack;Taak weergeven: <col=ff9040>Aan de slag met Attack
+Show task: <col=ff9040>Striking a pose;Taak weergeven: <col=ff9040>Een pose aannemen
+Show task: <col=ff9040>Honing my aim;Taak weergeven: <col=ff9040>Mijn doel aanscherpen
+Show task: <col=ff9040>Bringer of chaos;Taak weergeven: <col=ff9040>Brenger van chaos
+Show task: <col=ff9040>Building muscle;Toon taak: <col=ff9040>Spiermassa opbouwen
+Show task: <col=ff9040>Mithril defence;Toon taak: <col=ff9040>Mithril verdediging
+Show task: <col=ff9040>Getting started with Defence;Taak weergeven: <col=ff9040>Aan de slag met Defensie
+Show task: <col=ff9040>Getting started with Strength;Taak weergeven: <col=ff9040>Aan de slag met kracht
+Show task: <col=ff9040>Sticks and stones;Toon taak: <col=ff9040>Stokken en stenen
+Show task: <col=ff9040>Weapons master;Toon taak: <col=ff9040>Wapenmeester
+Show task: <col=ff9040>Getting started with Ranged;Taak weergeven: <col=ff9040>Aan de slag met Ranged
+Talk-To;Praat met
+Shut;Sluit
+Pay-toll(10gp);Betaaltol(10gp)
+Revert;Terugdraaien
+Deactivate;Deactiveren
+Ironman Group;Ironman-groep
+Predict;Voorspellen
+Leave;Vertrekken
+Copy-outfit;Kopieer-outfit
+<col=ffff00>Group:</col> Clear history;<col=ffff00>Groep:</col> Geschiedenis wissen
+Jump;Springen
+Challenge;Uitdaging
+Reanimate;Reanimeren
+Quick Pass;Snelle pas
+Pass;Doorgang
+<col=ffff00>Group:</col> Show friends;<col=ffff00>Groep:</col> Vrienden tonen
+<col=ffff00>Group:</col> Show all;<col=ffff00>Groep:</col> Alles weergeven
+<col=ffff00>Group:</col> Show none;<col=ffff00>Groep:</col> Geen tonen
+Quench;Afschrikken
+Inside;Binnen
+Home;Thuis
+Group;Groep
+Build mode;Bouwmodus
+Resurrect;Herrijzen
+Friend's house;Het huis van een vriend
+Break;Pauze
+Rest (private);Rust (privé)
+Equipment;Apparatuur
+Check Charges;Controleer kosten
+Sort;Soort
+Catch;Vangst
+Pick-lots;Pick-lots
+A Dark Disposition;Een donkere instelling
+Jewellery of Jubilation;Sieraden van gejubel
+Store-X;Winkel-X
+Touch;Aanraken
+Lunch by the Lancalliums;Lunch bij de Lancalliums
+Store;Winkel
+Reminisce;Nagenieten
+Shared;Gedeeld
+Dig;Graven
+Store-5;Winkel-5
+Take Seed Dibber;Neem Seed Dibber
+Withdraw all;Alles intrekken
+Upgrade;Upgraden
+Withdraw;Terugtrekken
+The Fisher's Flute;De Vissersfluit
+Store-All;Winkel-Alles
+Take Spade;Neem Spade
+Take Rake;Neem Rake
+Deposit all;Stort alles
+Quick-pass;Snelle pass
+History and Hearsay;Geschiedenis en geruchten
+Store-10;Winkel-10
+Private;Privé
+Spin;Draai
+Churn;Karn
+Shear;Scheer
+Close Activity Adviser;Sluit activiteitenadviseur
+Chart;Grafiek
+Last-destination (AIP);Laatste bestemming (AIP)
+Zoom out;Uitzoomen
+Zanaris;Zanaris
+Value;Waarde
+Climb-over;Klim eroverheen
+Milk;Melk
+Take-axe;Neem-bijl
+Steal-cowbell;Steel-koebel
+View Newspost;Bekijk Nieuwsbericht
+View History;Geschiedenis bekijken
+New tab;Nieuw tabblad
+Collapse;Instorten
+New tag tab;Nieuw tagtabblad
+Import tag tab;Tabblad Importtag
+View tag tabs;Bekijk tagtabbladen
+View journal <col=ff981f>The Restless Ghost</col>;Bekijk dagboek <col=ff981f>De rusteloze geest</col>
+View all items;Bekijk alle artikelen
+Rotate-clockwise;Draai met de klok mee
+Pick-up;Ophalen
+Rotate-anticlockwise;Draaien tegen de klok in
+Release-bees;Vrijlating-bijen
+Dig-up;Opgraven
+Change;Wijziging
+Remove board advert;Bordadvertentie verwijderen
+Teleport Menu;Teleport-menu
+Attach;Bijvoegen
+Lock;Slot
+Sit-on;Zitten
+Metamorphosis;Metamorfose
+Fossil Island;Fossiel eiland
+Configuration;Configuratie
+Teleport menu;Teleport-menu
+Great Kourend;Grote Kourend
+Fill;Vullen
+Chop;Karbonade
+View journal <col=ff981f>X Marks the Spot</col>;Bekijk dagboek <col=ff981f>X Marks the Spot</col>
+Sell 50<col=ff9040>;Verkoop 50<col=ff9040>
+Sell 10<col=ff9040>;Verkoop 10<col=ff9040>
+Sell 1<col=ff9040>;Verkoop 1<col=ff9040>
+Value<col=ff9040>;Waarde<col=ff9040>
+Feel;Gevoel
+Sell 5<col=ff9040>;Verkoop 5<col=ff9040>
+Steal from;Steel van
+Herblore;Herblore
+Strength;Kracht
+Woodcutting;Houtsnijden
+Farming;Landbouw
+Crafting;Knutselen
+Hitpoints;Hitpunten
+View journal <col=ff981f>Cook's Assistant</col>;Bekijk dagboek <col=ff981f>Kokassistent</col>
+Fishing;Vissen
+Construction;Bouw
+Climb-into;Klim erin
+Mining;Mijnbouw
+Ranged;Bereikt
+Slayer;Moordenaar
+Agility;Wendbaarheid
+Fletching;Fletching
+Sailing;Zeilen
+Operate;Bedienen
+View journal <col=ff981f>Romeo & Juliet</col>;Bekijk dagboek <col=ff981f>Romeo & Julia</col>
+Take-flyer;Neem-flyer
++100;+100
++10;+10
+-1;-1
+Back;Rug
++1K;+1K
+Choose item;Kies artikel
+Flash icons;Flitspictogrammen
+Sacrifice;Offer
+Take-All;Neem alles
+Jump-in;Spring erin
+View journal <col=ff981f>Rune Mysteries</col>;Bekijk dagboek <col=ff981f>Rune Mysteries</col>
+Coffer;Koffer
+Picklock;Inbreker
+Switch world;Wissel van wereld
+Pass-Through;Doorgang
+Small Net;Klein Net
+Okay;Oké
+Perform <col=ff9040>Relic unlock</col>;Voer <col=ff9040>Relikwieontgrendeling</col> uit
+Comercio;Comercio
+Carterista;Carterista
+Examinar;Examinator
+Caminar aqui;Caminar aqui
+Ataque;Ataque
+Cerca;Cerca
+Buscar;Buscar
+Abierto;Abierto
+Tronchar;Tronchar
+Hablar con;Hablar con
+Take-Coffin;Take-kist
+Pay;Betalen
+Other quantity;Andere hoeveelheid
+5;5 
+Make;Maken
+Move;Beweging
+Jump-up;Spring omhoog
+Scatter;Verstrooien
+Check Name;Controleer Naam
+Balance;Evenwicht
+Contents;Inhoud
+Talk to;Praat met
+Zoom in;Zoom in
+Useful Links;Nuttige koppelingen
+Burn;Brandwond
+10;10 
+Stornieren;Stornieren
+Group: Choose;Groep: Kies
+Group: Previous;Groep: Vorige
+Pray;Bidden
+Investigate;Onderzoeken
+Jump-onto;Spring erop
+Move-left;Verplaats naar links
+Grab;Grijp
+Move-down;Omlaag
+View Ignore List;Bekijk de negeerlijst
+Move-right;Ga naar rechts
+Move-up;Omhoog
+Look-inside;Kijk naar binnen
+Add-5<col=ff9040>;Optellen-5<col=ff9040>
+Remove-legs;Verwijder-benen
+Add-X<col=ff9040>;Add-X<col=ff9040>
+Add-10<col=ff9040>;Optellen-10<col=ff9040>
+Add-All<col=ff9040>;Alles toevoegen<col=ff9040>
+Add<col=ff9040>;Voeg<col=ff9040> ​​toe
+Check charges;Controleer de kosten
+Filter;Filter
+Load-outs;Uitladingen
+Done;Klaar
+Show tutorial;Tutorial tonen
+Scroll down;Scroll naar beneden
+Hide menu;Menu verbergen
+Cancel downgrade;Downgraden annuleren
+Scroll up;Scroll omhoog
+Show menu;Toon menukaart
+Paddle Canoe;Peddel kano
+Shape-Canoe;Vorm-kano
+Make<col=ff9040> Log canoe;Maak <col=ff9040> ​​Boomstamkano
+Paddle Log;Peddellogboek
+Float Log;Vlotterlogboek
+Travel to<col=ff9040> Champions Guild;Reis naar<col=ff9040> ​​Champions Guild
+Make<col=ff9040> Dugout canoe;Maak<col=ff9040> ​​boomstamkano
+Jump-over;Overspringen
+Quit;Ontslag nemen
+Grave info;Ernstige informatie
+Details;Details
+Report for;Rapporteer voor
+Fire;Vuur
+Steal-From;Steel-van
+Redeem-code;Inwisselcode
+Holiday-items;Vakantie-artikelen
+Visit-Last;Bezoek-laatste
+Add-House;Add-huis
+Add/Remove House;Huis toevoegen/verwijderen
+Harpoon;Harpoen
+4;4 
+View Archive;Bekijk archief
+Enter House;Huis binnengaan
+View Poll;Bekijk opiniepeiling
+Big Net;Groot net
+Walk-up;Naar boven lopen
+Claim-Tokens;Claim-tokens
+Animate;Animeren
+Fish-in;Vis-in
+Take-from;Afhalen
+Look;Kijk
+Rotate;Draaien
+Pick-lock;Inbreker
+Extinguish;Blussen
+Rub-together;Samen wrijven
+Unmute;Dempen opheffen
+View DPS on OSRS Wiki;Bekijk DPS op OSRS Wiki
+Set Bonus;Bonus instellen
+Hide worn items;Verberg versleten items
+Stat Bonus;Statistische bonus
+Tickets;Kaartjes
+Ride;Rijden
+Squeeze-through;Doorknijpen
+Kill;Doden
+No;Nee
+Area;Gebied
+Yes;Ja
+View missing items;Bekijk ontbrekende items
+Collect-note;Verzamel-notitie
+Collect-item;Verzamelitem
+Disable <col=ff9040>Notes;Schakel <col=ff9040>Notities uit
+Info;Info
+Pick-Lock;Inbreker
+Collect-items;Verzamel-items
+Collect-notes;Verzamel-notities
+Release all placeholders (12);Alle tijdelijke aanduidingen vrijgeven (12)
+Release them all;Laat ze allemaal los
+Prune-top;Snoei-top
+Prune;Snoeien
+Prune-back;Snoei terug
+Prune-sides;Snoei-kanten
+Tan <col=ff7000>X;Geelbruin <col=ff7000>X
+Tan <col=ff7000>5;Geelbruin <col=ff7000>5
+Tan <col=ff7000>1;Geelbruin <col=ff7000>1
+Tan <col=ff7000>All;Geelbruin <col=ff7000>Alles
+Smithing;Smeedwerk
+Remove-X;Verwijder-X
+Remove-All;Alles verwijderen
+Hunter;Jager
+Firemaking;Vuur maken
+Enable <col=ff9040>Swap;Schakel <col=ff9040>Wisselen in
+Add all;Voeg alles toe
+Release all placeholders (1);Alle tijdelijke aanduidingen vrijgeven (1)
+Set price;Prijs instellen
+pic;foto
+Set quantity;Hoeveelheid instellen
+Set wiki price;Stel de wikiprijs in
+Accept trade;Accepteer handel
+Accept;Accepteren
+Search for item;Zoek naar artikel
+Check-Count;Controletelling
+Bash;Bas
+Earth Bolt;Aarde Bout
+Earth Wave;Aarde Golf
+Water Blast;Waterstraal
+Fire Blast;Vuur explosie
+Fire Strike;Brand staking
+Pound;Pond
+Earth Blast;Aarde explosie
+Choose spell;Kies spreuk
+Fire Bolt;Vuurbout
+Push;Duw
+Quantity:;Hoeveelheid:
+View Smithing on the Wiki;Bekijk Smithing op de Wiki
+Pull;Trekken
+View <col=ff9040>Mining</col> guide;Bekijk de <col=ff9040>Mijnbouw</col> gids
+Pick refreshment;Kies verfrissing
+Focus;Focus
+Open <col=ff9040>Morytania Journal</col>;Open <col=ff9040>Morytania-dagboek</col>
+Wiki <col=ff9040>Morytania Journal</col>;Wiki <col=ff9040>Morytania-dagboek</col>
+Wiki <col=ff9040>Varrock Journal</col>;Wiki <col=ff9040>Varrock Journal</col>
+Open <col=ff9040>Varrock Journal</col>;Open <col=ff9040>Varrock Journal</col>
+Open <col=ff9040>Western Provinces Journal</col>;Open <col=ff9040>Western Provinces Journal</col>
+Wiki <col=ff9040>Western Provinces Journal</col>;Wiki <col=ff9040>Westelijke Provincies Journal</col>
+Peek;Kijkje
+Disturb;Storen
+Annuler;Annuleer
+Marcher ici;Marcheerder ici
+Examiner;Examinator
+Add-mulch;Voeg mulch toe
+Reset;Opnieuw instellen
+Top-Floor;Bovenste verdieping
+Hit;Hit
+Karamja;Karamja
+Draynor Village;Draynor-dorp
+Al Kharid;Al Kharid
+Monastery;Klooster
+Ranging Guild;Variërend Gilde
+Commune;Gemeente
+Warriors' Guild;Het Strijdersgilde
+Edgeville;Edgeville
+Champions' Guild;Kampioenengilde
+Craft;Ambacht
+Lay;Leg
+Port Sarim;Haven Sarim
+Land's End;Land's End
+Claim-rewards;Claim-beloningen
+Take-cargo;Neem vracht
+Take-any-cargo;Neem elke lading mee
+Port Piscarilius;Haven Piscarilius
+Cancel-task;Taak annuleren
+Charter;Charter
+Sort-salvage;Sorteer-berging
+Take-last-cargo;Neem de laatste lading
+Board-previous;Bord-vorige
+Board-friend;Bestuursvriend
+Dock;Dok
+Make sets:;Setjes maken:
+Smash;Verpletteren
+Fur Clothing;Bontkleding
+Brimhaven;Brimhaven
+Aldarin;Aldarin
+Taverley;Taverley
+Prifddinas;Prifddina's
+Lock-slot;Slot-gleuf
+Pollnivneach;Pollnivneach
+Take-all;Alles meenemen
+Rellekka;Rellekka
+Tele to POH;Telefonisch naar POH
+Check-health;Controleer de gezondheid
+Hosidius;Hosidius
+WOM lookup;WOM opzoeken
+Unload;Lossen
+Contract;Contract
+Rimmington;Rimmington
+Purchase Amulet;Amulet kopen
+Drink-from;Drink-van
+Float Canoe;Vlotter kano
+Travel to<col=ff9040> Lumbridge;Reis naar<col=ff9040> ​​Lumbridge
+Make<col=ff9040> Stable dugout canoe;Merk<col=ff9040> ​​Stabiele boomstamkano
+Walk-Down;Naar beneden lopen
+Walk-Up;Opgang
+Defence;Verdediging
+Thieving;Stelen
+Excavate;Opgraven
+Take-knife;Neem-mes
+Play-d;Speel-d
+Take-tinderbox;Neem een ​​tondeldoosje
+Play-f;Speel-f
+Play-a;Speel-a
+Play-c;Speel-c
+Observe;Observeer
+Play-b;Speel-b
+Play-e;Speel-e
+Play-g;Speel-g
+Switch-emerald;Schakelaar-smaragd
+Switch-diamond;Schakel-diamant
+Switch-sapphire;Schakelaar-saffier
+Switch-zenyte;Schakel-zenyte
+Switch-onyx;Schakelaar-onyx
+Switch-ruby;Schakelaar-robijn
+Fight;Gevecht
+Toggle K/D;Schakel tussen K/D
+Take-seed;Neem zaad
+Take-pickaxe;Neem-houweel
+Dyes;Kleurstoffen
+Anadir ignorar;Anadir negeert
+Informe;Informeer
+activar;activar
+Anadir amigo;Anadir amigo
+Accurate;Nauwkeurig
+Longrange;Lange afstand
+Prod;Prod
+Talk-into;Inpraten
+Glider;Zweefvliegtuig
+Glider-to Ta Quir Priw;Zweefvliegtuig naar Ta Quir Priw
+Travel to<col=ff9040> Barbarian Village;Reis naar<col=ff9040> ​​Barbarendorp
+Travel to<col=ff9040> Edgeville;Reis naar<col=ff9040> ​​Edgeville
+Downgrade;Downgraden
+Seers' Village;Zienersdorp
+Camelot;Camelot
+Gehen Sie hier;Gehen Sie hier
+Reden mit;Reden mit
+Prüfen;Prüfen
+Schließen;Schließen
+Tutorial;Handleiding
+Open in browser;Openen in browser
+Pass (private);Pas (privé)
+Pass (normal);Pass (normaal)
+Load X;Laad X
+Spike;Spike
+Open-all;Open-alles
+Rapid;Snel
+Hide-in;Verstoppen
+Search for traps;Zoek naar vallen
+Default quantity: <col=ff9040>All</col>;Standaard aantal: <col=ff9040>Alles</col>
+Default quantity: <col=ff9040>X</col>;Standaard aantal: <col=ff9040>X</col>
+Relocate;Verhuizen
+Default quantity: <col=ff9040>10</col>;Standaardhoeveelheid: <col=ff9040>10</col>
+Redecorate;Opknappen
+Varrock;Varrock
+Bask;Zonnebaden
+Civitas illa Fortis;Civitas illa Fortis
+Sunset Coast;Zonsondergangkust
+Tal Teklan;Tal Teklan
+Hunter Guild;Jagers Gilde
+The Teomat;De Teomat
+Kastori;Kastori
+Last-destination;Laatste bestemming
+Cam Torum Entrance;Ingang Cam Torum
+Outer Fortis;Buiten Fortis
+Feed;Voer
+Dondakan;Dondakan
+Features;Functies
+Crawl-through;Doorkruipen
+Coin Collection;Muntenverzameling
+Boss Log;Baas Logboek
+Miscellania;Diversen
+Falador;Falador
+Skrach Uglogwee;Skrach Uglogwee
+Lumbridge Guide;Lumbridge-gids
+Wartface & Bentnoze;Wrattengezicht & Bentnoze
+King Awowogei;Koning Awowogei
+Evil Dave;Slechte Dave
+Mountain Dwarf;Berg dwerg
+Pirate Pete;Piraat Piet
+Sir Amik Varze;Heer Amik Varze
+Pass-through;Doorgang
++99%;+99%
+Cut;Snee
+Teleport to <col=ff8040>Nightmare Zone</col>;Teleporteer naar <col=ff8040>Nightmare Zone</col>
+Last-destination (DJP);Laatste bestemming (DJP)
+Rotate counter-clockwise;Draai tegen de klok in
+Flick;Veeg
+Join <col=ff8040>Nightmare Zone</col> channel;Word lid van het <col=ff8040>Nightmare Zone</col>-kanaal
+Last-destination (AIS);Laatste bestemming (AIS)
+Rotate clockwise;Draai met de klok mee
+Lash;Wimper
+Deflect;Afbuigen
+Buy-food;Koop eten
+Buy-items;Koop-artikelen
+Decline;Afwijzen
+Remove All;Alles verwijderen
+-99%;-99%
+Customise-boat;Maatwerk-boot
+Buy-boat;Koop-boot
+Recover-boat;Herstel-boot
+Runecraft;Runecraft
+East Ardougne;Oost-Ardougne
+B;B
+Lumbridge;Lumbridge
+Get Started;Aan de slag
+Spellbook;Spreukenboek
+Sigils;Sigils
+Breach Check;Controle op inbreuk
+Shop;Winkel
+Unlocks;Ontgrendelt
+Prayers;Gebeden
+Deadman;Dode man
+Points Info;Punteninformatie
+About;Over
+Sigils Info;Sigils-info
+Attune;Afstemmen
+Remove PvP Protection;Verwijder PvP-bescherming
+Deposit-box;Kluisje
+Hack;Hacken
+Travel to platform;Reis naar perron
+Walk-across;Overloop
+Select <col=ff9040>Confirm</col>;Selecteer <col=ff9040>Bevestigen</col>
+Dream;Droom
+Ammo;Munitie
+Toggle setting;Schakel instelling
+Manoeuvre-past;Manoeuvre-verleden
+View <col=ff9040>Firemaking</col> guide;Bekijk de <col=ff9040>Vuurmaken</col> handleiding
+Weave;Weven
+Take-boat;Neem-boot
+Ardougne;Ardougné
+Remove-coal;Verwijder-kolen
+Tuxedo-time;Smoking-tijd
+Turn;Draai
+Throw;Gooien
+Pummel;Pummel
+Add to playlist 1;Toevoegen aan afspeellijst 1
+Add to playlist 2;Toevoegen aan afspeellijst 2
+Add to playlist 3;Toevoegen aan afspeellijst 3
+Sober-Up;Nuchter
+Give-Sword;Geef-zwaard
+Ring-bell;Ringbel
+Right;Rechts
+Left;Links
+Shuffle Mode;Shuffle-modus
+Take-X;Neem-X
+Venerate;Vereren
+Take-beer;Neem bier
+Buy-pass;Kooppas
+Go-through;Doorgang
+Hide-behind;Verstop je
+Climb-on;Klim erop
+Knock-Out;Knock-out
+Set to 7;Stel in op 7
+Set to 6;Stel in op 6
+Set to 8;Stel in op 8
+Set to 3;Stel in op 3
+Set to 2;Stel in op 2
+Set to 5;Stel in op 5
+Set to 4;Stel in op 4
+Set to 1;Stel in op 1
+Jump-to;Ga naar
+G;G
+E;E
+D;D
+C;C
+A;A
+Play your tune.;Speel je deuntje.
+F#;F#
+C#;C#
+Previous;Vorig
+45 days membership;45 dagen lidmaatschap
+Buy Bonds;Koop obligaties
+Early Name Change;Vroege naamsverandering
+14 days membership;14 dagen lidmaatschap
+29 days membership;29 dagen lidmaatschap
+12 months;12 maanden
+View Your Bonds;Bekijk uw obligaties
+Add finds;Voeg vondsten toe
+View journal <col=ff981f>Demon Slayer</col>;Bekijk dagboek <col=ff981f>Demon Slayer</col>
+Murder;Moord
+Walk-on;Doorloopbaar
+Chill;Chill
+Fix;Repareren
+Bail-with;Borgtocht met
+Comercio con;Commercieel con
+conjuntos;conjunto's
+Eliminar;Eliminatie
+Usar;Gebruiker
+Gota;Goh
+Banco;Banco
+Intercambio;Intercambio
+Seguir;Seguir
+Historia;Geschiedenis
+Recolectar;Recolectar
+Offer-X<col=ff9040>;Aanbieding-X<col=ff9040>
+Offer<col=ff9040>;Aanbieding<col=ff9040>
+Offer-All<col=ff9040>;Aanbieding-alles<col=ff9040>
+Offer-10<col=ff9040>;Aanbieding-10<col=ff9040>
+Offer-5<col=ff9040>;Aanbieding-5<col=ff9040>
+Assignment;Opdracht
+Last-destination (DKS);Laatste bestemming (DKS)
+Add Favourite;Favoriet toevoegen
+Use code;Gebruik code
+Destroy ALL;Vernietig ALLES
+Comer;Komer
+Llevar;Llevar
+Precios;Precisies
+Cocinando;Cocinando
+BotÃ­n;Botín
+Kandarin Monastery;Kandarin-klooster
+Empunar;Empunar
+Deposito;Storting
++50%;+50%
+Tener puesto;Tener puesto
+-50%;-50%
+Vista;Uitzicht
+Construir;Construir
+Subir;Subir
+Ingresar;Ingresar
+Bajar;Bajar
+Lanzar;Lanzar
+Mina;Mijn
+Water Bolt;Waterbout
+Use <col=00ff00>Special Attack</col>;Gebruik <col=00ff00>Speciale aanval</col>
+Select option C;Selecteer optie C
+Escape;Ontsnappen
+Exchange fire cape;Vuurcape ruilen
+Last-destination (CKS);Laatste bestemming (CKS)
+-2%;-2%
+Watch;Horloge
+Bend;Kromming
+Last-destination (AIQ);Laatste bestemming (AIQ)
+Tease;Plagen
+Fish;Vis
+Trap;Val
+Leap;Sprong
+Mark;Markering
+Unmark;Markering opheffen
+Open GE Tracker to;Open GE Tracker voor
+Wind Strike;Windaanval
+Fire Wave;Vuurgolf
+Wind Bolt;Windbout
+Wind Blast;Windstoot
+Earth Surge;Aardegolf
+Cerrar sesion;Cerrar-sessie
+Last-destination (BLP);Laatste bestemming (BLP)
+Break-down;Afbraak
+Tag;Label
+Trade-in;Inruil
+Kitten;Katje
+Scroll map;Blader door de kaart
++2%;+2%
+Water Wave;Watergolf
+Last-destination (DJR);Laatste bestemming (DJR)
+Illegal / harmful content;Illegale/schadelijke inhoud
+Last-destination (AKR);Laatste bestemming (AKR)
+Hammer;Hamer
+Prospect;Verwachting
+Wind-up;Opwinden
+Look-under;Kijk onder
+Jump-on;Spring erop
+Climb-across;Klim over
+Swing-on;Swing-aan
+Swing-across;Zwaai over
+Pay-fare;Betaaltarief
+Cut down;Snijd af
+Cut-wood;Gezaagd hout
+Eperlano;Eperlano
+Last-destination (CKR);Laatste bestemming (CKR)
+Teeth-grip;Tanden-grip
+Last-destination (DKR);Laatste bestemming (DKR)
+Pick-apple;Pick-appel
+Cage;Kooi
+Banknotes;Bankbiljetten
+Water Strike;Wateraanval
+Fire Surge;Brandgolf
+Wind Surge;Windstoot
+Wind Wave;Windgolf
+Water Surge;Watergolf
+Lieutenant;Luitenant
+General;Algemeen
+Sergeant+;Sergeant+
+Group Storage;Groepsopslag
+Corporal;Korporaal
+Anyone;Iedereen
+Lieutenant+;Luitenant+
+Recruit;Werven
+Corporal+;Korporaal+
+Captain;Kapitein
+Options;Opties
+Captain+;Kapitein+
+Hiscores;Hiscores
+Set prefix;Voorvoegsel instellen
+General+;Algemeen+
+Any friends;Enige vrienden
+Recruit+;Rekruteer+
+Sergeant;Sergeant
+Not ranked;Niet gerangschikt
+Only me;Alleen ik
+Discard;Weggooien
+Expel Guests;Gasten wegsturen
+On;Op
+Viewer;Kijker
+Call Servant;Bel dienaar
+Check materials;Controleer materialen
+X;X
+Show voucher items;Toon voucherartikelen
+Events;Evenementen
+Chat;Chatten
+Hall;Hal
+Apply;Toepassen
+Edit;Bewerking
+Members;Leden
+Permissions;Machtigingen
+Dive;Duiken
+Devices;Apparaten
+Charge;Aanval
+Make-raft;Make-vlot
+Check-gates;Controlepoorten
+Gauntlets;Handschoenen
+Pop;Knal
+Quetzacalli Gorge;Quetzacalli-kloof
+Salvager Overlook;Berger over het hoofd
+Auburnvale;Kastanjebruin
+Quick-exit;Snelle uitgang
+Turn Dial;Draai de wijzerplaat
+Heal;Genezen
+Up;Omhoog
+Down;Omlaag
+Take-many;Neem-veel
+Change-style;Verander-stijl
+Hasty-rummage;Haastig snuffelen
+Colossal Wyrm Remains;De kolossale Wyrm-overblijfselen
+Choose;Kiezen
+Slide-along;Schuif mee
+Dive in;Duik erin
+Swim to;Zwem naar
+Use-rod;Gebruik-staaf
+Swim;Zwemmen
+Construct;Construct
+Get in;Stap in
+Take treasure;Neem een ​​schat
+Get-rewards;Ontvang-beloningen
+Plant;Plant
+Last-destination (DLQ);Laatste bestemming (DLQ)
+Last-destination (AJP);Laatste bestemming (AJP)
+Load;Laden
+Demolish;Slopen
+Quick-escape;Snel ontsnappen
+Buy-plank;Koopplank
+Leave House;Verlaat Huis
+Bedroom;Slaapkamer
+Kitchen;Keuken
+Deploy;Aanwenden
+Deposit-all;Storting-alles
+Un-set;Niet ingesteld
+Portal Nexus;Portaal Nexus
+Sailing Options;Zeilopties
+Treasure room;Schatkamer
+Dungeon - Stairs;Kerker - Trap
+Disembark;Van boord gaan
+Navigate;Navigeren
+Hall - Skill trophies;Hall - Vaardigheidstrofeeën
+Set heading;Kop instellen
+Un-set sails;Uitgezette zeilen
+Workshop;Werkplaats
+Facilities;Faciliteiten
+Musa Point;Musa Punt
+Garden;Tuin
+Achievement gallery;Prestatiegalerij
+Set;Set
+Raise speed;Verhoog de snelheid
+Lower speed;Lagere snelheid
+Parlour;Salon
+League Hall;Liga zaal
+The Pandemonium;Het pandemonium
+Repair-boat;Reparatie-boot
+Modify;Bewerken
+Set sails;Zeilen zetten
+Build-trap;Bouwval
+Stop-navigating;Stop met navigeren
+Pry-open;Wrik open
+Bottom-Floor;Onderste verdieping
+View-tasks;Bekijk-taken
+Manage-crew;Beheer-crew
+View-charts;Bekijk-grafieken
+Shoot;Schieten
+Recover;Herstellen
+Crewmates;Bemanningsleden
+Board friend's boat;Ga aan boord van de boot van een vriend
+Accept task;Accepteer taak
+Deposit-held;In deposito gehouden
+Deposit-cargo;Statiegeld
+Select option B;Selecteer optie B
+Last-destination (DKP);Laatste bestemming (DKP)
+Reinforce;Versterken
+Burst;Uitbarsting
+Reach;Bereik
+Free;Vrij
+Admire;Bewonderen
+Scry;Scry
+Last-destination (AJR);Laatste bestemming (AJR)
+Enakhra's Temple;Enakhra's tempel
+Check-charge;Cheque-kosten
+Enakhra's Temple Entrance;Enakhra's tempelingang
+Last-tier contract;Contract op het laatste niveau
+Fire-at;Vuur-op
+Collect-data;Verzamel-gegevens
+Bloom;Bloeien
+Listen;Luisteren
+Hold;Uitstel
+Pick-fruit;Plukfruit
+Last-destination (CLR);Laatste bestemming (CLR)
+Flush;Spoelen
+Last-destination (AKQ);Laatste bestemming (AKQ)
+Set-trap;Set-trap
+Check totals;Controleer de totalen
+Reverse;Achteruit
+Stop boat;Boot stoppen
+Chase;Achtervolging
+Interact;Interactie
+Spectate;Toeschouwen
+Go-down;Ga naar beneden
+Smell;Geur
+Channel;Kanaal
+Toggle-absorption;Toggle-absorptie
+Port Khazard;Haven Khazard
+Corsair Cove;Corsair-baai
+Charter-to Port Sarim;Charter-naar Port Sarim
+Catherby;Catherby
+Charter-to Brimhaven;Charter-naar Brimhaven
+Last-destination (AKS);Laatste bestemming (AKS)
+Last-destination (CIS);Laatste bestemming (CIS)
+View journal <col=ff981f>Shilo Village</col>;Bekijk dagboek <col=ff981f>Shilo Village</col>
+View journal <col=ff981f>Priest in Peril</col>;Bekijk dagboek <col=ff981f>Priester in gevaar</col>
+Get bird;Neem een ​​vogel
+Quick-Travel;Snel reizen
+Embark;Aan boord gaan
+Take tools;Neem gereedschap
+Climb Up;Klim omhoog
+Build on;Bouw voort
+Make <col=ff9040>Ruby ring</col>;Maak <col=ff9040>Robijnring</col>
+Make <col=ff9040>Ruby necklace</col>;Maak <col=ff9040>Robijnhalsketting</col>
+Make <col=ff9040>Ruby amulet (u)</col>;Maak <col=ff9040>Robijn amulet (u)</col>
+Charter-to Catherby;Charter-naar Catherby
+Blow;Blazen
+Boost;Boost
+Karamja (Shilo);Karamja (Shilo)
+Fremennik;Fremennik
+Jars;Potten
+Twiggy O'Korn;Twiggy O'Korn
+Desert;Woestijn
+Configure-Charges;Configureer-kosten
+Lumbridge & Draynor;Lumbridge & Draynor
+Ring-configure;Ring-configuratie
+Karamja (Jungle);Karamja (jungle)
+Ring-Zanaris;Ring-Zanaris
+Kourend & Kebos;Kourend & Kebos
+Morytania;Morytanië
+Ring-last-destination (DJR);Ring-laatste bestemming (DJR)
+Tree;Boom
+Western Provinces;Westelijke provincies
+Wilderness;Wildernis
+Karamja (Mor Ul Rek);Karamja (Mor Ul Rek)
+Kandarin;Kandarijn
+Crafting Guild;Ambachtsgilde
+Lunar;Maan
+Falador Park;Falador-park
+Farming Guild;Landbouw Gilde
+Cooking Guild;Kookgilde
+Fishing Guild;Visserij Gilde
+Mining Guild;Mijnbouw Gilde
+Ring-last-destination (DIS);Bel laatste bestemming (DIS)
+Arceuus;Arceus
+Woodcutting Guild;Houthakkersgilde
+Ancient;Oud
+Clip;Klem
+Shuffle items up;Schud items in een willekeurige volgorde
+Save and Close;Opslaan en sluiten
+Back to bank;Terug naar de bank
+Craft-rune;Craft-rune
+Save;Redden
+Storage Unlocks;Opslag ontgrendelt
+Climb-through (private);Doorklimmen (privé)
+Peek (normal);Kijkje (normaal)
+Climb-through (normal);Doorloop (normaal)
+Banish;Verbannen
+Check runes;Controleer runen
+Blow-on;Opblazen
+Ring;Ring
+Disable warning;Waarschuwing uitschakelen
+Leave platform;Verlaat het perron
+Fend;Afweren
+Jab;Jab
+Swipe;Veeg
+Pay (north-west);Betaal (noordwest)
+Pay (south-east);Betaal (zuidoost)
+Change icon (fazenda);Pictogram wijzigen (fazenda)
+Disable layout;Schakel lay-out uit
+Duplicate-item;Dubbel item
+Remove-layout;Verwijder-lay-out
+Harvest;Oogst
+Cure;Genezing
+Make <col=ff9040>Dragonstone ring</col>;Maak <col=ff9040>Drakensteenring</col>
+Convert;Overzetten
+Buy or Redeem Bonds;Obligaties kopen of inwisselen
+Move to Pouch;Verplaats naar zak
+Move to Inventory;Ga naar Voorraad
+Store-1;Winkel-1
+Yes, leave the clan.;Ja, verlaat de clan.
+Leave Clan;Verlaat de clan
+Bans;Verboden
+Combat Achievements;Gevechtsprestaties
+Titles;Titels
+Remove friend;Vriend verwijderen
+Applicants;Aanvragers
+Invigorate;Stimuleer
+Last Destination;Laatste bestemming
+Air Altar;Luchtaltaar
+Earth Altar;Aarde Altaar
+View Runecraft on the Wiki;Bekijk Runecraft op de Wiki
+Fire Altar;Vuur Altaar
+View <col=ff9040>Magic</col> guide;Bekijk de <col=ff9040>Magische</col>-gids
+Water Altar;Wateraltaar
+Reset Horizontal;Horizontaal opnieuw instellen
+Resize Horizontal;Formaat horizontaal wijzigen
+Eagles' Eyrie;Adelaars-Eyrie
+The Outpost;De Buitenpost
+Wizards' Tower;Tovenaarstoren
+Tackle;Aanpakken
+Form clan;Vorm een ​​clan
+Invite;Uitnodiging
+Ban;Verbod
+Guzzle;Slik
+<col=ffff00>Set chat mode:</col> Group (/@g);<col=ffff00>Chatmodus instellen:</col> Groep (@g)
+Directions;Routebeschrijving
+Unpack;Uitpakken
+8;8 
+7;7 
+6;6 
+12 months membership;12 maanden lidmaatschap
+Temple;Tempel
+Request;Verzoek
+Withdraw All;Alles intrekken
+Pay (south);Betaal (zuid)
+Pay (north);Betaal (noord)
+View <col=ff9040>Cooking</col> guide;Bekijk de <col=ff9040>Kookgids</col>
+View <col=ff9040>Thieving</col> guide;Bekijk de <col=ff9040>Thieving</col>-gids
+Another name;Een andere naam
+Bonds;Obligaties
+Look up name;Naam opzoeken
+Redeem;Inwisselen
+-3%;-3%
++3%;+3%
+Put-inside;Binnen gezet
+Toggle-respawn;Schakel-respawn
+Claim Pet Rock;Claim Pet Rock
+Ok;OK
+Deposit-items;Statiegeldartikelen
+Shake;Schudden
+Remove-lid;Verwijder deksel
+Cast Bloom;Giet Bloom
+Preview;Voorbeeld
+Colour;Kleur
+Turn page;Pagina omslaan
+Set Destination;Bestemming instellen
+Enter Wilderness;Ga de wildernis binnen
+Don't go;Ga niet
+Teleport to Destination;Teleporteren naar bestemming
+Check-Fee;Chequekosten
+Use-Lift;Gebruik-lift
+Polish;Pools
+Enter name;Voer naam in
+View Guest Count;Bekijk het aantal gasten
+Squeeze-past;Knijp voorbij
+Take-concoction;Take-brouwsel
+Take-5 concoctions;Take-5 brouwsels
+Talk;Gesprek
+Take-10 concoctions;Take-10 brouwsels
+Check Scores;Controleer scores
+Big-search;Grote zoektocht
+Help;Hulp
+Take-hammer;Neem een ​​hamer
+View journal <col=ff981f>Goblin Diplomacy</col>;Bekijk dagboek <col=ff981f>Goblin Diplomacy</col>
+Wiki <col=ff9040>Wilderness Journal</col>;Wiki <col=ff9040>Wildernisjournaal</col>
+Partner;Partner
+Log;Logboek
+Open <col=ff9040>Wilderness Journal</col>;Open <col=ff9040>Wildernisjournaal</col>
+*;*
+Loot broadcasts;Loot-uitzendingen
+Notifications - Leagues;Meldingen - Competities
+Loot broadcast value;Buit uitzendwaarde
+Combat Achievement tier broadcasts;Uitzendingen van Combat Achievement-niveau
+Notifications - PvM;Meldingen - PvM
+Notifications - PvP;Meldingen - PvP
+Edit rank titles;Rangtitels bewerken
+Notifications - Skilling;Meldingen - Vaardigheid
+Edit Mode;Bewerkingsmodus
+Finished;Afgerond
+Create;Creëren
+Buy 50 sets;Koop 50 sets
+Buy 5 sets;Koop 5 sets
+Cosmetics;Cosmetica
+Buy 10 sets;Koop 10 sets
+Buy 1 set;Koop 1 set
+Extend;Verlengen
+Jump-To;Ga naar
+Pay-toll(2-Ecto);Betaaltol (2-Ecto)
+Wind;Wind
+Worship;Aanbidden
+Status;Status
+Jump-down;Naar beneden springen
+Translate;Vertalen
+Off;Uit
+Select <col=ff891f>Grid master torch scroll;Selecteer <col=ff891f>Grid master toorts scrollen
+Select <col=ff891f>Swords and emblem;Selecteer <col=ff891f>Zwaarden en embleem
+Select <col=ff891f>Swords and emblem (g);Selecteer <col=ff891f>Zwaarden en embleem (g)
+Select <col=ff891f>Swords and emblem (p);Selecteer <col=ff891f>Zwaarden en embleem (p)
+Select <col=ff891f>Grid master tabard (p);Selecteer <col=ff891f>Tabblad Rastermaster (p)
+Select <col=ff891f>Grid master altar icon scroll;Selecteer <col=ff891f>Gridmaster-altaarpictogram scrollen
+View journal <col=ff981f>Shield of Arrav</col>;Bekijk dagboek <col=ff981f>Schild van Arrav</col>
+View journal <col=ff981f>Pirate's Treasure</col>;Bekijk dagboek <col=ff981f>Pirate's Treasure</col>
+View journal <col=ff981f>Pandemonium</col>;Bekijk dagboek <col=ff981f>Pandemonium</col>
+View journal <col=ff981f>The Ides of Milk</col>;Bekijk tijdschrift <col=ff981f>The Ides of Milk</col>
+Next;Volgende
+Pack;Pak
+Fight-privately;Vecht privé
+Quick-climb;Snel klimmen
+null;nul
+Put-ore-on;Zet erts op
+Fill-bucket;Vul-emmer
+Refuel;Bijtanken
+View Overview;Bekijk overzicht
+Show Menu;Toon menu
+Sync your collection log with WikiSync;Synchroniseer uw verzamelingslogboek met WikiSync
+Get-log;Logboek ophalen
+Claim-log-rewards;Claim-log-beloningen
+2 Dose;2 Dosis
+Potion Storage;Drankjesopslag
+4 Dose;4 Dosis
+1 Dose;1 Dosis
+3 Dose;3 Dosis
+Serve;Dienen
+Set-up;Opstelling
+Assign member ranks;Wijs ledenrangen toe
+Combat Achievement task broadcasts;Combat Achievement-taakuitzendingen
+Last-destination (CLS);Laatste bestemming (CLS)
+Edit rank;Rang bewerken
+50;50 
+Release all placeholders;Geef alle tijdelijke aanduidingen vrij
+Enable inventory locks;Schakel voorraadvergrendelingen in
+Show right-click options;Rechtsklikopties weergeven
+Unlock-slot;Ontgrendelslot
+Jump-off;Afspringen
+Hurdle;Hindernis
+Pull-spade;Trek-schop
+Walk-through;Doorloop
+Not now;Niet nu
+Jump-Down;Spring naar beneden
+Clear all;Alles wissen
+Hide <col=ff9040>Minimap</col>;Verberg <col=ff9040>Minimap</col>
+Show <col=ff9040>Minimap</col>;Toon <col=ff9040>Minikaart</col>
+Remove<col=ff9040> Focus;Verwijder<col=ff9040> ​​Focus
+Select option A;Selecteer optie A
+Stroke;Hartinfarct
+Pan;Pan
+Gem Mine;Edelsteen van mij
+Mount Karuulm;Mount Karuulm
+Kourend Woodland;Kourend bos
+View Friends List;Bekijk vriendenlijst
+Add Name;Naam toevoegen
+Delete Name;Naam verwijderen
+Water;Water
+Open link;Link openen
+Get-training;Krijg training
+Bank-cargo;Banklading
+Honour;Eer
+Close storage tab;Sluit het tabblad Opslag
+Charter-to Port Piscarilius;Charter naar haven Piscarilius
+Direct-portal;Direct-portaal
+Deepfin Point;Deepfin-punt
+Quiver-Remove;Quiver-Verwijderen
+Assign;Toewijzen
+Port Roberts;Haven Roberts
+Check-ammunition;Controle-munitie
+Command;Commando
+Change loadout name;Wijzig de uitrustingsnaam
+Open storage tab;Open het tabblad Opslag
+Reset-ammunition;Reset-munitie
+Stop following Captain's target;Stop met het volgen van het doel van de Kapitein
+Clear target;Duidelijk doel
+Unassign;Toewijzing ongedaan maken
+Assign to crew slot 5;Wijs toe aan bemanningsslot 5
+Assign to crew slot 1;Wijs toe aan bemanningsslot 1
+Jatizso;Jatizso
+Clear crew slot 1;Bemanningsslot 1 vrijmaken
+Clear crew slot 5;Maak bemanningslot 5 vrij
+Neitiznot;Neitiznot
+Follow Captain's target;Volg het doel van de kapitein
+Cancel task;Taak annuleren
+Set Hotkey (A);Sneltoets instellen (A)
+Set Hotkey (3);Sneltoets instellen (3)
+Set Hotkey (7);Sneltoets instellen (7)
+Set Hotkey (4);Sneltoets instellen (4)
+Set Hotkey (8);Sneltoets instellen (8)
+Pay (Celastrus tree);Betalen (Celastrusboom)
+Pay (Spirit tree);Betalen (Geestboom)
+Set Hotkey (9);Sneltoets instellen (9)
+Pick-coconut;Pick-kokosnoot
+Set Hotkey (F);Sneltoets instellen (F)
+Set Hotkey (B);Sneltoets instellen (B)
+Set Hotkey (D);Sneltoets instellen (D)
+Set Hotkey (C);Sneltoets instellen (C)
+Set Hotkey (5);Sneltoets instellen (5)
+Set Hotkey (6);Sneltoets instellen (6)
+Last-destination (CJR);Laatste bestemming (CJR)
+Last-destination (CIQ);Laatste bestemming (CIQ)
+Last-destination (CIR);Laatste bestemming (CIR)
+Hang-over;Kater
+Ardougne Farm;Ardougne-boerderij
+Dump;Dumpen
+Alchemy;Alchimie
+Energy;Energie
+Signal;Signaal
+Withdraw X;X intrekken
+Rumour;Gerucht
+Pay (south-west);Betaal (zuidwest)
+Pay (north-east);Betaal (noordoost)
+Pay (tree patch);Betalen (boomveld)
+Glade;Glade
+Ring-last-destination (AKQ);Ring-laatste bestemming (AKQ)
+Release wind mote;Laat de windmot los
+Release-mote;Laat los
+Retrieve;Uittreden
+Rod-fish;Hengelvis
+Summon;Roep op
+Remove-Favourite;Favoriet verwijderen
+Pick-dragonfruit;Pick-drakenfruit
+Remove Favourite;Favoriet verwijderen
+Functions;Functies
+Last-destination (DLP);Laatste bestemming (DLP)
+Break-crystals;Breekkristallen
+Work-at;Werk-bij
+Start-previous-rank;Start-vorige-rang
+Start-trial;Start-proefperiode
+Jump-across;Spring over
+Last-destination (ALP);Laatste bestemming (ALP)
+Quick-Pay(100);Snel betalen(100)
+Send-parcel;Pakket versturen
+Reset Safe;Veilig opnieuw instellen
+Set to 9;Stel in op 9
+Raise an Octave.;Verhoog een octaaf.
+Previous Page.;Vorige pagina.
+Next page.;Volgende pagina.
+Release all placeholders (89);Alle tijdelijke aanduidingen vrijgeven (89)
+High-Alchemy;Hoge alchemie
+Preach;Prediken
+Config;Configuratie
+Southern entrance;Zuidelijke ingang
+Middle entrance;Middelste ingang
+Northern entrance;Noordelijke ingang
+Deposit loot;Buit storten
+Lithkren Dungeon;Lithkren-kerker
+Climb Down;Klim naar beneden
+Seeds;Zaden
+Stun;Verdoven
+Digsite;Digsite
+Set Hotkey (M);Sneltoets instellen (M)
+Dondakan's Rock;Dondakans rots
+Set Hotkey (I);Sneltoets instellen (I)
+Set Hotkey (K);Sneltoets instellen (K)
+Set Hotkey (N);Sneltoets instellen (N)
+Set Hotkey (L);Sneltoets instellen (L)
+Last-destination (ALS);Laatste bestemming (ALS)
+Descend;Afdalen
+Weiss;Weiss
+Scoreboard;Scorebord
+Standard;Standaard
+Play-fetch;Speel-haal
+Climb up;Klim omhoog
+Lletya;Lletya
+Target;Doel
+Activity;Activiteit
+Enter-corrupted;Enter-corrupt
+Area Mode;Gebiedsmodus
+Single Mode;Enkele modus
+Skip Track;Nummer overslaan
+Sing-crystal;Zing-kristal
+Fill-from;Vul-van
+Set Hotkey (2);Sneltoets instellen (2)
+Set Hotkey (1);Sneltoets instellen (1)
+Slayer Master;Moordenaar Meester
+Unblock;Deblokkeren
+Raise;Salarisverhoging
+Raise net;Net omhoog brengen
+Lower net;Lager netto
+Lower;Lager
+Claim-slime;Claim-slijm
+Port Phasmatys;Haven Phasmatys
+Charter-to Port Phasmatys;Charter-naar-haven Phasmatys
+Poke;Por
+Jump off;Spring eraf
+Burgh Teleport;Burgh Teleport
+Ecto Teleport;Ecto Teleport
+Store-preform;Bewaar-voorvorm
+Commission;Commissie
+Quench-preform;Afschrik-voorvorm
+Heat-preform;Warmte-voorvorm
+Cool-preform;Cool-voorvorm
+Hand-in;Inleveren
+Dunk-preform;Dunk-voorvorm
+Pour;Giet
+Last-destination (CKP);Laatste bestemming (CKP)
+Look-over;Kijk over
+Awaken;Ontwaken
+Fuel;Brandstof
+Next page;Volgende pagina
+New partner;Nieuwe partner
+Remove from playlist 1;Verwijderen uit afspeellijst 1
+Ascend;Stijgen
+Destruir;Destruir
+Claim-runes;Claim-runen
+Step-into;Stap in
+Set Hotkey (E);Sneltoets instellen (E)
+Cut-vine;Snijwijnstok
+Camarones;Camaronen
+Hardcore Ironman Group;Een hardcore Ironman-groep
+Rescue;Redden
+Spring;Lente
+Safety switch;Veiligheidsschakelaar
+Gear;Versnelling
+Gandius;Gandius
+Kar-Hewo;Kar-Hewo
+Swing;Schommel
+Craft-repair-kits;Ambachtelijke reparatiesets
+Craft-hull-parts;Ambachtelijke romponderdelen
+Contact Master;Neem contact op met Meester
+View Laps;Ronden bekijken
+Tarn's Lair;Tarn's schuilplaats
+Dark Beasts;Donkere beesten
+Slayer Tower;Slayer-toren
+Toggle Counter;Schakel teller in
+Open Log;Logboek openen
+Stronghold;Bolwerk
+Fremennik Dungeon;Fremennik-kerker
+Parler Ã;Parler Ã 
+Retirer-X;Gepensioneerde-X
+Activer;Actiever
+Retirer-5;Gepensioneerde-5
+Suivre;Suivre
+Retirer-1;Gepensioneerde-1
+Rapport;Rapport
+Retirer-tout;Gepensioneerde-tout
+Retirer-10;Gepensioneerde-10
+Configurer;Configurator
+Retirer-tout-sauf-1;Gepensioneerde-tout-sauf-1
+Commerce;Handel
+Marchez ici;Marchez ici
+Ã‰changez avec;Ã‰changez avec
+Descendre;Afdalen
+Banque;Bank
+Abattre;Abattre
+Collecter;Verzamelaar
+Ouvrir;Ouvrir
+Remove-one;Verwijder één
+Lap-count;Rondetelling
+Cooking;Koken
+Ban guest;Gast verbieden
+Kick guest;Kick gast
+Assemble;Monteren
+Quick-Board;Snelbord
+Move Schematic Left;Verplaats schema naar links
+Select Schematic Two;Selecteer Schema Twee
+Select Schematic One;Selecteer Schema één
+Select Schematic Three;Selecteer Schema Drie
+Move Schematic Down;Schema omlaag verplaatsen
+Move Schematic Up;Schema omhoog verplaatsen
+Rotate the image;Draai de afbeelding
+Move Schematic Right;Verplaats schema naar rechts
+Jump-through;Doorspringen
+Set Hotkey (J);Sneltoets instellen (J)
+Set Hotkey (O);Sneltoets instellen (O)
+Set Hotkey (H);Sneltoets instellen (H)
+Set Hotkey (G);Sneltoets instellen (G)
+Last-destination (BJS);Laatste bestemming (BJS)
+Check-permissions;Controleer rechten
+Background-music;Achtergrondmuziek
+Play-quietly;Speel rustig
+Entertain;Vermaken
+Disarm;Ontwapenen
+Sync WOM Group;Synchroniseer WOM-groep
+Retrieve-egg;Ophalen-ei
+Expanded;Uitgebreid
+Preview auto layout;Voorbeeld van automatische lay-out
+Toggle warning;Schakel waarschuwing in
+Climb through;Klim er doorheen
+Check count;Controleer aantal
+Disassemble;Demonteren
+Gloomthorn Trail;Gloomthorn-pad
+Make party;Maak feest
+Destinations;Bestemmingen
+Reload;Herladen
+Disband;Ontbinden
+Advertise (15);Adverteren (15)
+Set-difficulty;Moeilijkheidsgraad instellen
+Claim-cape;Claim-cape
+Attract;Aantrekken
+Start raid;Begin een inval
+Impale;Spietsen
+Bank all;Alles bankieren
+Smoke Barrage;Rook spervuur
+Smoke Blitz;Rookblitz
+Blood Blitz;Bloed Blitz
+Smoke Burst;Rook barstte
+Ice Barrage;Ijs spervuur
+Douse;Doof
+Blood Barrage;Bloed spervuur
+Shadow Blitz;Schaduwblitz
+Dispel;Verdrijven
+Shadow Barrage;Schaduw spervuur
+Reap;Oogst
+Bank-all;Bank-alles
+Inferior Demonbane;Inferieure demonbaan
+North Aldarin;Noord-Aldarin
+Darkfrost;Donkere vorst
+Ralos' Rise;De opkomst van Ralos
+Deposit runes;Stort runen
+Twilight Temple;Schemering Tempel
+Nemus Retreat;Nemus-retraite
+Superior Demonbane;Superieure demonbaan
+Dark Demonbane;Donkere demonbaan
+Delve-stats;Delve-statistieken
+Claim and leave;Claimen en vertrekken
+General-stats;Algemene statistieken
+Teleport to <col=ff8040>Clan Wars</col>;Teleporteer naar <col=ff8040>Clanoorlogen</col>
+Join <col=ff8040>Clan Wars</col> channel;Sluit je aan bij het <col=ff8040>Clan Wars</col>-kanaal
+Use this layout;Gebruik deze lay-out
+Quick-slide;Snelle dia
+Slide;Dia
+Visual-effects;Visuele effecten
+Toggle-talisman;Toggle-talisman
+Deposit-runes;Deposit-runen
+Power-up;Opstarten
+Take-chisel;Neem-beitel
+Place-cell;Plaats-cel
+Dark Mage;Donkere Magiër
+View-stats;Bekijk statistieken
+View-glory;Uitzicht-glorie
+Pluck;Plukken
+Inflate;Opblazen
+Claim-arrows;Claim-pijlen
+Release All;Laat alles los
+Walk through;Loop door
+Claim-hats;Claim-hoeden
+Check kills;Controleer moorden
+Check-on;Inchecken
+Take-uniform;Neem een ​​uniform
+Listen-at;Luister mee
+Watermill;Watermolen
+Mines;Mijnen
+Cellar;Kelder
+Buy-sphere;Koop-sfeer
+Untie;Losmaken
+Attach/Detach Pipe;Pijp bevestigen/losmaken
+Glider-to Gandius;Zweefvliegtuig naar Gandius
+Take-sigil;Neem sigil
+Take-net;Take-net
+Melt;Smelten
+Reinvigorate;Nieuw leven inblazen
+Take-rock;Neem-rock
+Kalphite cave;Kalfitische grot
+Nardah;Nardah
+Make unfinished potion(s);Maak onvoltooide drankjes
+Pages;Pagina's
+Trollheim;Trolheim
+Discard-All;Alles weggooien
+Remove-room;Verwijder-kamer
+Make <col=ff9040>Gold ring</col>;Maak <col=ff9040>Gouden ring</col>
+Make <col=ff9040>Gold necklace</col>;Maak <col=ff9040>Gouden ketting</col>
+Swing across;Zwaai over
+Pick-orange;Pluk-sinaasappel
+Deposit buckets;Stort emmers
+Claim Sand;Zand claimen
+Ferry;Veerboot
+Surface;Oppervlak
+Solo-start;Solo-start
+Rotate-right;Draai naar rechts
+Fill-jug;Vul-kan
+Align;Uitlijnen
+Rotate-left;Linksom draaien
+Rebalance;Opnieuw in evenwicht brengen
+Cleanse;Reinigen
+Grab-feather;Grijpveer
+Level;Niveau
+Set Junction;Kruispunt instellen
+Control;Controle
+Return;Opbrengst
+Listen-to;Luister naar
+Crawl-down;Naar beneden kruipen
+Start;Begin
+Use-Driftwood;Gebruik-drijfhout
+View Stats;Bekijk statistieken
+Refresh Data;Gegevens vernieuwen
+Repairs;Reparaties
+Folgen;Volg
+Attacke;Aanval
+Nehmen;Nehmen
+Entfernen;Entfernen
+Bericht;Bericht
+Handeln mit;Handel mit
+Fällen;Gevallen
+Ausloggen;Ausloggen
+Ausüben;Ausüben
+Tropfen;Tropfen
+Suchen;Zo'n
+Verwenden;Verwenden
+Beten;Beten
+Taschendieb;Taschendieb
+Handeln;Händel
+Eingeben;Eingeben
+Austausch;Austausch
+Herabsteigen;Herabsteigen
+Hochklettern;Hochklettern
+Sammeln;Sammeln
+Kochen;Kochen
+Kaution;Voorzichtigheid
+Stehlen von;Stehlen von
+Tragen;Tragen
+Essen;Essen
+aktivieren Sie;actief maken
+Sicht;Zie
+Beute;Beut
+Bauen;Bauen
+Earth Strike;Aarde aanval
++30%;+30%
+Offer-fish;Aanbieding-vis
+-30%;-30%
+Place;Plaats
+Big-push;Grote druk
+Unhide;Zichtbaar maken
+Stint;Stint
+Preise;Prijs
+Geschichte;Geschicht
+Gießen;Giessen
+Crack;Scheur
+Ignorieren hinzufügen;Negeer de aanwijzingen
+Wert;Waar
+Freund hinzufügen;Freund hinzufügen
+Heim;Heim
+Baumodus;Baumodus
+Haus eines Freundes;Haus eines Freundes
+Besorgen;Besorgen
+Climb-under;Klim onder
+Jump-Over;Overspringen
+Store<col=ff9040>;Opslaan<col=ff9040>
+Preen;Gladstrijken
+Tether;Tether
+Forfeit;In beslag nemen
+Cook-at;Koken bij
+Check-ammo;Controleer munitie
+Untether;Maak los
+Last-destination (BIQ);Laatste bestemming (BIQ)
+Last-destination (BIS);Laatste bestemming (BIS)
+Last-destination (BIP);Laatste bestemming (BIP)
+Crown Info;Kroon-informatie
+Last-destination (BLR);Laatste bestemming (BLR)
+Complete;Compleet
+Climb over;Klim er overheen
+Smash-to-bits;In stukken slaan
+Enchant-Vials;Betover-flesjes
+Trade-Co-op;Handelscoöperatie
+Trade-Drinks;Handelsdrankjes
+Squeeze-Through;Doorknijpen
+Fly;Vlieg
+Relax;Ontspannen
+Sandbags;Zandzakken
+Tug;Sleepboot
+Logs;Logboeken
+Bail;Borgtocht
+Emergency tug;Noodsleepboot
+Preferences;Voorkeuren
+Games room;Speelkamer
+Combat room;Gevechtsruimte
+Dining room;Eetkamer
+Re-light;Opnieuw aansteken
+Ring-last-destination (AIP);Ring-laatste bestemming (AIP)
+Spin-globe;Spin-bol
+Take-candy;Neem snoep
+Set destination;Bestemming instellen
+Teleport to destination;Teleporteren naar bestemming
+eat;eten
+Cast Spell;Spreek spreuk uit
+Lift;Tillen
+cast;vorm
+Toggle-minerals;Toggle-mineralen
+Take-bowl;Neem-kom
+Accept exchange;Accepteer uitwisseling
+Insert coin;Munt insteken
+Cancel exchange;Annuleer de uitwisseling
+Use col;Gebruik kol
+Activate machine;Activeer machine
+Unlock machine;Ontgrendel de machine
+Cancel operation;Annuleer de bewerking
+Rank;Rang
+Last-destination (CIP);Laatste bestemming (CIP)
+Set name;Naam instellen
+wield;hanteren
+Beanspruchen;Bonenpruchen
+Smoke;Rook
+Last-destination (BJR);Laatste bestemming (BJR)
+Buy X;Koop X
+Ring-last-destination (DLQ);Bel laatste bestemming (DLQ)
+Remove-decorations;Verwijder-decoraties
+Jump on;Spring verder
+-1%;-1%
++1%;+1%
+Pick-leaf;Plukblad
+Last-destination (CJQ);Laatste bestemming (CJQ)
+Throw-water direction;Gooi-water richting
+Throw-water;Gooi-water
+Check-level;Controleniveau
+Strike;Staking
+Cut-branch;Snijtak
+Play-With;Speel-met
+Trophies;Trofeeën
+Talk-At;Praat-bij
+Mount;Monteren
+Unstuff;Ontstoppen
+Change-clothes;Verander kleding
+Detach;Losmaken
+Paint;Verf
+Ring-last-destination (AJP);Ring-laatste bestemming (AJP)
+Easter dance;Paasdans
+Dance;Dans
+Whack;Wikkel
+Divine;Goddelijk
+Duel;Duel
+Invoke;Aanroepen
+Change icon (herb run);Pictogram wijzigen (kruidenrun)
+Look out;Kijk uit
+Last-destination (DIP);Laatste bestemming (DIP)
+Ta Quir Priw;Ta Quir Priw
+Vote Now;Stem nu
+Give;Geven
+Withdraw-Notes;Intrekken-notities
+Remove-Placeholder;Verwijderen-placeholder
+Remove-All-Placeholders;Verwijder alle tijdelijke aanduidingen
+Pay (Redwood tree);Betalen (Redwood-boom)
+Collection-log;Verzamellogboek
+View Tasks;Taken bekijken
+Easy Tasks;Gemakkelijke taken
+Lookup-boss;Opzoek-baas
+Medium Tasks;Middelgrote taken
+View Bosses;Bekijk bazen
+Select <col=ff981f>Grandmaster;Selecteer <col=ff981f>Grootmeester
+Select <col=ff981f>Easy;Selecteer <col=ff981f>Gemakkelijk
+Select <col=ff981f>Medium;Selecteer <col=ff981f>Gemiddeld
+View Rewards;Bekijk beloningen
+Select <col=ff981f>Master;Selecteer <col=ff981f>Master
+Elite Tasks;Elite-taken
+Hard Tasks;Moeilijke taken
+Select <col=ff981f>Elite;Selecteer <col=ff981f>Elite
+Select <col=ff981f>Hard;Selecteer <col=ff981f>Moeilijk
+Master Tasks;Hoofdtaken
+Grandmaster Tasks;Grootmeestertaken
+Clear-All;Alles wissen
+Climb-through;Doorklim
+Plank sack;Plankenzak
+Amy's saw;Amy's zaag
+Carpenter's boots;Timmermanslaarzen
+Carpenter's trousers;Timmermansbroek
+Carpenter's shirt;Timmermanshemd
+Hosidius blueprints;Hosidius-blauwdrukken
+Supply crate;Levering krat
+Carpenter's helmet;Timmermanshelm
+Deposit All from Inventory;Stort alles uit de inventaris
+Ghorrock Dungeon;Ghorrock-kerker
+The Stranglewood;Het Wurghout
+The Scar;Het litteken
+The Ancient Vault;De oude kluis
+Lassar Undercity;Lassar-onderstad
+Skeletal Grasp;Skeletachtige greep
+Undead Grasp;Ondode greep
+Take-from <col=00ffff>Fishing;Take-from <col=00ffff>Vissen
+Take-from <col=00ffff>Hunting;Take-from <col=00ffff>Jagen
+Take-from <col=00ffff>Herblore;Take-from <col=00ffff>Herblore
+Decorate;Versieren
+Carve;Snijd
+Boss list;Baas lijst
+Pirate's Cove;Piratenbaai
+Island of Stone;Eiland van steen
+Ungael;Ungaël
+Waterbirth Island;Watergeboorte eiland
+Exit Speedrunning;Sluit Speedrunning af
+Quick-travel;Snel reizen
+Roll;Rollen
+Step-over;Stap over
+Menagerie (outdoors);Menagerie (buiten)
+Menagerie (indoors);Menagerie (binnen)
+Hall - Quest trophies;Hall - Quest-trofeeën
+Make <col=ff9040>Sapphire necklace</col>;Maak <col=ff9040>Saffierhalsketting</col>
+Darkmeyer;Donkermeyer
+Slepe;Slaap
+Ver Sinhaza;Ver Sinhaza
+Warrior's Guild;Krijgersgilde
+Feldip Hills;Feldip-heuvels
+Guild Teleports;Gilde teleporteert
+Ring of Life;Ring van leven
+Teleport Boat (Pandemonium);Teleportboot (Pandemonium)
+Rename boat;Boot hernoemen
+Skilling Areas;Vaardigheidsgebieden
+<col=f54927>Home</col>;<col=f54927>Thuis</col>
+Barbarian fishing;Barbaarse visserij
+Otto's Grotto;Otto's grot
+Stamina Boost;Uithoudingsvermogen-boost
+Rename Boat;Naam van boot wijzigen
+Teleports;Teleporteert
+Black chinchompas;Zwarte chinchompas
+Carnivorous chinchompas;Vleesetende chinchompas
+POH Portals;POH-portals
+The Darkfrost;De Donkervorst
+<col=E89C46>Kastori</col>;<col=E89C46>Kastori</col>
+Craft-goods;Ambachtelijke goederen
+Pass-to;Doorgeven aan
+Mineral Pack;Mineraalpakket
+Switch <col=ff8040>344</col>;Schakel <col=ff8040>344</col> over
+Join <col=ff8040>Pest Control</col> channel;Sluit je aan bij het kanaal <col=ff8040>Pest Control</col>
+Teleport to <col=ff8040>Pest Control</col>;Teleporteer naar <col=ff8040>Ongediertebestrijding</col>
+Draw;Tekenen
+Count;Graaf
+She/her;Zij/haar
+Select colour;Selecteer kleur
+They/them;Zij/hen
+Body type B;Lichaamstype B
+Disable-XP;Schakel XP uit
+Store-axe;Winkelbijl
+Reset puzzle;Puzzel opnieuw instellen
+turn tile;tegel draaien
+Sindarpos;Sindarpos
+Evade;Ontwijken
+Off/On;Uit/Aan
+Start-wave;Start-golf
+Finish;Finish
+Hoop;Hoepel
+Make-helmet;Merk-helm
+Take-kettle;Neem-waterkoker
+Recharge-whistle;Oplaadfluit
+Intimidate;Intimideren
+Untangle;Ontwarren
+Tree Gnome Village;Boomkabouterdorp
+Move down;Ga naar beneden
+Move up;Ga omhoog
+Move right;Ga naar rechts
+Turn-right;Sla rechtsaf
+Turn-left;Sla linksaf
+Move left;Ga naar links
+Turn clockwise;Draai met de klok mee
+Turn anti-clockwise;Draai tegen de klok in
+Jeter;Jeter
+Vérifier;Verificateur
+Attaquer;Aanvaller
+Prendre;Prendre
+Râteler;Rateler
+Signaler;Signaalgever
+Manier;Manier
+Inspecter;Inspecteur
+Manger;Kribbe
+Utiliser;Gebruiker
+Fouiller;Fouiller
+Parler à;Parler à
+Enterrer;Enterrer
+Monter;Monter
+Échanger;Wisselaar
+Détruire;Detruire
+Fermer;Fermer
+Frotter;Fritter
+Voler à la tire;Voler à la band
+Réclamer;Reclamer
+Fondre;Fondre
+Forger;Vervalser
+Cuisiner;Keukenaar
+Étage supérieur;Etage supérieur
+Déposer;Afzetter
+Sortie;Sortie
+Say-name;Zeg-naam
+Add;Toevoegen
+Adjust;Aanpassen
+Gnome Stronghold;Kabouterbolwerk
+Last-destination (ALQ);Laatste bestemming (ALQ)
+View Channel;Kanaal bekijken
+Tracker;Volger
+Goal;Doel
+Set to XP value;Stel in op XP-waarde
+Set to current XP;Instellen op huidige XP
+Set to level;Instellen op niveau
+Étage inférieur;Etage inférieur
+Activer/Désactiver;Activer/desactiver
+Activer/Désactiver les avertissements;Activeer/deactiveer de waarschuwingen
+Réclamer les trophées;Haal de trofeeën terug
+Porter;Portier
+Entrer;Enterer
+Filet;Filet
+Appât;Appât
+Monter à bord;Monter à bord
+S'agripper;S'agripper
+Prier à;Prier à
+Trancher;Trancher
+Lire;Lire
+Miner;Mijnwerker
+Retirer;Gepensioneerde
+Armure;pantser
+Bind;Binden
+Crawl;Kruipen
+Cut-foot;Snijvoet
+Sand;Zand
+Staves;Notenbalken
+S'occuper de;S'occuper de
+Se reposer;Zie reposer
+Leurre;Leurre
+Voir;Voir
+Vider;Vider
+Verrouiller;Verrouiller
+Leave <col=ff8040>Pest Control</col> channel;Verlaat het kanaal <col=ff8040>Ongediertebestrijding</col>
+Ranged XP: 10 points;Afstands-XP: 10 punten
+Hitpoints XP: 10 points;Hitpoints-XP: 10 punten
+Hitpoints XP: 1 point;Levenspunten XP: 1 punt
+Prayer XP: 100 points;Gebed XP: 100 punten
+Ranged XP: 1 point;Afstands-XP: 1 punt
+Last-destination (BKR);Laatste bestemming (BKR)
+Construire;Construire
+Lancer;Lancer
+Caresser;Streeler
+Voler à;Voler à
+Chasser;Jager
+Acheter;Acheter
+No, don't leave.;Nee, ga niet weg.
+Expel members;Leden uitsluiten
+Recruitment;Rekrutering
+Check-keys;Controlesleutels
+Attraper;Aantrekker
+Cueillir;Cueillir
+Interagir;Interagir
+Se faufiler;Zie faufiler
+Supply;Levering
+Escort;Escort
+Objets de fêtes;Objecten van feesten
+Utiliser le code;Gebruiker bestandscode
+Exclaim;Uitroepen
+Unmorph;Onmorf
+Question;Vraag
+Survey;Vragenlijst
+Rejoindre;Hervoeging
+Escalader;Roltrap
+Leave Tomb;Verlaat het graf
+Start-minigame;Start-minigame
+Check for Snakes;Controleer op slangen
+Quick-leave;Snel vertrekken
+Push-through;Doordruk
+Quick-withdraw;Snel terugtrekken
+Toggle-view;Wisselweergave
+Recharge-prayer;Opladen-gebed
+Last-destination (DIS);Laatste bestemming (DIS)
+Last-destination (BKP);Laatste bestemming (BKP)
+À l'extérieur;Aan de buitenkant
+Couper;Coupé
+DJR;DJR
+Favourites;Favorieten
+AJR;AJR
+CIR;CIR
+CIS;GOS
+View List;Lijst bekijken
+DIP;DIP
+Last-destination (BKS);Laatste bestemming (BKS)
+BKS;BKS
+Tirer;Tirer
+View-game;Bekijk-spel
+Cancel preview;Voorbeeld annuleren
+Last-destination (DLR);Laatste bestemming (DLR)
+Click this to add coal.;Klik hierop om steenkool toe te voegen.
+Turn tar valve up;Draai de teerklep omhoog
+Turn pressure valve up;Draai het drukventiel omhoog
+Turn tar flow valve down;Draai de teerstroomklep omlaag
+Turn pressure valve down;Draai het drukventiel omlaag
+Toggle Fossils;Wissel fossielen
+Open/Close;Openen/sluiten
+Empty basket;Lege mand
+Forestry kit;Bosbouw kit
+Log basket;Houten mand
+View tutorial;Bekijk de handleiding
+Charter-to Land's End;Charter-naar Land's End
+Select <col=ff981f>Apprentice wand;Selecteer <col=ff981f>Leerlingstaf
+Examine <col=ff981f>Beginner wand;Onderzoek <col=ff981f>Beginnerstokje
+Select <col=ff981f>Mud rune;Selecteer <col=ff981f>Modderrune
+Examine <col=ff981f>Steam rune;Onderzoek <col=ff981f>Steam-rune
+Select <col=ff981f>Infinity top;Selecteer <col=ff981f>Infinitytop
+Select <col=ff981f>Infinity gloves;Selecteer <col=ff981f>Infinity-handschoenen
+Examine <col=ff981f>Smoke rune;Onderzoek <col=ff981f>Rookrune
+Examine <col=ff981f>Teacher wand;Bestudeer <col=ff981f>Leraarsstaf
+Select <col=ff981f>Bones to peaches;Selecteer <col=ff981f>Botten tot perziken
+Examine <col=ff981f>Infinity top;Bekijk <col=ff981f>Infinitytop
+Examine <col=ff981f>Mage's book;Bestudeer <col=ff981f>Magé's boek
+Select <col=ff981f>Infinity bottoms;Selecteer <col=ff981f>Infinity-broeken
+Select <col=ff981f>Law rune;Selecteer <col=ff981f>Wetrune
+Examine <col=ff981f>Soul rune;Onderzoek <col=ff981f>Zielrune
+Select <col=ff981f>Teacher wand;Selecteer <col=ff981f>Leraarsstaf
+Select <col=ff981f>Smoke rune;Selecteer <col=ff981f>Rookrune
+Trade-with;Handel-met
+Quick-use;Snel te gebruiken
+Select <col=ff981f>Steam rune;Selecteer <col=ff981f>Steam-rune
+Examine <col=ff981f>Law rune;Onderzoek <col=ff981f>Wetrune
+Examine <col=ff981f>Master wand;Onderzoek <col=ff981f>Meesterstok
+Examine <col=ff981f>Infinity hat;Onderzoek <col=ff981f>Oneindighoed
+Select <col=ff981f>Soul rune;Selecteer <col=ff981f>Zielrune
+Examine <col=ff981f>Lava rune;Onderzoek <col=ff981f>Lava-rune
+Select <col=ff981f>Lava rune;Selecteer <col=ff981f>Lava-rune
+Select <col=ff981f>Beginner wand;Selecteer <col=ff981f>Beginnerstokje
+Examine <col=ff981f>Infinity gloves;Bekijk <col=ff981f>Infinity-handschoenen
+Select <col=ff981f>Mage's book;Selecteer <col=ff981f>Mage's boek
+Select <col=ff981f>Rune pouch;Selecteer <col=ff981f>Rune-buidel
+Examine <col=ff981f>Infinity bottoms;Bekijk <col=ff981f>Infinity-bodems
+Examine <col=ff981f>Apprentice wand;Onderzoek <col=ff981f>Leerlingstaf
+Examine <col=ff981f>Mud rune;Onderzoek <col=ff981f>Modderrune
+Examine <col=ff981f>Bones to peaches;Onderzoek <col=ff981f>Boten tot perziken
+Select <col=ff981f>Infinity hat;Selecteer <col=ff981f>Oneindighoed
+Examine <col=ff981f>Rune pouch;Onderzoek <col=ff981f>Runebuidel
+Select <col=ff981f>Master wand;Selecteer <col=ff981f>Master-staf
+New-maze;Nieuw-doolhof
+Examine <col=ff981f>Nature rune;Onderzoek <col=ff981f>Natuurrune
+Select <col=ff981f>Death rune;Selecteer <col=ff981f>Doodsrune
+Select <col=ff981f>Nature rune;Selecteer <col=ff981f>Natuurrune
+Examine <col=ff981f>Death rune;Onderzoek <col=ff981f>Death rune
+Lemanto Andra;Lemanto Andra
+Battlefield of Khazard;Slagveld van Khazard
+Join <col=ff8040>Shield of Arrav</col> channel;Sluit je aan bij het <col=ff8040>Shield of Arrav</col>-kanaal
+Leave <col=ff8040>Shield of Arrav</col> channel;Verlaat het <col=ff8040>Schild van Arrav</col> kanaal
+Teleport to <col=ff8040>Shield of Arrav</col>;Teleporteer naar <col=ff8040>Schild van Arrav</col>
+Goutte;Goutte
+DÃ©truire;Detruire
+Recherche;Onderzoek
+Buy Membership;Koop lidmaatschap
+Switch <col=ff8040>491</col>;Schakel <col=ff8040>491</col> over
+Teleport to <col=ff8040>Burthorpe Games Room</col>;Teleporteer naar <col=ff8040>Burthorpe-speelkamer</col>
+Leave <col=ff8040>Burthorpe Games Room</col> channel;Verlaat het kanaal <col=ff8040>Burthorpe Games Room</col>
+Join <col=ff8040>Burthorpe Games Room</col> channel;Word lid van het <col=ff8040>Burthorpe Games Room</col>-kanaal
+Claim-Shield;Claim-Schild
+Swing Across;Zwaai over
+Oubliette;Oubliet
+Superior garden;Superieure tuin
+Throne room;Troonzaal
+Portal chamber;Portaal kamer
+Chapel;Kapel
+Formal garden;Formele tuin
+Costume room;Kostuumkamer
+DKR;DKR
+CKR;CKR
+Remove<col=ff9040> Hint arrow;Verwijder<col=ff9040> ​​Hintpijl
+Show<col=ff9040> Hint;Toon<col=ff9040> ​​Tip
+Ring-last-destination (AKP);Ring-laatste bestemming (AKP)
+Récompenses;Vergoedingen
+Tête de mort;Tête de mort
+Prix;Prijs
+Décanter;Karaf
+Objets;Objecten
+Butin;Butin
+Historique;Historisch
+Ensembles;Ensembles
+Make <col=ff9040>Collier rubis</col>;Maak <col=ff9040>Collier rubis</col>
+Make <col=ff9040>Emerald amulet (u)</col>;Maak <col=ff9040>Smaragd amulet (u)</col>
+Make <col=ff9040>Bague rubis</col>;Maak <col=ff9040>Bague rubis</col>
+Fabriquer;Fabrikant
+Make <col=ff9040>Bague en saphir</col>;Maak <col=ff9040>Bague en saphir</col>
+Make <col=ff9040>Gold amulet (u)</col>;Maak <col=ff9040>Gouden amulet (u)</col>
+Make <col=ff9040>Bague en or</col>;Maak <col=ff9040>Bague en of</col>
+Make <col=ff9040>Sapphire amulet (u)</col>;Maak <col=ff9040>Saffieren amulet (u)</col>
+String;Snaar
+Yes, Apply Changes;Ja, wijzigingen toepassen
+View Areas;Bekijk gebieden
+Leagues;Liga's
+Show <col=ff9040>Summary</col>;Toon <col=ff9040>Samenvatting</col>
+Apply Changes;Wijzigingen toepassen
+View Demonic Pacts;Bekijk demonische pacten
+End Tutorial;Beëindig de handleiding
+View Relics;Bekijk relikwieën
+View Next Image;Bekijk volgende afbeelding
+Teleport to;Teleporteren naar
+Yama's Lair;Yama's schuilplaats
+Dispose;Gooi weg
+Check-pets;Controleer-huisdieren
+Deselect Node;Deselecteer Knooppunt
+Show <col=ff9040>Ranks</col>;Toon <col=ff9040>Rangen</col>
+Civitas;Civitas
+Zoom In;Inzoomen
+Undo Changes;Wijzigingen ongedaan maken
+Expand Active Pact Information;Vouw Actieve Pact-informatie uit
+No, Undo Changes;Nee, wijzigingen ongedaan maken
+Hide Information Panel;Informatiepaneel verbergen
+Channel (Varlamore);Kanaal (Varlamore)
+Exit Leagues;Verlaat competities
+Briser;Briser
+Entrer (invité);Enterer (uitgenodigd)
+Entrer (membre);Enterer (lid)
+NER Lookup;NER opzoeken
+Lunar Isle;Maan eiland
+Tirannwn;Tirannwn
+Kourend;Kourend
+Channel (Wilderness);Kanaal (wildernis)
+Varlamore;Varlamore
+Asgarnia;Asgarnia
+Swap-Effect;Wisseleffect
+Toggle absorption;Schakel absorptie in
+Play-with;Speel-met
+Afirmar;Bevestiger
+Withdraw-all;Trek alles terug
+Withdraw-last;Intrekken als laatste
+Orar en;Orar nl
+Crumble Undead;Verkruimel ondoden
+Valor;Moed
+Remove from playlist 2;Verwijderen uit afspeellijst 2
+Peer-into;Peer-in
+Offer 1;Aanbieding 1
+Offer 5;Aanbieding 5
+Offer All;Bied alles aan
+Offer X;Aanbieding X
+Robar de;Robar de
+View journal <col=ff981f>Children of the Sun</col>;Bekijk dagboek <col=ff981f>Kinderen van de zon</col>
+Clamber;Klauteren
+View journal <col=ff981f>Druidic Ritual</col>;Bekijk dagboek <col=ff981f>Druïdische rituelen</col>
+Rules;Regels
+Looting;Plunderen
+Area of effect;Effectgebied
+Change Spellbook;Verander het spreukenboek
+Previous Spellbook;Vorige Spreukenboek
+Last-destination (Brimhaven: Rope swing);Laatste bestemming (Brimhaven: touwschommel)
+Last-destination (BLS);Laatste bestemming (BLS)
+Check Previous;Controleer Vorige
+Last-destination (Shilo village: Stepping stone);Laatste bestemming (Shilo-dorp: opstapje)
+Last-destination (Auburn valley: Log balance (north));Laatste bestemming (Auburn-vallei: houtsaldo (noord))
+Last-destination (Mort myre: Stepping stone);Laatste bestemming (Mort myre: Opstapje)
+Last-destination (Hosidius: River stepping stone);Laatste bestemming (Hosidius: rivierstapsteen)
+Modo de construccion;Modus van de constructie
+Casa;Casa
+Casa de amigos;Huis van amigo's
+Switch <col=ff8040>394</col>;Schakel <col=ff8040>394</col> over
+Make<col=ff9040> Waka canoe;Maak<col=ff9040> ​​Waka-kano
+View <col=ff9040>Woodcutting</col> guide;Bekijk de gids <col=ff9040>Houtsnijden</col>
+ALP;ALP
+Quick-start;Snel aan de slag
+Open Link;Link openen
+Travel to<col=ff9040> Ferox Enclave;Reis naar<col=ff9040> ​​Ferox Enclave
+Select <col=ff981f>Leagues;Selecteer <col=ff981f>Leagues
+Select <col=ff891f>Demonic Quill;Selecteer <col=ff891f>Demonische ganzenveer
+Select <col=ff891f>Impish Ritual Kit;Selecteer <col=ff891f>Impish Ritual Kit
+Select <col=ff891f>Leagues VI Relic Hunter (T1);Selecteer <col=ff891f>Leagues VI Relic Hunter (T1)
+Select <col=ff891f>Demonic Trident Ornament Kit.;Selecteer <col=ff891f>Demonische drietandversieringsset.
+Select <col=ff891f>Leagues VI Relic Hunter (T3);Selecteer <col=ff891f>Leagues VI Relic Hunter (T3)
+Unlocked;Ontgrendeld
+Zoom Out;Uitzoomen
+Sniff;Snuif
+Select <col=ff981f>Imp repellent;Selecteer <col=ff981f>Imp-afstotend
+Select <col=ff981f>Jar generator;Selecteer <col=ff981f>Jar-generator
+Select <col=ff981f>Magic butterfly net;Selecteer <col=ff981f>Magisch vlindernet
+Select <col=ff981f>Impling jar;Selecteer <col=ff981f>Implementatiepot
+Last-destination (CKQ);Laatste bestemming (CKQ)
+Locked;Vergrendeld
+Reclaim;Terugvorderen
+Select <col=ff891f>Leagues V Death;Selecteer <col=ff891f>Leagues V Dood
+Select <col=ff891f>Leagues V Portal;Selecteer <col=ff891f>Leagues V-portal
+Select <col=ff891f>Demonic Butler Scroll;Selecteer <col=ff891f>Demonische Butler-scroll
+Select <col=ff891f>Leagues V Curtains;Selecteer <col=ff891f>Leagues V-gordijnen
+Rumour-settings;Geruchten-instellingen
+Fur-clothing;Bontkleding
+Take-log;Take-log
+Vote;Stemmen
+Check tax;Controleer belasting
+Request-supplies;Aanvraag-benodigdheden
+View Collection Log;Bekijk het ophaallogboek
+Other Collections;Andere collecties
+Bosses Collections;Bazen Collecties
+View Collection Overview;Bekijk collectieoverzicht
+Minigames Collections;Minigames-collecties
+Decapitate;Onthoofden
+Another;Een andere
+Sabotage;Sabotage
+Plant-evidence;Plant-bewijs
+Charter-to Civitas illa Fortis;Charter aan Civitas illa Fortis
+Bless;Zegenen
+Impling-jar;Impling-pot
+Butterfly-jar;Vlinderpot
+Make <col=ff9040>Sapphire ring</col>;Maak <col=ff9040>Saffierring</col>
+Make <col=ff9040>Emerald ring</col>;Maak <col=ff9040>Smaragdgroene ring</col>
+Crush;Verbrijzeling
+Look-into;Kijk-in
+Reset Vertical;Verticaal opnieuw instellen
+Resize Vertical;Formaat verticaal wijzigen
+View <col=ff9040>Attack</col> guide;Bekijk de <col=ff9040>Aanval</col>-gids
+View <col=ff9040>Slayer</col> guide;Bekijk de <col=ff9040>Slayer</col>-gids
+View <col=ff9040>Hitpoints</col> guide;Bekijk de <col=ff9040>Hitpoints</col>-gids
+Body type A;Lichaamstype A
+View Facial hair;Bekijk Gezichtshaar
+View Hair;Bekijk Haar
+View Wristwear;Bekijk Polskleding
+View Shoes;Bekijk Schoenen
+View Sleeves;Bekijk mouwen
+View Torsos;Bekijk Torso's
+View Bottoms;Bekijk Bodems
+View Body types;Bekijk lichaamstypes
+Upgrades;Upgrades
+Benefits;Voordelen
+Lookup-entity;Opzoekentiteit
+Select <col=ff891f>Shattered Relic Hunter (T1);Selecteer <col=ff891f>Verbrijzelde relikwiejager (T1)
+Select <col=ff891f>Shattered Mystic Orn Kit;Selecteer <col=ff891f>Verbrijzelde Mystic Orn-kit
+Select <col=ff891f>Trailblazer Graceful Kits x6;Selecteer <col=ff891f>Trailblazer Graceful Kits x6
+Select <col=ff891f>Leagues IV Bulwark Orn Kit;Selecteer <col=ff891f>Leagues IV Bulwark Orn-kit
+Select <col=ff891f>Demonic Skin Sample;Selecteer <col=ff891f>Demonisch huidmonster
+Select <col=ff891f>Twisted Horns;Selecteer <col=ff891f>Gedraaide hoorns
+Select <col=ff891f>Leagues IV Relic Hunter (T2);Selecteer <col=ff891f>Leagues IV Relic Hunter (T2)
+Select <col=ff891f>Echo Virtus Robes Orn Kit;Selecteer <col=ff891f>Echo Virtus Robes Orn-set
+Select <col=ff891f>Demonic Staff Ornament Kit;Selecteer <col=ff891f>Demonische stafornamentset
+Select <col=ff891f>Leagues V NPC Contact;Selecteer <col=ff891f>Leagues V NPC-contactpersoon
+Select <col=ff891f>Leagues V Relic Hunter (T1);Selecteer <col=ff891f>Leagues V Relic Hunter (T1)
+Select <col=ff891f>Leagues IV Alchemy Scroll;Selecteer <col=ff891f>Leagues IV Alchemy Scroll
+Select <col=ff891f>Leagues IV Teleport Scroll;Selecteer <col=ff891f>Leagues IV Teleport Scroll
+Select <col=ff891f>Trailblazer Tool Orn Kit;Selecteer <col=ff891f>Trailblazer gereedschapsset
+Select <col=ff891f>Leagues IV Rejuvination Pool;Selecteer <col=ff891f>Leagues IV verjongingspool
+Select <col=ff891f>Echo Ahrim's Pieces Orn Kit;Selecteer <col=ff891f>Echo Ahrim's Pieces Orn Kit
+Select <col=ff891f>Shattered Relic Hunter (T3);Selecteer <col=ff891f>Verbrijzelde relikwiejager (T3)
+Select <col=ff891f>Trailblazer Globe;Selecteer <col=ff891f>Trailblazer Globe
+Select <col=ff891f>Trailblazer Teleport Scroll;Selecteer <col=ff891f>Trailblazer Teleport Scroll
+Select <col=ff891f>Echo Venator Bow Orn Kit;Selecteer <col=ff891f>Echo Venator Bow Orn-set
+Recoil Settings;Terugslaginstellingen
+Recoil settings;Terugslag instellingen
+Bandit Camp;Bandietenkamp
+Lava Maze;Lava doolhof
+Chaos Temple;Chaos-tempel
+Check completion;Controleer de voltooiing
+Channel (Kandarin);Kanaal (Kandarin)
+Make <col=ff9040>Onyx amulet (u)</col>;Maak <col=ff9040>Onyx-amulet (u)</col>
+Make <col=ff9040>Onyx bracelet</col>;Maak <col=ff9040>Onyx armband</col>
+Buy sets:;Setjes kopen:
+Jump-from;Spring-van
+Channel (Karamja);Kanaal (Karamja)
+Master;Meester
+Make <col=ff9040>Slayer ring (8)</col>;Maak <col=ff9040>Slayer-ring (8)</col>
+Make-cuppa;Make-cuppa
+Unstore;Opslaan ongedaan maken
+Ring-last-destination (DJP);Ring-laatste bestemming (DJP)
+Rustle;Ruis
+Ring-last-destination (CJQ);Ring-laatste bestemming (CJQ)
+Enchant;Betoveren
+Ring-last-destination (BJS);Ring-laatste bestemming (BJS)
+Aim and Fire;Richt en vuur
+Amy;Amy
+View Info;Bekijk informatie
+Teleport to <col=ff8040>Castle Wars</col>;Teleporteer naar <col=ff8040>Kasteeloorlogen</col>
+Join <col=ff8040>Castle Wars</col> channel;Word lid van het <col=ff8040>Castle Wars</col>-kanaal
+Make <col=ff9040>Diamond bracelet</col>;Maak <col=ff9040>Diamanten armband</col>
+Blackout;Verduistering
+Select <col=ff891f>Tier 1 Adventurer's Outfit;Selecteer <col=ff891f>Niveau 1 avonturiersoutfit
+Select <col=ff891f>Tier 2 Adventurer's Outfit;Selecteer <col=ff891f>Niveau 2 avonturiersoutfit
+Select <col=ff891f>Speedy Teleport Scroll;Selecteer <col=ff891f>Snelle teleportscroll
+Select <col=ff891f>Tier 3 Adventurer's Outfit;Selecteer <col=ff891f>Niveau 3 avonturiersoutfit
+Select <col=ff891f>Giant Stopwatch;Selecteer <col=ff891f>Grote stopwatch
+Collections overview;Collecties overzicht
+Stairs to Timeline exhibit;Trap naar tijdlijntentoonstelling
+Collections Overview;Collectiesoverzicht
+Last-destination (ALR);Laatste bestemming (ALR)
+Select <col=ff9040>Pineapple punch;Selecteer <col=ff9040>Ananaspunch
+Select <col=ff9040>Fruit blast;Selecteer <col=ff9040>Fruitexplosie
+Select <col=ff9040>Blurberry special;Selecteer <col=ff9040>Blurberry speciaal
+Mix-cocktail;Mix-cocktail
+Select <col=ff9040>Chocolate saturday;Selecteer <col=ff9040>Chocolade zaterdag
+Select <col=ff9040>Drunk dragon;Selecteer <col=ff9040>Dronken draak
+Select <col=ff9040>Short green guy;Selecteer <col=ff9040>Korte groene man
+Magic XP: 1 point;Magische XP: 1 punt
+Magic XP: 100 points;Magische XP: 100 punten
+Strength XP: 100 points;Sterkte XP: 100 punten
+Magic XP: 10 points;Magische XP: 10 punten
+Ranged XP: 100 points;Afstands-XP: 100 punten
+Steal;Stelen
+Toggle-activity;Schakel-activiteit
+Release all placeholders (38);Alle tijdelijke aanduidingen vrijgeven (38)
+Dissolve;Oplossen
+BJS;BJS
+BJP;BJP
+Ring-last-destination (CKQ);Ring-laatste bestemming (CKQ)
+View <col=ff9040>Smithing</col> guide;Bekijk de <col=ff9040>Smiding</col>-gids
+Clan name;Clannaam
+Permission access;Toegang tot toestemming
+Notifications;Meldingen
+Clan Hall;Clanzaal
+Management;Beheer
+View Clan Count;Clantelling bekijken
+Report name;Rapportnaam
+View clan;Clan bekijken
+Back to Recruitment Board;Terug naar de wervingscommissie
+Cortar;Cortar
+Lista de amigos;Lijst met vrienden
+Negocie com;Negocie com
+Esconder;Esconder
+Denúnciar;Denúnciar
+Caminhe até aqui;Caminhe at aqui
+Opções de Combate;Optredens van de strijd
+Jogar;Jogar
+Atacar;Atacar
+Configurações;Configuraties
+Falar com;Falar com
+Controles;Controles
+Conta;Conta
+Habilidades;Habilidades
+Previous page;Vorige pagina
+Move Left;Ga naar links
+Move Right;Ga naar rechts
+Move Down;Ga naar beneden
+Fire!;Vuur!
+Capture;Vastlegging
+Diários de conquistas;Diarios de conquistas
+View <col=ff9040>Construction</col> guide;Bekijk de <col=ff9040>Bouw</col> handleiding
+Largar;Groter
+Subida;Subida
+Saber mais;Sabre mais
+Empunhar;Empunhar
+Digitar;Digitar
+Inventário;Inventaris
+Ver caixa de entrada;Ver caixa de entrada
+Fechar;Fechar
+Abrir;Abri
+Vestir;Vestir
+Lançar;Lançar
+Pegar;Pegar
+Depósito;Storting
+Coletar;Coletar
+Sair;Sair
+Trocador de mundo;Trocador de mondo
+Close Info;Info sluiten
+Selecione;Selectie
+História;Geschiedenis
+Trocar;Trocar
+Confirmar;Bevestiging
+Conjuntos;Conjunto's
+Ver oferta;Veel aangeboden
+Abortar oferta;Abortus aangeboden
+Depósito-X;Deposito-X
+Preços;Preços
+Depósitar-1;Depositar-1
+Depósitar-10;Depositar-10
+Depósito-Tudo;Deposito-Tudo
+Depósitar-5;Depositar-5
+Insira o preço;Insira of preço
+Make <col=ff9040>Emerald necklace</col>;Maak <col=ff9040>Smaragd ketting</col>
+Adicionar amigo;Aanvullende amigo
+Mostrar no mapa:;Mostrar geen kaart:
+Leia o diário:;Leia of dagboek:
+Saque;Saque
+Recompensas;Vergoedingen
+Compre 5;Compre 5
+Vender 50<col=ff9040>;Leverancier 50<col=ff9040>
+Vender 10<col=ff9040>;Leverancier 10<col=ff9040>
+Vender 1<col=ff9040>;Leverancier 1<col=ff9040>
+Compre 50;Compre 50
+Valor<col=ff9040>;Moed<col=ff9040>
+Compre 10;Compre 10
+Vender 5<col=ff9040>;Leverancier 5<col=ff9040>
+Compre 1;Compre 1
+Chefes;Chef-koks
+Tarefas;Tarefas
+Registro de coleta;Registratie van coleta
+Visão geral;Visueel algemeen
+Visão geral da coleção;Visueel algemeen de coleção
+Resgatar;Resgatar
+Compre-50;Compre-50
+Remover;Verwijderaar
+Ver estatísticas do equipamento;Bekijk de statistieken van de uitrusting
+Empty Dish;Lege schotel
+Look-in;Kijk-in
+Look in;Kijk naar binnen
+Info:;Info:
+Mostrar no mapa;Mostrar geen kaart
+Mostrar;Mostrar
+Clear them all;Wis ze allemaal
+Retaliação automática;Automatische beloning
+Pedágio (10gp);Pedagogiek (10gp)
+Excluir amigo;Excluier amigo
+Soco;Soco
+Bloquear;Blok
+Void Knight Seal;Ongeldige ridderzegel
+Void Knight Top;Ongeldige riddertop
+Void Ranger Helm;Ongeldige Ranger-helm
+Void Knight Gloves;Ongeldige ridderhandschoenen
+Leave <col=ff8040>Barbarian Assault</col> channel;Verlaat het kanaal <col=ff8040>Barbarian Assault</col>
+Switch <col=ff8040>306</col>;Schakel <col=ff8040>306</col> over
+Join <col=ff8040>Barbarian Assault</col> channel;Sluit je aan bij het <col=ff8040>Barbarian Assault</col>-kanaal
+Teleport to <col=ff8040>Barbarian Assault</col>;Teleporteer naar <col=ff8040>Barbaarse aanval</col>
+Take-Tofu;Take-Tofu
+Stock-Up;Voorraad-up
+Take-Crackers;Take-Crackers
+Take-Worms;Take-Wormen
+Reset-wave;Reset-golf
+Write-Role;Schrijfrol
+Teleport to <col=ff8040>Soul Wars</col>;Teleporteer naar <col=ff8040>Soul Wars</col>
+Leave <col=ff8040>Tombs of Amascut</col> channel;Verlaat het kanaal <col=ff8040>Tombs of Amascut</col>
+Switch <col=ff8040>320</col>;Schakel <col=ff8040>320</col> over
+Teleport to <col=ff8040>Tombs of Amascut</col>;Teleporteer naar <col=ff8040>Tombs of Amascut</col>
+Join <col=ff8040>Soul Wars</col> channel;Sluit je aan bij het <col=ff8040>Soul Wars</col>-kanaal
+Leave <col=ff8040>Soul Wars</col> channel;Verlaat het kanaal <col=ff8040>Soul Wars</col>
+Switch <col=ff8040>338</col>;Schakel <col=ff8040>338</col> over
+Teleport to <col=ff8040>God Wars</col>;Teleporteer naar <col=ff8040>God Wars</col>
+Leave <col=ff8040>God Wars</col> channel;Verlaat het <col=ff8040>God Wars</col> kanaal
+Join <col=ff8040>Tombs of Amascut</col> channel;Word lid van het kanaal <col=ff8040>Tombs of Amascut</col>
+Join <col=ff8040>God Wars</col> channel;Sluit je aan bij het <col=ff8040>God Wars</col>-kanaal
+Teleport to <col=ff8040>Shooting Stars</col>;Teleporteer naar <col=ff8040>vallende sterren</col>
+Leave <col=ff8040>Shooting Stars</col> channel;Verlaat het <col=ff8040>Shooting Stars</col>-kanaal
+Join <col=ff8040>Volcanic Mine</col> channel;Sluit je aan bij het kanaal <col=ff8040>Volcanic Mine</col>
+Join <col=ff8040>Shooting Stars</col> channel;Word lid van het <col=ff8040>Shooting Stars</col>-kanaal
+Switch <col=ff8040>323</col>;Schakel <col=ff8040>323</col> over
+Teleport to <col=ff8040>Volcanic Mine</col>;Teleporteer naar <col=ff8040>Vulkanische mijn</col>
+Resources;Bronnen
+Leave <col=ff8040>Volcanic Mine</col> channel;Verlaat het kanaal <col=ff8040>Vulkanische mijn</col>
+Coletar no banco;Coletar geen banco
+View Hunter on the Wiki;Bekijk Hunter op de Wiki
+Karamja Shipyard;Karamja-scheepswerf
+Teleport to <col=ff8040>Shades of Mort'ton</col>;Teleporteer naar <col=ff8040>Shades of Mort'ton</col>
+Join <col=ff8040>Shades of Mort'ton</col> channel;Word lid van het <col=ff8040>Shades of Mort'ton</col>-kanaal
+Switch <col=ff8040>377</col>;Schakel <col=ff8040>377</col> over
+Show time remaining;Resterende tijd weergeven
+Teleport to last boat;Teleporteer naar de laatste boot
+Summon last boat;Roep de laatste boot op
+Deposit-pickaxe;Aanbetaling-houweel
+Quick-Use;Snel gebruik
+Quick-Pass;Snelle pas
+Quick-Enter;Snel invoeren
+Resupply;Bevoorrading
+View Fishing on the Wiki;Bekijk Vissen op de Wiki
+Reset Streak;Streepje opnieuw instellen
+Comprar-1;Vergelijk-1
+Saída;Saída
+Open Livestream;Livestream openen
+Aya;Ja
+Comprar-5;Vergelijk-5
+Cambio de imagen;Cambio van afbeelding
+Sync your collection log with Temple;Synchroniseer uw verzamellogboek met Temple
+Stairs to Dig Site exhibit;Trap naar tentoonstelling Dig Site
+Stairs to Natural History exhibit;Trap naar de tentoonstelling over natuurlijke historie
+Chute;Chute
+Charter-to Port Khazard;Charter-naar Port Khazard
+Excluir;Uitsluiten
+Teleport to <col=ff8040>Guardians of the Rift</col>;Teleporteer naar <col=ff8040>Guardians of the Rift</col>
+Join <col=ff8040>Guardians of the Rift</col> channel;Sluit je aan bij het <col=ff8040>Guardians of the Rift</col>-kanaal
+Ghostly Grasp;Spookachtige greep
+Equipar;Equipar
+Combine;Combineren
+Remover-10;Verwijderaar-10
+Remover-X;Verwijderaar-X
+Remover tudo;Verwijderaar tudo
+Remover-5;Verwijderaar-5
+View <col=ff9040>Farming</col> guide;Bekijk de gids <col=ff9040>Boeren</col>
+Teleport to <col=ff8040>Tithe Farm</col>;Teleporteer naar <col=ff8040>Tidenboerderij</col>
+Join <col=ff8040>Tithe Farm</col> channel;Word lid van het kanaal <col=ff8040>Tithe Farm</col>
+Change icon (corp);Pictogram wijzigen (corp)
+Change icon (melee);Pictogram wijzigen (melee)
+Release all placeholders (18);Alle tijdelijke aanduidingen vrijgeven (18)
+Change icon (ranger);Pictogram wijzigen (ranger)
+Change icon (mage);Pictogram wijzigen (mage)
+Comprar tudo;Vergelijk tudo
+Compre-X;Compre-X
+Poções;Poções
+Vault;Kluis
+Select <col=ff891f>Grid master tabard (g);Selecteer <col=ff891f>Tabblad Rastermaster (g)
+Select <col=ff891f>Swords and emblem (b);Selecteer <col=ff891f>Zwaarden en embleem (b)
+Select <col=ff891f>Grid master tabard (b);Selecteer <col=ff891f>Tabblad Rastermaster (b)
+He/him;Hij/hem
+Comprar;Vergelijk
+Charter-to Musa Point;Charter-naar Musa Point
+Leave <col=ff8040>Shades of Mort'ton</col> channel;Verlaat het <col=ff8040>Shades of Mort'ton</col> kanaal
+Pick-spine;Pick-ruggengraat
+Jump-Across;Spring over
+Quick-board;Snel bord
+Challenge-mode;Uitdagingsmodus
+Change icon (mission's);Pictogram wijzigen (missie's)
+Make <col=ff9040>Ruby bracelet</col>;Maak <col=ff9040>Robijn armband</col>
+More Info;Meer informatie
+Look-up;Kijk omhoog
+Load last duel's settings;Laad de instellingen van het laatste duel
+Load preset settings;Vooraf ingestelde instellingen laden
+Save settings;Instellingen opslaan
+"Whip" settings;Instellingen voor "Zweep".
+"Boxing" settings;Instellingen voor "boksen".
+CKS;CKS
+AJP;AJP
+DKP;DKP
+Select <col=ff9040>Wizard blizzard;Selecteer <col=ff9040>Wizard-blizzard
+Pay (east);Betalen (oost)
+Pay (west);Betaal (west)
+Remove-Bone;Verwijder-bot
+Remove-Pot;Verwijder-pot
+Group name;Groepsnaam
+Create Group;Groep aanmaken
+Teleport to <col=ff8040>Fishing Trawler</col>;Teleporteer naar <col=ff8040>Visstrawler</col>
+Join <col=ff8040>Fishing Trawler</col> channel;Sluit je aan bij het <col=ff8040>Fishing Trawler</col>-kanaal
+Screenshot;Schermafbeelding
++15%;+15%
+Attempt Translation;Poging tot vertaling
++40%;+40%
+-40%;-40%
+Abort;Afbreken
+Steer left;Stuur links
+Steer right;Stuur rechts
+Increase throttle;Verhoog het gaspedaal
+Decrease throttle;Gaspedaal verlagen
+-15%;-15%
+DIR;DIR
+BLP;BLP
+Travel to<col=ff9040> Wilderness Pond;Reis naar<col=ff9040> ​​Wildernisvijver
+Restore;Herstellen
+Swap-options;Swap-opties
+Set Hotkey (Q);Sneltoets instellen (Q)
+Set Hotkey (P);Sneltoets instellen (P)
+Cyrisus;Cyrisus
+Captain Ginea;Kapitein Ginea
+Krystilia;Krystilia
+Steve;Steve
+Konar;Konar
+Kuradal;Kuradal
+Barbarian Guard;Barbaarse Garde
+Lanthus;Lanthus
+Add to;Toevoegen aan
+Remover espaços reservados;Espaços-reserveringen verwijderen
+Contagem de cheques;Contagem de cheques
+Escolha;Escolha
+Elenco;Elenco
+Caminhe aqui;Caminhe aqui
+Alternar aviso;Alternatief advies
+Descer;Descer
+Teletransporte do Mosteiro;Teletransporte do Mosteiro
+Mercado Geral;Mercado Geral
+Ativar;Ativar
+Ver todos os itens;Zie alles wat er is gebeurd
+Procurar;Procureur
+Viagem rápida;Viagem snelle
+Retirar-5;Met pensioen-5
+Viagem;Viagem
+Retirar-X;Retirar-X
+Depósito-10;Deposito-10
+Guia Exibir;Guia Exibir
+Fale com;Fale com
+Retirar-10;Met pensioen-10
+Depósito-1;Deposito-1
+Retirar tudo menos 1;Retirar tudo menos 1
+Fora;Fora
+Configurar;Configureer
+Inspecionar;Inspectie
+Troca;Troca
+Retirar tudo;Ga met pensioen
+Escalar;Escalar
+Retirar-1;Met pensioen-1
+Depósito-5;Deposito-5
+Ancinho;Ancinho
+Embarcar;Embarcar
+Soltar;Soltar
+Cozinhar;Cozinhar
+Esfregar;Esfregar
+Acariciar;Acariciar
+Guia;Guia
+Comuna;Comuna
+Visualizar;Visualiseer
+Sementes;Sementes
+Reiniciar;Reiniciar
+Vazio;Vazio
+Meu;Meu
+Verificar;Verifiëren
+Tendência;Tendencia
+Descansar;Descansar
+Crânio;Cranio
+Cruzar;Cruzar
+Nova guia;Nova guia
+Guilda de Pesca;Gilda de Pesca
+Rede pequena;Red de pequena
+Alternar avisos;Alternatieve adviezen
+Isca;Isca
+Bebida;Bebida
+Reivindique troféus;Reivindique troféus
+Ler;Leer
+Quadro;Quadro
+Roubar;Roubar
+Balsa;Balsa
+Cheirava;Cheirava
+Agarrar;Agarrar
+Tocar;Tocar
+Unid;Unid
+Change filter;Filter wijzigen
+Membro inscrito;Memb inscriptie
+List your clan;Maak een lijst van je clan
+Entrar como convidado;Doe dit als een gezellig samenzijn
+Invite applications;Nodig sollicitaties uit
+Guest minimum QP;Minimum QP voor gasten
+Guest Iron status;Gast Iron-status
+Icons;Pictogrammen
+Kick from chat;Schop uit de chat
+Guests may listen in chat;Gasten kunnen luisteren in de chat
+Cofre;Cofre
+Decantar;Karaf
+Guest minimum skill total;Minimum vaardigheidstotaal van de gast
+Alternar;Alternatief
+Piso superior;Piso superieur
+Verifique as cobranças;Verifique als cobranças
+Teleporte;Teleporteren
+Verificação de integridade;Integriteitsverificatie
+Piso inferior;Piso inferieur
+Luz;Luz
+Doca;Doka
+Pegue ferramentas;Pegue ferramentas
+Pegue-rede;Pegue-rede
+Líquido;Vloeistof
+Adicionar;Aanvullend
+Deposit All;Stort alles
+Estudar;Estudar
+Assassino;Moordenaar
+Desativar;Desativar
+Rodar;Rodar
+Afaste-se;Snel-se
+Atrair;Atrair
+Batida;Batida
+Claro;Claro
+Barra;Barra
+Remover um;Verwijderaar uhm
+Itens de coleção;Het is de coleção
+Preencher;Preencher
+Pautas de reivindicação;Pautas de reivindicação
+Armadura;Armadura
+Escavação;Escavação
+Pagar;Pagar
+Olhe para dentro;Olé voor de dag
+Suba;Suba
+Machado de loja;Machado de loja
+Desmontar;Desmontar
+Alegar;Alegar
+Venda 5<col=ff9040>;Verkoop 5<col=ff9040>
+Idade;Idade
+Venda 10<col=ff9040>;Verkoop 10<col=ff9040>
+Venda 50<col=ff9040>;Verkoop 50<col=ff9040>
+Reparar;Reparatie
+Chupar;Chupar
+Glider-to Lemanto Andra;Zweefvliegtuig naar Lemanto Andra
+Rastreamento;Rastreamento
+Características;Karakteristieken
+Miscelânea;Diversen
+Enclave Ferox;Enclave Ferox
+Tome-5;Tomé-5
+Encher balde;Encher kaal
+Pegue-X;Pegue-X
+Subida rápida;Subida snel
+Início individual;Begin individu
+Verifique munição;Verifique munição
+Amarração;Amarração
+Arpão;Arpão
+Desafio;Desafio
+Perder;Perder
+Juntar;Juntar
+Apagar;Apagar
+Sort-salvamento;Soort salvamento
+Corte;Corte
+Leve qualquer carga;Leve quar carga
+Levar carga;Levar lading
+Leve a última carga;Leve een ultieme lading
+Show key;Toon sleutel
+Instruções;Instructies
+Cooked or raw fish?;Gekookte of rauwe vis?
+Check-Approval;Cheque-goedkeuring
+Passe de compra;Passe de compra
+Passagem;Doorgang
+Olhe para;Olhe para
+Revigorar;Nieuw leven inblazen
+Registro;Register
+Enterrar;Enterrar
+Parceiro;Parceiro
+Limpar;Limpar
+Desmantelar;Ontmanteld
+Contagem de Mortes;Contagem de Mortes
+Contagem do Canyon (leste);Contagem do Canyon (leste)
+Contagem do Canyon (oeste);Contagem do Canyon (oeste)
+Ore;Erts
+Converter;Omvormer
+Quebrar;Quebrar
+Informações;Informatie
+Desbloquear;Desbloqueren
+Atribuição;Atribuição
+Espremer;Espremer
+Saltar para cima;Saltar para cima
+Pular sobre;Pulier nuchter
+Escolher;Escolher
+Dispersão;Verspreiding
+Mergulho;Mergulho
+Mudar;Mudar
+Gráfico;Grafisch
+Roubar de;Roubar de
+Porto Piscarilius;Porto Piscarilius
+Fazer;Fazer
+Release all placeholders (39);Alle tijdelijke aanduidingen vrijgeven (39)
+Investigar;Onderzoeker
+Planador;Planador
+Junte-se às Guerras do Castelo;Junte-se às Guerras do Castelo
+Estatísticas;Statistieken
+Remexer;Remexer
+Release all placeholders (30);Alle tijdelijke aanduidingen vrijgeven (30)
+Loja;Loja
+Operar;Operator
+Redecorar;Opknappen
+Realocar;Realocar
+Lutar em particular;Wees bijzonder
+Invocar;Invocar
+Divino;Goddelijk
+Não;Nee
+Compra-1;Vergelijk-1
+Compra-5;Compra-5
+Jarro de enchimento;Jarro de Enchimento
+Vidência;Videncia
+Fuga rápida;Fuga snel
+Leite;Leite
+Descarregar;Downloaden
+Machado;Machado
+Roubar sino;Roubar sino
+Taxa de cheque;Taxa de cheque
+Fogo;Fogo
+Carregar X;Carregar X
+Espiar;Espiar
+Agitação;Agitação
+Haste de uso;Haast je
+Nadar;Nadar
+Nade para;Nade par
+Bater;Bater
+Mergulhe;Mergulhe
+Entrem;Entrem
+Gazua;Gazua
+Remover carvão;Verwijderaar carvão
+Change icon (coletas);Pictogram wijzigen (coletas)
+Ressaca;Ressaca
+Passar;Passar
+Pular;Pulier
+Localizar;Localizar
+Verifique as etapas;Verifique als etapas
+Sentir;Sentir
+Descida;Descida
+Reforma;Hervorming
+Cliente em potencial;Klant potentieel
+Pule para;Pule para
+Cisalhamento;Cisalhamento
+Watchtower;Uitkijktoren
+Laço;Laço
+Esmagar;Esmagar
+Reivindicações de registro de recompensas;Beloningsregistraties terugbetalen
+Obter registro;Verkrijg registratie
+Retirada;Retirada
+Quadro Rápido;Quadro Rápido
+Pule Através;Pule Através
+Plantar;Plantair
+Pegue o tesouro;Pegue of tesouro
+Atravessar;Atravessar
+Iban Blast;Iban explosie
+Escavar;Escavar
+Corte de cabelo;Corte de cabelo
+Depilar;Ontharing
+Portagem(2-Ecto);Portagem(2-Ecto)
+Pagar (noroeste);Pagar (noroeste)
+Pagar (sudeste);Pagar (sudeste)
+Ir para;Ir par
+Mover;Verhuizer
+Comprar comida;Vergelijk comida
+Comprar itens;Vergelijk itens
+Retirar-10000;Retirar-10000
+Tokens de reivindicação;Tokens voor reivindicação
+Animar;Animar
+Alternar-ressurgimento;Alternatieve ressurgimento
+Empurrar;Empurrar
+Adicionar descobertas;Aanvullend
+Rachadura;Rachadura
+Coletar dados;Coletar dados
+Kick user;Kick-gebruiker
+Chip;Chip
+Marca;Marca
+Trancar;Trancar
+Peças de casco artesanal;Peças de casco artesanaal
+Comprar barco;Vergelijk barco
+Barco personalizado;Barco personaliseert
+Barco de recuperação;Barco de recuperação
+Arte;Arte
+Kits de reparo de artesanato;Reparatiesets van artesanato
+Porto Sarim;Porto Sarim
+Carta;Kaart
+Verifique as pontuações;Verifique as pontuações
+Livro de feitiços;Leven van de feiten
+Venerar;Venerar
+Cancelar tarefa;Tarief annuleren
+Reivindicar recompensas;Reivindicar-vergoedingen
+Relembrar;Herinner je
+Pegue a faca;Pegue een faca
+Caixa de pólvora;Caixa de pólvora
+Observar;Observeer
+Lutar;Lutar
+Comprar amuleto;Vergelijk amulet
+Corantes;Corantes
+Puxar;Puxar
+Prédio sem elevador;Prédio sem lift
+Compre tudo;Bekijk het allemaal
+Conversar;Conversator
+Cura;Cura
+Ver estatísticas;Ver estatistieken
+Amigo do conselho;Amigo doet advies
+Quadro anterior;Quadro voor
+Grande pesquisa;Grote pesquisa
+Capa de reivindicação;Capa de reivindicação
+Dificuldade de conjunto;Verbindingsprobleem
+Privado;Privé
+Aberto para tudo;Aberto voor de tudo
+Pagar (canteiro de árvore);Pagar (canteiro de árvore)
+Combustível;Verbrandingsvermogen
+Picareta;Picareta
+Último destino;Ultieme bestemming
+Fill-in;Invullen
+Consult;Raadplegen
+Passo a passo;Passo een passo
+Saltar;Saltar
+Reduzir;Reduzir
+Grande rede;Grote rede
+Armadilha;Gordeldier
+Track-current;Volgstroom
+Efeitos visuais;Efeitos zichtbaar
+Coletar de;Coletar de
+Fazer um café;Fazer um café
+Verifique os totais;Controleer het geheel
+Jaula;Jaula
+Salto;Salto
+Equilíbrio;Equilibrio
+Obstáculo;Obstakel
+Dig-below;Graaf hieronder
+Alternar K/D;Alternatieve K/D
+Descartar;Ontscartar
+Nenhum;Nenhum
+Toggle-vials;Toggle-flacons
+Search-for-traps;Zoek-naar-vallen
+-20%;-20%
+Conjure;Toveren
++20%;+20%
+Set as Client;Stel in als klant
+Remove-rat;Verwijder-rat
+Quick-falcon;Snelle valk
+Check/Uncharge;Controleren/ontladen
+Set Hotkey (R);Sneltoets instellen (R)
+Set Hotkey (S);Sneltoets instellen (S)
+Playback;Afspelen
+Contact;Contact
+Scan;Scannen
+Castori;Castori
+Prьfen;Prüfen
+Fдllen;Fällen
+Dissolver;Oplosser
+Remove friend Fayyasha;Verwijder vriend Fayyasha
+Remove friend Paladin Doop;Verwijder vriend Paladin Doop
+Remove friend OSRSrockstar;Verwijder vriend OSRSrockstar
+Change icon (clue);Pictogram wijzigen (aanwijzing)
+Implantar;Implantaat
+Aparar;Aparar
+Desembarcar;Desembarcar
+Modificar;Aangepast
+Navegar;Navegar
+Escapar;Ontsnapping
+Retirar;Met pensioen
+Depósito-carga;Deposito-carga
+Select <col=ff9040>Ectoplasmator</col>;Selecteer <col=ff9040>Ectoplasmator</col>
+Select <col=ff9040>10 Tokens/Blighted entangle sack</col>;Selecteer <col=ff9040>10 Tokens/Blighted entangle sack</col>
+Select <col=ff9040>Blighted entangle sack</col>;Selecteer <col=ff9040>Blighted entangle sack</col>
+Sacrifice-fragments;Offerfragmenten
+Select <col=ff9040>Blighted teleport spell sack</col>;Selecteer <col=ff9040>Verwoeste teleport-spreukzak</col>
+Select <col=ff9040>30 Tokens/Spoils of war</col>;Selecteer <col=ff9040>30 tokens/oorlogsbuit</col>
+Select <col=ff9040>Blighted ancient ice sack</col>;Selecteer <col=ff9040>Verwoeste oude ijszak</col>
+Select <col=ff9040>2500 Tokens/Soul cape</col>;Selecteer <col=ff9040>2500 tokens/zielencape</col>
+Select <col=ff9040>Spoils of war</col>;Selecteer <col=ff9040>Oorlogsbuit</col>
+Código de resgate;Herlaadcode
+Itens de férias;Het is een feest
+Switch <col=ff8040>334</col>;Schakel <col=ff8040>334</col> over
+Torre de Vigia;Torre de Vigia
+Vez;Vez
+View journal <col=ff981f>Gertrude's Cat</col>;Bekijk dagboek <col=ff981f>Gertrude's kat</col>
+Gatinho;Gatinho
+Prancha de compra;Prancha de compra
+Release all placeholders (16);Alle tijdelijke aanduidingen vrijgeven (16)
+AKR;AKR
+Switch <col=ff8040>370</col>;Schakel <col=ff8040>370</col> over
+Leave <col=ff8040>Fishing Trawler</col> channel;Verlaat het kanaal <col=ff8040>Visstrawler</col>
+Sacrifício;Opoffering
+O Pandemônio;O Pandemônio
+Pegue-barco;Pegue-barco
+Ponto Musa;Ponto Musa
+Dê-Espada;De-Espada
+Campainha;Campainha
+Hackear;Hackear
+Casa de amigo;Casa de amigo
+Munição;Munição
+Modo de construção;Bouwwijze
+Anel;Anel
+Última visita;Ultima visita
+Sonhar;Sonhar
+Adicionar casa;Aanvullend huis
+Página inicial;Beginpagina
+Check Totals;Controleer de totalen
+Martelo;Martelo
+View Log;Bekijk logboek
+Completo;Compleet
+Clues Collections;Clues-collecties
+View Tasks Dashboard;Bekijk het takendashboard
+Visit;Bezoek
+Climb-off;Afklimmen
+RuneProfile;RuneProfiel
+Alimentar;Alimentaar
+Ajuda;Ajuda
+Misturas Take-5;Mistura's Take-5
+Mistura para tomar;Mistura para tomar
+Take-10 misturas;Take-10 mistura's
+Reset time;Tijd opnieuw instellen
+Minerar;Mineraal
+Resumo do Personagem;Resumo van Personagem
+Abrir Ajudante de Atividades;Abrir Ajudante de Atividades
+Lista de Quests;Lijst met zoektochten
+Alterar Corrida;Alterar Corrida
+Magias;Magia's
+Para o Norte;Para o Norte
+Colosseum;Colosseum
+Duel Arena;Duel Arena
+Negociar;Negociar
+Entrar;Ingang
+Rastelar;Rastelair
+Abrir Loja;Abrir Loja
+Vasculhar;Vasculhar
+Escolher Feitiço;Escolher Feitiço
+Equipamentos;Uitrusting
+Retirar-Tudo;Retirar-Tudo
+Depositar-Tudo;Depositar-Tudo
+Depositar-X;Depositar-X
+Depositar-10;Depositar-10
+Depositar-5;Depositar-5
+Depositar-1;Depositaris-1
+Gerenciar Conta;Gerenciar Conta
+Viajar;Viajar
+Itens Equipados;Itens Equipados
+Músicas;Muziek
+Quantidade padrão: Todos;Hoeveelheid padrão: Todos
+Esconder Menu;Esconder-menu
+Quantidade padrão: 5;Hoeveelheid padrão: 5
+Quantidade padrão: 10;Hoeveelheid padrão: 10
+Mostrar Menu;Mostrar-menu
+Expandir;Uitbreiden
+Mostrar tutorial;Mostrar-tutorial
+Depositar Invetário;Bewaarder Invetário
+Ver tag;Ver-tag
+Esvaziar itens;Dit is het geval
+Esvaziar;Esvaziar
+Beber de;Beber de
+Charte para Porto Khazard;Kaart voor Porto Khazard
+Seu Clã;Zé Clâ
+Grupo;Groep
+Veja outro Clã;Veja uit Clã
+Ofertar;Ofertar
+Customizar;Aangepast
+Digite a Quantidade;Digiteer een Quantidade
+Quantidade padrão: 1;Hoeveelheid padrão: 1
+Voltar;Voltaar
+Preço médio;Preço médio
+Ver itens mantidos na morte;Bekijk de mantidos na morte
+Depositar itens Equipados;Bewaarder van Equipados
+Chamar Seguidor;Chamar Seguidor
+Pregar;Pregar
+Ver guia de preços;Ver guia de preços
+Histórico;Historisch
+Saltar para baixo;Saltar voor het leven
+Configurações de bloqueio de depósito;Blokkeer depositoconfiguraties
+Bater na Porta;Bater na Porta
+Florescer;Bloem
+Elenco Flor;Elenco Flor
+Aldeia dos Videntes;Aldeia dos Videntes
+Camelo;Camelo
+Esconder Itens Equipados;Esconder Itens Equipados
+Fechar Ajudante de Atividades;Fechar Ajudante de Atividades
+Colocar dentro;Colocar dentro
+Favorite;Favoriet
+Show more;Laat meer zien
+Arrombar;Arrombar
+Mudar de Nome;Mudar de Nome
+Retirar-1000;Met pensioen-1000
+Orar;Orar
+Oferta;Oferta
+Change icon (runas);Pictogram wijzigen (runa's)
+Change icon (teleport);Pictogram wijzigen (teleporteren)
+Change icon (seed);Pictogram wijzigen (seed)
+Mos Le'Harmless;Mos Le'Harmless
+Charter-to Mos Le'Harmless;Charter aan Mos Le'Harmless
+Charter-to Port Tyras;Charter-naar Port Tyras
+Port Tyras;Haven Tyras
+Transport;Vervoer
+Sew;Naaien
+Toggle-warning;Toggle-waarschuwing
+Task;Taak
+Set Hotkey (Not set);Sneltoets instellen (niet ingesteld)
+Float;Vlot
+Tosquiar;Tosquiar
+Fornalha;Fornalha
+Change icon (rocks);Pictogram wijzigen (stenen)
+Verifique elogios;Verifique elogies
+Use Suggested Settings;Gebruik voorgestelde instellingen
+Castle Drakan;Kasteel Drakan
+Ponder;Denk na
+Mine-through;Mijn-door
+Pray-to;Bid tot
+Acknowledge;Erkennen
+Pull-lever;Trekhendel
+Take it;Neem het
+View <col=ff9040>Castle Map</col>;Bekijk <col=ff9040>Kasteelkaart</col>
+Place-item;Plaats-item
+Rotate Anticlockwise;Draai tegen de klok in
+Rotate Clockwise;Met de klok mee draaien
+Remove-emblem;Verwijder embleem
+Leave it;Laat het liggen
+Drag;Sleuren
+Take them;Neem ze
+Discard-1;Weggooien-1
+Discard-5;Weggooien-5
+Discard-10;Weggooien-10
+Discard-50;Gooi-50 weg
+Take-supplies;Take-benodigdheden
+Harvest-from;Oogst-van
+Wrangle;Ruzie
+BLS;BLS
+Interface;Interface
+Rede;Red
+Trocar de mundo;Trocar de mondo
+Reivindicar;Reivindicar
+Take-Vial;Neem-Vial
+Take-Meat;Take-vlees
+Enviar Mensagem;Enviar Mensagem
+Modificar Oferta;Aangepast aanbod
+Classificação;Classificatie
+Espectador;Espectador
+Barbear;Barbeer
+Desenterrar;Desenterrar
+Rezar;Rezar
+Girar no sentido horário;Girar no sentido horário
+Girar no sentido anti-horário;Girar no sentido anti-horário
+Admirar;Bewonder
+Sentado;Sentado
+Shoot-at;Schiet op
+Reverter;Omkeerinrichting
+Menu Teleporte;Menu Teleport
+Modo Desafio;Modo Desafio
+Metamorfose;Metamorfose
+Trabalhar em;Trabalhar em
+Atualizar;Atualizar
+Lithkren;Lithkren
+Remover decorações;Decoraties verwijderen
+-6%;-6%
++6%;+6%
+Show less;Laat minder zien
+Pull-back;Terugtrekken
+Give-feathers;Geef-veren
+Trade-teeth;Handel-tanden
+Crystalise-potion;Kristalliseer-drankje
+Configuração;Configuratie
+Procure por armadilhas;Koop gordeldieren
+Extinguir;Blusser
+Ofertar<col=ff9040>;Aanbieding<col=ff9040>
+Change icon (boses);Pictogram wijzigen (boses)
+Sync (Right-click Search);Synchroniseren (met de rechtermuisknop zoeken)
+Release all placeholders (69);Alle tijdelijke aanduidingen vrijgeven (69)
+Select <col=ff9040>Blighted vengeance sack</col>;Selecteer <col=ff9040>Verwoeste wraakzak</col>
+Select <col=ff9040>Soul cape</col>;Selecteer <col=ff9040>Zielcape</col>
+Select <col=ff9040>Blighted karambwan</col>;Selecteer <col=ff9040>Verwoeste karambwan</col>
+Select <col=ff9040>Blighted manta ray</col>;Selecteer <col=ff9040>Verwoeste mantarog</col>
+Padrão;Padrão
+Wipe;Veeg
+Seek;Zoeken
+Sign up;Schrijf je in
+Max/Med;Max/Med
+Join fight;Sluit je aan bij de strijd
+Zerker;Zerker
+Toggle set effect;Schakel het ingestelde effect in of uit
+<col=ff0000>Delete tag tab;<col=ff0000>Tabblad met tags verwijderen
+CIP;CIP
+Take pages;Neem pagina's
+Store-2,000;Winkel-2.000
+Bryophyta;Bryophyta
+Obor;Obor
+Branda and Eldric;Branda en Eldric
+Change icon (royal titans);Pictogram wijzigen (koninklijke titanen)
+Dentro;Dentro
+Carregar;Carregar
+Release all placeholders (42);Alle tijdelijke aanduidingen vrijgeven (42)
+Release all placeholders (36);Alle tijdelijke aanduidingen vrijgeven (36)
+Bank-All;Bank-Alles
+Destroy-All;Vernietig alles
+Destroy-X;Vernietig-X
+Bank-X;Bank-X
+Withdraw all to;Trek alles terug naar
+Select <col=ff981f>Plugins;Selecteer <col=ff981f>Plug-ins
+Last-destination (AKP);Laatste bestemming (AKP)
+Release all placeholders (32);Alle tijdelijke aanduidingen vrijgeven (32)
+Release all placeholders (35);Alle tijdelijke aanduidingen vrijgeven (35)
+Cross-to;Cross-naar
+Tier 1 Cape;Niveau 1 Kaap
+Tier 2 Cape;Niveau 2 Kaap
+Rune Pouch Note;Rune-zakje Opmerking
+Magic Shortbow Scroll;Magische kortboogrol
+Ancient Halo;Oude halo
+Blighted Manta Ray;Verwoeste Mantarog
+Ghorrock Teleport Tablet;Ghorrock Teleport-tablet
+Crystal Weapon Seed;Kristallen wapenzaad
+Dark Bow Blue Paint;Donkere boogblauwe verf
+Lava Staff Upgrade Kit;Upgradekit voor lavapersoneel
+Bandos Halo;Bandos Halo
+Ornate Maul Handle;Sierlijke Maul-handgreep
+Blighted Teleport Spell Sack;Verwoeste Teleport Spell Sack
+Saradomin's Tear;De traan van Saradomin
+Carrallanger Teleport Tablet;Carrallanger Teleport-tablet
+Blighted Ancient Ice Sack;Verwoeste oude ijszak
+Looting Bag Note;Opmerking plunderzak
+Bolt Rack;Boutrek
+Tier 5 Cape;Niveau 5 Kaap
+Tier 4 Cape;Niveau 4 Kaap
+Blighted Super Restore (4);Verwoest Super Restore (4)
+Ward Upgrade Kit;Afdelingsupgradekit
+Guthixian Icon;Guthixiaans icoon
+Senntisten Teleport Tablet;Senntisten Teleport-tablet
+Dark Bow Yellow Paint;Donkere boog gele verf
+Tier 6 Cape;Niveau 6 Kaap
+Lassar Teleport Tablet;Lassar Teleport-tablet
+Golden Bandos Special;Gouden Bandos-special
+Frozen Whip Mix;Bevroren zweepmix
+Vesta's longsword (inactive);Vesta's langzwaard (inactief)
+Dragonstone Bolt (e);Drakensteenbout (e)
+Tier 3 Cape;Niveau 3 Kaap
+Wilderness tablet;Wildernis tablet
+Ice Blitz;IJsblitz
+Blighted Entangle Sack;Verwoeste verstrengelde zak
+Deadman's Legs;Deadman's benen
+Looting Bag;Plunderende tas
+Climbing Boots;Klimschoenen
+<trans=127>Start cloud sync;<trans=127>Cloudsynchronisatie starten
+Set default;Standaard instellen
+Rename;Hernoemen
+Export;Exporteren
+<col=ff0000>Delete;<col=ff0000>Verwijderen
+Duplicate;Duplicaat
+Shadow Burst;Schaduwuitbarsting
+Blood Burst;Bloed barst
+Ice Burst;IJs barst
+Shadow Rush;Schaduwstorm
+Trouver Parchment;Trouver-perkament
+Swift Blade;Snel blad
+Blighted Vengeance Sacks;Verwoeste wraakzakken
+Rune Arrow;Runenpijl
+Release all placeholders (23);Alle tijdelijke aanduidingen vrijgeven (23)
+Deadman's Chest;Dodemansborst
+Adamant Arrow;Adamante pijl
+Dragon Pickaxe Upgrade Kit;Upgradekit voor Dragon-houweel
+Last-destination (DJQ);Laatste bestemming (DJQ)
+Last-destination (AJS);Laatste bestemming (AJS)
+Last-destination (AIR);Laatste bestemming (AIR)
+Pick-pocket;Zakkenroller
+Heart;Hart
+Change icon (pets);Pictogram wijzigen (huisdieren)
+Brincar com;Brincar com
+Reset-time;Reset-tijd
+Create-book;Maak-boek
+Continue-trek;Doorgaan-trek
+Evade-event;Ontwijk-gebeurtenis
+Return-to-Paterdomus;Terugkeer naar Paterdomus
+Swing-from;Swing-van
+Return-to-Burgh;Terugkeer naar Burgh
+Poison Waste;Gif afval
+Definir destino;Bepaal het doel
+Teleporte para o destino;Teleporteer naar uw bestemming
+Copy Load-out;Kopieer Load-out
++5;+5
+View journal <col=ff981f>Temple of the Eye</col>;Bekijk dagboek <col=ff981f>Tempel van het Oog</col>
+View journal <col=ff981f>Witch's Potion</col>;Bekijk dagboek <col=ff981f>Heksendrank</col>
+View journal <col=ff981f>Fishing Contest</col>;Bekijk dagboek <col=ff981f>Visserijwedstrijd</col>
+Pacote;Pacote
+Ver Lista de Amigos;Ver Lista de Amigos
+Descompacte;Ontcompacteren
+Ver Lista de Ignorados;Ver Lista de Ignorados
+Coletar-Item;Coletar-Item
+Coletar-Nota;Coletar-Nota
+Trocar capa de fogo;Trocar capa de fogo
+Release all placeholders (48);Alle tijdelijke aanduidingen vrijgeven (48)
+Armadyl Halo;Armadyl Halo
+Select <col=ff9040>10 Tokens/Blighted teleport spell sack</col>;Selecteer <col=ff9040>10 Tokens/Blighted teleport-spreukzak</col>
+Select <col=ff9040>10 Tokens/Blighted anglerfish</col>;Selecteer <col=ff9040>10 Tokens/Blighted zeeduivel</col>
+Select <col=ff9040>10 Tokens/Blighted vengeance sack</col>;Selecteer <col=ff9040>10 tokens/verwoeste wraakzak</col>
+Select <col=ff9040>10 Tokens/Blighted ancient ice sack</col>;Selecteer <col=ff9040>10 tokens/verwoeste oude ijszak</col>
+Select <col=ff9040>10 Tokens/Blighted manta ray</col>;Selecteer <col=ff9040>10 tokens/verwoeste mantarog</col>
+Select <col=ff9040>10 Tokens/Blighted karambwan</col>;Selecteer <col=ff9040>10 tokens/verwoeste karambwan</col>
+Select <col=ff9040>250 Tokens/Ectoplasmator</col>;Selecteer <col=ff9040>250 Tokens/Ectoplasmator</col>
+Toggle Respawn;Schakel Respawn in
+Toggle Effect;Wisseleffect
+Tie-rope;Stropdas
+Rune Pouch;Rune-zakje
+Golden Armadyl Special;Gouden Armadyl-special
+Deadman's Cape;Deadmans Kaap
+Decorative Emblem;Decoratief embleem
+Brassica Halo;Brassica halo
+Seren Halo;Seren Halo
+Adicionar Todos;Aanvullend Todos
+Adicionar<col=ff9040>;Aanvullend<col=ff9040>
+Surrender;Overgave
+Red Rock;Rode Rots
+Teleport to <col=ff8040>TzHaar Fight Pit</col>;Teleporteer naar <col=ff8040>TzHaar Fight Pit</col>
+Join <col=ff8040>TzHaar Fight Pit</col> channel;Sluit je aan bij het <col=ff8040>TzHaar Fight Pit</col>-kanaal
+Switch <col=ff8040>362</col>;Schakel <col=ff8040>362</col> over
+Botﾃｭn;Botﾃｭn
+Take-eggs;Neem eieren
+Open-stomach;Open buik
+Short fuse;Korte lont
+Medium fuse;Middelmatige zekering
+Long fuse;Lange zekering
+Ancient Vault;Oude kluis
+Explosive egg;Explosief ei
+Tell-red;Tell-rood
+Take-Arrows;Neem-pijlen
+Medic;Medic
+Attacker;Aanvaller
+Tell-green;Tell-groen
+Poison egg;Vergif ei
+Take-Runes;Take-runen
+Defender;Verdediger
+Tell-blue;Tell-blauw
+Level-up;Niveau omhoog
+Advanced;Geavanceerd
+Stun egg;Stun ei
+Omega egg;Omega-ei
+Collector;Verzamelaar
+Tell-accurate;Vertel-nauwkeurig
+Tell-defensive;Vertel-defensief
+Tell-aggressive;Vertel-agressief
+Tell-controlled;Tell-gecontroleerd
+Fill-X;Vul-X
+Fill-All;Vul alles
+Eat-from;Eet-van
+Healer;Genezer
+Call;Telefoongesprek
+Get-Spikes;Get-Spikes
+Dunk;Duik
+Tell-crackers;Tell-crackers
+Tell-tofu;Tell-tofu
+Tell-worms;Tell-wormen
+Fill potions;Vul drankjes
+Custom quantity: 2,000;Aangepaste hoeveelheid: 2.000
+Watson;Watson
+Deposit potions;Stort drankjes
+Smoke Rush;Rookstorm
+Target Teleport Scroll;Doel Teleport Scroll
+Dark Bow Green Paint;Donkere booggroene verf
+Dark Bow White Paint;Donkere boog witte verf
+Release all placeholders (37);Alle tijdelijke aanduidingen vrijgeven (37)
+Sangvesti;Sangvesti
+Release all placeholders (41);Alle tijdelijke aanduidingen vrijgeven (41)
+Release all placeholders (22);Alle tijdelijke aanduidingen vrijgeven (22)
+Release all placeholders (5);Alle tijdelijke aanduidingen vrijgeven (5)
+Release all placeholders (3);Alle tijdelijke aanduidingen vrijgeven (3)
+Release all placeholders (31);Alle tijdelijke aanduidingen vrijgeven (31)
+DIQ;DIQ
+Charter-to Sunset Coast;Charter-naar Sunset Coast
+Bottle-boat;Flessenboot
+Tell-meat;Vertel-vlees
+Release all placeholders (11);Alle tijdelijke aanduidingen vrijgeven (11)
+Release all placeholders (28);Alle tijdelijke aanduidingen vrijgeven (28)
+Accept challenge;Accepteer uitdaging
+1 Def Pure;1 Zeker puur
+Select <col=ff9040>Blighted anglerfish</col>;Selecteer <col=ff9040>Verwoeste zeeduivel</col>
+Balance-across;Balans-over
+9;9 
+Fill-1;Vul-1
+Fill-5;Vul-5
+View Magic on the Wiki;Bekijk magie op de Wiki
+Donate-X;Doneer-X
+Donate-10;Doneer-10
+Donate-5;Doneer-5
+Donate;Doneer
+Donate-All;Doneer-alles
+Travel-Start;Reis-start
+Travel-End;Reis-einde
+Trade-Builders-Store;Handelsbouwers-winkel
+Trade-General-Store;Handel-algemeen-winkel
+Check rank;Controleer rang
+Check Rank;Controleer rang
+Set head slot to;Stel de kopsleuf in op
+Set legs slot to;Stel de pootgleuf in op
+Set torso slot to;Stel de rompgleuf in op
+Set amulet slot to;Zet de amuletgleuf op
+Set boots slot to;Stel de laarzensleuf in op
+Set hands slot to;Zet de wijzerssleuf op
+Set cape slot to;Stel de capegleuf in op
+Charter-to Aldarin;Charter-naar Aldarin
+Release all placeholders (10);Alle tijdelijke aanduidingen vrijgeven (10)
+Last-destination (CLP);Laatste bestemming (CLP)
+Examine <col=ff981f>Infinity boots;Bekijk <col=ff981f>Infinity-laarzen
+Select <col=ff981f>Infinity boots;Selecteer <col=ff981f>Infinity-laarzen
+Take-cutting;Take-cutting
+Release-all;Laat alles los
+Chant;Zingen
+Pelt;Pelt
+Prepare-fish;Bereid vis
+-10%;-10%
++10%;+10%
+Smash-ice;Smash-ijs
+Step-off;Stap af
+Walk-to;Loop-naar
+Press;Druk op
+Dismantle kit;Demontageset
+Get-down;Naar beneden gaan
+Stand-on;Stand-aan
+Throw-at;Gooi-naar
+Open (private);Open (privé)
+Open (normal);Open (normaal)
+Travel to<col=ff9040> The Clocktower;Reis naar<col=ff9040> ​​De Klokkentoren
+Travel to<col=ff9040> Tree Gnome Village;Reis naar<col=ff9040> ​​Boomkabouterdorp
+Push-against;Push-tegen
+Exit-through;Uitgang via
+Set shield slot to;Stel de schildsleuf in op
+Set weapon slot to;Stel wapensleuf in op
+Release all placeholders (53);Alle tijdelijke aanduidingen vrijgeven (53)
+Travel to<col=ff9040> Tree Gnome Stronghold;Reis naar <col=ff9040> ​​Boomkabouterbolwerk
+Travel to<col=ff9040> Chaos Druid Tower;Reis naar<col=ff9040> ​​Chaos Druid Tower
+Make <col=ff9040>Sapphire bracelet</col>;Maak <col=ff9040>Saffierarmband</col>
+Botín;Botín
+AKQ;AKQ
+CJQ;CJQ
+DKS;DKS
+Teleport to <col=ff8040>Last Man Standing</col>;Teleporteer naar <col=ff8040>Last Man Standing</col>
+Join <col=ff8040>Last Man Standing</col> channel;Word lid van het <col=ff8040>Last Man Standing</col>-kanaal
+Golden Zamorak Special;Gouden Zamorak-special
+Volcanic Whip Mix;Vulkanische zweepmix
+LatamDark;LatamDonker
+Expel;Verdrijven
+Resignation;Ontslag
+Wipe title;Titel wissen
+Emote;Emote
+Sing;Zingen
+Change icon (armaduras);Pictogram wijzigen (armaduras)
+Select <col=ff981f>Dust rune;Selecteer <col=ff981f>Stofrune
+Examine <col=ff981f>Dust rune;Onderzoek <col=ff981f>Dust rune
+Select <col=ff981f>Chaos rune;Selecteer <col=ff981f>Chaos-rune
+Examine <col=ff981f>Chaos rune;Onderzoek <col=ff981f>Chaos-rune
+Release all placeholders (8);Alle tijdelijke aanduidingen vrijgeven (8)
+Join <col=ff8040>Mage Training Arena</col> channel;Word lid van het <col=ff8040>Mage Training Arena</col>-kanaal
+Teleport to <col=ff8040>Mage Training Arena</col>;Teleporteer naar <col=ff8040>Mage Training Arena</col>
+Wyrmscraig;Wyrmscraig
+Simple;Eenvoudig
+<col=00afff>Resume autochat</col>;<col=00afff>Autochat hervatten</col>
+<col=00afff>Pause autochat</col>;<col=00afff>Autochat onderbreken</col>
+Look-through;Doorkijk
+PK broadcasts;PK-uitzendingen
+PK broadcast value;PK-uitzendwaarde
+Player defeat broadcasts;Uitzendingen over nederlaag van spelers
+Loot key broadcasts;Loot belangrijke uitzendingen
+Combat Achievement task threshold;Taakdrempel voor gevechtsprestaties
+Joining/Leaving clan;Lid worden/verlaten van de clan
+Broadcasts from main world only;Alleen uitzendingen vanuit de hoofdwereld
+Achievement diary broadcasts;Prestatiedagboekuitzendingen
+Quest broadcasts;Quest-uitzendingen
+Hardcore death broadcasts;Hardcore death-uitzendingen
+Level-up broadcasts;Uitzendingen op niveau
+Collection log broadcasts;Uitzendingen van verzamellogboeken
+Level-up increments of 1;Niveau-up-stappen van 1
+Level-up increments of 5;Niveau-up-stappen van 5
+Loot key broadcast value;Buit sleutel uitzendingswaarde
+Level-up increments of 10;Niveau-up-stappen van 10
+Personal best broadcasts;Persoonlijk beste uitzendingen
+Distract;Afleiden
+Burn-down;Burn-down
+View <col=ff9040>Gauntlet Map</col>;Bekijk <col=ff9040>Handschoenkaart</col>
+Pedal;Pedaal
+Échanger avec;Wisselaar avec
+Shape-Air;Vorm-lucht
+Shape-Water;Vorm-Water
+Shape-Fire;Vorm-vuur
+Shape-Earth;Vorm-Aarde
+Select Fragment 3;Selecteer Fragment 3
+Rotate the Fragment;Draai het fragment
+Select Fragment 2;Selecteer Fragment 2
+Flip Fragment Over;Fragment omdraaien
+Move Fragment Left;Verplaats fragment naar links
+Select Fragment 1;Selecteer Fragment 1
+Move Fragment Down;Verplaats fragment naar beneden
+Move Fragment Right;Verplaats fragment naar rechts
+Shape-Mind;Vorm-geest
+Move Fragment Up;Verplaats fragment omhoog
+Charter-to Corsair Cove;Charter-naar Corsair Cove
+Restore <col=ff9040>Minimap</col>;Herstel <col=ff9040>Minimap</col>
+Last-destination (DIR);Laatste bestemming (DIR)
+Enter-cloud;Enter-cloud
+Submit;Indienen
+Examine <col=ff981f>Mist rune;Onderzoek <col=ff981f>Mistrune
+Select <col=ff981f>Mist rune;Selecteer <col=ff981f>Mistrune
+Go-up;Ga omhoog
+Swim-to;Zwem naar
+The Summer Shore;De zomerkust
+Quick-open;Snel geopend
+View Slayer on the Wiki;Bekijk Slayer op de Wiki
+Wyrmscraig Cavern;Wyrmscraig-grot
+Scorch;Schroeien
+Flare;Gloed
+Ring-last-destination (BLP);Ring-laatste bestemming (BLP)
+Zerstören;Zerstören
+Take-one;Neem één
+ÐžÑ‚Ð¼ÐµÐ½Ð°;ÐžÑ‚Ð¼ÐµÐ½Ð°
+Ð˜Ð´Ð¸ Ñ�ÑŽÐ´Ð°;Ð˜Ð´Ð¸ Ñ�ÑŽÐ´Ð°
+Release all placeholders (20);Alle tijdelijke aanduidingen vrijgeven (20)
+Cross-bridge;Kruisbrug
+Store-1,000;Winkel-1.000
+Release all placeholders (7);Alle tijdelijke aanduidingen vrijgeven (7)
+Remove <col=ff981f>Dragonstone bolts (e);Verwijder <col=ff981f>Dragonstone-bouten (e)
+Select-trial;Select-proefperiode
+Deliver-rum;Lever-rum
+Minimise;Minimaliseer
+Exit trial;Verlaat de rechtszaak
+Quick-reset trial;Proefversie met snelle reset
+Reset trial;Proef opnieuw instellen
+Release all placeholders (2);Alle tijdelijke aanduidingen vrijgeven (2)
+Make <col=ff9040>Diamond amulet (u)</col>;Maak <col=ff9040>Diamantenamulet (u)</col>
+Make <col=ff9040>Diamond ring</col>;Maak <col=ff9040>Diamantenring</col>
+Small net;Klein net
+Make Party;Maak een feestje
+Friends/Clan Only;Alleen vrienden/clan
+View Party:;Bekijk partij:
+Flip;Omdraaien
+Begin;Beginnen
+re:^Withdraw-([\d,]+)$;Opnemen-$1
+re:^Deposit-([\d,]+)$;Storten-$1
+re:^Withdraw ([\d,]+)$;Opnemen $1
+re:^Deposit ([\d,]+)$;Storten $1
+re:^Buy: ([\d,]+) x (.+)$;Kopen: $1 x $2
+re:^Sell: ([\d,]+) x (.+)$;Verkopen: $1 x $2
+re:^Buy ([\d,]+)$;Kopen $1
+re:^Sell ([\d,]+)$;Verkopen $1
+re:^Buy-([\d,]+)$;Kopen-$1
+re:^Sell-([\d,]+)$;Verkopen-$1
+re:^Default quantity: ([\d,]+)$;Standaardhoeveelheid: $1
+re:^Add friend (.+)$;Vriend toevoegen $1
+re:^Add ignore (.+)$;Voeg negeren toe $1
+re:^Remove-([\d,]+)$;Verwijderen-$1
+re:^Take-([\d,]+)$;Nemen-$1
+Enable-autotele;Autotele inschakelen
+Challenges;Uitdagingen
+Information;Informatie
+Reclaim-items;Items terugvorderen
+Align-net;Net uitlijnen
+Create-last;Laatste maken
+Remove-plank;Plank verwijderen

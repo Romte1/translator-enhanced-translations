@@ -1,0 +1,318 @@
+
+Description: <col=ffffff>Kill a Bloodveld.</col>;Beschreibung: <col=ffffff>Töte einen Bloodveld.</col>
+I can start this quest by talking to <col=800000>Sir Amik Varze<col=000080> in the <col=800000>White Knights' Castle<col=000080>.;Ich kann diese Quest starten, indem ich mit <col=800000>Sir Amik Varze<col=000080> in der <col=800000>White Knights' Castle<col=000080> spreche.
+Show on Map;Auf Karte anzeigen
+I can start this quest by talking to <col=800000>Elena<col=000080> at her home in northern <col=800000>East Ardougne<col=000080>.;Ich kann diese Quest starten, indem ich mit <col=800000>Elena<col=000080> in ihrem Haus im nördlichen <col=800000>East Ardougne<col=000080> spreche.
+I can start this quest by talking to <col=800000>Willow<col=000080> on the path south of <col=800000>Ice Mountain<col=000080>.;Ich kann diese Quest starten, indem ich mit <col=800000>Willow<col=000080> auf dem Pfad südlich des <col=800000>Ice Mountain<col=000080> spreche.
+I can start this quest by talking to <col=800000>Doric<col=000080> at his home north of <col=800000>Falador<col=000080>.;Ich kann diese Quest starten, indem ich mit <col=800000>Doric<col=000080> in seinem Haus nördlich von <col=800000>Falador<col=000080> spreche.
+I can start this quest by talking to <col=800000>Aris<col=000080> in her tent in <col=800000>Varrock Square<col=000080>.;Ich kann diese Quest starten, indem ich mit <col=800000>Aris<col=000080> in ihrem Zelt im <col=800000>Varrock Square<col=000080> spreche.
+I can start this quest by talking to <col=800000>Captain Tock<col=000080> north of <col=800000>Port Sarim<col=000080>.;Ich kann diese Quest starten, indem ich mit <col=800000>Captain Tock<col=000080> nördlich von <col=800000>Port Sarim<col=000080> spreche.
+I can start this quest by talking to the <col=800000>Guildmaster<col=000080> in the <col=800000>Champions' Guild<col=000080>.;Ich kann diese Quest starten, indem ich mit dem <col=800000>Guildmaster<col=000080> in der <col=800000>Champions' Guild<col=000080> spreche.
+I can start this quest by talking to the <col=800000>Goblin Generals<col=000080> in <col=800000>Goblin Village<col=000080>.;Ich kann diese Quest starten, indem ich mit den <col=800000>Goblin Generals<col=000080> im <col=800000>Goblin Village<col=000080> spreche.
+I can start this quest by talking to <col=800000>Redbeard Frank<col=000080> on the <col=800000>Port Sarim<col=000080> docks.;Ich kann diese Quest starten, indem ich mit <col=800000>Redbeard Frank<col=000080> an den Docks von <col=800000>Port Sarim<col=000080> spreche.
+I can start this quest by talking to <col=800000>Rantz<col=000080> south east of <col=800000>Gu'Tanoth<col=000080>.;Ich kann diese Quest starten, indem ich mit <col=800000>Rantz<col=000080> südöstlich von <col=800000>Gu'Tanoth<col=000080> spreche.
+I can start this quest by talking to <col=800000>Curator Haig Halen<col=000080> in the <col=800000>Varrock Museum<col=000080>.;Ich kann diese Quest starten, indem ich mit <col=800000>Curator Haig Halen<col=000080> im <col=800000>Varrock Museum<col=000080> spreche.
+I can start this quest by talking to <col=800000>Bill Teach<col=000080> in the <col=800000>Green Ghost Inn<col=000080> in <col=800000>Port Phasmatys<col=000080>.;Ich kann diese Quest starten, indem ich mit <col=800000>Bill Teach<col=000080> im <col=800000>Green Ghost Inn<col=000080> in <col=800000>Port Phasmatys<col=000080> spreche.
+I can start this quest by talking to <col=800000>Veronica<col=000080> south of <col=800000>Draynor Manor<col=000080>.;Ich kann diese Quest starten, indem ich mit <col=800000>Veronica<col=000080> südlich von <col=800000>Draynor Manor<col=000080> spreche.
+I can start this quest by talking to <col=800000>Ava<col=000080> in <col=800000>Draynor Manor<col=000080>.;Ich kann diese Quest starten, indem ich mit <col=800000>Ava<col=000080> im <col=800000>Draynor Manor<col=000080> spreche.
+I can start this quest by talking to <col=800000>Ur-tag<col=000080> at his home in <col=800000>Dorgesh-Kaan<col=000080>.;Ich kann diese Quest starten, indem ich mit <col=800000>Ur-tag<col=000080> in seinem Haus in <col=800000>Dorgesh-Kaan<col=000080> spreche.
+I can start this quest by talking to <col=800000>Mori<col=000080> in <col=800000>Arceuus<col=000080>.;Ich kann diese Quest starten, indem ich mit <col=800000>Mori<col=000080> in <col=800000>Arceuus<col=000080> spreche.
+I can start this quest by talking to <col=800000>Guildmaster Apatura<col=000080> in the <col=800000>Hunter Guild<col=000080>.;Ich kann diese Quest starten, indem ich mit <col=800000>Guildmaster Apatura<col=000080> in der <col=800000>Hunter Guild<col=000080> spreche.
+I started this quest by talking to the <col=800000>Cook<col=000080> in <col=800000>Lumbridge Castle<col=000080>.;Ich habe diese Quest gestartet, indem ich mit dem <col=800000>Cook<col=000080> in <col=800000>Lumbridge Castle<col=000080> gesprochen habe.
+I can start this quest by talking to <col=800000>Wizard Mizgog<col=000080> in the <col=800000>Wizards' Tower<col=000080>.;Ich kann diese Quest starten, indem ich mit <col=800000>Wizard Mizgog<col=000080> im <col=800000>Wizards' Tower<col=000080> spreche.
+I can start this quest by talking to <col=800000>Romeo<col=000080> in <col=800000>Varrock Square<col=000080>.;Ich kann diese Quest starten, indem ich mit <col=800000>Romeo<col=000080> im <col=800000>Varrock Square<col=000080> spreche.
+I can start this quest by talking to <col=800000>Cassius<col=000080> south of the <col=800000>Lumbridge Windmill<col=000080>.;Ich kann diese Quest starten, indem ich mit <col=800000>Cassius<col=000080> südlich des <col=800000>Lumbridge Windmill<col=000080> spreche.
+I can start this quest by talking to <col=800000>Abigale<col=000080> by the shore in <col=800000>Lumbridge Swamp<col=000080>.;Ich kann diese Quest starten, indem ich mit <col=800000>Abigale<col=000080> am Ufer im <col=800000>Lumbridge Swamp<col=000080> spreche.
+I can start this quest by talking to <col=800000>Jamila<col=000080> at her stall in <col=800000>Sophanem<col=000080>.;Ich kann diese Quest starten, indem ich mit <col=800000>Jamila<col=000080> an ihrem Stand in <col=800000>Sophanem<col=000080> spreche.
+<str>It was the Duke of Lumbridge's birthday, but his cook had;<str>Es war der Geburtstag des Herzogs von Lumbridge, aber sein Koch hatte
+<str>forgotten to buy the ingredients he needed to make him a;<str>vergessen, die Zutaten zu kaufen, die er brauchte, um ihm einen
+<str>cake. I brought the cook an egg, some flour and some milk and;<str>Kuchen zu backen. Ich brachte dem Koch ein Ei, etwas Mehl und etwas Milch und
+<str>the cook made a delicious looking cake with them.;<str>der Koch machte daraus einen köstlich aussehenden Kuchen.
+<str>As a reward he now lets me use his high quality range which;<str>Als Belohnung lässt er mich jetzt seine hochwertige Feuerstelle benutzen.
+<str>lets me burn things less whenever I wish to cook there.;<str>lässt mich weniger brennen, wann immer ich dort kochen möchte.
+<col=000000>Catch a Cerulean twitch.<col=ffffff>(<col=800000>11 Hunter<col=000080><col=ffffff>);<col=000000>Fange ein Cerulean twitch.<col=ffffff>(<col=800000>11 Hunter<col=000080><col=ffffff>)
+<col=000000>Change your boots at Yrsa's Shoe Store.<col=ffffff>(<col=800000>The Fremennik Trials<col=000080><col=ffffff>);<col=000000>Wechsle deine Stiefel im Yrsa's Shoe Store.<col=ffffff>(<col=800000>The Fremennik Trials<col=000080><col=ffffff>)
+<col=000000>Kill 5 Rock crabs.;<col=000000>Töte 5 Rock crabs.
+<col=000000>Craft a tiara from scratch in Rellekka.;<col=000000>Stelle in Rellekka eine Tiara von Grund auf her.
+<col=000000>Browse the Stonemasons shop.<col=ffffff>(<col=800000>Started The Giant Dwarf<col=000080><col=ffffff>);<col=000000>Durchsuche den Stonemasons shop.<col=ffffff>(<col=800000>Started The Giant Dwarf<col=000080><col=ffffff>)
+<col=000000>Collect 5 Snape grass on Waterbirth Island.;<col=000000>Sammle 5 Snape grass auf Waterbirth Island.
+<col=000000>Steal from the Keldagrim crafting or baker's stall.;<col=000000>Stehle vom Keldagrim crafting oder baker's stall.
+<col=000000>Fill a bucket with water at the Rellekka well.;<col=000000>Fülle einen Eimer mit Wasser am Rellekka Brunnen.
+<col=000000>Enter the Troll Stronghold.<col=ffffff>(<col=800000>Death Plateau<col=000080>, <col=800000>Started Troll Stronghold<col=000080><col=ffffff>);<col=000000>Betritt die Troll Stronghold.<col=ffffff>(<col=800000>Death Plateau<col=000080>, <col=800000>Started Troll Stronghold<col=000080><col=ffffff>)
+<col=000000>Chop and burn some oak logs in the Fremennik Province.;<col=000000>Hacke und verbrenne einige Eichenstämme in der Fremennik Province.
+<col=000000>Slay a Brine rat.<col=ffffff>(<col=800000>47 Slayer<col=000080>, <col=800000>Started Olaf's Quest<col=000080><col=ffffff>);<col=000000>Töte eine Brine rat.<col=ffffff>(<col=800000>47 Slayer<col=000080>, <col=800000>Started Olaf's Quest<col=000080><col=ffffff>)
+<col=000000>Travel to the Snowy Hunter Area via Eagle.<col=ffffff>(<col=800000>Eagles' Peak<col=000080><col=ffffff>);<col=000000>Reise zum Snowy Hunter Area über Eagle.<col=ffffff>(<col=800000>Eagles' Peak<col=000080><col=ffffff>)
+<col=000000>Mine some coal in Rellekka.<col=ffffff>(<col=800000>30 Mining<col=000080>, <col=800000>The Fremennik Trials<col=000080><col=ffffff>);<col=000000>Bergbaue etwas Kohle in Rellekka.<col=ffffff>(<col=800000>30 Mining<col=000080>, <col=800000>The Fremennik Trials<col=000080><col=ffffff>)
+<col=000000>Steal from the Rellekka Fish stalls.<col=ffffff>(<col=800000>42 Thieving<col=000080>, <col=800000>The Fremennik Trials<col=000080><col=ffffff>);<col=000000>Stehle von den Rellekka Fish stalls.<col=ffffff>(<col=800000>42 Thieving<col=000080>, <col=800000>The Fremennik Trials<col=000080><col=ffffff>)
+<col=000000>Travel to Miscellania by Fairy ring.;<col=000000>Reise nach Miscellania über Fairy ring.
+<col=000000>Catch a Snowy knight.<col=ffffff>(<col=800000>35 Hunter<col=000080><col=ffffff>);<col=000000>Fange einen Snowy knight.<col=ffffff>(<col=800000>35 Hunter<col=000080><col=ffffff>)
+<col=000000>Pick up your Pet Rock from your POH Menagerie.;<col=000000>Sammle deinen Pet Rock aus deiner POH Menagerie.
+<col=000000>Visit the Lighthouse from Waterbirth island.;<col=000000>Besuche den Lighthouse von Waterbirth island.
+<col=000000>Mine some gold at the Arzinian mine.;<col=000000>Bergbaue etwas Gold in der Arzinian mine.
+<col=000000>Teleport to Trollheim.<col=ffffff>(<col=800000>61 Magic<col=000080>, <col=800000>Eadgar's Ruse<col=000080><col=ffffff>);<col=000000>Teleporitiere zu Trollheim.<col=ffffff>(<col=800000>61 Magic<col=000080>, <col=800000>Eadgar's Ruse<col=000080><col=ffffff>)
+<col=000000>Catch a Sabre-toothed Kyatt.<col=ffffff>(<col=800000>55 Hunter<col=000080><col=ffffff>);<col=000000>Fange einen Sabre-toothed Kyatt.<col=ffffff>(<col=800000>55 Hunter<col=000080><col=ffffff>)
+<col=000000>Mix a super defence potion in the Fremennik province.;<col=000000>Mische einen super defence Trank in der Fremennik province.
+<col=000000>Steal from the Keldagrim Gem Stall.;<col=000000>Stehle vom Keldagrim Edelsteinstand.
+<col=000000>Craft a Neitiznot shield on Neitiznot.;<col=000000>Stelle einen Neitiznot shield auf Neitiznot her.
+<col=000000>Mine 5 Adamantite ores on Jatizso.<col=ffffff>(<col=800000>70 Mining<col=000080>, <col=800000>The Fremennik Isles<col=000080><col=ffffff>);<col=000000>Bergbaue 5 Adamantite ores on Jatizso.<col=ffffff>(<col=800000>70 Mining<col=000080>, <col=800000>The Fremennik Isles<col=000080><col=ffffff>)
+<col=000000>Obtain 100% support from your kingdom subjects.;<col=000000>Erhalte 100% Unterstützung von deinen Untertanen des Königreichs.
+<col=000000>Teleport to Waterbirth Island.<col=ffffff>(<col=800000>72 Magic<col=000080>, <col=800000>Lunar Diplomacy<col=000080><col=ffffff>);<col=000000>Teleportiere zu Waterbirth Island.<col=ffffff>(<col=800000>72 Magic<col=000080>, <col=800000>Lunar Diplomacy<col=000080><col=ffffff>)
+<col=000000>Obtain the Blast Furnace Foreman's permission to use the;<col=000000>Erhalte die Erlaubnis des Blast Furnace Foreman's, um zu benutzen
+<col=000000>Blast Furnace for free.<col=ffffff>(<col=800000>60 Smithing<col=000080>, <col=800000>Started The Giant Dwarf<col=000080><col=ffffff>);<col=000000>Blast Furnace kostenlos.<col=ffffff>(<col=800000>60 Smithing<col=000080>, <col=800000>Started The Giant Dwarf<col=000080><col=ffffff>)
+Difficulty:;Schwierigkeit:
+Length:;Länge:
+Storyline:;Handlungsstrang:
+Release Year:;Erscheinungsjahr:
+Requirements:;Voraussetzungen:
+Recommendations:;Empfehlungen:
+Novice;Anfänger
+Intermediate;Fortgeschritten
+Experienced;Erfahren
+Master;Meister
+Grandmaster;Großmeister
+Easy;Einfach
+Medium;Mittel
+Hard;Schwer
+Short;Kurz
+Long;Lang
+Very Short;Sehr kurz
+Very Long;Sehr lang
+Standalone;Eigenständig
+<col=800000>None;<col=800000>Keine
+<col=ffff00>Kandarin Tasks;<col=ffff00>Kandarin-Aufgaben
+<col=ff0000>QUEST COMPLETE!;<col=ff0000>QUEST ABGESCHLOSSEN!
+<col=ffff00>Fremennik Tasks;<col=ffff00>Fremennik-Aufgaben
+<col=ffffff>(<col=800000>The Fremennik Trials<col=000080>, <col=800000>Started Fairytale II - Cure a Queen<col=000080><col=ffffff>);<col=ffffff>(<col=800000>The Fremennik Trials<col=000080>, <col=800000>Fairytale II - Cure a Queen begonnen<col=000080><col=ffffff>)
+<col=ffffff>(<col=800000>Horror from the Deep<col=000080>, <col=800000>Started The Fremennik Trials<col=000080><col=ffffff>);<col=ffffff>(<col=800000>Horror from the Deep<col=000080>, <col=800000>The Fremennik Trials begonnen<col=000080><col=ffffff>)
+<col=ffffff>(<col=800000>40 Mining<col=000080>, <col=800000>Started Between a Rock...<col=000080><col=ffffff>);<col=ffffff>(<col=800000>40 Mining<col=000080>, <col=800000>Between a Rock... begonnen<col=000080><col=ffffff>)
+<col=ffffff>(<col=800000>75 Thieving<col=000080>, <col=800000>Started The Giant Dwarf<col=000080><col=ffffff>);<col=ffffff>(<col=800000>75 Thieving<col=000080>, <col=800000>The Giant Dwarf begonnen<col=000080><col=ffffff>)
+<col=000000>Kill each of the Dagannoth Kings.;<col=000000>Töte jeden der Dagannoth Kings.
+<col=000000>Craft 56 astral runes simultaneously from Essence;<col=000000>Fertige 56 astral runes gleichzeitig aus Essence
+<col=000000>without the use of Extracts.<col=ffffff>(<col=800000>82 Runecraft<col=000080>, <col=800000>Lunar Diplomacy<col=000080><col=ffffff>);<col=000000>ohne die Verwendung von Extracts.<col=ffffff>(<col=800000>82 Runecraft<col=000080>, <col=800000>Lunar Diplomacy<col=000080><col=ffffff>)
+<col=000000>Create a dragonstone amulet in the Neitiznot furnace.;<col=000000>Stelle ein dragonstone amulet im Schmelzofen von Neitiznot her.
+<col=ffffff>(<col=800000>80 Crafting<col=000080>, <col=800000>Started The Fremennik Isles<col=000080><col=ffffff>);<col=ffffff>(<col=800000>80 Crafting<col=000080>, <col=800000>The Fremennik Isles begonnen<col=000080><col=ffffff>)
+<col=000000>Complete a lap of the Rellekka agility course.<col=ffffff>(<col=800000>80 Agility<col=000080><col=ffffff>);<col=000000>Absolviere eine Runde des Agility-Kurses von Rellekka.<col=ffffff>(<col=800000>80 Agility<col=000080><col=ffffff>)
+<col=000000>Kill the generals of Armadyl, Bandos, Saradomin and;<col=000000>Töte die Generäle von Armadyl, Bandos, Saradomin und
+<col=000000>Zamorak in the God Wars Dungeon.;<col=000000>Zamorak im God Wars Dungeon.
+<col=000000>Slay a Spiritual mage within the Godwars Dungeon.<col=ffffff>(<col=800000>83 Slayer<col=000080>, <col=800000>Troll Stronghold<col=000080><col=ffffff>);<col=000000>Töte einen Spiritual mage im Godwars Dungeon.<col=ffffff>(<col=800000>83 Slayer<col=000080>, <col=800000>Troll Stronghold<col=000080><col=ffffff>)
+<col=ffff00>Falador Area Tasks;<col=ffff00>Falador-Gebietsaufgaben
+<col=000000>Find out what your family crest is from Sir Renitee.<col=ffffff>(<col=800000>16 Construction<col=000080><col=ffffff>);<col=000000>Finde bei Sir Renitee heraus, was dein Familienwappen ist.<col=ffffff>(<col=800000>16 Construction<col=000080><col=ffffff>)
+<col=000000>Climb over the western Falador wall.<col=ffffff>(<col=800000>5 Agility<col=000080><col=ffffff>);<col=000000>Klettere über die westliche Mauer von Falador.<col=ffffff>(<col=800000>5 Agility<col=000080><col=ffffff>)
+<col=000000>Browse Sarah's farm shop.;<col=000000>Sieh dich in Sarahs Hofladen um.
+<col=000000>Get a Haircut or a Shave from the Falador Hairdresser.;<col=000000>Hol dir einen Haarschnitt oder eine Rasur beim Falador Hairdresser.
+<col=000000>Fill a bucket from the pump north of Falador west bank.;<col=000000>Fülle einen Bucket an der Pumpe nördlich der Westbank von Falador.
+<col=000000>Kill a duck in Falador park.;<col=000000>Töte eine Ente im Park von Falador.
+<col=000000>Make a mind tiara.;<col=000000>Stelle eine mind tiara her.
+<col=000000>Take the boat to Entrana.;<col=000000>Nimm das Boot nach Entrana.
+<col=000000>Repair a broken strut in the Motherlode Mine.;<col=000000>Repariere einen broken strut in der Motherlode Mine.
+<col=000000>Claim a security book from the Security guard at Port;<col=000000>Hol dir ein security book vom Security guard beim Port
+<col=000000>Sarim jail.;<col=000000>Sarim-Gefängnis.
+<col=000000>Smith some Blurite Limbs on Doric's Anvil.<col=ffffff>(<col=000080><str>10 Mining</str>, <col=800000>13 Smithing<col=000080>, <col=800000>The Knight's Sword<col=000080>, <col=800000>Doric's Quest<col=000080><col=ffffff>);<col=000000>Schmiede einige Blurite Limbs auf Doric's Anvil.<col=ffffff>(<col=000080><str>10 Mining</str>, <col=800000>13 Smithing<col=000080>, <col=800000>The Knight's Sword<col=000080>, <col=800000>Doric's Quest<col=000080><col=ffffff>)
+<col=000000>Light a Bullseye lantern at the Chemist's in Rimmington.<col=ffffff>(<col=800000>49 Firemaking<col=000080><col=ffffff>);<col=000000>Entzünde eine Bullseye lantern beim Chemist's in Rimmington.<col=ffffff>(<col=800000>49 Firemaking<col=000080><col=ffffff>)
+<col=000000>Telegrab some Wine of Zamorak at the Chaos Temple by;<col=000000>Ergreife mit Telekinetischem Greifen einige Wine of Zamorak am Chaos Temple bei
+<col=000000>the Wilderness.<col=ffffff>(<col=800000>33 Magic<col=000080><col=ffffff>);<col=000000>der Wilderness.<col=ffffff>(<col=800000>33 Magic<col=000080><col=ffffff>)
+<col=000000>Unlock the Crystal chest in Taverley;<col=000000>Schließe die Crystal chest in Taverley auf
+<col=000000>Place a Scarecrow in the Falador farming patch.<col=ffffff>(<col=800000>23 Farming<col=000080><col=ffffff>);<col=000000>Platziere eine Scarecrow im Farming-Feld von Falador.<col=ffffff>(<col=800000>23 Farming<col=000080><col=ffffff>)
+<col=000000>Kill a Mogre at Mudskipper Point.<col=ffffff>(<col=800000>32 Slayer<col=000080>, <col=800000>Skippy and the Mogres<col=000080><col=ffffff>);<col=000000>Töte einen Mogre bei Mudskipper Point.<col=ffffff>(<col=800000>32 Slayer<col=000080>, <col=800000>Skippy and the Mogres<col=000080><col=ffffff>)
+<col=000000>Visit the Port Sarim Rat Pits.<col=ffffff>(<col=800000>Started Ratcatchers<col=000080><col=ffffff>);<col=000000>Besuche die Port Sarim Rat Pits.<col=ffffff>(<col=800000>Ratcatchers begonnen<col=000080><col=ffffff>)
+<col=000000>Grapple up and then jump off the north Falador wall.;<col=000000>Klettere hinauf und springe dann von der nördlichen Mauer Faladors.
+<col=000000>Pickpocket a Falador guard.<col=ffffff>(<col=800000>40 Thieving<col=000080><col=ffffff>);<col=000000>Bestehle eine Wache in Falador.<col=ffffff>(<col=800000>40 Thieving<col=000080><col=ffffff>)
+<col=000000>Pray at the Altar of Guthix in Taverley whilst wearing full;<col=000000>Bete am Altar of Guthix in Taverley, während du vollständige
+<col=000000>Mine some Gold ore at the Crafting Guild.<col=ffffff>(<col=800000>40 Crafting<col=000080>, <col=800000>40 Mining<col=000080><col=ffffff>);<col=000000>Baue etwas Gold ore in der Crafting Guild ab.<col=ffffff>(<col=800000>40 Crafting<col=000080>, <col=800000>40 Mining<col=000080><col=ffffff>)
+<col=000000>Squeeze through the crevice in the Dwarven mines.<col=ffffff>(<col=800000>42 Agility<col=000080><col=ffffff>);<col=000000>Zwänge dich durch die Spalte in den Dwarven mines.<col=ffffff>(<col=800000>42 Agility<col=000080><col=ffffff>)
+<col=000000>Chop and burn some Willow logs in Taverley;<col=000000>Hacke und verbrenne etwas Willow logs in Taverley
+<col=000000>Craft a fruit basket on the Falador Farm loom.<col=ffffff>(<col=800000>36 Crafting<col=000080><col=ffffff>);<col=000000>Stelle einen fruit basket am Webstuhl der Falador Farm her.<col=ffffff>(<col=800000>36 Crafting<col=000080><col=ffffff>)
+<col=000000>Teleport to Falador.<col=ffffff>(<col=800000>37 Magic<col=000080><col=ffffff>);<col=000000>Teleportiere nach Falador.<col=ffffff>(<col=800000>37 Magic<col=000080><col=ffffff>)
+<col=000000>Craft 140 Mind runes simultaneously from Essence;<col=000000>Stelle 140 Mind runes gleichzeitig aus Essence her
+<col=000000>without the use of Extracts.<col=ffffff>(<col=800000>56 Runecraft<col=000080><col=ffffff>);<col=000000>ohne die Verwendung von Extracts.<col=ffffff>(<col=800000>56 Runecraft<col=000080><col=ffffff>)
+<col=000000>Change your family crest to the Saradomin symbol.<col=ffffff>(<col=800000>70 Prayer<col=000080><col=ffffff>);<col=000000>Ändere dein Familienwappen zum Saradomin-Symbol.<col=ffffff>(<col=800000>70 Prayer<col=000080><col=ffffff>)
+<col=000000>Kill the Giant Mole beneath Falador park.;<col=000000>Töte den Giant Mole unter dem Falador park.
+<col=000000>Kill a Skeletal Wyvern in the Asgarnia Ice Dungeon.<col=ffffff>(<col=800000>72 Slayer<col=000080><col=ffffff>);<col=000000>Töte einen Skeletal Wyvern im Asgarnia Ice Dungeon.<col=ffffff>(<col=800000>72 Slayer<col=000080><col=ffffff>)
+<col=000000>Complete a lap of the Falador rooftop agility course.<col=ffffff>(<col=800000>50 Agility<col=000080><col=ffffff>);<col=000000>Absolviere eine Runde des Dach-Agilitätsparcours in Falador.<col=ffffff>(<col=800000>50 Agility<col=000080><col=ffffff>)
+<col=000000>Enter the mining guild wearing a Prospector helmet.<col=ffffff>(<col=800000>60 Mining<col=000080><col=ffffff>);<col=000000>Betritt die Mining Guild mit einem Prospector helmet.<col=ffffff>(<col=800000>60 Mining<col=000080><col=ffffff>)
+<col=000000>Kill the Blue Dragon under the Heroes' Guild.<col=ffffff>(<col=800000>Heroes' Quest<col=000080><col=ffffff>);<col=000000>Töte den Blue Dragon unter der Heroes' Guild.<col=ffffff>(<col=800000>Heroes' Quest<col=000080><col=ffffff>)
+<col=000000>Crack a wall safe within Rogues Den.<col=ffffff>(<col=800000>50 Thieving<col=000080><col=ffffff>);<col=000000>Knacke einen Wandtresor in Rogues Den.<col=ffffff>(<col=800000>50 Thieving<col=000080><col=ffffff>)
+<col=000000>Recharge your prayer in the Port Sarim church while;<col=000000>Lade dein Gebet in der Kirche von Port Sarim auf, während
+<col=000000>wearing full Proselyte.<col=ffffff>(<col=800000>30 Defence<col=000080>, <col=800000>The Slug Menace<col=000080><col=ffffff>);<col=000000>vollständige Proselyte tragend.<col=ffffff>(<col=800000>30 Defence<col=000080>, <col=800000>The Slug Menace<col=000080><col=ffffff>)
+<col=000000>Enter the Warriors' Guild.;<col=000000>Betritt die Warriors' Guild.
+<col=000000>Equip a dwarven helmet within the dwarven mines.;<col=000000>Rüste einen dwarven helmet in den dwarven mines aus.
+<col=000000>Craft 252 Air Runes simultaneously from Essence without;<col=000000>Stelle 252 Air Runes gleichzeitig aus Essence her, ohne
+<col=000000>the use of Extracts.<col=ffffff>(<col=800000>88 Runecraft<col=000080><col=ffffff>);<col=000000>die Verwendung von Extracts.<col=ffffff>(<col=800000>88 Runecraft<col=000080><col=ffffff>)
+<col=000000>Purchase a White 2h Sword from Sir Vyvin.<col=ffffff>(<col=800000>Wanted!<col=000080><col=ffffff>);<col=000000>Kaufe ein White 2h Sword von Sir Vyvin.<col=ffffff>(<col=800000>Wanted!<col=000080><col=ffffff>)
+<col=000000>Find at least 3 magic roots at once when digging up your;<col=000000>Finde mindestens 3 magic roots auf einmal beim Ausgraben deines
+<col=000000>Perform a skillcape or quest cape emote at the top of;<col=000000>Führe eine skillcape- oder quest cape-Emote auf der Spitze von
+<col=000000>Jump over the strange floor in Taverley dungeon.<col=ffffff>(<col=800000>80 Agility<col=000080><col=ffffff>);<col=000000>Springe über den seltsamen Boden in Taverley dungeon.<col=ffffff>(<col=800000>80 Agility<col=000080><col=ffffff>)
+<col=000000>Mix a Saradomin brew in Falador east bank.<col=ffffff>(<col=800000>81 Herblore<col=000080><col=ffffff>);<col=000000>Braue einen Saradomin brew in der Ostbank von Falador.<col=ffffff>(<col=800000>81 Herblore<col=000080><col=ffffff>)
+Description: <col=ffffff>Kill a Brutal Black Dragon.</col>;Beschreibung: <col=ffffff>Töte einen Brutal Black Dragon.</col>
+Description: <col=ffffff>Open Bryophyta's chest 5 times.</col>;Beschreibung: <col=ffffff>Öffne Bryophyta's Truhe 5 Mal.</col>
+Description: <col=ffffff>Kill all 3 of Bryophyta's growthlings within 3 seconds of the first one dying.</col>;Beschreibung: <col=ffffff>Töte alle 3 von Bryophyta's growthlings innerhalb von 3 Sekunden, nachdem der erste gestorben ist.</col>
+Description: <col=ffffff>Kill Skotizo with a demonbane weapon equipped.</col>;Beschreibung: <col=ffffff>Töte Skotizo mit einer ausgerüsteten demonbane-Waffe.</col>
+Description: <col=ffffff>Kill the Mad Angel after getting 3 consecutive enhanced attacks by successfully praying against the smite attacks during her enrage phase.</col>;Beschreibung: <col=ffffff>Töte den Mad Angel, nachdem du 3 aufeinanderfolgende verstärkte Angriffe erhalten hast, indem du während ihrer Wutphase erfolgreich gegen die smite-Angriffe gebetet hast.</col>
+Description: <col=ffffff>Kill the Mad Angel 25 times.</col>;Beschreibung: <col=ffffff>Töte den Mad Angel 25 Mal.</col>
+Description: <col=ffffff>Kill Brutus whilst neither equipping nor consuming anything.</col>;Beschreibung: <col=ffffff>Töte Brutus, ohne dabei etwas auszurüsten oder zu verbrauchen.</col>
+Description: <col=ffffff>Kill the Shellbane Gryphon 10 times within 12:30 minutes of entering the cave.</col>;Beschreibung: <col=ffffff>Töte den Shellbane Gryphon 10 Mal innerhalb von 12:30 Minuten nach Betreten der Höhle.</col>
+Description: <col=ffffff>Kill the Shellbane Gryphon 50 times.</col>;Beschreibung: <col=ffffff>Töte den Shellbane Gryphon 50 Mal.</col>
+Description: <col=ffffff>Kill the Royal Titans 10 times.</col>;Beschreibung: <col=ffffff>Töte die Royal Titans 10 Mal.</col>
+Description: <col=ffffff>Kill Amoxliatl using only glacial temotli as a weapon.</col>;Beschreibung: <col=ffffff>Töte Amoxliatl, indem du nur glacial temotli als Waffe verwendest.</col>
+Type: <col=ffffff>Restriction</col> <col=dfdfdf>(+2 points)</col>;Typ: <col=ffffff>Einschränkung</col> <col=dfdfdf>(+2 Punkte)</col>
+<col=000000>magic tree in Falador.<col=ffffff>(<col=800000>91 Farming<col=000080>, <col=800000>75 Woodcutting<col=000080><col=ffffff>);<col=000000>magic tree in Falador.<col=ffffff>(<col=800000>91 Farming<col=000080>, <col=800000>75 Woodcutting<col=000080><col=ffffff>)
+Type: <col=ffffff>Speed</col> <col=dfdfdf>(+2 points)</col>;Typ: <col=ffffff>Geschwindigkeit</col> <col=dfdfdf>(+2 Punkte)</col>
+I can start this quest by talking to <col=800000>Alina<col=000080> and <col=800000>Noah<col=000080> in <col=800000>Varrock Square<col=000080>.;Ich kann diese Quest starten, indem ich mit <col=800000>Alina<col=000080> und <col=800000>Noah<col=000080> in <col=800000>Varrock Square<col=000080> spreche.
+I can start this quest by talking to <col=800000>Veos<col=000080> on the <col=800000>Port Piscarilius<col=000080> docks.;Ich kann diese Quest starten, indem ich mit <col=800000>Veos<col=000080> am <col=800000>Port Piscarilius<col=000080> Hafen spreche.
+I can start this quest by talking to <col=800000>Brother Kojo<col=000080> in the <col=800000>Clock Tower<col=000080> south of <col=800000>East Ardougne<col=000080>.;Ich kann diese Quest starten, indem ich mit <col=800000>Brother Kojo<col=000080> im <col=800000>Clock Tower<col=000080> südlich von <col=800000>East Ardougne<col=000080> spreche.
+<str>I arrived on Tutorial Island and met the Gielinor Guide, who;<str>Ich kam auf Tutorial Island an und traf den Gielinor Guide, der
+<str>welcomed me on my journey to becoming an adventurer.;<str>begrüßte mich auf meiner Reise, ein Abenteurer zu werden.
+<str>I met Brynna, the Survival Expert. She taught me how to catch;<str>Ich traf Brynna, die Survival-Expertin. Sie lehrte mich, wie man
+<str>shrimp with a fishing net, and then how to cook those shrimp;<str>Garnelen mit einem Fischernetz fängt, und dann, wie man diese Garnelen kocht
+<str>on a fire made from logs I had cut myself.;<str>über einem Feuer, das aus von mir selbst gehackten Stämmen gemacht wurde.
+<str>Lev, the Master Chef, explained proper cooking techniques to;<str>Lev, der Master Chef, erklärte mir richtige Kochtechniken
+<str>me. With his guidance I made a loaf of bread from flour and;<str>mir. Mit seiner Anleitung stellte ich ein Brot aus Mehl und
+<str>water.;<str>Wasser her.
+<str>The Quest Guide taught me about my quest list and quest;<str>Der Quest Guide zeigte mir meine Quest-Liste und Quest
+<str>journals. These are a useful tool for tracking my progress;<str>Journale. Diese sind ein nützliches Werkzeug, um meinen Fortschritt
+<str>through quests in Gielinor.;<str>bei Quests in Gielinor zu verfolgen.
+<str>I then met Dezzick, the Mining Instructor. He handed me a;<str>Dann traf ich Dezzick, den Mining Instructor. Er gab mir ein
+<str>pickaxe and tasked me with mining some copper and tin ores;<str>Pickaxe und beauftragte mich, etwas Kupfer- und Zinn-Erz zu abbauen
+<str>in order to smelt a bronze bar in the furnace, which I managed;<str>um in einem Ofen einen Bronze-Barren zu schmelzen, was mir
+<str>to successfully complete!;<str>erfolgreich gelang!
+<str>Dezzick told me to make a bronze dagger with the bronze bar I;<str>Dezzick sagte mir, einen Bronze dagger mit dem Bronze bar zu machen, den ich
+<str>had smelted. To that end, he handed me a hammer and pointed;<str>geschmolzen hatte. Zu diesem Zweck gab er mir einen Hammer und zeigte
+<str>me to the anvils.;<str>mir die Ambosse.
+<str>Vannaka taught me how to equip and unequip my weapons and;<str>Vannaka lehrte mich, wie man meine Waffen ausrüstet und ablegt und
+<str>armour from my inventory in order to prepare me for combat.;<str>Ausrüstung aus meinem Inventar, um mich auf den Kampf vorzubereiten.
+<str>I managed to kill a rat in Vannaka's cage.;<str>Ich schaffte es, eine Ratte in Vannakas Käfig zu töten.
+<str>Vannaka taught me the basics of melee and ranged combat,;<str>Vannaka lehrte mich die Grundlagen von Melee- und Ranged-Kampf,
+<str>giving me the weapons I needed to achieve that.;<str>gab mir die Waffen, die ich dafür brauchte.
+<str>It would appear I can safely store my items with the Bank of;<str>Es scheint, ich kann meine Gegenstände sicher bei der Bank of
+<str>Gielinor, which will make them accessible from any branch and;<str>Gielinor lagern, was sie von jedem Zweig aus zugänglich macht und
+<str>means I don't have to carry them everywhere with me.;<str>bedeutet, dass ich sie nicht überall mit mir tragen muss.
+<str>According to the Account Guide, I should be proactive with my;<str>Laut dem Account Guide sollte ich proaktiv sein mit meinem
+<str>security to protect my account.;<str>Sicherheit, um mein Konto zu schützen.
+<str>Brother Brace taught me about the Prayer skill. It can provide;<str>Brother Brace lehrte mich über die Prayer-Fertigkeit. Sie kann
+<str>a number of benefits to my regular activities, but costs;<str>eine Reihe von Vorteilen für meine regulären Aktivitäten bieten, kostet aber
+<str>prayer points which can be restored at any altar or holy site. I;<str>Prayer-Punkte, die an jedem Altar oder heiligen Ort wiederhergestellt werden können. Ich
+<str>can train it by burying bones and scattering ashes.;<str>kann sie trainieren, indem ich Knochen begrabe und Asche verstreue.
+<str>Having met Terrova, I was instructed to cast Wind Strike on;<str>Nachdem ich Terrova getroffen hatte, wurde mir aufgetragen, Wind Strike zu wirken auf
+<str>one of his chickens. Fortunately, my magical prowess allowed;<str>eines seiner Hühner. Glücklicherweise ermöglichte meine magische Fähigkeit
+<str>me to successfully achieve this.;<str>mir, dies erfolgreich zu erreichen.
+Dancing with Statues;Tanzen mit Statuen
+Dodging the Dragon;Ausweichen vor dem Drachen
+Hot on Your Feet;Heiß an deinen Füßen
+Playing with Lasers;Spielen mit Lasern
+Supplies? Who Needs 'em?;Vorräte? Wer braucht die?
+... 'til Dawn;... bis zum Morgengrauen
+A siphon will solve this;Ein Siphon wird das lösen
+All out of medics;Keine Mediziner mehr
+Back in My Day...;In meiner Jugend...
+Back so soon?;Schon so schnell zurück?
+Better get movin';Besser du bewegst dich
+Big, Black and Fiery;Groß, schwarz und feurig
+Calm Before the Storm;Ruhe vor dem Sturm
+Camping the King;Camping des Königs
+Chambers of Xeric (5-Scale) Speed-Chaser;Chambers of Xeric (5-Scale) Geschwindigkeitsjäger
+Chambers of Xeric (Solo) Speed-Chaser;Chambers of Xeric (Solo) Geschwindigkeitsjäger
+Chambers of Xeric (Trio) Speed-Chaser;Chambers of Xeric (Trio) Geschwindigkeitsjäger
+Chambers of Xeric Master;Chambers of Xeric Meister
+Chambers of Xeric: CM (5-Scale) Speed-Chaser;Chambers of Xeric: CM (5-Scale) Geschwindigkeitsjäger
+Chambers of Xeric: CM (Solo) Speed-Chaser;Chambers of Xeric: CM (Solo) Geschwindigkeitsjäger
+Chambers of Xeric: CM (Trio) Speed-Chaser;Chambers of Xeric: CM (Trio) Geschwindigkeitsjäger
+Chambers of Xeric: CM Master;Chambers of Xeric: CM Meister
+Contain this!;Enthalte das!
+Death to the Archer King;Tod dem Archer King
+Death to the Seer King;Tod dem Seer King
+Death to the Warrior King;Tod dem Warrior King
+Denying the Healers;Heiler abweisen
+Description: <col=ffffff>Kill a Black Dragon.</col>;Beschreibung: <col=ffffff>Töte einen Black Dragon.</col>
+Description: <col=ffffff>Kill any Barrows Brother using only magical damage.</col>;Beschreibung: <col=ffffff>Töte jeden Barrows Brother nur mit magischem Schaden.</col>
+Description: <col=ffffff>Open the Barrows chest 10 times.</col>;Beschreibung: <col=ffffff>Öffne die Barrows Truhe 10 Mal.</col>
+Digging in;Graben
+Doesn't bug me;Stört mich nicht
+Description: <col=ffffff>Kill the Chaos Fanatic without anyone being hit by his explosion attack.</col>;Beschreibung: <col=ffffff>Töte den Chaos Fanatic ohne dass jemand von seiner Explosionsattacke getroffen wird.</col>
+Don't Look at Me!;Sieh mich nicht an!
+Don't Look at the Eclipse;Sieh die Sonnenfinsternis nicht an
+Done before Dusk;Erledigt vor der Dämmerung
+Dropped the ball;Ball fallen lassen
+Fancy feet;Schicke Füße
+Fat of the Land;Fett des Landes
+Fighting as Intended;Kämpfen wie vorgesehen
+Finding the Weak Spot;Den Schwachpunkt finden
+Fire fighter;Feuerwehrmann
+Fire in the Hole!;Feuer im Loch!
+From One King to Another;Von einem König zum anderen
+Helpful spirit who?;Hilfsbereiter Geist, wer?
+I need room;Ich brauche Platz
+I was here first!;Ich war zuerst hier!
+I'm in a rush;Ich habe es eilig
+I'm your son;Ich bin dein Sohn
+Into the Den of Giants;In die Höhle der Riesen
+Is it a bird?;Ist es ein Vogel?
+Kill It with Fire;Töte es mit Feuer
+King-sized clobbering;Königsgroßer Hieb
+Let it seep in;Lass es einziehen
+Let them fight;Lass sie kämpfen
+Master of Buckets;Meister der Eimer
+More than just a ranged weapon;Mehr als nur eine Ranged-Waffe
+Movin' on up;Weiter nach oben
+No Time for Death;Keine Zeit für den Tod
+No skipping allowed;Überspringen nicht erlaubt
+No time to pray;Keine Zeit zum Beten
+No toppings, no drinks, thanks;Keine Extras, keine Getränke, danke
+One by one;Einer nach dem anderen
+Praying to the Gods;Zu den Göttern beten
+Ready to Pounce;Bereit zum Sprung
+Reflecting on This Encounter;Nachdenken über diese Begegnung
+Rockin' around the croc;Rocken um den Croc
+Shadow dancer;Schattentänzer
+Smarter than a Cow;Klüger als eine Kuh
+Something of an expert myself;Ich bin selbst so etwas wie ein Experte
+Space is Tight;Der Raum ist eng
+Stick 'em With the Pointy End;Erstich sie mit der spitzen Seite
+Stop Drop and Roll;Stopp Fallen und Rollen
+The Bane of Demons;Der Fluch der Dämonen
+Theatre of Blood Master;Theatre of Blood-Meister
+There is no escape!;Es gibt kein Entkommen!
+Three Times the Thrashing;Dreimal das Zerschmettern
+Through Fire and Flames;Durch Feuer und Flammen
+Toppling the Diarchy;Die Diarchie stürzen
+Trying to fit in;Versuchen, dazuzugehören
+Two Times the Torment;Zweimal die Qual
+Up for the Challenge;Bereit für die Herausforderung
+Warden't you believe it;Warden, glaubst du das nicht?
+Who Is the King Now?;Wer ist jetzt der König?
+<col=000000>the Falador Castle courtyard.;<col=000000>der Hof von Falador Castle.
+You are awarded:;Du erhältst:
+<col=000000>If I ever lose my Falador shield I can speak to Sir Rebral in;<col=000000>Wenn ich jemals mein Falador shield verliere, kann ich zu Sir Rebral gehen in
+<col=000000>If I ever lose my Wilderness sword I can speak to<br>the;<col=000000>Wenn ich jemals mein Wilderness sword verliere, kann ich zu<br>dem
+<col=000000>Lesser Fanatic by the Wilderness ditch in<br>Edgeville.;<col=000000>Lesser Fanatic bei der Wilderness ditch in<br>Edgeville.
+<str><col=ffffff>(<col=000080><str>50 Smithing</str>, <col=000080><str>Started Between a Rock...</str><col=ffffff>);<str><col=ffffff>(<col=000080><str>50 Smithing</str>, <col=000080><str>Between a Rock... begonnen</str><col=ffffff>)
+<col=000000>Gnome Child north at the Gnome Stronghold.;<col=000000>Gnome Child nördlich im Gnome Stronghold.
+<str>Kill the Thermonuclear Smoke devil.;<str>Töte den Thermonuclear Smoke devil.
+<col=000000>Varrock square.;<col=000000>Varrock Platz.
+<str>Bake a summer pie in the Cooking Guild.<col=ffffff>(<col=000080><str>95 Cooking</str><col=ffffff>);<str>Backe eine summer pie im Cooking Guild.<col=ffffff>(<col=000080><str>95 Cooking</str><col=ffffff>)
+<str>Browse Thessalia's store.;<str>Durchsuche Thessalias Laden.
+<str>Buy a newspaper.;<str>Kaufe eine Zeitung.
+<str>Catch some trout in the River Lum at Barbarian Village.<col=ffffff>(<col=000080><str>20 Fishing</str><col=ffffff>);<str>Fange einige trout im River Lum bei Barbarian Village.<col=ffffff>(<col=000080><str>20 Fishing</str><col=ffffff>)
+<str>Chop down a dying tree in the Lumber Yard.;<str>Fäll einen sterbenden Baum im Lumber Yard.
+<str>Complete a lap of the Varrock Agility course.<col=ffffff>(<col=000080><str>30 Agility</str><col=ffffff>);<str>Beende einen Durchgang des Varrock Agility course.<col=ffffff>(<col=000080><str>30 Agility</str><col=ffffff>)
+<str>Craft some Earth runes from Essence.<col=ffffff>(<col=000080><str>9 Runecraft</str><col=ffffff>);<str>Stelle einige Earth runes aus Essence her.<col=ffffff>(<col=000080><str>9 Runecraft</str><col=ffffff>)
+<str>Enter the Champions' Guild.<col=ffffff>(<col=000080><str>32 Quest points</str><col=ffffff>);<str>Betritt die Champions' Guild.<col=ffffff>(<col=000080><str>32 Quest points</str><col=ffffff>)
+<str>Enter the second level of the Stronghold of<br>Security.;<str>Betritt die zweite Ebene des Stronghold of<br>Security.
+<str>Get a Slayer task from Vannaka.<col=ffffff>(<col=000080><str>40 Combat</str><col=ffffff>);<str>Erhalte eine Slayer-Aufgabe von Vannaka.<col=ffffff>(<col=000080><str>40 Combat</str><col=ffffff>)
+<str>Give a dog a bone!;<str>Gib einem Hund einen bone!
+<str>Jump over the fence south of Varrock.<col=ffffff>(<col=000080><str>13 Agility</str><col=ffffff>);<str>Spring über den Zaun südlich von Varrock.<col=ffffff>(<col=000080><str>13 Agility</str><col=ffffff>)
+<str>Make 20 Mahogany Planks in one go.;<str>Stelle 20 Mahogany Planks auf einmal her.
+<str>Make a normal plank at the Sawmill.;<str>Stelle eine normal plank in der Sawmill her.
+<str>Mine some Iron in the south east mining patch near;<str>Bergbaue etwas Iron im südöstlichen Bergbaufeld nahe
+<str>Perform the 4 emotes from the Stronghold of<br>Security.;<str>Führe die 4 Emotes aus der Stronghold of<br>Security aus.
+<str>Pray at the altar in Varrock palace with Smite active.<col=ffffff>(<col=000080><str>52 Prayer</str><col=ffffff>);<str>Bete am Altar im Varrock-Palast mit Smite aktiv.<col=ffffff>(<col=000080><str>52 Prayer</str><col=ffffff>)
+<str>Select a colour for your kitten.;<str>Wähle eine Farbe für dein Kätzchen.
+<str>Steal from the Tea stall in Varrock.<col=ffffff>(<col=000080><str>5 Thieving</str><col=ffffff>);<str>Stehle vom Tea stall in Varrock.<col=ffffff>(<col=000080><str>5 Thieving</str><col=ffffff>)
+<str>Teleport to Barbarian Village with a skull<br>sceptre.;<str>Teleportiere nach Barbarian Village mit einem skull<br>sceptre.
+<str>Teleport to Paddewwa.<col=ffffff>(<col=000080><str>54 Magic</str>, <col=000080><str>Desert Treasure I</str><col=ffffff>);<str>Teleportiere nach Paddewwa.<col=ffffff>(<col=000080><str>54 Magic</str>, <col=000080><str>Desert Treasure I</str><col=ffffff>)
+<str>Teleport to the digsite using a Digsite pendant.<col=ffffff>(<col=000080><str>The Dig Site</str><col=ffffff>);<str>Teleportiere zum Digsite mit einem Digsite pendant.<col=ffffff>(<col=000080><str>The Dig Site</str><col=ffffff>)
+<str>Trade furs with the Fancy Dress Seller for a<br>spottier cape;<str>Tausche furs mit dem Fancy Dress Seller für einen<br>spottier cape
+<str>Use the balloon to travel from Varrock.;<str>Benutze den Ballon, um von Varrock zu reisen.
+<str>Use the spirit tree north of Varrock.<col=ffffff>(<col=000080><str>Tree Gnome Village</str><col=ffffff>);<str>Benutze den spirit tree nördlich von Varrock.<col=ffffff>(<col=000080><str>Tree Gnome Village</str><col=ffffff>)
+<str>and equip it.<col=ffffff>(<col=000080><str>66 Hunter</str><col=ffffff>);<str>und rüste es aus.<col=ffffff>(<col=000080><str>66 Hunter</str><col=ffffff>)
+<col=000000>If I ever lose my Varrock armour I can speak to<br>Toby in;<col=000000>Wenn ich jemals meine Varrock armour verliere, kann ich zu<br>Toby gehen in
+<col=000000>If I ever lose my Western banner I can speak to the Elder;<col=000000>Wenn ich jemals mein Western banner verliere, kann ich zum Elder sprechen.

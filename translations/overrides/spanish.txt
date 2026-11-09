@@ -1,0 +1,128 @@
+# Correcciones de traducción al español.
+#
+# Formato:   texto_original;traduccion
+# Se aplican ENCIMA de los archivos de github.com/iolave/osrs-translations,
+# sólo en el idioma que coincida con el archivo (este es "spanish").
+#
+# Tus propias correcciones van en:
+#   ~/.runelite/translator/overrides/spanish.txt
+# y tienen prioridad sobre este archivo. Después de editarlas usa
+# "Translation quality -> Reload translations" en la configuración del plugin.
+#
+# Las opciones de menú son lo más visible del plugin: se usan decenas de veces
+# por minuto, así que están revisadas a mano en lugar de confiar en la
+# traducción automática del repositorio.
+
+# --- Combate e interacción ---
+Talk-to;Hablar con
+Attack;Atacar
+Examine;Examinar
+Use;Usar
+Drop;Tirar
+Take;Recoger
+Pick-up;Recoger
+Wield;Equipar
+Wear;Equipar
+Remove;Quitar
+Check;Comprobar
+Rub;Frotar
+Play;Tocar
+Value;Valor
+Follow;Seguir
+Trade with;Comerciar con
+Report;Denunciar
+Lookup;Buscar
+Hunt;Cazar
+Steal-from;Robar
+Pickpocket;Robar
+Talk;Hablar
+
+# --- Objetos y escenario ---
+Open;Abrir
+Close;Cerrar
+Search;Buscar
+Enter;Entrar
+Exit;Salir
+Climb-up;Subir
+Climb-down;Bajar
+Climb-over;Saltar
+Jump-up;Saltar
+Squeeze-past;Pasar
+Crawl-through;Arrastrarse
+Look-at;Mirar
+View;Ver
+Investigate;Investigar
+Touch;Tocar
+Read;Leer
+Fill;Llenar
+Empty;Vaciar
+Light;Encender
+Snuff;Apagar
+Repair;Reparar
+Chop down;Talar
+Mine;Minar
+Fish;Pescar
+Sail;Navegar
+
+# --- Comida y bebida ---
+Eat;Comer
+Drink;Beber
+
+# --- Banco y tienda ---
+Bank;Abrir banco
+Collect;Recolectar
+Deposit;Depositar
+Withdraw;Retirar
+Deposit-1;Depositar 1
+Deposit-5;Depositar 5
+Deposit-10;Depositar 10
+Deposit-All;Depositar todo
+Withdraw-1;Retirar 1
+Withdraw-5;Retirar 5
+Withdraw-10;Retirar 10
+Withdraw-X;Retirar X
+Withdraw-All;Retirar todo
+Store;Guardar
+Buy;Comprar
+Buy 1;Comprar 1
+Buy 5;Comprar 5
+Buy 10;Comprar 10
+Buy 50;Comprar 50
+Sell;Vender
+Sell 1;Vender 1
+Sell 5;Vender 5
+Sell 10;Vender 10
+Sell 50;Vender 50
+Prices;Precios
+Sets;Conjuntos
+Exchange;Intercambiar
+Value;Valor
+Decant;Decantar
+History;Historial
+
+# --- Magia, viajes y botones ---
+Cast;Lanzar
+Activate;Activar
+Chant;Cantar
+Teleport;Teletransportar
+Pray-at;Rezar
+Commune;Rezar
+Board;Subir a bordo
+Pay;Pagar
+Pay-fare;Pagar tarifa
+Quick-pay;Pago rápido
+Give;Dar
+Claim;Reclamar
+Recharge;Recargar
+Set up;Colocar
+Practise;Practicar
+Configure;Configurar
+Stats;Estadísticas
+Continue;Continuar
+Cancel;Cancelar
+Walk here;Caminar aquí
+Grand Exchange;Grand Exchange
+Welcome to the Grand Exchange. Would you like to trade now, or exchange item sets?;Bienvenido al Grand Exchange. ¿Le gustaría comerciar ahora o intercambiar conjuntos de artículos?
+Hello, and welcome to the Grand Exchange! How can I help you?;¡Hola y bienvenido al Grand Exchange! ¿Le puedo ayudar en algo?
+How do I use the Grand Exchange?;¿Cómo uso el Grand Exchange?
+This Grand Exchange! Isn't it marvellous! I've never seen anything like it in my life.;¡Este Grand Exchange! ¿No es maravilloso? Nunca he visto nada parecido en mi vida.

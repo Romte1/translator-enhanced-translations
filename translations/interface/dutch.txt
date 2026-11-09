@@ -1,0 +1,264 @@
+
+Difficulty:;Moeilijkheidsgraad:
+Length:;Duur:
+Storyline:;Verhaallijn:
+Release Year:;Uitgavejaar:
+Requirements:;Vereisten:
+Recommendations:;Aanbevelingen:
+Show on Map;Toon op kaart
+Novice;Beginner
+Intermediate;Gevorderd
+Experienced;Ervaren
+Master;Meester
+Grandmaster;Grootmeester
+Easy;Makkelijk
+Medium;Gemiddeld
+Hard;Moeilijk
+Short;Kort
+Long;Lang
+Very Short;Zeer kort
+Very Long;Zeer lang
+Standalone;Zelfstandig
+I can start this quest by talking to <col=800000>Elena<col=000080> at her home in northern <col=800000>East Ardougne<col=000080>.;Ik kan deze opdracht starten door te praten met <col=800000>Elena<col=000080> in haar huis in het noorden van <col=800000>East Ardougne<col=000080>.
+I can start this quest by talking to <col=800000>Willow<col=000080> on the path south of <col=800000>Ice Mountain<col=000080>.;Ik kan deze opdracht starten door te praten met <col=800000>Willow<col=000080> op het pad ten zuiden van <col=800000>Ice Mountain<col=000080>.
+I can start this quest by talking to <col=800000>Sir Amik Varze<col=000080> in the <col=800000>White Knights' Castle<col=000080>.;Ik kan deze opdracht starten door te praten met <col=800000>Sir Amik Varze<col=000080> in het <col=800000>White Knights' Castle<col=000080>.
+I can start this quest by talking to <col=800000>Doric<col=000080> at his home north of <col=800000>Falador<col=000080>.;Ik kan deze opdracht starten door te praten met <col=800000>Doric<col=000080> bij hem thuis ten noorden van <col=800000>Falador<col=000080>.
+I can start this quest by talking to <col=800000>Aris<col=000080> in her tent in <col=800000>Varrock Square<col=000080>.;Ik kan deze opdracht starten door te praten met <col=800000>Aris<col=000080> in haar tent op <col=800000>Varrock Square<col=000080>.
+I can start this quest by talking to <col=800000>Captain Tock<col=000080> north of <col=800000>Port Sarim<col=000080>.;Ik kan deze opdracht starten door te praten met <col=800000>Captain Tock<col=000080> ten noorden van <col=800000>Port Sarim<col=000080>.
+I can start this quest by talking to the <col=800000>Guildmaster<col=000080> in the <col=800000>Champions' Guild<col=000080>.;Ik kan deze opdracht starten door te praten met de <col=800000>Guildmaster<col=000080> in het <col=800000>Champions' Guild<col=000080>.
+I can start this quest by talking to the <col=800000>Goblin Generals<col=000080> in <col=800000>Goblin Village<col=000080>.;Ik kan deze opdracht starten door te praten met de <col=800000>Goblin Generals<col=000080> in <col=800000>Goblin Village<col=000080>.
+I can start this quest by talking to <col=800000>Redbeard Frank<col=000080> on the <col=800000>Port Sarim<col=000080> docks.;Ik kan deze opdracht starten door te praten met <col=800000>Redbeard Frank<col=000080> op de kade van <col=800000>Port Sarim<col=000080>.
+I can start this quest by talking to <col=800000>Rantz<col=000080> south east of <col=800000>Gu'Tanoth<col=000080>.;Ik kan deze opdracht starten door met <col=800000>Rantz<col=000080> te praten, ten zuidoosten van <col=800000>Gu'Tanoth<col=000080>.
+I can start this quest by talking to <col=800000>Curator Haig Halen<col=000080> in the <col=800000>Varrock Museum<col=000080>.;Ik kan deze opdracht starten door met <col=800000>Curator Haig Halen<col=000080> te praten in het <col=800000>Varrock Museum<col=000080>.
+I can start this quest by talking to <col=800000>Bill Teach<col=000080> in the <col=800000>Green Ghost Inn<col=000080> in <col=800000>Port Phasmatys<col=000080>.;Ik kan deze opdracht starten door met <col=800000>Bill Teach<col=000080> te praten in de <col=800000>Green Ghost Inn<col=000080> in <col=800000>Port Phasmatys<col=000080>.
+I can start this quest by talking to <col=800000>Veronica<col=000080> south of <col=800000>Draynor Manor<col=000080>.;Ik kan deze opdracht starten door met <col=800000>Veronica<col=000080> te praten, ten zuiden van <col=800000>Draynor Manor<col=000080>.
+I can start this quest by talking to <col=800000>Ava<col=000080> in <col=800000>Draynor Manor<col=000080>.;Ik kan deze opdracht starten door met <col=800000>Ava<col=000080> te praten in <col=800000>Draynor Manor<col=000080>.
+I can start this quest by talking to <col=800000>Ur-tag<col=000080> at his home in <col=800000>Dorgesh-Kaan<col=000080>.;Ik kan deze opdracht starten door met <col=800000>Ur-tag<col=000080> te praten bij hem thuis in <col=800000>Dorgesh-Kaan<col=000080>.
+I can start this quest by talking to <col=800000>Mori<col=000080> in <col=800000>Arceuus<col=000080>.;Ik kan deze opdracht starten door met <col=800000>Mori<col=000080> te praten in <col=800000>Arceuus<col=000080>.
+I can start this quest by talking to <col=800000>Guildmaster Apatura<col=000080> in the <col=800000>Hunter Guild<col=000080>.;Ik kan deze opdracht starten door met <col=800000>Guildmaster Apatura<col=000080> te praten in de <col=800000>Hunter Guild<col=000080>.
+I started this quest by talking to the <col=800000>Cook<col=000080> in <col=800000>Lumbridge Castle<col=000080>.;Ik ben deze opdracht begonnen door met de <col=800000>Cook<col=000080> te praten in <col=800000>Lumbridge Castle<col=000080>.
+I can start this quest by talking to <col=800000>Wizard Mizgog<col=000080> in the <col=800000>Wizards' Tower<col=000080>.;Ik kan deze opdracht starten door met <col=800000>Wizard Mizgog<col=000080> te praten in de <col=800000>Wizards' Tower<col=000080>.
+I can start this quest by talking to <col=800000>Romeo<col=000080> in <col=800000>Varrock Square<col=000080>.;Ik kan deze opdracht starten door met <col=800000>Romeo<col=000080> te praten in <col=800000>Varrock Square<col=000080>.
+I can start this quest by talking to <col=800000>Cassius<col=000080> south of the <col=800000>Lumbridge Windmill<col=000080>.;Ik kan deze opdracht starten door met <col=800000>Cassius<col=000080> te praten, ten zuiden van de <col=800000>Lumbridge Windmill<col=000080>.
+I can start this quest by talking to <col=800000>Abigale<col=000080> by the shore in <col=800000>Lumbridge Swamp<col=000080>.;Ik kan deze opdracht starten door met <col=800000>Abigale<col=000080> te praten aan de kust in <col=800000>Lumbridge Swamp<col=000080>.
+I can start this quest by talking to <col=800000>Jamila<col=000080> at her stall in <col=800000>Sophanem<col=000080>.;Ik kan deze opdracht starten door met <col=800000>Jamila<col=000080> te praten bij haar kraam in <col=800000>Sophanem<col=000080>.
+<col=800000>None;<col=800000>Geen
+<str>It was the Duke of Lumbridge's birthday, but his cook had;<str>Het was de verjaardag van de Duke of Lumbridge, maar zijn kok was
+<str>forgotten to buy the ingredients he needed to make him a;<str>vergeten de ingrediënten te kopen die hij nodig had om een
+<str>cake. I brought the cook an egg, some flour and some milk and;<str>cake te maken. Ik bracht de kok een egg, wat flour en wat milk en
+<str>the cook made a delicious looking cake with them.;<str>de kok maakte daarmee een heerlijk uitziende cake.
+<str>As a reward he now lets me use his high quality range which;<str>Als beloning mag ik nu zijn hoogwaardige fornuis gebruiken, dat
+<str>lets me burn things less whenever I wish to cook there.;<str>waardoor ik minder laat aanbranden wanneer ik daar wil koken.
+<col=ffff00>Kandarin Tasks;<col=ffff00>Kandarin Taken
+<col=ff0000>QUEST COMPLETE!;<col=ff0000>OPDRACHT VOLTOOID!
+<col=ffff00>Fremennik Tasks;<col=ffff00>Fremennik Taken
+<col=000000>Catch a Cerulean twitch.<col=ffffff>(<col=800000>11 Hunter<col=000080><col=ffffff>);<col=000000>Vang een Cerulean twitch.<col=ffffff>(<col=800000>11 Hunter<col=000080><col=ffffff>)
+<col=000000>Change your boots at Yrsa's Shoe Store.<col=ffffff>(<col=800000>The Fremennik Trials<col=000080><col=ffffff>);<col=000000>Verwissel je boots bij Yrsa's Shoe Store.<col=ffffff>(<col=800000>The Fremennik Trials<col=000080><col=ffffff>)
+<col=000000>Kill 5 Rock crabs.;<col=000000>Dood 5 Rock crabs.
+<col=000000>Craft a tiara from scratch in Rellekka.;<col=000000>Maak een tiara vanaf nul in Rellekka.
+<col=000000>Browse the Stonemasons shop.<col=ffffff>(<col=800000>Started The Giant Dwarf<col=000080><col=ffffff>);<col=000000>Snuffel rond in de Stonemasons shop.<col=ffffff>(<col=800000>The Giant Dwarf gestart<col=000080><col=ffffff>)
+<col=000000>Collect 5 Snape grass on Waterbirth Island.;<col=000000>Verzamel 5 Snape grass op Waterbirth Island.
+<col=000000>Steal from the Keldagrim crafting or baker's stall.;<col=000000>Steel van de crafting- of bakkerskraam in Keldagrim.
+<col=000000>Fill a bucket with water at the Rellekka well.;<col=000000>Vul een bucket met water bij de put in Rellekka.
+<col=000000>Enter the Troll Stronghold.<col=ffffff>(<col=800000>Death Plateau<col=000080>, <col=800000>Started Troll Stronghold<col=000080><col=ffffff>);<col=000000>Betreed de Troll Stronghold.<col=ffffff>(<col=800000>Death Plateau<col=000080>, <col=800000>Troll Stronghold gestart<col=000080><col=ffffff>)
+<col=000000>Chop and burn some oak logs in the Fremennik Province.;<col=000000>Hak en verbrand wat oak logs in de Fremennik Province.
+<col=000000>Slay a Brine rat.<col=ffffff>(<col=800000>47 Slayer<col=000080>, <col=800000>Started Olaf's Quest<col=000080><col=ffffff>);<col=000000>Dood een Brine rat.<col=ffffff>(<col=800000>47 Slayer<col=000080>, <col=800000>Olaf's Quest gestart<col=000080><col=ffffff>)
+<col=000000>Travel to the Snowy Hunter Area via Eagle.<col=ffffff>(<col=800000>Eagles' Peak<col=000080><col=ffffff>);<col=000000>Reis via Eagle naar de Snowy Hunter Area.<col=ffffff>(<col=800000>Eagles' Peak<col=000080><col=ffffff>)
+<col=000000>Mine some coal in Rellekka.<col=ffffff>(<col=800000>30 Mining<col=000080>, <col=800000>The Fremennik Trials<col=000080><col=ffffff>);<col=000000>Delg wat coal in Rellekka.<col=ffffff>(<col=800000>30 Mining<col=000080>, <col=800000>The Fremennik Trials<col=000080><col=ffffff>)
+<col=000000>Steal from the Rellekka Fish stalls.<col=ffffff>(<col=800000>42 Thieving<col=000080>, <col=800000>The Fremennik Trials<col=000080><col=ffffff>);<col=000000>Steel van de viskraampjes in Rellekka.<col=ffffff>(<col=800000>42 Thieving<col=000080>, <col=800000>The Fremennik Trials<col=000080><col=ffffff>)
+<col=000000>Travel to Miscellania by Fairy ring.;<col=000000>Reis met de Fairy ring naar Miscellania.
+<col=ffffff>(<col=800000>The Fremennik Trials<col=000080>, <col=800000>Started Fairytale II - Cure a Queen<col=000080><col=ffffff>);<col=ffffff>(<col=800000>The Fremennik Trials<col=000080>, <col=800000>Fairytale II - Cure a Queen gestart<col=000080><col=ffffff>)
+<col=000000>Catch a Snowy knight.<col=ffffff>(<col=800000>35 Hunter<col=000080><col=ffffff>);<col=000000>Vang een Snowy knight.<col=ffffff>(<col=800000>35 Hunter<col=000080><col=ffffff>)
+<col=000000>Pick up your Pet Rock from your POH Menagerie.;<col=000000>Pak je Pet Rock op uit je POH Menagerie.
+<col=000000>Visit the Lighthouse from Waterbirth island.;<col=000000>Bezoek de Lighthouse vanaf Waterbirth island.
+<col=ffffff>(<col=800000>Horror from the Deep<col=000080>, <col=800000>Started The Fremennik Trials<col=000080><col=ffffff>);<col=ffffff>(<col=800000>Horror from the Deep<col=000080>, <col=800000>The Fremennik Trials gestart<col=000080><col=ffffff>)
+<col=000000>Mine some gold at the Arzinian mine.;<col=000000>Delg wat gold bij de Arzinian mine.
+<col=ffffff>(<col=800000>40 Mining<col=000080>, <col=800000>Started Between a Rock...<col=000080><col=ffffff>);<col=ffffff>(<col=800000>40 Mining<col=000080>, <col=800000>Between a Rock... gestart<col=000080><col=ffffff>)
+<col=000000>Teleport to Trollheim.<col=ffffff>(<col=800000>61 Magic<col=000080>, <col=800000>Eadgar's Ruse<col=000080><col=ffffff>);<col=000000>Teleporteer naar Trollheim.<col=ffffff>(<col=800000>61 Magic<col=000080>, <col=800000>Eadgar's Ruse<col=000080><col=ffffff>)
+<col=000000>Catch a Sabre-toothed Kyatt.<col=ffffff>(<col=800000>55 Hunter<col=000080><col=ffffff>);<col=000000>Vang een Sabre-toothed Kyatt.<col=ffffff>(<col=800000>55 Hunter<col=000080><col=ffffff>)
+<col=000000>Mix a super defence potion in the Fremennik province.;<col=000000>Meng een super defence potion in de Fremennik provincie.
+<col=000000>Steal from the Keldagrim Gem Stall.;<col=000000>Steel van de Keldagrim Gem Stall.
+<col=ffffff>(<col=800000>75 Thieving<col=000080>, <col=800000>Started The Giant Dwarf<col=000080><col=ffffff>);<col=ffffff>(<col=800000>75 Thieving<col=000080>, <col=800000>The Giant Dwarf begonnen<col=000080><col=ffffff>)
+<col=000000>Craft a Neitiznot shield on Neitiznot.;<col=000000>Maak een Neitiznot shield op Neitiznot.
+<col=000000>Mine 5 Adamantite ores on Jatizso.<col=ffffff>(<col=800000>70 Mining<col=000080>, <col=800000>The Fremennik Isles<col=000080><col=ffffff>);<col=000000>Delg 5 Adamantite ore op Jatizso.<col=ffffff>(<col=800000>70 Mining<col=000080>, <col=800000>The Fremennik Isles<col=000080><col=ffffff>)
+<col=000000>Obtain 100% support from your kingdom subjects.;<col=000000>Verkrijg 100% steun van je koninkrijksonderdanen.
+<col=000000>Teleport to Waterbirth Island.<col=ffffff>(<col=800000>72 Magic<col=000080>, <col=800000>Lunar Diplomacy<col=000080><col=ffffff>);<col=000000>Teleporteer naar Waterbirth Island.<col=ffffff>(<col=800000>72 Magic<col=000080>, <col=800000>Lunar Diplomacy<col=000080><col=ffffff>)
+<col=000000>Obtain the Blast Furnace Foreman's permission to use the;<col=000000>Verkrijg toestemming van de Blast Furnace Foreman om de
+<col=000000>Blast Furnace for free.<col=ffffff>(<col=800000>60 Smithing<col=000080>, <col=800000>Started The Giant Dwarf<col=000080><col=ffffff>);<col=000000>Blast Furnace gratis te gebruiken.<col=ffffff>(<col=800000>60 Smithing<col=000080>, <col=800000>The Giant Dwarf begonnen<col=000080><col=ffffff>)
+<col=000000>Kill each of the Dagannoth Kings.;<col=000000>Versla elk van de Dagannoth Kings.
+<col=000000>Craft 56 astral runes simultaneously from Essence;<col=000000>Maak 56 astral runes tegelijk uit Essence
+<col=000000>without the use of Extracts.<col=ffffff>(<col=800000>82 Runecraft<col=000080>, <col=800000>Lunar Diplomacy<col=000080><col=ffffff>);<col=000000>zonder Extracts te gebruiken.<col=ffffff>(<col=800000>82 Runecraft<col=000080>, <col=800000>Lunar Diplomacy<col=000080><col=ffffff>)
+<col=000000>Create a dragonstone amulet in the Neitiznot furnace.;<col=000000>Maak een dragonstone amulet in de oven van Neitiznot.
+<col=ffffff>(<col=800000>80 Crafting<col=000080>, <col=800000>Started The Fremennik Isles<col=000080><col=ffffff>);<col=ffffff>(<col=800000>80 Crafting<col=000080>, <col=800000>The Fremennik Isles begonnen<col=000080><col=ffffff>)
+<col=000000>Complete a lap of the Rellekka agility course.<col=ffffff>(<col=800000>80 Agility<col=000080><col=ffffff>);<col=000000>Voltooi een ronde van de Agility-baan in Rellekka.<col=ffffff>(<col=800000>80 Agility<col=000080><col=ffffff>)
+<col=000000>Kill the generals of Armadyl, Bandos, Saradomin and;<col=000000>Versla de generaals van Armadyl, Bandos, Saradomin en
+<col=000000>Zamorak in the God Wars Dungeon.;<col=000000>Zamorak in de God Wars Dungeon.
+<col=000000>Slay a Spiritual mage within the Godwars Dungeon.<col=ffffff>(<col=800000>83 Slayer<col=000080>, <col=800000>Troll Stronghold<col=000080><col=ffffff>);<col=000000>Versla een Spiritual mage in de Godwars Dungeon.<col=ffffff>(<col=800000>83 Slayer<col=000080>, <col=800000>Troll Stronghold<col=000080><col=ffffff>)
+<col=ffff00>Falador Area Tasks;<col=ffff00>Taken in het Falador-gebied
+<col=000000>Find out what your family crest is from Sir Renitee.<col=ffffff>(<col=800000>16 Construction<col=000080><col=ffffff>);<col=000000>Ontdek wat je familiewapen is van Sir Renitee.<col=ffffff>(<col=800000>16 Construction<col=000080><col=ffffff>)
+<col=000000>Climb over the western Falador wall.<col=ffffff>(<col=800000>5 Agility<col=000080><col=ffffff>);<col=000000>Klim over de westelijke muur van Falador.<col=ffffff>(<col=800000>5 Agility<col=000080><col=ffffff>)
+<col=000000>Browse Sarah's farm shop.;<col=000000>Bekijk Sarah's boerderijwinkel.
+<col=000000>Get a Haircut or a Shave from the Falador Hairdresser.;<col=000000>Haal een knipbeurt of scheerbeurt bij de kapper van Falador.
+<col=000000>Fill a bucket from the pump north of Falador west bank.;<col=000000>Vul een emmer bij de pomp ten noorden van de westelijke bank van Falador.
+<col=000000>Kill a duck in Falador park.;<col=000000>Versla een eend in Falador park.
+<col=000000>Make a mind tiara.;<col=000000>Maak een mind tiara.
+<col=000000>Take the boat to Entrana.;<col=000000>Neem de boot naar Entrana.
+Description: <col=ffffff>Kill a Bloodveld.</col>;Beschrijving: <col=ffffff>Vermoord een Bloodveld.</col>
+<col=000000>Repair a broken strut in the Motherlode Mine.;<col=000000>Repareer een gebroken steunbalk in de Motherlode Mine.
+<col=000000>Claim a security book from the Security guard at Port;<col=000000>Pak een security book van de Security guard bij Port
+<col=000000>Smith some Blurite Limbs on Doric's Anvil.<col=ffffff>(<col=000080><str>10 Mining</str>, <col=800000>13 Smithing<col=000080>, <col=800000>The Knight's Sword<col=000080>, <col=800000>Doric's Quest<col=000080><col=ffffff>);<col=000000>Smeed enkele Blurite Limbs op Doric's Anvil.<col=ffffff>(<col=000080><str>10 Mining</str>, <col=800000>13 Smithing<col=000080>, <col=800000>The Knight's Sword<col=000080>, <col=800000>Doric's Quest<col=000080><col=ffffff>)
+<col=000000>Light a Bullseye lantern at the Chemist's in Rimmington.<col=ffffff>(<col=800000>49 Firemaking<col=000080><col=ffffff>);<col=000000>Steek een Bullseye lantern aan bij de Chemist's in Rimmington.<col=ffffff>(<col=800000>49 Firemaking<col=000080><col=ffffff>)
+<col=000000>Telegrab some Wine of Zamorak at the Chaos Temple by;<col=000000>Telegrijp wat Wine of Zamorak bij de Chaos Temple door
+<col=000000>the Wilderness.<col=ffffff>(<col=800000>33 Magic<col=000080><col=ffffff>);<col=000000>de Wilderness.<col=ffffff>(<col=800000>33 Magic<col=000080><col=ffffff>)
+<col=000000>Unlock the Crystal chest in Taverley;<col=000000>Ontgrendel de kristallen kist in Taverley
+<col=000000>Place a Scarecrow in the Falador farming patch.<col=ffffff>(<col=800000>23 Farming<col=000080><col=ffffff>);<col=000000>Plaats een Scarecrow op de akker van Falador.<col=ffffff>(<col=800000>23 Farming<col=000080><col=ffffff>)
+<col=000000>Kill a Mogre at Mudskipper Point.<col=ffffff>(<col=800000>32 Slayer<col=000080>, <col=800000>Skippy and the Mogres<col=000080><col=ffffff>);<col=000000>Vermoord een Mogre bij Mudskipper Point.<col=ffffff>(<col=800000>32 Slayer<col=000080>, <col=800000>Skippy and the Mogres<col=000080><col=ffffff>)
+<col=000000>Visit the Port Sarim Rat Pits.<col=ffffff>(<col=800000>Started Ratcatchers<col=000080><col=ffffff>);<col=000000>Bezoek de Port Sarim Rat Pits.<col=ffffff>(<col=800000>Started Ratcatchers<col=000080><col=ffffff>)
+<col=000000>Grapple up and then jump off the north Falador wall.;<col=000000>Klim omhoog en spring dan van de noordelijke Falador muur.
+<col=000000>Pickpocket a Falador guard.<col=ffffff>(<col=800000>40 Thieving<col=000080><col=ffffff>);<col=000000>Besteel een bewaker van Falador.<col=ffffff>(<col=800000>40 Thieving<col=000080><col=ffffff>)
+<col=000000>Pray at the Altar of Guthix in Taverley whilst wearing full;<col=000000>Bid bij het Altar of Guthix in Taverley terwijl je volledige
+<col=000000>Mine some Gold ore at the Crafting Guild.<col=ffffff>(<col=800000>40 Crafting<col=000080>, <col=800000>40 Mining<col=000080><col=ffffff>);<col=000000>Delg wat Gold ore bij de Crafting Guild.<col=ffffff>(<col=800000>40 Crafting<col=000080>, <col=800000>40 Mining<col=000080><col=ffffff>)
+<col=000000>Squeeze through the crevice in the Dwarven mines.<col=ffffff>(<col=800000>42 Agility<col=000080><col=ffffff>);<col=000000>Kruip door de spleet in de Dwarven mines.<col=ffffff>(<col=800000>42 Agility<col=000080><col=ffffff>)
+<col=000000>Chop and burn some Willow logs in Taverley;<col=000000>Hak en verbrand wat Willow logs in Taverley
+<col=000000>Craft a fruit basket on the Falador Farm loom.<col=ffffff>(<col=800000>36 Crafting<col=000080><col=ffffff>);<col=000000>Maak een fruit basket op het weefgetouw van Falador Farm.<col=ffffff>(<col=800000>36 Crafting<col=000080><col=ffffff>)
+<col=000000>Teleport to Falador.<col=ffffff>(<col=800000>37 Magic<col=000080><col=ffffff>);<col=000000>Teleporteer naar Falador.<col=ffffff>(<col=800000>37 Magic<col=000080><col=ffffff>)
+<col=000000>Craft 140 Mind runes simultaneously from Essence;<col=000000>Maak 140 Mind runes tegelijk uit Essence
+<col=000000>without the use of Extracts.<col=ffffff>(<col=800000>56 Runecraft<col=000080><col=ffffff>);<col=000000>zonder het gebruik van Extracts.<col=ffffff>(<col=800000>56 Runecraft<col=000080><col=ffffff>)
+<col=000000>Change your family crest to the Saradomin symbol.<col=ffffff>(<col=800000>70 Prayer<col=000080><col=ffffff>);<col=000000>Verander je familiewapen naar het Saradomin-symbool.<col=ffffff>(<col=800000>70 Prayer<col=000080><col=ffffff>)
+<col=000000>Kill the Giant Mole beneath Falador park.;<col=000000>Dood de Giant Mole onder Falador park.
+<col=000000>Kill a Skeletal Wyvern in the Asgarnia Ice Dungeon.<col=ffffff>(<col=800000>72 Slayer<col=000080><col=ffffff>);<col=000000>Dood een Skeletal Wyvern in de Asgarnia Ice Dungeon.<col=ffffff>(<col=800000>72 Slayer<col=000080><col=ffffff>)
+<col=000000>Complete a lap of the Falador rooftop agility course.<col=ffffff>(<col=800000>50 Agility<col=000080><col=ffffff>);<col=000000>Voltooi een ronde van de agility-baan op de daken van Falador.<col=ffffff>(<col=800000>50 Agility<col=000080><col=ffffff>)
+<col=000000>Enter the mining guild wearing a Prospector helmet.<col=ffffff>(<col=800000>60 Mining<col=000080><col=ffffff>);<col=000000>Betreed de mining guild met een Prospector helm.<col=ffffff>(<col=800000>60 Mining<col=000080><col=ffffff>)
+<col=000000>Kill the Blue Dragon under the Heroes' Guild.<col=ffffff>(<col=800000>Heroes' Quest<col=000080><col=ffffff>);<col=000000>Dood de Blue Dragon onder de Heroes' Guild.<col=ffffff>(<col=800000>Heroes' Quest<col=000080><col=ffffff>)
+<col=000000>Crack a wall safe within Rogues Den.<col=ffffff>(<col=800000>50 Thieving<col=000080><col=ffffff>);<col=000000>Open een muurkluis in Rogues Den.<col=ffffff>(<col=800000>50 Thieving<col=000080><col=ffffff>)
+<col=000000>Recharge your prayer in the Port Sarim church while;<col=000000>Herlaad je gebedspunten in de Port Sarim kerk terwijl
+<col=000000>wearing full Proselyte.<col=ffffff>(<col=800000>30 Defence<col=000080>, <col=800000>The Slug Menace<col=000080><col=ffffff>);<col=000000>vol volledige Proselyte draagt.<col=ffffff>(<col=800000>30 Defence<col=000080>, <col=800000>The Slug Menace<col=000080><col=ffffff>)
+<col=000000>Enter the Warriors' Guild.;<col=000000>Betreed de Warriors' Guild.
+<col=000000>Equip a dwarven helmet within the dwarven mines.;<col=000000>Rust een dwarven helm uit in de dwarven mijnen.
+<col=000000>Craft 252 Air Runes simultaneously from Essence without;<col=000000>Maak 252 Air Runes tegelijk uit Essence zonder
+<col=000000>the use of Extracts.<col=ffffff>(<col=800000>88 Runecraft<col=000080><col=ffffff>);<col=000000>het gebruik van Extracts.<col=ffffff>(<col=800000>88 Runecraft<col=000080><col=ffffff>)
+<col=000000>Purchase a White 2h Sword from Sir Vyvin.<col=ffffff>(<col=800000>Wanted!<col=000080><col=ffffff>);<col=000000>Koop een White 2h Sword van Sir Vyvin.<col=ffffff>(<col=800000>Wanted!<col=000080><col=ffffff>)
+<col=000000>Find at least 3 magic roots at once when digging up your;<col=000000>Vind minstens 3 magic roots tegelijk bij het uitgraven van je
+<col=000000>Perform a skillcape or quest cape emote at the top of;<col=000000>Voer een skillcape of quest cape emote uit bovenaan
+<col=000000>Jump over the strange floor in Taverley dungeon.<col=ffffff>(<col=800000>80 Agility<col=000080><col=ffffff>);<col=000000>Spring over de vreemde vloer in Taverley dungeon.<col=ffffff>(<col=800000>80 Agility<col=000080><col=ffffff>)
+Dancing with Statues;Dansen met standbeelden
+Dodging the Dragon;De draak ontwijken
+Hot on Your Feet;Snel op je voeten
+Playing with Lasers;Spelen met lasers
+Supplies? Who Needs 'em?;Voorraad? Wie heeft die nodig?
+... 'til Dawn;... tot de dageraad
+A siphon will solve this;Een sifon lost dit op
+All out of medics;Geen medici meer
+Back in My Day...;In mijn tijd...
+Back so soon?;Zo snel terug?
+Better get movin';Beter gaan bewegen
+Big, Black and Fiery;Groot, zwart en vurig
+Calm Before the Storm;Rust voor de storm
+Contain this!;Houd dit tegen!
+Death to the Archer King;Dood aan de Archer King
+Death to the Seer King;Dood aan de Seer King
+Death to the Warrior King;Dood aan de Warrior King
+Denying the Healers;De healers tegenhouden
+Description: <col=ffffff>Kill a Black Dragon.</col>;Beschrijving: <col=ffffff>Dood een Black Dragon.</col>
+Description: <col=ffffff>Kill any Barrows Brother using only magical damage.</col>;Beschrijving: <col=ffffff>Dood een Barrows Brother met alleen magische schade.</col>
+Description: <col=ffffff>Kill the Chaos Fanatic without anyone being hit by his explosion attack.</col>;Beschrijving: <col=ffffff>Dood de Chaos Fanatic zonder dat iemand door zijn explosieaanval geraakt wordt.</col>
+Description: <col=ffffff>Open the Barrows chest 10 times.</col>;Beschrijving: <col=ffffff>Open de Barrows chest 10 keer.</col>
+Digging in;Graven
+Camping the King;Kamperen op de Koning
+Chambers of Xeric (5-Scale) Speed-Chaser;Chambers of Xeric (5-Scale) Snelheidsjager
+Chambers of Xeric (Solo) Speed-Chaser;Chambers of Xeric (Solo) Snelheidsjager
+Chambers of Xeric (Trio) Speed-Chaser;Chambers of Xeric (Trio) Snelheidsjager
+Chambers of Xeric Master;Chambers of Xeric Meester
+Chambers of Xeric Veteran;Chambers of Xeric Veteraan
+Chambers of Xeric: CM (5-Scale) Speed-Chaser;Chambers of Xeric: CM (5-Scale) Snelheidsjager
+Chambers of Xeric: CM (Solo) Speed-Chaser;Chambers of Xeric: CM (Solo) Snelheidsjager
+Chambers of Xeric: CM (Trio) Speed-Chaser;Chambers of Xeric: CM (Trio) Snelheidsjager
+Chambers of Xeric: CM Master;Chambers of Xeric: CM Meester
+Doesn't bug me;Stoort me niet
+Don't Look at Me!;Kijk niet naar mij!
+Don't Look at the Eclipse;Kijk niet naar de zonsverduistering
+Done before Dusk;Gedaan voor zonsondergang
+Dropped the ball;De bal laten vallen
+Fancy feet;Stijlvolle voeten
+Fat of the Land;Het vette van het land
+Fighting as Intended;Vechten zoals bedoeld
+Finding the Weak Spot;Het zwakke punt vinden
+Fire fighter;Brandweerman
+Fire in the Hole!;Vuur in het gat!
+Fragment of Seren Speed-Trialist;Fragment van Seren Speed-Trialist
+From One King to Another;Van de ene koning naar de andere
+Helpful spirit who?;Behulpzame geest, wie?
+I need room;Ik heb ruimte nodig
+I was here first!;Ik was hier eerst!
+I'm in a rush;Ik heb haast
+I'm your son;Ik ben je zoon
+Into the Den of Giants;Naar het hol van reuzen
+Is it a bird?;Is het een vogel?
+Kill It with Fire;Dood het met vuur
+King-sized clobbering;Koninklijke aframmeling
+Let it seep in;Laat het doordringen
+Let them fight;Laat ze vechten
+Master of Buckets;Meester van emmers
+More than just a ranged weapon;Meer dan alleen een ranged weapon
+Movin' on up;Op naar boven
+No Time for Death;Geen tijd voor de dood
+No skipping allowed;Overslaan niet toegestaan
+No time to pray;Geen tijd om te bidden
+No toppings, no drinks, thanks;Geen toppings, geen drankjes, dank je
+Nylocas, On the Rocks;Nylocas, Op ijs
+One by one;Eén voor één
+Praying to the Gods;Bidden tot de goden
+Putting It Olm on the Line;Het Olm op het spel zetten
+Ready to Pounce;Klaar om te springen
+Reflecting on This Encounter;Nadenken over deze ontmoeting
+Rockin' around the croc;Rocken rond de krokodil
+Shadow dancer;Schaduwdanser
+Smarter than a Cow;Slimmer dan een koe
+Something of an expert myself;Een beetje een expert ben ik
+Space is Tight;Ruimte is krap
+Stick 'em With the Pointy End;Steek ze met het puntige uiteinde
+Stop Drop and Roll;Stop, laat je vallen en rol
+The Bane of Demons;De gesel van de demonen
+Theatre of Blood Master;Theatre of Blood-meester
+Theatre of Blood Veteran;Theatre of Blood Veteraan
+There is no escape!;Er is geen ontsnapping!
+Three Times the Thrashing;Drie keer de afranseling
+Through Fire and Flames;Door vuur en vlammen
+Toppling the Diarchy;De diarchie omverwerpen
+<col=000000>the Falador Castle courtyard.;<col=000000>de Falador Castle binnenplaats.
+You are awarded:;Je krijgt:
+<col=000000>If I ever lose my Falador shield I can speak to Sir Rebral in;<col=000000>Als ik ooit mijn Falador shield verlies, kan ik met Sir Rebral praten in
+<col=000000>If I ever lose my Wilderness sword I can speak to<br>the;<col=000000>Als ik ooit mijn Wilderness sword verlies, kan ik met<br>de
+<col=000000>Lesser Fanatic by the Wilderness ditch in<br>Edgeville.;<col=000000>Lesser Fanatic bij de Wilderness greppel in<br>Edgeville.
+<col=000000>Gnome Child north at the Gnome Stronghold.;<col=000000>Gnome Child noord bij de Gnome Stronghold.
+<str>Kill the Thermonuclear Smoke devil.;<str>Vermoord de Thermonuclear Smoke devil.
+<col=000000>Varrock square.;<col=000000>Varrock plein.
+<str>Bake a summer pie in the Cooking Guild.<col=ffffff>(<col=000080><str>95 Cooking</str><col=ffffff>);<str>Bak een summer pie in de Cooking Guild.<col=ffffff>(<col=000080><str>95 Cooking</str><col=ffffff>)
+<str>Browse Thessalia's store.;<str>Blader door Thessalia's winkel.
+<str>Buy a newspaper.;<str>Koop een newspaper.
+<str>Catch some trout in the River Lum at Barbarian Village.<col=ffffff>(<col=000080><str>20 Fishing</str><col=ffffff>);<str>Vang wat trout in de River Lum bij Barbarian Village.<col=ffffff>(<col=000080><str>20 Fishing</str><col=ffffff>)
+<str>Chop down a dying tree in the Lumber Yard.;<str>Hak een stervende boom in de Lumber Yard.
+<str>Complete a lap of the Varrock Agility course.<col=ffffff>(<col=000080><str>30 Agility</str><col=ffffff>);<str>Voltooi een ronde van de Varrock Agility-cursus.<col=ffffff>(<col=000080><str>30 Agility</str><col=ffffff>)
+<str>Craft some Earth runes from Essence.<col=ffffff>(<col=000080><str>9 Runecraft</str><col=ffffff>);<str>Maak wat Earth runes van Essence.<col=ffffff>(<col=000080><str>9 Runecraft</str><col=ffffff>)
+<str>Enter the Champions' Guild.<col=ffffff>(<col=000080><str>32 Quest points</str><col=ffffff>);<str>Betreed de Champions' Guild.<col=ffffff>(<col=000080><str>32 Quest points</str><col=ffffff>)
+<str>Enter the second level of the Stronghold of<br>Security.;<str>Betreed het tweede niveau van de Stronghold of<br>Security.
+<str>Get a Slayer task from Vannaka.<col=ffffff>(<col=000080><str>40 Combat</str><col=ffffff>);<str>Krijg een Slayer taak van Vannaka.<col=ffffff>(<col=000080><str>40 Combat</str><col=ffffff>)
+<str>Give a dog a bone!;<str>Geef een hond een bone!
+<str>Jump over the fence south of Varrock.<col=ffffff>(<col=000080><str>13 Agility</str><col=ffffff>);<str>Spring over het hek ten zuiden van Varrock.<col=ffffff>(<col=000080><str>13 Agility</str><col=ffffff>)
+<str>Make 20 Mahogany Planks in one go.;<str>Maak 20 Mahogany Planks in één keer.
+<str>Make a normal plank at the Sawmill.;<str>Maak een normale plank bij de Sawmill.
+<str>Mine some Iron in the south east mining patch near;<str>Mijn wat Iron in het zuidoostelijke mijnveld bij
+<str>Perform the 4 emotes from the Stronghold of<br>Security.;<str>Voer de 4 emotes van Stronghold of<br>Security uit.
+<str>Pray at the altar in Varrock palace with Smite active.<col=ffffff>(<col=000080><str>52 Prayer</str><col=ffffff>);<str>Bid bij het altaar in het paleis van Varrock met Smite actief.<col=ffffff>(<col=000080><str>52 Prayer</str><col=ffffff>)
+<str>Select a colour for your kitten.;<str>Selecteer een kleur voor je poesje.
+<str>Steal from the Tea stall in Varrock.<col=ffffff>(<col=000080><str>5 Thieving</str><col=ffffff>);<str>Steel van de Tea stall in Varrock.<col=ffffff>(<col=000080><str>5 Thieving</str><col=ffffff>)
+<str>Teleport to Barbarian Village with a skull<br>sceptre.;<str>Teleporteer naar Barbarian Village met een skull<br>sceptre.
+<str>Teleport to Paddewwa.<col=ffffff>(<col=000080><str>54 Magic</str>, <col=000080><str>Desert Treasure I</str><col=ffffff>);<str>Teleporteer naar Paddewwa.<col=ffffff>(<col=000080><str>54 Magic</str>, <col=000080><str>Desert Treasure I</str><col=ffffff>)
+<str>Teleport to the digsite using a Digsite pendant.<col=ffffff>(<col=000080><str>The Dig Site</str><col=ffffff>);<str>Teleporteer naar het Digsite met een Digsite pendant.<col=ffffff>(<col=000080><str>The Dig Site</str><col=ffffff>)
+<str>Trade furs with the Fancy Dress Seller for a<br>spottier cape;<str>Ruil furs met de Fancy Dress Seller voor een<br>spottier cape
+<str>Use the balloon to travel from Varrock.;<str>Gebruik de ballon om te reizen vanuit Varrock.
+<str>Use the spirit tree north of Varrock.<col=ffffff>(<col=000080><str>Tree Gnome Village</str><col=ffffff>);<str>Gebruik de spirit tree ten noorden van Varrock.<col=ffffff>(<col=000080><str>Tree Gnome Village</str><col=ffffff>)
+<str>and equip it.<col=ffffff>(<col=000080><str>66 Hunter</str><col=ffffff>);<str>en rust het uit.<col=ffffff>(<col=000080><str>66 Hunter</str><col=ffffff>)
+<str>potion.;<str>drank.
+<col=000000>If I ever lose my Varrock armour I can speak to<br>Toby in;<col=000000>Als ik ooit mijn Varrock armour verlies, kan ik met<br>Toby praten in
+<col=000000>If I ever lose my Western banner I can speak to the Elder;<col=000000>Als ik ooit mijn Western banner verlies, kan ik met de Elder praten

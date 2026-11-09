@@ -1,0 +1,3650 @@
+Follow;Seuraa
+Sets;Sarjat
+Exchange;Vaihtaa
+History;Historia
+Trade with;Kauppa kanssa
+Walk here;Kävele täällä
+Examine;Tutki
+Talk-to;Keskustele
+Bank;Pankki
+Lookup;Haku
+Cancel;Peruuttaa
+Report;Raportoi
+Collect;Kerätä
+Prices;hinnat
+Drop;Pudota
+Decant;Dekantoi
+Use;Käyttää
+View guide prices;Katso ohjehinnat
+View <col=ff981f>Farming</col> guide;Katso <col=ff981f>Maatalous</col>-opas
+Wiki;Wiki
+Add to canvas;Lisää kankaalle
+View <col=ff981f>Agility</col> guide;Katso <col=ff981f>Agility</col>-opas
+View equipment stats;Katso varustetilastot
+View <col=ff981f>Herblore</col> guide;Katso <col=ff981f>Herblore</col>-opas
+Remove;Poistaa
+View <col=ff981f>Magic</col> guide;Katso <col=ff981f>Magic</col>-opas
+View <col=ff981f>Sailing</col> guide;Katso <col=ff981f>Purjehdus</col>-opas
+Call follower;Soita seuraajalle
+View <col=ff981f>Thieving</col> guide;Katso <col=ff981f>Thieving</col> -opas
+View <col=ff981f>Woodcutting</col> guide;Katso <col=ff981f>Puunleikkaus</col>-opas
+View <col=ff981f>Construction</col> guide;Katso <col=ff981f>Rakennusopas</col>
+View <col=ff981f>Ranged</col> guide;Katso <col=ff981f>Etäisyys</col>-opas
+View items kept on death;Katso kuolemantapauksessa säilytetyt tavarat
+View <col=ff981f>Runecraft</col> guide;Katso <col=ff981f>Runecraft</col>-opas
+View <col=ff981f>Cooking</col> guide;Katso <col=ff981f>Ruoanlaitto</col>-opas
+View <col=ff981f>Crafting</col> guide;Katso <col=ff981f>käsityön</col>-opas
+View <col=ff981f>Prayer</col> guide;Katso <col=ff981f>Rukous</col>-opas
+Play;Pelata
+Rewards;Palkinnot
+Skull;Kallo
+View <col=ff981f>Strength</col> guide;Katso <col=ff981f>voimakkuus</col>-opas
+View <col=ff981f>Defence</col> guide;Katso <col=ff981f>Puolustus</col>-opas
+View <col=ff981f>Slayer</col> guide;Katso <col=ff981f>Slayer</col> -opas
+View <col=ff981f>Hunter</col> guide;Katso <col=ff981f>Hunter</col> -opas
+View <col=ff981f>Hitpoints</col> guide;Katso <col=ff981f>Hitpoints</col>-opas
+View <col=ff981f>Fletching</col> guide;Katso <col=ff981f>Fletching</col> -opas
+View <col=ff981f>Mining</col> guide;Katso <col=ff981f>Louhinta</col>-opas
+View <col=ff981f>Attack</col> guide;Katso <col=ff981f>Attack</col> -opas
+View <col=ff981f>Smithing</col> guide;Katso <col=ff981f>Smithingin</col>-opas
+View <col=ff981f>Firemaking</col> guide;Katso <col=ff981f>Tulonteko</col>-opas
+Read journal:;Lue päiväkirja:
+Open wiki guide:;Avaa wikiopas:
+Start Helper;Käynnistä Helper
+Wiki <col=ff9040>Ardougne Journal</col>;Wiki <col=ff9040>Ardougne Journal</col>
+Wiki <col=ff9040>Desert Journal</col>;Wiki <col=ff9040>Desert Journal</col>
+Show on map:;Näytä kartalla:
+Start Quest Helper;Käynnistä Quest Helper
+Open wiki quick guide:;Avaa wikin pikaopas:
+Open <col=ff9040>Desert Journal</col>;Avaa <col=ff9040>Desert Journal</col>
+Open <col=ff9040>Ardougne Journal</col>;Avaa <col=ff9040>Ardougne Journal</col>
+Collection Overview;Kokoelman yleiskatsaus
+Tasks;Tehtävät
+Achievement Diaries;Saavutuspäiväkirjat
+Bosses;Pomot
+Overview;Yleiskatsaus
+Collection Log;Keräysloki
+Reveal;Paljastaa
+Activate;Aktivoida
+View;Näytä
+Cast;Heittää
+Setup;Asennus
+Join;Liity
+Grouping;Ryhmittely
+View another clan;Katso toinen klaani
+Configure;Määritä
+Grand Exchange;Suuri vaihto
+Your Clan;Sinun klaanisi
+Random;Satunnainen
+Toggle;Vaihda
+Manual;Manuaalinen
+Auto retaliate;Automaattinen kosto
+Block;Lohko
+Settings;Asetukset
+Punch;Booli
+Kick;Potkia
+Unlock hint;Avausvihje
+I don't know it.;En tiedä sitä.
+Exit;Poistu
+Select;Valitse
+View Inbox;Näytä Saapuneet
+Skills;Taidot
+View <col=ff981f>Fishing</col> guide;Katso <col=ff981f>Kalastus</col>-opas
+Combat Options;Taisteluvaihtoehdot
+Enable spell filtering;Ota oikeinkirjoituksen suodatus käyttöön
+Disable prayer filtering;Poista rukoussuodatus käytöstä
+Worn Equipment;Kuluneet laitteet
+Character Summary;Hahmon yhteenveto
+Enable spell reordering;Ota oikeinkirjoituksen uudelleenjärjestäminen käyttöön
+Enable prayer reordering;Ota rukouksen uudelleenjärjestäminen käyttöön
+Quest List;Tehtävälista
+Magic;Taika
+Prayer;Rukous
+Show;Show
+Open Store;Avaa Store
+Deposit;Tallettaa
+Loot;Ryöstää
+Destroy;Tuhota
+Music Player;Musiikkisoitin
+Chop down;Kaataa
+Inventory;Varasto
+Useful links;Hyödyllisiä linkkejä
+<col=ffff00>Trade:</col> Show none;<col=ffff00>Kauppa:</col> Ei näytä mitään
+<col=ffff00>Trade:</col> Show friends;<col=ffff00>Kauppa:</col> Näytä ystäviä
+Community;yhteisössä
+<col=ffff00>Clan:</col> Show none;<col=ffff00>Klaani:</col> ei näytä mitään
+<col=ffff00>Channel:</col> Show none;<col=ffff00>Kanava:</col> ei näytä mitään
+Display;Näyttö
+<col=ffff00>Private:</col> Show friends;<col=ffff00>Yksityinen:</col> Näytä ystävät
+Audio;Audio
+<col=ffff00>Set chat mode:</col> Clan (/@c);<col=ffff00>Aseta chat-tila:</col> Klaani (/@c)
+Switch tab;Vaihda välilehteä
+Report game bug;Ilmoita pelivirheestä
+<col=ffff00>Private:</col> Clear history;<col=ffff00>Yksityinen:</col> Tyhjennä historia
+<col=ffff00>Channel:</col> Show all;<col=ffff00>Kanava:</col> Näytä kaikki
+Configure filter;Määritä suodatin
+Emotes;Hymiöt
+Account;Tili
+<col=ffff00>Public:</col> Show autochat;<col=ffff00>Julkinen:</col> Näytä automaattinen keskustelu
+<col=ffff00>Clan:</col> Clear history;<col=ffff00>Klaani:</col> Tyhjennä historia
+Report abuse;Ilmoita väärinkäytöstä
+<col=ffff00>Public:</col> Show none;<col=ffff00>Julkinen:</col> ei näytä mitään
+Ignore List;Ohita lista
+<col=00ff00>Filter public chat</col>;<col=00ff00>Suodata julkinen keskustelu</col>
+<col=ffff00>Game:</col> Filter;<col=ffff00>Peli:</col> Suodata
+<col=00afff>Setup your autochat</col>;<col=00afff>Määritä automaattinen chat</col>
+Take;Ota
+<col=ffff00>Private:</col> Show none;<col=ffff00>Yksityinen:</col> ei näytä mitään
+<col=ffff00>Trade:</col> Show all;<col=ffff00>Kauppa:</col> Näytä kaikki
+<col=ffff00>Clan:</col> Show friends;<col=ffff00>Klaani:</col> Näytä ystäviä
+Account Management;Tilinhallinta
+Chat-channel;Chat-kanava
+<col=ffff00>Public:</col> Clear history;<col=ffff00>Julkinen:</col> Tyhjennä historia
+<col=ffff00>Clan:</col> Show all;<col=ffff00>Klaani:</col> Näytä kaikki
+<col=ffff00>Channel:</col> Show friends;<col=ffff00>Kanava:</col> Näytä ystäviä
+<col=ffff00>Private:</col> Show all;<col=ffff00>Yksityinen:</col> Näytä kaikki
+Logout;Kirjaudu ulos
+<col=ffff00>Set chat mode:</col> Guest Clan (/@gc);<col=ffff00>Aseta chat-tila:</col> Vierasklaani (/@gc)
+<col=ffff00>Channel:</col> Clear history;<col=ffff00>Kanava:</col> Tyhjennä historia
+Friends List;Ystävälista
+World Switcher;Maailman vaihtaja
+<col=ffff00>Public:</col> Show standard;<col=ffff00>Julkinen:</col> Näytä standardi
+<col=ffff00>Set chat mode:</col> Channel (/@f);<col=ffff00>Aseta chat-tila:</col> Kanava (/@f)
+<col=ffff00>Set chat mode:</col> Public (/@p);<col=ffff00>Aseta chat-tila:</col> Julkinen (/@p)
+Controls;Säätimet
+<col=ffff00>Public:</col> Hide;<col=ffff00>Julkinen:</col> Piilota
+<col=ffff00>Public:</col> Show friends;<col=ffff00>Julkinen:</col> Näytä ystävät
+Close;Lähellä
+Show on Map;Näytä kartalla
+Outside;Ulkopuolella
+Yanille;Yanille
+Warnings;Varoitukset
+Seers';Näkijät
+Enable warning;Ota varoitus käyttöön
+Animation;Animaatio
+Open <col=ff9040>Fremennik Journal</col>;Avaa <col=ff9040>Fremennik Journal</col>
+Wiki <col=ff9040>Lumbridge & Draynor Journal</col>;Wiki <col=ff9040>Lumbridge & Draynor Journal</col>
+Wiki <col=ff9040>Kourend & Kebos Journal</col>;Wiki <col=ff9040>Kourend & Kebos Journal</col>
+Open <col=ff9040>Karamja Journal</col>;Avaa <col=ff9040>Karamja Journal</col>
+Open <col=ff9040>Lumbridge & Draynor Journal</col>;Avaa <col=ff9040>Lumbridge & Draynor Journal</col>
+Wiki <col=ff9040>Falador Journal</col>;Wiki <col=ff9040>Falador Journal</col>
+Wiki <col=ff9040>Fremennik Journal</col>;Wiki <col=ff9040>Fremennik Journal</col>
+Open <col=ff9040>Kandarin Journal</col>;Avaa <col=ff9040>Kandarin Journal</col>
+Wiki <col=ff9040>Karamja Journal</col>;Wiki <col=ff9040>Karamja Journal</col>
+Open <col=ff9040>Falador Journal</col>;Avaa <col=ff9040>Falador Journal</col>
+Open <col=ff9040>Kourend & Kebos Journal</col>;Avaa <col=ff9040>Kourend & Kebos Journal</col>
+Wiki <col=ff9040>Kandarin Journal</col>;Wiki <col=ff9040>Kandarin Journal</col>
+Bond Pouch;Bond-pussi
+DPS;DPS
+Search;Haku
+Learn More;Lisätietoja
+Open;Avata
+Pick;Valita
+Join Castle Wars;Liity Castle Warsiin
+Attack;Hyökkäys
+Climb-down;Perääntyminen
+Travel;Matkustaa
+Rest;Levätä
+Build;Rakentaa
+Check;Tarkista
+Tend-to;Taipuvainen
+Add friend;Lisää ystävä
+Add ignore;Lisää ohitus
+Enter-guest;Sisään-vieras
+Climb-up;Kiipeäminen
+Enter;Enter
+Enter-member;Tule jäseneksi
+Items;Tuotteet
+Knock-at;Knock-at
+Smith;Smith
+Pet;Lemmikki
+Shoo-away;Painu pois
+Continue;Jatkaa
+Trade;Kauppa
+Create <col=ff9040>Sell</col> offer;Luo <col=ff9040>Myy</col>-tarjous
+Favourite;Suosikki
+Switch;Kytkin
+2;2 
+Create <col=ff9040>Buy</col> offer;Luo <col=ff9040>Osta</col>-tarjous
+1;1 
+Clear;Selkeä
+-5%;-5 %
+Collect to inventory;Kerää varastoon
++5%;+5 %
+Modify offer;Muokkaa tarjousta
+Confirm;Vahvistaa
+Abort offer;Peruuta tarjous
+View offer;Katso tarjous
+Collect to bank;Kerää pankkiin
+Enter price;Syötä hinta
+Customise;Mukauta
+Guide price;Ohjehinta
+All;Kaikki
+Enter quantity;Syötä määrä
++1;+1
+Offer;Tarjous
+Buy-offer;Ostotarjous
+Chop-down;Katkaisu
+Look North;Katso pohjoiseen
+Look South;Katso etelään
+Look East;Katso itään
+Look West;Katso länteen
+Hide;Piilottaa
+Cook;Kokki
+Refresh;Päivitä
+Message;Viesti
+Delete;Poistaa
+Add Friend;Lisää ystävä
+Delete Friend;Poista ystävä
+Find;Löytää
+Toggle Run;Toggle Run
+Open subsection;Avaa alaosio
+Pickpocket;Taskuvaras
+Claim-staves;Vaatimukset
+Rake;Rake
+3;3 
+Inspect;Tarkastaa
+Toggle unlock message;Avaa lukituksen avausviesti
+Select <col=ff981f>Chat;Valitse <col=ff981f>Chat
+Mute;Mykistä
+All Settings;Kaikki asetukset
+Select <col=ff981f>Activities;Valitse <col=ff981f>Toiminnot
+Select <col=ff981f>Gameplay;Valitse <col=ff981f>Peli
+Select <col=ff981f>Audio;Valitse <col=ff981f>Ääni
+Select <col=ff981f>Display;Valitse <col=ff981f>Näyttö
+Select <col=ff981f>Warnings;Valitse <col=ff981f>Varoitukset
+View-journal;Näytä-päiväkirja
+Stats;Tilastot
+Rummage;Rummage
+Switch View;Vaihda näkymää
+Guide;Opas
+View tab;Näytä-välilehti
+Collapse tab;Tiivistä välilehti
+Withdraw-X;Nosto-X
+Withdraw-All;Poista kaikki
+Remove placeholders;Poista paikkamerkit
+Withdraw-All-but-1;Nosta-kaikki paitsi-1
+Release;Vapauta
+Set custom quantity;Aseta mukautettu määrä
+View tag tab;Näytä tunniste -välilehti
+Rename tag tab;Nimeä tunniste-välilehti uudelleen
+Delete tag tab;Poista tagi-välilehti
+Enable layout;Ota asettelu käyttöön
+Change icon;Vaihda kuvake
+Export tag tab;Vie tagi-välilehti
+Makeover;Makeover
+Unlock;Avata
+Read;Lukea
+Walk-down;Kävely alas
+Study;Opiskelu
+Dismiss;Hylkää
+Look-at;Katsokaa
+Focus on;Keskity
+Cancelar;Peruuta
+Climb;Kiivetä
+Clear history;Tyhjennä historia
+Item;Tuote
+Note;Huom
+Swap;Vaihtaa
+Insert;Lisää
+Default quantity: All;Oletusmäärä: Kaikki
+Deposit inventory;Talleta varasto
+Deposit worn items;Talleta kuluneet tavarat
+Disable;Poista käytöstä
+Pay (Fruit tree);Palkka (hedelmäpuu)
+Wield;Käytellä
+Wear;Käyttää
+Dismantle;Purkaa
+Minimise <col=ff9040>Minimap</col>;Pienennä <col=ff9040>pienikartta</col>
+Floating <col=ff9040>World Map</col>;Kelluva <col=ff9040>maailmankartta</col>
+Fullscreen <col=ff9040>World Map</col>;Koko näytön <col=ff9040>maailmankartta</col>
+Castle Wars;Linnan sodat
+Collect-from;Kerää- mistä
+Tears of Guthix;Guthixin kyyneleet
+Farm Teleport;Farm Teleport
+Pray-at;Rukoile-at
+Story;Tarina
+Equip;Varustaa
+Wintertodt Camp;Wintertodtin leiri
+Rub;Hieroa
+Corporeal Beast;Ruumiillinen peto
+Monastery Teleport;Luostari Teleport
+Fortis Colosseum;Fortis Colosseum
+Ferox Enclave;Ferox Enclave
+Barbarian Outpost;Barbaarien etuvartio
+Emir's Arena;Emir's Arena
+Burthorpe;Burthorpe
+Drink;Juoda
+Open Activity Adviser;Avaa Activity Adviser
+Mine;Minun
+Uncharge;Poista lataus
+Xeric's Lookout;Xericin näköalapaikka
+Steal-from;Varasta
+Xeric's Honour;Xericin kunnia
+Check steps;Tarkista vaiheet
+Teleport;Teleportoi
+Enable prayer filtering;Ota rukoussuodatus käyttöön
+Trim;Leikata
+Perform;Suorittaa
+Loop;Silmukka
+Xeric's Glade;Xeric's Glade
+Xeric's Heart;Xericin sydän
+Remove default;Poista oletus
+Xeric's Inferno;Xericin Inferno
+Deposit-X;Talletus-X
+Deposit-All;Talletus-kaikki
+Default quantity: <col=ff9040>5</col>;Oletusmäärä: <col=ff9040>5</col>
+Deposit Lock Settings;Talletuslukon asetukset
+Disable inventory locks;Poista varaston lukitukset käytöstä
+Default quantity: <col=ff9040>1</col>;Oletusmäärä: <col=ff9040>1</col>
+Shave;Parranajo
+Haircut;Hiustenleikkaus
+Net;Net
+Toggle Accept Aid;Ota apu käyttöön
+Empty;Tyhjä
+Eat;Syödä
+Adventure Paths;Seikkailupolut
+Clean;Puhdas
+Smith set;Smith setti
+Stab;Puukottaa
+Lunge;Syöksy
+Slash;Kauttaviiva
+Placeholder;Paikkamerkki
+Name Changer;Nimenvaihtaja
+Upgrade Now;Päivitä nyt
+Disable spell filtering;Poista oikeinkirjoituksen suodatus käytöstä
+Close <col=ff9040>Floating panel</col>;Sulje <col=ff9040>Kelluva paneeli</col>
+Ultimate Ironman;Ultimate Ironman
+7 days;7 päivää
+Hardcore Group Ironman;Hardcore Group Ironman
+Unranked Group Ironman;Rankaamaton Group Ironman
+None;Ei mitään
+Group Ironman;Ryhmä Ironman
+Ironman;Ironman
+Hardcore Ironman;Hardcore Ironman
+Proceed;Edetä
+90 days;90 päivää
+Top-floor;Ylin kerros
+Cross;Ylittää
+Smelt;Kuore
+Bait;Syötti
+Toggle warnings;Varoitukset päälle/pois
+Lure;Houkutella
+Buy;Ostaa
+Bury;Haudata
+Check Kudos;Tarkista Kudos
+Look at;Katso
+Light;Kevyt
+Adjust Brightness;Säädä kirkkautta
+Select <col=ff981f>Controls;Valitse <col=ff981f>Säätimet
+Board;hallitus
+Grapple;Koura
+Toggle skull prevention;Toggle kallon esto
+Restore Default Zoom;Palauta oletuszoomaus
+Select <col=ff981f>Interfaces;Valitse <col=ff981f>Liitännät
+Buy-X;Osta-X
+Potions;juomat
+Buy-All;Osta-kaikki
+Show worn items;Näytä kuluneet tuotteet
+Bottom-floor;Alakerta
+Locate;Paikantaa
+Disable Adventure Paths;Poista seikkailupolut käytöstä
+Repair;Korjaus
+Show<col=ff9040> Task information;Näytä<col=ff9040> ​​Tehtävän tiedot
+Expand;Laajentaa
+Show task: <col=ff9040>Getting started with Mining;Näytä tehtävä: <col=ff9040>kaivostoiminnan aloittaminen
+More info;Lisätietoja
+Check reward;Tarkista palkinto
+Show<col=ff9040> Paths;Näytä<col=ff9040> ​​polut
+Claim-trophies;Väitöspalkintoja
+Set<col=ff9040> Focus;Aseta <col=ff9040> ​​Tarkennus
+Show task: <col=ff9040>Getting started with Fishing;Näytä tehtävä: <col=ff9040>Kalastuksen aloittaminen
+Select <col=ff9040>Gatherer path;Valitse <col=ff9040>keräyspolku
+Show task: <col=ff9040>Getting started with Woodcutting;Näytä tehtävä: <col=ff9040>Puunleikkauksen käytön aloittaminen
+Pick-from;Poiminta
+Drop<col=ff9040> Focus;Pudota<col=ff9040> ​​Tarkenna
+Suck;Imeä
+Close dropdown;Sulje pudotusvalikko
+Select <col=ff9040>Combat path;Valitse <col=ff9040>Taistelupolku
+Armour;Panssari
+Show<col=ff9040> Settings;Näytä<col=ff9040> ​​asetukset
+Show <col=ff9040>path reward;Näytä <col=ff9040>polkupalkkio
+View House Options;Katso talovaihtoehdot
+Open Bond Pouch;Avaa Bond-pussi
+Empty containers;Tyhjät säiliöt
+Enable <col=ff9040>Notes;Ota <col=ff9040>muistiinpanot käyttöön
+Enable <col=ff9040>Insert;Ota <col=ff9040>Insert käyttöön
+Age;Ikä
+Enable;Ota käyttöön
+Open Adventure Paths;Avaa Seikkailupolut
+Show task: <col=ff9040>Sharpshooter;Näytä tehtävä: <col=ff9040>Sharpshooter
+Claim;Väite
+Show task: <col=ff9040>Getting started with Magic;Näytä tehtävä: <col=ff9040>Magicin käytön aloittaminen
+Show task: <col=ff9040>Getting a grip on it;Näytä tehtävä: <col=ff9040>Otteen saaminen
+Show task: <col=ff9040>Body builder;Näytä tehtävä: <col=ff9040>Kehonrakentaja
+Show task: <col=ff9040>Getting started with Attack;Näytä tehtävä: <col=ff9040>Attackin käytön aloittaminen
+Show task: <col=ff9040>Striking a pose;Näytä tehtävä: <col=ff9040>Aseman lyöminen
+Show task: <col=ff9040>Honing my aim;Esitystehtävä: <col=ff9040>Tarkoitukseni hiominen
+Show task: <col=ff9040>Bringer of chaos;Näytä tehtävä: <col=ff9040>Kaaoksen tuoja
+Show task: <col=ff9040>Building muscle;Näytä tehtävä: <col=ff9040>Lihaksen rakentaminen
+Show task: <col=ff9040>Mithril defence;Näytä tehtävä: <col=ff9040>Mithrilin puolustus
+Show task: <col=ff9040>Getting started with Defence;Näytä tehtävä: <col=ff9040>puolustuksen käytön aloittaminen
+Show task: <col=ff9040>Getting started with Strength;Näytä tehtävä: <col=ff9040>Voiman käytön aloittaminen
+Show task: <col=ff9040>Sticks and stones;Näytä tehtävä: <col=ff9040>Kepit ja kivet
+Show task: <col=ff9040>Weapons master;Näytä tehtävä: <col=ff9040>Asemestari
+Show task: <col=ff9040>Getting started with Ranged;Näytä tehtävä: <col=ff9040>Rangedin käytön aloittaminen
+Talk-To;Talk-To
+Shut;Kiinni
+Pay-toll(10gp);Maksullinen tietulli (10gp)
+Revert;Palauta
+Deactivate;Poista käytöstä
+Ironman Group;Ironman ryhmä
+Predict;Ennustaa
+Leave;Lähde
+Copy-outfit;Kopio-asu
+<col=ffff00>Group:</col> Clear history;<col=ffff00>Ryhmä:</col> Tyhjennä historia
+Jump;Hypätä
+Challenge;Haaste
+Reanimate;Herättää uudelleen henkiin
+Quick Pass;Pikapassi
+Pass;Syöttö
+<col=ffff00>Group:</col> Show friends;<col=ffff00>Ryhmä:</col> Näytä ystävät
+<col=ffff00>Group:</col> Show all;<col=ffff00>Ryhmä:</col> Näytä kaikki
+<col=ffff00>Group:</col> Show none;<col=ffff00>Ryhmä:</col> ei näytä yhtään
+Quench;Sammuttaa
+Inside;Sisällä
+Home;Kotiin
+Group;ryhmä
+Build mode;Rakennustila
+Resurrect;Herätä henkiin
+Friend's house;Ystävän talo
+Break;Tauko
+Rest (private);Lepo (yksityinen)
+Equipment;Laitteet
+Check Charges;Tarkista maksut
+Sort;Järjestellä
+Catch;Saalis
+Pick-lots;Poimintaerät
+A Dark Disposition;Tumma asenne
+Jewellery of Jubilation;Riemutuksen korut
+Store-X;Kauppa-X
+Touch;Kosketa
+Lunch by the Lancalliums;Lounas Lancalliumsissa
+Store;Store
+Reminisce;Muistele
+Shared;Jaettu
+Dig;Kaivaa
+Store-5;Kauppa-5
+Take Seed Dibber;Ota Seed Dibber
+Withdraw all;Poista kaikki
+Upgrade;Päivitä
+Withdraw;Peruuttaa
+The Fisher's Flute;Kalastajan huilu
+Store-All;Store-Kaikki
+Take Spade;Ota Spade
+Take Rake;Ota Rake
+Deposit all;Talleta kaikki
+Quick-pass;Pikapassi
+History and Hearsay;Historiaa ja kuulopuheita
+Store-10;Kauppa-10
+Private;Yksityinen
+Spin;Pyöritä
+Churn;Churn
+Shear;Leikkaus
+Close Activity Adviser;Sulje Activity Adviser
+Chart;Kartoittaa
+Last-destination (AIP);Viimeinen kohde (AIP)
+Zoom out;Loitonna
+Zanaris;Zanaris
+Value;Arvo
+Climb-over;Kiipeä yli
+Milk;Maito
+Take-axe;Ota kirves
+Steal-cowbell;Varasta-lehmänkello
+View Newspost;Katso Newspost
+View History;Näytä historia
+New tab;Uusi välilehti
+Collapse;Romahdus
+New tag tab;Uusi tagi-välilehti
+Import tag tab;Tuo tagi -välilehti
+View tag tabs;Näytä tunnistevälilehdet
+View journal <col=ff981f>The Restless Ghost</col>;Näytä päiväkirja <col=ff981f>The Restless Ghost</col>
+View all items;Näytä kaikki kohteet
+Rotate-clockwise;Kierrä myötäpäivään
+Pick-up;Nouto
+Rotate-anticlockwise;Kierrä vastapäivään
+Release-bees;Vapautus-mehiläiset
+Dig-up;Kaivaminen ylös
+Change;Muuttaa
+Remove board advert;Poista tauluilmoitus
+Teleport Menu;Teleport valikko
+Attach;Liittää
+Lock;Lukko
+Sit-on;Istua
+Metamorphosis;Metamorfoosi
+Fossil Island;Fossiilinen saari
+Configuration;Kokoonpano
+Teleport menu;Teleport-valikko
+Great Kourend;Hieno Kourend
+Fill;Täyttää
+Chop;Pilko
+View journal <col=ff981f>X Marks the Spot</col>;Näytä päiväkirja <col=ff981f>X Marks the Spot</col>
+Sell 50<col=ff9040>;Myy 50<col=ff9040>
+Sell 10<col=ff9040>;Myy 10<col=ff9040>
+Sell 1<col=ff9040>;Myy 1<col=ff9040>
+Value<col=ff9040>;Arvo<col=ff9040>
+Feel;Tunne
+Sell 5<col=ff9040>;Myy 5<col=ff9040>
+Steal from;Varasta
+Herblore;Herblore
+Strength;Vahvuus
+Woodcutting;Puunleikkaus
+Farming;Maatalous
+Crafting;Käsityö
+Hitpoints;Hit-pisteet
+View journal <col=ff981f>Cook's Assistant</col>;Näytä päiväkirja <col=ff981f>Kokin assistentti</col>
+Fishing;Kalastus
+Construction;Rakentaminen
+Climb-into;Kiipeä sisään
+Mining;Kaivostoiminta
+Ranged;Etäisyys
+Slayer;Slayer
+Agility;Ketteryys
+Fletching;Fletching
+Sailing;Purjehdus
+Operate;Toimi
+View journal <col=ff981f>Romeo & Juliet</col>;Näytä päiväkirja <col=ff981f>Romeo & Julia</col>
+Take-flyer;Take flyer
++100;+100
++10;+10
+-1;-1
+Back;Takaisin
++1K;+1K
+Choose item;Valitse kohde
+Flash icons;Flash-kuvakkeet
+Sacrifice;Uhrata
+Take-All;Take-All
+Jump-in;Hyppää sisään
+View journal <col=ff981f>Rune Mysteries</col>;Näytä päiväkirja <col=ff981f>Riimumysteerit</col>
+Coffer;Kassa
+Picklock;Tiirikka
+Switch world;Vaihda maailmaa
+Pass-Through;Läpikulku
+Small Net;Pieni verkko
+Okay;Kunnossa
+Perform <col=ff9040>Relic unlock</col>;Suorita <col=ff9040>Relic Unlock</col>
+Comercio;Comercio
+Carterista;Carterista
+Examinar;Examinar
+Caminar aqui;Caminar aqui
+Ataque;Ataque
+Cerca;Cerca
+Buscar;Buscar
+Abierto;Abierto
+Tronchar;Tronchar
+Hablar con;Hablar con
+Take-Coffin;Take-Arkku
+Pay;Maksaa
+Other quantity;Muu määrä
+5;5 
+Make;Tehdä
+Move;Liikkua
+Jump-up;Hyppy ylös
+Scatter;Scatter
+Check Name;Tarkista nimi
+Balance;Saldo
+Contents;Sisällys
+Talk to;Puhu
+Zoom in;Lähennä
+Useful Links;Hyödyllisiä linkkejä
+Burn;Polttaa
+10;10 
+Stornieren;Stornieren
+Group: Choose;Ryhmä: Valitse
+Group: Previous;Ryhmä: Edellinen
+Pray;Rukoilla
+Investigate;Tutkia
+Jump-onto;Hyppää päälle
+Move-left;Siirrä-vasemmalle
+Grab;Napata
+Move-down;Siirrä alas
+View Ignore List;Näytä ohituslista
+Move-right;Siirrä oikealle
+Move-up;Siirrä ylös
+Look-inside;Katso sisälle
+Add-5<col=ff9040>;Add-5<col=ff9040>
+Remove-legs;Poista-jalat
+Add-X<col=ff9040>;Lisää-X<col=ff9040>
+Add-10<col=ff9040>;Lisää-10<col=ff9040>
+Add-All<col=ff9040>;Add-All<col=ff9040>
+Add<col=ff9040>;Lisää<col=ff9040>
+Check charges;Tarkista maksut
+Filter;Suodattaa
+Load-outs;Loadouts
+Done;Tehty
+Show tutorial;Näytä opetusohjelma
+Scroll down;Vieritä alas
+Hide menu;Piilota valikko
+Cancel downgrade;Peruuta alempi versio
+Scroll up;Vieritä ylös
+Show menu;Näytä valikko
+Paddle Canoe;Mela kanootti
+Shape-Canoe;Muoto-kanootti
+Make<col=ff9040> Log canoe;Merkki<col=ff9040> ​​Hirsikanootti
+Paddle Log;Mela Log
+Float Log;Float Log
+Travel to<col=ff9040> Champions Guild;Matkusta<col=ff9040> ​​Champions Guildiin
+Make<col=ff9040> Dugout canoe;Merkki<col=ff9040> ​​Korsun kanootti
+Jump-over;Hyppy yli
+Quit;Lopettaa
+Grave info;Kovia tietoja
+Details;Yksityiskohdat
+Report for;Raportti for
+Fire;Palo
+Steal-From;Varasta-From
+Redeem-code;Lunasta-koodi
+Holiday-items;Loma-asuja
+Visit-Last;Vierailu-Viimeinen
+Add-House;Lisätalo
+Add/Remove House;Lisää/poista talo
+Harpoon;Harppuuna
+4;4 
+View Archive;Näytä arkisto
+Enter House;Sisään taloon
+View Poll;Näytä kysely
+Big Net;Iso verkko
+Walk-up;Walk-up
+Claim-Tokens;Claim-Tokens
+Animate;Animoi
+Fish-in;Kala sisään
+Take-from;Take-from
+Look;Katso
+Rotate;Kiertää
+Pick-lock;Tiirikka
+Extinguish;Sammuttaa
+Rub-together;Hiero yhteen
+Unmute;Poista mykistys
+View DPS on OSRS Wiki;Katso DPS OSRS Wikissä
+Set Bonus;Aseta bonus
+Hide worn items;Piilota kuluneet esineet
+Stat Bonus;Tilastobonus
+Tickets;Liput
+Ride;Ratsastaa
+Squeeze-through;Purista läpi
+Kill;Tappaa
+No;Ei
+Area;Alue
+Yes;Kyllä
+View missing items;Katso puuttuvat kohteet
+Collect-note;Kerää-huomaa
+Collect-item;Kerää-esine
+Disable <col=ff9040>Notes;Poista <col=ff9040>muistiinpanot käytöstä
+Info;Tiedot
+Pick-Lock;Tiirikka
+Collect-items;Kerää esineitä
+Collect-notes;Kerää muistiinpanoja
+Release all placeholders (12);Vapauta kaikki paikkamerkit (12)
+Release them all;Vapauta ne kaikki
+Prune-top;Luumu-top
+Prune;Karsia
+Prune-back;Leikkaa takaisin
+Prune-sides;Luumun sivut
+Tan <col=ff7000>X;Rusketus <col=ff7000>X
+Tan <col=ff7000>5;Rusketus <col=ff7000>5
+Tan <col=ff7000>1;Rusketus <col=ff7000>1
+Tan <col=ff7000>All;Rusketus <col=ff7000>Kaikki
+Smithing;Smithing
+Remove-X;Poista-X
+Remove-All;Poista-Kaikki
+Hunter;Metsästäjä
+Firemaking;Tulityöt
+Enable <col=ff9040>Swap;Ota <col=ff9040>vaihto käyttöön
+Add all;Lisää kaikki
+Release all placeholders (1);Vapauta kaikki paikkamerkit (1)
+Set price;Aseta hinta
+pic;kuva
+Set quantity;Aseta määrä
+Set wiki price;Aseta wikin hinta
+Accept trade;Hyväksy kauppa
+Accept;Hyväksyä
+Search for item;Etsi kohde
+Check-Count;Check-Count
+Bash;Lyödä
+Earth Bolt;Maadoituspultti
+Earth Wave;Maan aalto
+Water Blast;Vesiräjähdys
+Fire Blast;Fire Blast
+Fire Strike;Tulilakko
+Pound;Punta
+Earth Blast;Maan räjähdys
+Choose spell;Valitse loitsu
+Fire Bolt;Tulipultti
+Push;Työnnä
+Quantity:;Määrä:
+View Smithing on the Wiki;Katso Smithing Wikissä
+Pull;Vedä
+View <col=ff9040>Mining</col> guide;Katso <col=ff9040>kaivostyön</col>-opas
+Pick refreshment;Valitse virvokkeita
+Focus;Keskity
+Open <col=ff9040>Morytania Journal</col>;Avaa <col=ff9040>Morytania Journal</col>
+Wiki <col=ff9040>Morytania Journal</col>;Wiki <col=ff9040>Morytania Journal</col>
+Wiki <col=ff9040>Varrock Journal</col>;Wiki <col=ff9040>Varrock Journal</col>
+Open <col=ff9040>Varrock Journal</col>;Avaa <col=ff9040>Varrock Journal</col>
+Open <col=ff9040>Western Provinces Journal</col>;Avaa <col=ff9040>Western Provinces Journal</col>
+Wiki <col=ff9040>Western Provinces Journal</col>;Wiki <col=ff9040>Western Provinces Journal</col>
+Peek;Kurkistaa
+Disturb;Häiritä
+Annuler;Anuler
+Marcher ici;Marcher ici
+Examiner;Tarkastaja
+Add-mulch;Lisää-multaa
+Reset;Nollaa
+Top-Floor;Ylin kerros
+Hit;Osuma
+Karamja;Karamja
+Draynor Village;Draynorin kylä
+Al Kharid;Al Kharid
+Monastery;Luostari
+Ranging Guild;Range Guild
+Commune;Kunta
+Warriors' Guild;Soturien kilta
+Edgeville;Edgeville
+Champions' Guild;Mestarien kilta
+Craft;Käsityö
+Lay;Makaa
+Port Sarim;Port Sarim
+Land's End;Maan loppu
+Claim-rewards;Lunasta palkinnot
+Take-cargo;Take-cargo
+Take-any-cargo;Ota mikä tahansa rahti
+Port Piscarilius;Piscariliuksen satama
+Cancel-task;Peruuta tehtävä
+Charter;Peruskirja
+Sort-salvage;Lajittele-pelastus
+Take-last-cargo;Take-last-lasti
+Board-previous;Hallitus edellinen
+Board-friend;Hallitus-ystävä
+Dock;Telakka
+Make sets:;Tee sarjat:
+Smash;Murskata
+Fur Clothing;Turkisvaatteet
+Brimhaven;Brimhaven
+Aldarin;Aldarin
+Taverley;Taverley
+Prifddinas;Prifddinas
+Lock-slot;Lukko-aukko
+Pollnivneach;Pollnivneach
+Take-all;Ota kaikki
+Rellekka;Rellekka
+Tele to POH;Puhelin POH:lle
+Check-health;Tarkista terveys
+Hosidius;Hosidius
+WOM lookup;WOM-haku
+Unload;Purkaa
+Contract;Sopimus
+Rimmington;Rimmington
+Purchase Amulet;Osta amuletti
+Drink-from;Juoma-alkaen
+Float Canoe;Kelluva kanootti
+Travel to<col=ff9040> Lumbridge;Matkusta<col=ff9040> ​​Lumbridgeen
+Make<col=ff9040> Stable dugout canoe;Merkki<col=ff9040> ​​Vakaa korsun kanootti
+Walk-Down;Kävele alas
+Walk-Up;Walk-Up
+Defence;Puolustus
+Thieving;Varastamista
+Excavate;Kaivaa
+Take-knife;Take-veitsi
+Play-d;Play-d
+Take-tinderbox;Take-tinderbox
+Play-f;Play-f
+Play-a;Play-a
+Play-c;Play-c
+Observe;Tarkkailla
+Play-b;Play-b
+Play-e;Play-e
+Play-g;Play-g
+Switch-emerald;Switch-smaragdi
+Switch-diamond;Kytkin-timantti
+Switch-sapphire;Kytkin-safiiri
+Switch-zenyte;Switch-zenyte
+Switch-onyx;Switch-onyx
+Switch-ruby;Kytkin-rubiini
+Fight;Taistella
+Toggle K/D;Vaihda K/D
+Take-seed;Ota siemen
+Take-pickaxe;Ota-hakku
+Dyes;Väriaineet
+Anadir ignorar;Anadir tietämätön
+Informe;Ilmoita
+activar;aktivar
+Anadir amigo;Anadir amigo
+Accurate;Tarkka
+Longrange;Pitkän kantaman
+Prod;Tuot
+Talk-into;Keskustele
+Glider;Purjelentokone
+Glider-to Ta Quir Priw;Purjelentokone Ta Quir Priwiin
+Travel to<col=ff9040> Barbarian Village;Matkusta<col=ff9040> ​​Barbarian Village
+Travel to<col=ff9040> Edgeville;Matkusta<col=ff9040> ​​Edgevilleen
+Downgrade;Vähennä
+Seers' Village;Näkijöiden kylä
+Camelot;Camelot
+Gehen Sie hier;Gehen Sie täällä
+Reden mit;Reden mit
+Prüfen;Prüfen
+Schließen;Schließen
+Tutorial;Opetusohjelma
+Open in browser;Avaa selaimessa
+Pass (private);Passi (yksityinen)
+Pass (normal);Pääsy (normaali)
+Load X;Lataa X
+Spike;Piikki
+Open-all;Avaa kaikki
+Rapid;Nopea
+Hide-in;Piilota sisään
+Search for traps;Etsi ansoja
+Default quantity: <col=ff9040>All</col>;Oletusmäärä: <col=ff9040>Kaikki</col>
+Default quantity: <col=ff9040>X</col>;Oletusmäärä: <col=ff9040>X</col>
+Relocate;Siirrä
+Default quantity: <col=ff9040>10</col>;Oletusmäärä: <col=ff9040>10</col>
+Redecorate;Kunnostaa
+Varrock;Varrock
+Bask;Paistatella
+Civitas illa Fortis;Civitas illa Fortis
+Sunset Coast;Auringonlaskun rannikko
+Tal Teklan;Tal Teklan
+Hunter Guild;Hunter Guild
+The Teomat;Teomat
+Kastori;Kastori
+Last-destination;Viimeinen määränpää
+Cam Torum Entrance;Cam Torumin sisäänkäynti
+Outer Fortis;Ulompi Fortis
+Feed;Syötä
+Dondakan;Dondakan
+Features;Ominaisuudet
+Crawl-through;Ryömiä läpi
+Coin Collection;Kolikkokokoelma
+Boss Log;Boss Log
+Miscellania;Miscellania
+Falador;Falador
+Skrach Uglogwee;Skrach Uglogwee
+Lumbridge Guide;Lumbridgen opas
+Wartface & Bentnoze;Wartface & Bentnoze
+King Awowogei;Kuningas Awowogei
+Evil Dave;Paha Dave
+Mountain Dwarf;Vuoristokääpiö
+Pirate Pete;Piraatti Pete
+Sir Amik Varze;Sir Amik Varze
+Pass-through;Läpikulku
++99%;+99 %
+Cut;Leikata
+Teleport to <col=ff8040>Nightmare Zone</col>;Teleportoi <col=ff8040>Painajaisalueelle</col>
+Last-destination (DJP);Viimeinen kohde (DJP)
+Rotate counter-clockwise;Kierrä vastapäivään
+Flick;Leffa
+Join <col=ff8040>Nightmare Zone</col> channel;Liity <col=ff8040>Nightmare Zone</col> -kanavalle
+Last-destination (AIS);Viimeinen määränpää (AIS)
+Rotate clockwise;Kierrä myötäpäivään
+Lash;Ripsiä
+Deflect;Taivuta
+Buy-food;Osta ruokaa
+Buy-items;Osta-tuotteita
+Decline;Hylkää
+Remove All;Poista kaikki
+-99%;-99 %
+Customise-boat;Mukautettu vene
+Buy-boat;Osta-vene
+Recover-boat;Palautusvene
+Runecraft;Runecraft
+East Ardougne;Itäinen Ardougne
+B;B
+Lumbridge;Lumbridge
+Get Started;Aloita
+Spellbook;Loitsukirja
+Sigils;Sigis
+Breach Check;Rikkomuksen tarkistus
+Shop;Kauppa
+Unlocks;Avaa lukituksen
+Prayers;Rukoukset
+Deadman;Kuollut mies
+Points Info;Pisteiden tiedot
+About;Noin
+Sigils Info;Sigilin tiedot
+Attune;Attune
+Remove PvP Protection;Poista PvP-suojaus
+Deposit-box;Tallelokero
+Hack;Hakata
+Travel to platform;Matkusta alustalle
+Walk-across;Kävelymatka
+Select <col=ff9040>Confirm</col>;Valitse <col=ff9040>Vahvista</col>
+Dream;Unelma
+Ammo;Ammo
+Toggle setting;Vaihda asetusta
+Manoeuvre-past;Manööveri-menneisyys
+View <col=ff9040>Firemaking</col> guide;Katso <col=ff9040>Tulonteko</col>-opas
+Weave;Kutoa
+Take-boat;Take-vene
+Ardougne;Ardougne
+Remove-coal;Poista-hiili
+Tuxedo-time;Tuxedo-aika
+Turn;Käänny
+Throw;Heittää
+Pummel;Nuijia
+Add to playlist 1;Lisää soittolistaan ​​1
+Add to playlist 2;Lisää soittolistaan ​​2
+Add to playlist 3;Lisää soittolistaan ​​3
+Sober-Up;Sober-Up
+Give-Sword;Anna-miekka
+Ring-bell;Soittokello
+Right;Oikein
+Left;Vasen
+Shuffle Mode;Satunnaistoistotila
+Take-X;Take-X
+Venerate;Kunnioita
+Take-beer;Take-olutta
+Buy-pass;Osta-passi
+Go-through;Käy läpi
+Hide-behind;Piilota takana
+Climb-on;Kiipeäminen
+Knock-Out;Knock-Out
+Set to 7;Aseta arvoon 7
+Set to 6;Aseta arvoon 6
+Set to 8;Aseta arvoon 8
+Set to 3;Aseta arvoon 3
+Set to 2;Aseta arvoon 2
+Set to 5;Aseta arvoon 5
+Set to 4;Aseta arvoon 4
+Set to 1;Aseta arvoon 1
+Jump-to;Jump-to
+G;G
+E;E
+D;D
+C;C
+A;A
+Play your tune.;Soita sävelmäsi.
+F#;F#
+C#;C#
+Previous;Edellinen
+45 days membership;45 päivän jäsenyys
+Buy Bonds;Osta joukkovelkakirjoja
+Early Name Change;Varhainen nimenmuutos
+14 days membership;14 päivän jäsenyys
+29 days membership;29 päivän jäsenyys
+12 months;12 kuukautta
+View Your Bonds;Tarkastele joukkovelkakirjojasi
+Add finds;Lisää löytöjä
+View journal <col=ff981f>Demon Slayer</col>;Näytä päiväkirja <col=ff981f>Demon Slayer</col>
+Murder;Murhata
+Walk-on;Kävelymatka
+Chill;Rentoudu
+Fix;Korjata
+Bail-with;Takuumaksu
+Comercio con;Comercio con
+conjuntos;konjuntit
+Eliminar;Eliminar
+Usar;Usar
+Gota;Täytyy
+Banco;Banco
+Intercambio;Intercambio
+Seguir;Seguir
+Historia;Historia
+Recolectar;Recolectar
+Offer-X<col=ff9040>;Tarjous-X<col=ff9040>
+Offer<col=ff9040>;Tarjous<col=ff9040>
+Offer-All<col=ff9040>;Tarjoa kaikki<col=ff9040>
+Offer-10<col=ff9040>;Tarjous-10<col=ff9040>
+Offer-5<col=ff9040>;Tarjous-5<col=ff9040>
+Assignment;Tehtävä
+Last-destination (DKS);Viimeinen määränpää (DKS)
+Add Favourite;Lisää suosikki
+Use code;Käytä koodia
+Destroy ALL;Tuhoa KAIKKI
+Comer;Tulija
+Llevar;Llevar
+Precios;Precios
+Cocinando;Cocinando
+BotÃ­n;BotÃn
+Kandarin Monastery;Kandarin luostari
+Empunar;Empunar
+Deposito;Talletus
++50%;+50 %
+Tener puesto;Tener puesto
+-50%;-50 %
+Vista;Vista
+Construir;Construir
+Subir;Subir
+Ingresar;Ingresar
+Bajar;Bajar
+Lanzar;Lanzar
+Mina;Mina
+Water Bolt;Vesipultti
+Use <col=00ff00>Special Attack</col>;Käytä <col=00ff00>Erikoishyökkäystä</col>
+Select option C;Valitse vaihtoehto C
+Escape;Paeta
+Exchange fire cape;Vaihda paloviitta
+Last-destination (CKS);Viimeinen kohde (CKS)
+-2%;-2 %
+Watch;Katsella
+Bend;Taivuta
+Last-destination (AIQ);Viimeinen kohde (AIQ)
+Tease;Kiusata
+Fish;Kalastaa
+Trap;Trap
+Leap;Harppaus
+Mark;Mark
+Unmark;Poista merkintä
+Open GE Tracker to;Avaa GE Tracker
+Wind Strike;Tuulen isku
+Fire Wave;Fire Wave
+Wind Bolt;Tuulipultti
+Wind Blast;Tuulen räjähdys
+Earth Surge;Earth Surge
+Cerrar sesion;Cerrar-istunto
+Last-destination (BLP);Viimeinen kohde (BLP)
+Break-down;Hajoaminen
+Tag;Tag
+Trade-in;Vaihto
+Kitten;Kissanpentu
+Scroll map;Vieritä karttaa
++2%;+2 %
+Water Wave;Vesi aalto
+Last-destination (DJR);Viimeinen määränpää (DJR)
+Illegal / harmful content;Laiton/haitallinen sisältö
+Last-destination (AKR);Viimeinen määränpää (AKR)
+Hammer;Vasara
+Prospect;Prospekti
+Wind-up;Päättäminen
+Look-under;Katso alta
+Jump-on;Hyppy päälle
+Climb-across;Kiipeä poikki
+Swing-on;Swing-on
+Swing-across;Swing-cross
+Pay-fare;Maksullinen hinta
+Cut down;Kaataa
+Cut-wood;Leikattu puu
+Eperlano;Eperlano
+Last-destination (CKR);Viimeinen kohde (CKR)
+Teeth-grip;Hammaspito
+Last-destination (DKR);Viimeinen kohde (DKR)
+Pick-apple;Pick-omena
+Cage;Häkki
+Banknotes;Setelit
+Water Strike;Vesilakko
+Fire Surge;Fire Surge
+Wind Surge;Tuulivoima
+Wind Wave;Tuulen aalto
+Water Surge;Vesihuippu
+Lieutenant;Luutnantti
+General;Kenraali
+Sergeant+;Kersantti+
+Group Storage;Ryhmävarasto
+Corporal;Ruumiillinen
+Anyone;Kuka tahansa
+Lieutenant+;Luutnantti+
+Recruit;Rekrytoida
+Corporal+;Korpraali+
+Captain;Kapteeni
+Options;Vaihtoehdot
+Captain+;Kapteeni+
+Hiscores;Hiscores
+Set prefix;Aseta etuliite
+General+;Yleistä+
+Any friends;Kaikki ystävät
+Recruit+;Rekrytoi+
+Sergeant;Kersantti
+Not ranked;Ei rankattu
+Only me;Vain minä
+Discard;Hävitä
+Expel Guests;Karkottaa vieraita
+On;Päällä
+Viewer;Katsoja
+Call Servant;Soita palvelijalle
+Check materials;Tarkista materiaalit
+X;X
+Show voucher items;Näytä kuponkituotteet
+Events;Tapahtumat
+Chat;Chat
+Hall;Sali
+Apply;Käytä
+Edit;Muokata
+Members;jäsenet
+Permissions;Käyttöoikeudet
+Dive;Sukeltaa
+Devices;Laitteet
+Charge;Lataa
+Make-raft;Make-lautta
+Check-gates;Tarkista portit
+Gauntlets;Hanskat
+Pop;Pop
+Quetzacalli Gorge;Quetzacallin rotko
+Salvager Overlook;Salvager Overlook
+Auburnvale;Auburnvale
+Quick-exit;Pikapoistuminen
+Turn Dial;Käännä Dial
+Heal;Parantaa
+Up;Ylös
+Down;Alas
+Take-many;Ota - monta
+Change-style;Vaihda tyyliä
+Hasty-rummage;Kiireistä rukousta
+Colossal Wyrm Remains;Colossal Wyrm Remains
+Choose;Valita
+Slide-along;Liukua mukaan
+Dive in;Sukella sisään
+Swim to;Ui kohti
+Use-rod;Käyttövarsi
+Swim;Uida
+Construct;Rakentaa
+Get in;Astu sisään
+Take treasure;Ota aarre
+Get-rewards;Hanki palkintoja
+Plant;Kasvi
+Last-destination (DLQ);Viimeinen kohde (DLQ)
+Last-destination (AJP);Viimeinen määränpää (AJP)
+Load;Ladata
+Demolish;Purkaa
+Quick-escape;Pikapako
+Buy-plank;Osta-lauta
+Leave House;Poistu talosta
+Bedroom;Makuuhuone
+Kitchen;Keittiö
+Deploy;Ota käyttöön
+Deposit-all;Talleta kaikki
+Un-set;Poista asetus
+Portal Nexus;Portaali Nexus
+Sailing Options;Purjehdusvaihtoehdot
+Treasure room;Aarrehuone
+Dungeon - Stairs;Dungeon - Portaat
+Disembark;Poistu aluksesta
+Navigate;Navigoida
+Hall - Skill trophies;Hall - Taitopalkinnot
+Set heading;Aseta otsikko
+Un-set sails;Purjeet purkamatta
+Workshop;Työpaja
+Facilities;Palvelut
+Musa Point;Musa Point
+Garden;Puutarha
+Achievement gallery;Saavutusgalleria
+Set;Sarja
+Raise speed;Nosta nopeutta
+Lower speed;Pienempi nopeus
+Parlour;Sali
+League Hall;Liigan sali
+The Pandemonium;Pandemonium
+Repair-boat;Korjausvene
+Modify;Muuttaa
+Set sails;Aseta purjeet
+Build-trap;Rakenna-ansa
+Stop-navigating;Lopeta navigointi
+Pry-open;Avaa
+Bottom-Floor;Pohjakerros
+View-tasks;Näytä tehtävät
+Manage-crew;Hallitse miehistöä
+View-charts;Katselukaaviot
+Shoot;Ampua
+Recover;Palauta
+Crewmates;Miehistön toverit
+Board friend's boat;Hallita ystävän venettä
+Accept task;Hyväksy tehtävä
+Deposit-held;Talletettu
+Deposit-cargo;Talletus-rahti
+Select option B;Valitse vaihtoehto B
+Last-destination (DKP);Viimeinen kohde (DKP)
+Reinforce;Vahvistaa
+Burst;Räjähtää
+Reach;Tavoita
+Free;Ilmainen
+Admire;Ihailla
+Scry;Scry
+Last-destination (AJR);Viimeinen määränpää (AJR)
+Enakhra's Temple;Enakhran temppeli
+Check-charge;Tarkista veloitus
+Enakhra's Temple Entrance;Enakhran temppelin sisäänkäynti
+Last-tier contract;Viimeisen tason sopimus
+Fire-at;Tuli-at
+Collect-data;Kerää tietoa
+Bloom;Kukinta
+Listen;Kuunnella
+Hold;Pidä
+Pick-fruit;Poimi-hedelmä
+Last-destination (CLR);Viimeinen kohde (CLR)
+Flush;Huuhtele
+Last-destination (AKQ);Viimeinen määränpää (AKQ)
+Set-trap;Aseta ansa
+Check totals;Tarkista kokonaissummat
+Reverse;Käänteinen
+Stop boat;Pysäytä vene
+Chase;Jahdata
+Interact;Ole vuorovaikutuksessa
+Spectate;Nähdä
+Go-down;Mene alas
+Smell;Haju
+Channel;kanava
+Toggle-absorption;Toggle-absorptio
+Port Khazard;Port Khazard
+Corsair Cove;Corsair Cove
+Charter-to Port Sarim;Tilauslento Port Sarimiin
+Catherby;Catherby
+Charter-to Brimhaven;Charter-Brimhaven
+Last-destination (AKS);Viimeinen määränpää (AKS)
+Last-destination (CIS);Viimeinen kohde (CIS)
+View journal <col=ff981f>Shilo Village</col>;Näytä päiväkirja <col=ff981f>Shilo Village</col>
+View journal <col=ff981f>Priest in Peril</col>;Näytä päiväkirja <col=ff981f>Priest in Peril</col>
+Get bird;Hanki lintu
+Quick-Travel;Pikamatka
+Embark;Lähde alukseen
+Take tools;Ota työkalut mukaan
+Climb Up;Kiipeä ylös
+Build on;Rakenna päälle
+Make <col=ff9040>Ruby ring</col>;Tee <col=ff9040>Rubiinirengas</col>
+Make <col=ff9040>Ruby necklace</col>;Tee <col=ff9040>rubiinikaulakoru</col>
+Make <col=ff9040>Ruby amulet (u)</col>;Tee <col=ff9040>Ruby-amuletti (u)</col>
+Charter-to Catherby;Charter Catherbylle
+Blow;Isku
+Boost;Tehosta
+Karamja (Shilo);Karamja (Shilo)
+Fremennik;Fremennik
+Jars;Purkit
+Twiggy O'Korn;Twiggy O'Korn
+Desert;Aavikko
+Configure-Charges;Määritä-maksut
+Lumbridge & Draynor;Lumbridge & Draynor
+Ring-configure;Soittomääritykset
+Karamja (Jungle);Karamja (Viidakko)
+Ring-Zanaris;Sormus-Zanaris
+Kourend & Kebos;Kourend & Kebos
+Morytania;Morytania
+Ring-last-destination (DJR);Ring-last-destination (DJR)
+Tree;Puu
+Western Provinces;läntiset maakunnat
+Wilderness;Erämaa
+Karamja (Mor Ul Rek);Karamja (Mor Ul Rek)
+Kandarin;Kandarin
+Crafting Guild;Käsityökilta
+Lunar;Kuun
+Falador Park;Faladorin puisto
+Farming Guild;Maatalouden kilta
+Cooking Guild;Cooking Guild
+Fishing Guild;Kalastajakilta
+Mining Guild;Kaivoskilta
+Ring-last-destination (DIS);Ring-last-destination (DIS)
+Arceuus;Arceuus
+Woodcutting Guild;Puunleikkauskilta
+Ancient;Muinainen
+Clip;Leike
+Shuffle items up;Sekoita kohteet
+Save and Close;Tallenna ja sulje
+Back to bank;Takaisin pankkiin
+Craft-rune;Käsityö-riimu
+Save;Tallentaa
+Storage Unlocks;Tallennus avautuu
+Climb-through (private);Kiipeily (yksityinen)
+Peek (normal);Kurkista (normaali)
+Climb-through (normal);Kiipeily (normaali)
+Banish;karkottaa
+Check runes;Tarkista riimut
+Blow-on;Puhallus
+Ring;Rengas
+Disable warning;Poista varoitus käytöstä
+Leave platform;Poistu alustalta
+Fend;Fend
+Jab;Tökätä
+Swipe;Pyyhkäise
+Pay (north-west);Maksu (luoteinen)
+Pay (south-east);Maksu (kaakkois)
+Change icon (fazenda);Vaihda kuvake (fazenda)
+Disable layout;Poista asettelu käytöstä
+Duplicate-item;Kohteen kaksoiskappale
+Remove-layout;Poista-asettelu
+Harvest;Sato
+Cure;Parantaa
+Make <col=ff9040>Dragonstone ring</col>;Tee <col=ff9040>Dragonstone-sormus</col>
+Convert;Muuntaa
+Buy or Redeem Bonds;Osta tai lunasta joukkovelkakirjoja
+Move to Pouch;Siirrä pussiin
+Move to Inventory;Siirry varastoon
+Store-1;Kauppa-1
+Yes, leave the clan.;Kyllä, poistu klaanista.
+Leave Clan;Poistu klaanista
+Bans;Kiellot
+Combat Achievements;Taistelun saavutukset
+Titles;Otsikot
+Remove friend;Poista ystävä
+Applicants;Hakijat
+Invigorate;Virkistää
+Last Destination;Viimeinen kohde
+Air Altar;Ilmaalttari
+Earth Altar;Maan alttari
+View Runecraft on the Wiki;Katso Runecraft Wikissä
+Fire Altar;Paloalttari
+View <col=ff9040>Magic</col> guide;Katso <col=ff9040>Magic</col>-opas
+Water Altar;Vesi alttari
+Reset Horizontal;Palauta vaaka
+Resize Horizontal;Muuta vaakakokoa
+Eagles' Eyrie;Eagles' Eyrie
+The Outpost;Outpost
+Wizards' Tower;Wizards' Tower
+Tackle;Taklata
+Form clan;Muodosta klaani
+Invite;Kutsu
+Ban;Kieltää
+Guzzle;Ahmia
+<col=ffff00>Set chat mode:</col> Group (/@g);<col=ffff00>Aseta chat-tila:</col> Ryhmä (/@g)
+Directions;Ohjeet
+Unpack;Pura pakkauksesta
+8;8 
+7;7 
+6;6 
+12 months membership;12 kuukauden jäsenyys
+Temple;Temppeli
+Request;Pyytää
+Withdraw All;Poista kaikki
+Pay (south);Maksa (etelä)
+Pay (north);Maksa (pohjoinen)
+View <col=ff9040>Cooking</col> guide;Katso <col=ff9040>Ruoanlaitto</col>-opas
+View <col=ff9040>Thieving</col> guide;Katso <col=ff9040>Thieving</col> -opas
+Another name;Toinen nimi
+Bonds;Joukkovelkakirjat
+Look up name;Etsi nimi
+Redeem;Lunastaa
+-3%;-3 %
++3%;+3 %
+Put-inside;Laita sisään
+Toggle-respawn;Toggle-respawn
+Claim Pet Rock;Lunasta Pet Rock
+Ok;Ok
+Deposit-items;Talletuskohteet
+Shake;Ravista
+Remove-lid;Irrota kansi
+Cast Bloom;Näyttelijät Bloom
+Preview;Esikatselu
+Colour;Väri
+Turn page;Käännä sivua
+Set Destination;Aseta määränpää
+Enter Wilderness;Sisään erämaahan
+Don't go;Älä mene
+Teleport to Destination;Teleportoi määränpäähän
+Check-Fee;Sekkimaksu
+Use-Lift;Use-Lift
+Polish;Kiillottaa
+Enter name;Kirjoita nimi
+View Guest Count;Näytä vierasmäärä
+Squeeze-past;Purista ohi
+Take-concoction;Ota-kehitys
+Take-5 concoctions;Ota - 5 sekoitusta
+Talk;Puhua
+Take-10 concoctions;Ota - 10 sekoitusta
+Check Scores;Tarkista pisteet
+Big-search;Suuri haku
+Help;Auttaa
+Take-hammer;Ota vasara
+View journal <col=ff981f>Goblin Diplomacy</col>;Näytä päiväkirja <col=ff981f>Goblin Diplomacy</col>
+Wiki <col=ff9040>Wilderness Journal</col>;Wiki <col=ff9040>Wilderness Journal</col>
+Partner;Kumppani
+Log;Loki
+Open <col=ff9040>Wilderness Journal</col>;Avaa <col=ff9040>Wilderness Journal</col>
+*;*
+Loot broadcasts;Ryöstää lähetyksiä
+Notifications - Leagues;Ilmoitukset - Liigat
+Loot broadcast value;Ryöstä lähetysarvo
+Combat Achievement tier broadcasts;Combat Achievement -tason lähetykset
+Notifications - PvM;Ilmoitukset - PvM
+Notifications - PvP;Ilmoitukset - PvP
+Edit rank titles;Muokkaa arvonimikkeitä
+Notifications - Skilling;Ilmoitukset - Ammattitaito
+Edit Mode;Muokkaustila
+Finished;Valmis
+Create;Luoda
+Buy 50 sets;Osta 50 sarjaa
+Buy 5 sets;Osta 5 settiä
+Cosmetics;Kosmetiikka
+Buy 10 sets;Osta 10 sarjaa
+Buy 1 set;Osta 1 setti
+Extend;Laajenna
+Jump-To;Jump-To
+Pay-toll(2-Ecto);Maksullinen tietulli (2 ekto)
+Wind;Tuuli
+Worship;Palvonta
+Status;Status
+Jump-down;Hyppy alas
+Translate;Kääntää
+Off;Pois
+Select <col=ff891f>Grid master torch scroll;Valitse <col=ff891f>Grid-pääpolttimen vieritys
+Select <col=ff891f>Swords and emblem;Valitse <col=ff891f>Miekat ja tunnus
+Select <col=ff891f>Swords and emblem (g);Valitse <col=ff891f>Miekat ja tunnus (g)
+Select <col=ff891f>Swords and emblem (p);Valitse <col=ff891f>Miekat ja tunnus (p)
+Select <col=ff891f>Grid master tabard (p);Valitse <col=ff891f>Grid-päälehti (p)
+Select <col=ff891f>Grid master altar icon scroll;Valitse <col=ff891f>Grid-pääalttarikuvake
+View journal <col=ff981f>Shield of Arrav</col>;Näytä päiväkirja <col=ff981f>Shield of Arrav</col>
+View journal <col=ff981f>Pirate's Treasure</col>;Näytä päiväkirja <col=ff981f>Pirate's Treasure</col>
+View journal <col=ff981f>Pandemonium</col>;Näytä päiväkirja <col=ff981f>Pandemonium</col>
+View journal <col=ff981f>The Ides of Milk</col>;Katso lehti <col=ff981f>The Ides of Milk</col>
+Next;Seuraavaksi
+Pack;Pakata
+Fight-privately;Taistele yksityisesti
+Quick-climb;Pikakiipeily
+null;tyhjä
+Put-ore-on;Laita malmi päälle
+Fill-bucket;Täyttö-ämpäri
+Refuel;Tankkaa
+View Overview;Näytä yleiskatsaus
+Show Menu;Näytä valikko
+Sync your collection log with WikiSync;Synkronoi kokoelmaloki WikiSyncin kanssa
+Get-log;Hanki loki
+Claim-log-rewards;Lunasta-loki-palkinnot
+2 Dose;2 Annos
+Potion Storage;Juoman säilytys
+4 Dose;4 Annos
+1 Dose;1 Annos
+3 Dose;3 Annos
+Serve;Palvella
+Set-up;Asennus
+Assign member ranks;Määritä jäsenille arvoja
+Combat Achievement task broadcasts;Combat Achievement -tehtävälähetykset
+Last-destination (CLS);Viimeinen kohde (CLS)
+Edit rank;Muokkaa sijoitusta
+50;50 
+Release all placeholders;Vapauta kaikki paikkamerkit
+Enable inventory locks;Ota varaston lukitukset käyttöön
+Show right-click options;Näytä hiiren kakkospainikkeen vaihtoehdot
+Unlock-slot;Avauspaikka
+Jump-off;Hyppy pois
+Hurdle;Este
+Pull-spade;Vetolapio
+Walk-through;Kävelevä läpi
+Not now;Ei nyt
+Jump-Down;Hyppää alas
+Clear all;Tyhjennä kaikki
+Hide <col=ff9040>Minimap</col>;Piilota <col=ff9040>pienikartta</col>
+Show <col=ff9040>Minimap</col>;Näytä <col=ff9040>pienikartta</col>
+Remove<col=ff9040> Focus;Poista<col=ff9040> ​​Focus
+Select option A;Valitse vaihtoehto A
+Stroke;Aivohalvaus
+Pan;Panoroida
+Gem Mine;Jalokivikaivos
+Mount Karuulm;Karuulm vuori
+Kourend Woodland;Kourend Woodland
+View Friends List;Näytä ystävälista
+Add Name;Lisää nimi
+Delete Name;Poista nimi
+Water;Vesi
+Open link;Avaa linkki
+Get-training;Hanki koulutus
+Bank-cargo;Pankki-rahti
+Honour;Kunnia
+Close storage tab;Sulje tallennusvälilehti
+Charter-to Port Piscarilius;Charter satamaan Piscarilius
+Direct-portal;Suora portaali
+Deepfin Point;Deepfin Point
+Quiver-Remove;Quiver-Remove
+Assign;Määritä
+Port Roberts;Port Roberts
+Check-ammunition;Tarkista ammukset
+Command;Komento
+Change loadout name;Vaihda latauksen nimi
+Open storage tab;Avaa tallennusvälilehti
+Reset-ammunition;Reset-ammukset
+Stop following Captain's target;Lopeta kapteenin kohteen seuraaminen
+Clear target;Selkeä tavoite
+Unassign;Poista määritys
+Assign to crew slot 5;Määritä miehistön paikkaan 5
+Assign to crew slot 1;Määritä miehistön paikkaan 1
+Jatizso;Jatizso
+Clear crew slot 1;Tyhjennä miehistön paikka 1
+Clear crew slot 5;Tyhjennä miehistön paikka 5
+Neitiznot;Neitiznot
+Follow Captain's target;Seuraa kapteenin tavoitetta
+Cancel task;Peruuta tehtävä
+Set Hotkey (A);Aseta pikanäppäin (A)
+Set Hotkey (3);Aseta pikanäppäin (3)
+Set Hotkey (7);Aseta pikanäppäin (7)
+Set Hotkey (4);Aseta pikanäppäin (4)
+Set Hotkey (8);Aseta pikanäppäin (8)
+Pay (Celastrus tree);Maksa (celastruspuu)
+Pay (Spirit tree);Palkka (henkipuu)
+Set Hotkey (9);Aseta pikanäppäin (9)
+Pick-coconut;Pick-kookos
+Set Hotkey (F);Aseta pikanäppäin (F)
+Set Hotkey (B);Aseta pikanäppäin (B)
+Set Hotkey (D);Aseta pikanäppäin (D)
+Set Hotkey (C);Aseta pikanäppäin (C)
+Set Hotkey (5);Aseta pikanäppäin (5)
+Set Hotkey (6);Aseta pikanäppäin (6)
+Last-destination (CJR);Viimeinen määränpää (CJR)
+Last-destination (CIQ);Viimeinen kohde (CIQ)
+Last-destination (CIR);Viimeinen kohde (CIR)
+Hang-over;Krapula
+Ardougne Farm;Ardougne Farm
+Dump;Kaatopaikka
+Alchemy;Alkemia
+Energy;Energiaa
+Signal;Signaali
+Withdraw X;Nosta X
+Rumour;Huhu
+Pay (south-west);Maksu (lounas)
+Pay (north-east);Maksa (koilliseen)
+Pay (tree patch);Maksa (puupaikka)
+Glade;Glade
+Ring-last-destination (AKQ);Ring-last-destination (AKQ)
+Release wind mote;Vapauta tuulisuoja
+Release-mote;Vapautusmote
+Retrieve;Hakea
+Rod-fish;Vapa-kala
+Summon;Kutsu
+Remove-Favourite;Poista-Suosikki
+Pick-dragonfruit;Poimi-lohikäärme
+Remove Favourite;Poista suosikki
+Functions;Toiminnot
+Last-destination (DLP);Viimeinen kohde (DLP)
+Break-crystals;Rikkoutuvia kristalleja
+Work-at;Työ-at
+Start-previous-rank;Aloitus-edellinen-sijoitus
+Start-trial;Aloitus-koe
+Jump-across;Hyppy poikki
+Last-destination (ALP);Viimeinen kohde (ALP)
+Quick-Pay(100);Quick-Pay (100)
+Send-parcel;Lähetä-paketti
+Reset Safe;Nollaa kassakaappi
+Set to 9;Aseta arvoon 9
+Raise an Octave.;Nosta oktaavi.
+Previous Page.;Edellinen sivu.
+Next page.;Seuraava sivu.
+Release all placeholders (89);Vapauta kaikki paikkamerkit (89)
+High-Alchemy;Korkea-alkemia
+Preach;Saarnata
+Config;Konfig
+Southern entrance;Eteläinen sisäänkäynti
+Middle entrance;Keskimmäinen sisäänkäynti
+Northern entrance;Pohjoinen sisäänkäynti
+Deposit loot;Talletussaalis
+Lithkren Dungeon;Lithkren Dungeon
+Climb Down;Kiipeä alas
+Seeds;Siemenet
+Stun;Tainnuttaa
+Digsite;Digisite
+Set Hotkey (M);Aseta pikanäppäin (M)
+Dondakan's Rock;Dondakanin kallio
+Set Hotkey (I);Aseta pikanäppäin (I)
+Set Hotkey (K);Aseta pikanäppäin (K)
+Set Hotkey (N);Aseta pikanäppäin (N)
+Set Hotkey (L);Aseta pikanäppäin (L)
+Last-destination (ALS);Viimeinen kohde (ALS)
+Descend;Laskeutua
+Weiss;Weiss
+Scoreboard;Tulostaulu
+Standard;Vakio
+Play-fetch;Pelaa-haku
+Climb up;Kiipeä ylös
+Lletya;Lletya
+Target;Kohde
+Activity;Toiminta
+Enter-corrupted;Enter-korruptoitunut
+Area Mode;Aluetila
+Single Mode;Yksittäinen tila
+Skip Track;Ohita kappale
+Sing-crystal;Laulukristalli
+Fill-from;Täyttö-alkaen
+Set Hotkey (2);Aseta pikanäppäin (2)
+Set Hotkey (1);Aseta pikanäppäin (1)
+Slayer Master;Slayer Master
+Unblock;Kumoa esto
+Raise;Nosta
+Raise net;Nosta verkkoa
+Lower net;Alempi verkko
+Lower;Alentaa
+Claim-slime;Väite-lima
+Port Phasmatys;Port Phasmatys
+Charter-to Port Phasmatys;Tilauslento satamaan Phasmatys
+Poke;Poke
+Jump off;Hyppää pois
+Burgh Teleport;Burgh Teleport
+Ecto Teleport;Ecto Teleport
+Store-preform;Myymälä-aihio
+Commission;Komissio
+Quench-preform;Sammutusaihio
+Heat-preform;Lämpö-aihio
+Cool-preform;Viileä-aihio
+Hand-in;Käsi-in
+Dunk-preform;Dunk-aihio
+Pour;Kaada
+Last-destination (CKP);Viimeinen kohde (CKP)
+Look-over;Katse
+Awaken;Herää
+Fuel;Polttoaine
+Next page;Seuraava sivu
+New partner;Uusi kumppani
+Remove from playlist 1;Poista soittolistasta 1
+Ascend;Nousta
+Destruir;Destruir
+Claim-runes;Väite-riimut
+Step-into;Astu sisään
+Set Hotkey (E);Aseta pikanäppäin (E)
+Cut-vine;Leikkaa viiniköynnös
+Camarones;Camarones
+Hardcore Ironman Group;Hardcore Ironman Group
+Rescue;Pelastaa
+Spring;Kevät
+Safety switch;Turvakytkin
+Gear;Gear
+Gandius;Gandius
+Kar-Hewo;Kar-Hewo
+Swing;Swing
+Craft-repair-kits;Käsityö-korjaussarjat
+Craft-hull-parts;Craft-rungon osat
+Contact Master;Ota yhteyttä Masteriin
+View Laps;Näytä kierrokset
+Tarn's Lair;Tarnin luola
+Dark Beasts;Dark Beasts
+Slayer Tower;Slayer Tower
+Toggle Counter;Vaihda laskuri
+Open Log;Avaa loki
+Stronghold;Linnake
+Fremennik Dungeon;Fremennik Dungeon
+Parler Ã;Parler Ã 
+Retirer-X;Eläkkeellä oleva X
+Activer;Activer
+Retirer-5;Eläkeläinen-5
+Suivre;Suivre
+Retirer-1;Eläkkeellä oleva -1
+Rapport;Rapport
+Retirer-tout;Eläkeläinen-tout
+Retirer-10;Eläkeläinen-10
+Configurer;Configurer
+Retirer-tout-sauf-1;Eläkkeellä-tout-sauf-1
+Commerce;Kauppa
+Marchez ici;Marchez ici
+Ã‰changez avec;Ã‰changez avec
+Descendre;Descendre
+Banque;Banque
+Abattre;Abattre
+Collecter;Kerääjä
+Ouvrir;Ouvrir
+Remove-one;Poista yksi
+Lap-count;Kierrosluku
+Cooking;Ruoanlaitto
+Ban guest;Estä vieras
+Kick guest;Potkia vieras
+Assemble;Koota
+Quick-Board;Pikalauta
+Move Schematic Left;Siirrä kaavamaista vasemmalle
+Select Schematic Two;Valitse kaavamainen kaksi
+Select Schematic One;Valitse Kaavamainen yksi
+Select Schematic Three;Valitse kaavamainen kolme
+Move Schematic Down;Siirrä kaavamainen alas
+Move Schematic Up;Siirrä kaavio ylös
+Rotate the image;Kierrä kuvaa
+Move Schematic Right;Siirrä kaavamainen oikealle
+Jump-through;Hyppää läpi
+Set Hotkey (J);Aseta pikanäppäin (J)
+Set Hotkey (O);Aseta pikanäppäin (O)
+Set Hotkey (H);Aseta pikanäppäin (H)
+Set Hotkey (G);Aseta pikanäppäin (G)
+Last-destination (BJS);Viimeinen määränpää (BJS)
+Check-permissions;Tarkista käyttöoikeudet
+Background-music;Tausta-musiikki
+Play-quietly;Leiki - hiljaa
+Entertain;Viihdyttää
+Disarm;Poista aseista
+Sync WOM Group;Synkronoi WOM-ryhmä
+Retrieve-egg;Hae muna
+Expanded;Laajennettu
+Preview auto layout;Esikatsele automaattista asettelua
+Toggle warning;Varoitus päälle/pois
+Climb through;Kiipeä läpi
+Check count;Tarkista määrä
+Disassemble;Pura
+Gloomthorn Trail;Gloomthornin polku
+Make party;Järjestä juhlat
+Destinations;Kohteet
+Reload;Lataa uudelleen
+Disband;Hajota
+Advertise (15);Mainosta (15)
+Set-difficulty;Aseta vaikeus
+Claim-cape;Claim-viitta
+Attract;Houkuttele
+Start raid;Aloita raid
+Impale;Seivästää
+Bank all;Pankki kaikki
+Smoke Barrage;Smoke Barrage
+Smoke Blitz;Smoke Blitz
+Blood Blitz;Blood Blitz
+Smoke Burst;Smoke Burst
+Ice Barrage;Jääpato
+Douse;Valella
+Blood Barrage;Blood Barrage
+Shadow Blitz;Shadow Blitz
+Dispel;Hälventää
+Shadow Barrage;Shadow Barrage
+Reap;Korjaa
+Bank-all;Pankki-kaikki
+Inferior Demonbane;Alempi Demonbane
+North Aldarin;Pohjois-Aldarin
+Darkfrost;Darkfrost
+Ralos' Rise;Ralosin nousu
+Deposit runes;Talleta riimuja
+Twilight Temple;Hämärän temppeli
+Nemus Retreat;Nemus Retreat
+Superior Demonbane;Superior Demonbane
+Dark Demonbane;Tumma Demonbane
+Delve-stats;Delve-tilastot
+Claim and leave;Vaatii ja lähde
+General-stats;Yleistilastot
+Teleport to <col=ff8040>Clan Wars</col>;Teleportoi <col=ff8040>Clan Warsiin</col>
+Join <col=ff8040>Clan Wars</col> channel;Liity <col=ff8040>Clan Wars</col> -kanavalle
+Use this layout;Käytä tätä asettelua
+Quick-slide;Nopea liuku
+Slide;Liuku
+Visual-effects;Visuaaliset efektit
+Toggle-talisman;Toggle-talisman
+Deposit-runes;Talletus-riimut
+Power-up;Virran päälle
+Take-chisel;Ota taltta
+Place-cell;Paikka-solu
+Dark Mage;Dark Mage
+View-stats;Näytä-tilastot
+View-glory;Näytä - loistoa
+Pluck;Nyppiä
+Inflate;Täytä
+Claim-arrows;Vaatimusnuolet
+Release All;Vapauta kaikki
+Walk through;Kävele läpi
+Claim-hats;Vaatimushatut
+Check kills;Tarkista tappaa
+Check-on;Sisäänkirjautuminen
+Take-uniform;Ota univormu
+Listen-at;Kuuntele-at
+Watermill;Vesimylly
+Mines;Kaivokset
+Cellar;Kellari
+Buy-sphere;Osta-sfääri
+Untie;Irrota
+Attach/Detach Pipe;Kiinnitä/irrota putki
+Glider-to Gandius;Purjelentokone Gandiukselle
+Take-sigil;Take-sigil
+Take-net;Take-net
+Melt;Sulaa
+Reinvigorate;elvyttää
+Take-rock;Take-rock
+Kalphite cave;Kalfiten luola
+Nardah;Nardah
+Make unfinished potion(s);Tee keskeneräisiä juomia
+Pages;Sivut
+Trollheim;Trollheim
+Discard-All;Hylkää kaikki
+Remove-room;Poista huone
+Make <col=ff9040>Gold ring</col>;Tee <col=ff9040>kultasormus</col>
+Make <col=ff9040>Gold necklace</col>;Tee <col=ff9040>kultainen kaulakoru</col>
+Swing across;Käänny poikki
+Pick-orange;Pick-oranssi
+Deposit buckets;Talletusämpärit
+Claim Sand;Vaatii Sand
+Ferry;Lautta
+Surface;Pinta
+Solo-start;Yksin aloitus
+Rotate-right;Kierrä oikealle
+Fill-jug;Täyttö-kannu
+Align;Kohdista
+Rotate-left;Kierrä vasemmalle
+Rebalance;Tasapainottaa
+Cleanse;Puhdistaa
+Grab-feather;Tartu-höyhen
+Level;Taso
+Set Junction;Aseta risteys
+Control;Ohjaus
+Return;Palata
+Listen-to;Kuuntele
+Crawl-down;Indeksointi alas
+Start;Aloita
+Use-Driftwood;Käytä - Driftwood
+View Stats;Näytä tilastot
+Refresh Data;Päivitä tiedot
+Repairs;Korjaukset
+Folgen;Folgen
+Attacke;Hyökkäys
+Nehmen;Nehmen
+Entfernen;Entfernen
+Bericht;Bericht
+Handeln mit;Handeln mit
+Fällen;Fällen
+Ausloggen;Ausloggen
+Ausüben;Ausüben
+Tropfen;Tropfen
+Suchen;Suchen
+Verwenden;Verwenden
+Beten;Beten
+Taschendieb;Taschendieb
+Handeln;Händeln
+Eingeben;Eingeben
+Austausch;Austausch
+Herabsteigen;Herabsteigen
+Hochklettern;Hochklettern
+Sammeln;Sammeln
+Kochen;Kochen
+Kaution;Kaution
+Stehlen von;Stehlen von
+Tragen;Tragen
+Essen;Essen
+aktivieren Sie;aktivieren Sie
+Sicht;Sicht
+Beute;Beute
+Bauen;Bauen
+Earth Strike;Earth Strike
++30%;+30 %
+Offer-fish;Tarjoa kalaa
+-30%;-30 %
+Place;Paikka
+Big-push;Iso työntö
+Unhide;Näytä
+Stint;Työjakso
+Preise;Preise
+Geschichte;Geschichte
+Gießen;Gießen
+Crack;Crack
+Ignorieren hinzufügen;Ignorieren hinzufügen
+Wert;Wert
+Freund hinzufügen;Freund hinzufügen
+Heim;Heim
+Baumodus;Baumodus
+Haus eines Freundes;Haus eines Freundes
+Besorgen;Besorgen
+Climb-under;Kiipeä alle
+Jump-Over;Hyppy-Over
+Store<col=ff9040>;Store<col=ff9040>
+Preen;Sukia
+Tether;Lieka
+Forfeit;Menettää
+Cook-at;Cook-at
+Check-ammo;Tarkista ammukset
+Untether;Untether
+Last-destination (BIQ);Viimeinen kohde (BIQ)
+Last-destination (BIS);Viimeinen kohde (BIS)
+Last-destination (BIP);Viimeinen määränpää (BIP)
+Crown Info;Kruunun tiedot
+Last-destination (BLR);Viimeinen kohde (BLR)
+Complete;Täydellinen
+Climb over;Kiipeä yli
+Smash-to-bits;Smash-to-bits
+Enchant-Vials;Enchant-pullot
+Trade-Co-op;Trade-Co-op
+Trade-Drinks;Kauppa-juomat
+Squeeze-Through;Purista läpi
+Fly;Lentää
+Relax;Rentoutua
+Sandbags;Hiekkasäkit
+Tug;Hinaaja
+Logs;Lokit
+Bail;Takuu
+Emergency tug;Hätä hinaaja
+Preferences;Asetukset
+Games room;Pelihuone
+Combat room;Taisteluhuone
+Dining room;Ruokasali
+Re-light;Valo uudelleen
+Ring-last-destination (AIP);Ring-last-destination (AIP)
+Spin-globe;Pyöritä maapalloa
+Take-candy;Ota karkkia
+Set destination;Aseta määränpää
+Teleport to destination;Teleportoi määränpäähän
+eat;syödä
+Cast Spell;Cast Spell
+Lift;Hissi
+cast;heittää
+Toggle-minerals;Toggle-mineraalit
+Take-bowl;Take-Bowl
+Accept exchange;Hyväksy vaihto
+Insert coin;Aseta kolikko
+Cancel exchange;Peruuta vaihto
+Use col;Käytä sarv
+Activate machine;Aktivoi kone
+Unlock machine;Avaa koneen lukitus
+Cancel operation;Peruuta toiminto
+Rank;Sijoitus
+Last-destination (CIP);Viimeinen kohde (CIP)
+Set name;Aseta nimi
+wield;käytellä
+Beanspruchen;Beanspruchen
+Smoke;Savu
+Last-destination (BJR);Viimeinen määränpää (BJR)
+Buy X;Osta X
+Ring-last-destination (DLQ);Ring-last-destination (DLQ)
+Remove-decorations;Poista-koristeet
+Jump on;Hyppää päälle
+-1%;-1 %
++1%;+1 %
+Pick-leaf;Pick-lehti
+Last-destination (CJQ);Viimeinen määränpää (CJQ)
+Throw-water direction;Heittovesisuunta
+Throw-water;Heitä vettä
+Check-level;Tarkista taso
+Strike;Lakko
+Cut-branch;Leikkaushaara
+Play-With;Leikki-kanssa
+Trophies;Palkinnot
+Talk-At;Talk-At
+Mount;Kiinnitä
+Unstuff;Unstuff
+Change-clothes;Vaihtovaatteet
+Detach;Irrota
+Paint;Maali
+Ring-last-destination (AJP);Ring-last-destination (AJP)
+Easter dance;Pääsiäinen tanssi
+Dance;Tanssi
+Whack;Läimäyttää
+Divine;Jumalallinen
+Duel;Kaksintaistelu
+Invoke;Vedota
+Change icon (herb run);Vaihda kuvake (yrttijuoksu)
+Look out;Varoa
+Last-destination (DIP);Viimeinen määränpää (DIP)
+Ta Quir Priw;Ta Quir Priw
+Vote Now;Äänestä nyt
+Give;Antaa
+Withdraw-Notes;Nosto-muistiinpanot
+Remove-Placeholder;Poista-paikkamerkki
+Remove-All-Placeholders;Poista kaikki paikkamerkit
+Pay (Redwood tree);Maksa (Redwood tree)
+Collection-log;Kokoelma-loki
+View Tasks;Näytä tehtävät
+Easy Tasks;Helppoja tehtäviä
+Lookup-boss;Haku-pomo
+Medium Tasks;Keskikokoiset tehtävät
+View Bosses;Näytä pomot
+Select <col=ff981f>Grandmaster;Valitse <col=ff981f>Suurmestari
+Select <col=ff981f>Easy;Valitse <col=ff981f>Helppo
+Select <col=ff981f>Medium;Valitse <col=ff981f>Keskitaso
+View Rewards;Näytä palkinnot
+Select <col=ff981f>Master;Valitse <col=ff981f>Master
+Elite Tasks;Elite Tasks
+Hard Tasks;Vaikeita tehtäviä
+Select <col=ff981f>Elite;Valitse <col=ff981f>Elite
+Select <col=ff981f>Hard;Valitse <col=ff981f>Kova
+Master Tasks;Master Tasks
+Grandmaster Tasks;Suurmestarin tehtävät
+Clear-All;Tyhjennä-kaikki
+Climb-through;Kiipeä läpi
+Plank sack;Lankku säkki
+Amy's saw;Amy näki
+Carpenter's boots;Puusepän saappaat
+Carpenter's trousers;Puusepän housut
+Carpenter's shirt;Puusepän paita
+Hosidius blueprints;Hosidiuksen piirustukset
+Supply crate;Tarvikelaatikko
+Carpenter's helmet;Puusepän kypärä
+Deposit All from Inventory;Talleta kaikki varastosta
+Ghorrock Dungeon;Ghorrock Dungeon
+The Stranglewood;Stranglewood
+The Scar;Arpi
+The Ancient Vault;Muinainen holvi
+Lassar Undercity;Lassar Undercity
+Skeletal Grasp;Luuston ote
+Undead Grasp;Undead Tartu
+Take-from <col=00ffff>Fishing;Take-from <col=00ffff>Kalastus
+Take-from <col=00ffff>Hunting;Take-from <col=00ffff>Metsästys
+Take-from <col=00ffff>Herblore;Take from <col=00ffff>Herblore
+Decorate;Koristella
+Carve;Carve
+Boss list;Boss lista
+Pirate's Cove;Pirate's Cove
+Island of Stone;Kiven saari
+Ungael;Ungael
+Waterbirth Island;Vesisyntymäsaari
+Exit Speedrunning;Lopeta Speedrunning
+Quick-travel;Pikamatka
+Roll;Rullaa
+Step-over;Astu yli
+Menagerie (outdoors);Menagerie (ulkona)
+Menagerie (indoors);Menagerie (sisätiloissa)
+Hall - Quest trophies;Hall - Quest-palkinnot
+Make <col=ff9040>Sapphire necklace</col>;Tee <col=ff9040>safiirikaulakoru</col>
+Darkmeyer;Darkmeyer
+Slepe;Nuku
+Ver Sinhaza;Ver Sinhaza
+Warrior's Guild;Warrior's Guild
+Feldip Hills;Feldip Hills
+Guild Teleports;Guild Teleports
+Ring of Life;Elämän rengas
+Teleport Boat (Pandemonium);Teleport Boat (Pandemonium)
+Rename boat;Nimeä vene uudelleen
+Skilling Areas;Osaamisalueet
+<col=f54927>Home</col>;<col=f54927>Etusivu</col>
+Barbarian fishing;Barbaarikalastus
+Otto's Grotto;Otton luola
+Stamina Boost;Stamina Boost
+Rename Boat;Nimeä vene uudelleen
+Teleports;Teleportit
+Black chinchompas;Mustat chinchompat
+Carnivorous chinchompas;Lihansyöjä chinchompas
+POH Portals;POH-portaalit
+The Darkfrost;The Darkfrost
+<col=E89C46>Kastori</col>;<col=E89C46>Kastori</col>
+Craft-goods;Käsityötavarat
+Pass-to;Pass-to
+Mineral Pack;Mineraalipaketti
+Switch <col=ff8040>344</col>;Vaihda <col=ff8040>344</col>
+Join <col=ff8040>Pest Control</col> channel;Liity <col=ff8040>Tuholaistorjunta</col>-kanavalle
+Teleport to <col=ff8040>Pest Control</col>;Teleportoi <col=ff8040>tuholaistorjuntaan</col>
+Draw;Piirrä
+Count;Laskea
+She/her;Hän/hänen
+Select colour;Valitse väri
+They/them;He/he
+Body type B;Runkotyyppi B
+Disable-XP;Poista XP käytöstä
+Store-axe;Kauppakirves
+Reset puzzle;Nollaa palapeli
+turn tile;käännä laatta
+Sindarpos;Sindarpos
+Evade;Kiertää
+Off/On;Pois/päällä
+Start-wave;Aloitus-aalto
+Finish;Valmis
+Hoop;Vanne
+Make-helmet;Make-kypärä
+Take-kettle;Take-vedenkeitin
+Recharge-whistle;Lataus-pilli
+Intimidate;Pelotella
+Untangle;Selvittää
+Tree Gnome Village;Tree Gnome Village
+Move down;Siirry alas
+Move up;Siirrä ylös
+Move right;Siirrä oikealle
+Turn-right;Käänny oikealle
+Turn-left;Käänny vasemmalle
+Move left;Siirrä vasemmalle
+Turn clockwise;Kierrä myötäpäivään
+Turn anti-clockwise;Kierrä vastapäivään
+Jeter;Jeter
+Vérifier;Varmentaja
+Attaquer;Hyökkääjä
+Prendre;Prendre
+Râteler;Râteler
+Signaler;Signalaattori
+Manier;Manier
+Inspecter;Tarkastaja
+Manger;Seimi
+Utiliser;Utiliser
+Fouiller;Fouiller
+Parler à;Parler à
+Enterrer;Enterrer
+Monter;Monter
+Échanger;Échanger
+Détruire;Détruire
+Fermer;Fermer
+Frotter;Frotteri
+Voler à la tire;Voler à la rengas
+Réclamer;Réclamer
+Fondre;Fondre
+Forger;Väärentäjä
+Cuisiner;Cuisiner
+Étage supérieur;Étage supérieur
+Déposer;Déposer
+Sortie;Sortie
+Say-name;Sano nimi
+Add;Lisätä
+Adjust;Säätää
+Gnome Stronghold;Gnome Stronghold
+Last-destination (ALQ);Viimeinen kohde (ALQ)
+View Channel;Näytä kanava
+Tracker;Tracker
+Goal;Maali
+Set to XP value;Aseta XP-arvoksi
+Set to current XP;Aseta nykyinen XP
+Set to level;Aseta tasolle
+Étage inférieur;Etage inférieur
+Activer/Désactiver;Activer/Désactiver
+Activer/Désactiver les avertissements;Activer/Désactiver les avertissements
+Réclamer les trophées;Réclamer les trophées
+Porter;Porter
+Entrer;Sisäänkirjailija
+Filet;Filet
+Appât;Appât
+Monter à bord;Monter à bord
+S'agripper;S'agripper
+Prier à;Prier à
+Trancher;Trancher
+Lire;Lire
+Miner;Kaivosmies
+Retirer;Eläkkeellä oleva
+Armure;Armure
+Bind;Bind
+Crawl;Indeksoi
+Cut-foot;Leikattu jalka
+Sand;Hiekka
+Staves;Sauvat
+S'occuper de;S'occuper de
+Se reposer;Katso reposer
+Leurre;Leurre
+Voir;Voir
+Vider;Vider
+Verrouiller;Verrouiller
+Leave <col=ff8040>Pest Control</col> channel;Poistu <col=ff8040>Tuholaistorjunta</col>-kanavasta
+Ranged XP: 10 points;Range XP: 10 pistettä
+Hitpoints XP: 10 points;Hitpoints XP: 10 pistettä
+Hitpoints XP: 1 point;Hitpoints XP: 1 piste
+Prayer XP: 100 points;Rukous XP: 100 pistettä
+Ranged XP: 1 point;Eräs XP: 1 piste
+Last-destination (BKR);Viimeinen määränpää (BKR)
+Construire;Construire
+Lancer;Lancer
+Caresser;Hyväilijä
+Voler à;Voler à
+Chasser;Chasser
+Acheter;Acheter
+No, don't leave.;Ei, älä lähde.
+Expel members;Erota jäsenet
+Recruitment;Rekrytointi
+Check-keys;Check-avaimet
+Attraper;Attraper
+Cueillir;Cueillir
+Interagir;Interagir
+Se faufiler;Katso vianetsintä
+Supply;Toimittaa
+Escort;Saattaja
+Objets de fêtes;Fêtes
+Utiliser le code;Käytä koodia
+Exclaim;Huudahtaa
+Unmorph;Unmorph
+Question;Kysymys
+Survey;Kysely
+Rejoindre;Vastaus
+Escalader;Escalader
+Leave Tomb;Jätä Tomb
+Start-minigame;Aloita minipeli
+Check for Snakes;Tarkista käärmeet
+Quick-leave;Pikalähtö
+Push-through;Push-through
+Quick-withdraw;Nopea nosto
+Toggle-view;Vaihda näkymää
+Recharge-prayer;Lataa-rukous
+Last-destination (DIS);Viimeinen kohde (DIS)
+Last-destination (BKP);Viimeinen kohde (BKP)
+À l'extérieur;À l'extérieur
+Couper;Couper
+DJR;DJR
+Favourites;Suosikit
+AJR;AJR
+CIR;CIR
+CIS;IVY
+View List;Näytä luettelo
+DIP;DIP
+Last-destination (BKS);Viimeinen kohde (BKS)
+BKS;BKS
+Tirer;Tyler
+View-game;Katso peli
+Cancel preview;Peruuta esikatselu
+Last-destination (DLR);Viimeinen määränpää (DLR)
+Click this to add coal.;Napsauta tätä lisätäksesi hiiltä.
+Turn tar valve up;Käännä tervaventtiili ylös
+Turn pressure valve up;Käännä paineventtiili ylös
+Turn tar flow valve down;Käännä tervan virtausventtiili alas
+Turn pressure valve down;Käännä paineventtiili alas
+Toggle Fossils;Vaihda fossiilit
+Open/Close;Avaa/Sulje
+Empty basket;Tyhjä kori
+Forestry kit;Metsänhoitosarja
+Log basket;Hirsikori
+View tutorial;Katso opetusohjelma
+Charter-to Land's End;Charter-to Land's End
+Select <col=ff981f>Apprentice wand;Valitse <col=ff981f>Oppilassauva
+Examine <col=ff981f>Beginner wand;Tutki <col=ff981f>aloittelijan sauva
+Select <col=ff981f>Mud rune;Valitse <col=ff981f>Mudrune
+Examine <col=ff981f>Steam rune;Tutki <col=ff981f>Steam-rune
+Select <col=ff981f>Infinity top;Valitse <col=ff981f>Infinity top
+Select <col=ff981f>Infinity gloves;Valitse <col=ff981f>Infinity-hanskat
+Examine <col=ff981f>Smoke rune;Tutki <col=ff981f>Smoke Rune
+Examine <col=ff981f>Teacher wand;Tutki <col=ff981f>Opettajan sauva
+Select <col=ff981f>Bones to peaches;Valitse <col=ff981f>Bones to persiches
+Examine <col=ff981f>Infinity top;Tutki <col=ff981f>Infinity-toppi
+Examine <col=ff981f>Mage's book;Tutki <col=ff981f>Magen kirjaa
+Select <col=ff981f>Infinity bottoms;Valitse <col=ff981f>Infinity-pohjat
+Select <col=ff981f>Law rune;Valitse <col=ff981f>Lakirune
+Examine <col=ff981f>Soul rune;Tutki <col=ff981f>Soul Rune
+Select <col=ff981f>Teacher wand;Valitse <col=ff981f>Opettajan sauva
+Select <col=ff981f>Smoke rune;Valitse <col=ff981f>Smoke rune
+Trade-with;Kauppa kanssa
+Quick-use;Pikakäyttöinen
+Select <col=ff981f>Steam rune;Valitse <col=ff981f>Steam rune
+Examine <col=ff981f>Law rune;Tutki <col=ff981f>Lakirunkoa
+Examine <col=ff981f>Master wand;Tutki <col=ff981f>pääsauvaa
+Examine <col=ff981f>Infinity hat;Tutki <col=ff981f>Infinity-hattu
+Select <col=ff981f>Soul rune;Valitse <col=ff981f>Soul Rune
+Examine <col=ff981f>Lava rune;Tutki <col=ff981f>Laava-riimua
+Select <col=ff981f>Lava rune;Valitse <col=ff981f>Laava-riimu
+Select <col=ff981f>Beginner wand;Valitse <col=ff981f> Aloittelijan sauva
+Examine <col=ff981f>Infinity gloves;Tutki <col=ff981f>Infinity-käsineitä
+Select <col=ff981f>Mage's book;Valitse <col=ff981f>Magen kirja
+Select <col=ff981f>Rune pouch;Valitse <col=ff981f>Riimupussi
+Examine <col=ff981f>Infinity bottoms;Tutki <col=ff981f>Infinity-pohjat
+Examine <col=ff981f>Apprentice wand;Tutki <col=ff981f>Oppipoika-sauvaa
+Examine <col=ff981f>Mud rune;Tutki <col=ff981f>mutariimua
+Examine <col=ff981f>Bones to peaches;Tutki <col=ff981f>Luita persikoiksi
+Select <col=ff981f>Infinity hat;Valitse <col=ff981f>Infinity-hattu
+Examine <col=ff981f>Rune pouch;Tutki <col=ff981f>Riimupussia
+Select <col=ff981f>Master wand;Valitse <col=ff981f>Pääsauva
+New-maze;Uusi labyrintti
+Examine <col=ff981f>Nature rune;Tutki <col=ff981f>Nature-rune
+Select <col=ff981f>Death rune;Valitse <col=ff981f>Kuoleman rune
+Select <col=ff981f>Nature rune;Valitse <col=ff981f>Nature Rune
+Examine <col=ff981f>Death rune;Tutki <col=ff981f>Kuoleman riimu
+Lemanto Andra;Lemanto Andra
+Battlefield of Khazard;Khazardin taistelukenttä
+Join <col=ff8040>Shield of Arrav</col> channel;Liity <col=ff8040>Shield of Arrav</col> -kanavalle
+Leave <col=ff8040>Shield of Arrav</col> channel;Poistu <col=ff8040>Shield of Arrav</col> -kanavasta
+Teleport to <col=ff8040>Shield of Arrav</col>;Teleportoi <col=ff8040>Shield of Arrav</col>iin
+Goutte;Goutte
+DÃ©truire;DÃ©truire
+Recherche;Recherche
+Buy Membership;Osta jäsenyys
+Switch <col=ff8040>491</col>;Vaihda <col=ff8040>491</col>
+Teleport to <col=ff8040>Burthorpe Games Room</col>;Teleportoi <col=ff8040>Burthorpe-pelihuoneeseen</col>
+Leave <col=ff8040>Burthorpe Games Room</col> channel;Poistu <col=ff8040>Burthorpe Games Room</col> -kanavalta
+Join <col=ff8040>Burthorpe Games Room</col> channel;Liity <col=ff8040>Burthorpe Games Room</col> -kanavalle
+Claim-Shield;Claim-Shield
+Swing Across;Swing Across
+Oubliette;Oubliette
+Superior garden;Superior puutarha
+Throne room;Valtaistuimen huone
+Portal chamber;Portaalin kammio
+Chapel;Kappeli
+Formal garden;Muodollinen puutarha
+Costume room;Pukuhuone
+DKR;DKR
+CKR;CKR
+Remove<col=ff9040> Hint arrow;Poista<col=ff9040> ​​Vihje-nuoli
+Show<col=ff9040> Hint;Näytä<col=ff9040> ​​Vihje
+Ring-last-destination (AKP);Ring-last-destination (AKP)
+Récompenses;Recompenses
+Tête de mort;Tête de mort
+Prix;Prix
+Décanter;Decanter
+Objets;Objektit
+Butin;Butin
+Historique;Historique
+Ensembles;Yhtyeet
+Make <col=ff9040>Collier rubis</col>;Tee <col=ff9040>Collier rubis</col>
+Make <col=ff9040>Emerald amulet (u)</col>;Tee <col=ff9040>Smaragdiamuletti (u)</col>
+Make <col=ff9040>Bague rubis</col>;Tee <col=ff9040>Bague rubis</col>
+Fabriquer;Valmistaja
+Make <col=ff9040>Bague en saphir</col>;Tee <col=ff9040>Bague en saphir</col>
+Make <col=ff9040>Gold amulet (u)</col>;Tee <col=ff9040>kultainen amuletti (u)</col>
+Make <col=ff9040>Bague en or</col>;Tee <col=ff9040>Bague fi tai</col>
+Make <col=ff9040>Sapphire amulet (u)</col>;Tee <col=ff9040>safiiri-amuletti (u)</col>
+String;merkkijono
+Yes, Apply Changes;Kyllä, ota muutokset käyttöön
+View Areas;Näytä alueet
+Leagues;Liigot
+Show <col=ff9040>Summary</col>;Näytä <col=ff9040>Yhteenveto</col>
+Apply Changes;Ota muutokset käyttöön
+View Demonic Pacts;Katso Demonic Pacts
+End Tutorial;Lopeta opetusohjelma
+View Relics;Näytä reliikit
+View Next Image;Näytä seuraava kuva
+Teleport to;Teleportoi kohteeseen
+Yama's Lair;Yaman luola
+Dispose;Hävitä
+Check-pets;Tarkista lemmikit
+Deselect Node;Poista Solmun valinta
+Show <col=ff9040>Ranks</col>;Näytä <col=ff9040>Asiat</col>
+Civitas;Civitas
+Zoom In;Lähennä
+Undo Changes;Kumoa muutokset
+Expand Active Pact Information;Laajenna Aktiivisen sopimuksen tiedot
+No, Undo Changes;Ei, kumoa muutokset
+Hide Information Panel;Piilota tietopaneeli
+Channel (Varlamore);Kanava (Varlamore)
+Exit Leagues;Poistu liigasta
+Briser;Briser
+Entrer (invité);Osallistuja (kutsu)
+Entrer (membre);Osallistuja (jäsen)
+NER Lookup;NER-haku
+Lunar Isle;Kuun saari
+Tirannwn;Tirannwn
+Kourend;Kourend
+Channel (Wilderness);Kanava (erämaa)
+Varlamore;Varlamore
+Asgarnia;Asgarnia
+Swap-Effect;Swap-efekti
+Toggle absorption;Vaihda absorptio
+Play-with;Leikkiä kanssa
+Afirmar;Afirmar
+Withdraw-all;Nosta kaikki
+Withdraw-last;Nosto-viimeinen
+Orar en;Orar en
+Crumble Undead;Crumble Undead
+Valor;Valor
+Remove from playlist 2;Poista soittolistasta 2
+Peer-into;Tutustu
+Offer 1;Tarjous 1
+Offer 5;Tarjous 5
+Offer All;Tarjoa kaikki
+Offer X;Tarjous X
+Robar de;Robar de
+View journal <col=ff981f>Children of the Sun</col>;Näytä päiväkirja <col=ff981f>Auringon lapset</col>
+Clamber;Kiivetä
+View journal <col=ff981f>Druidic Ritual</col>;Näytä päiväkirja <col=ff981f>Druidirituaali</col>
+Rules;säännöt
+Looting;Ryöstämistä
+Area of effect;Vaikutusalue
+Change Spellbook;Vaihda loitsukirja
+Previous Spellbook;Edellinen loitsukirja
+Last-destination (Brimhaven: Rope swing);Viimeinen määränpää (Brimhaven: Rope swing)
+Last-destination (BLS);Viimeinen määränpää (BLS)
+Check Previous;Tarkista Edellinen
+Last-destination (Shilo village: Stepping stone);Viimeinen määränpää (Shilon kylä: Ponnahduskivi)
+Last-destination (Auburn valley: Log balance (north));Viimeinen määränpää (Auburnin laakso: Puun saldo (pohjoinen))
+Last-destination (Mort myre: Stepping stone);Viimeinen määränpää (Mort myre: Stepping stone)
+Last-destination (Hosidius: River stepping stone);Viimeinen määränpää (Hosidius: Joen ponnahduskivi)
+Modo de construccion;Modo de construction
+Casa;Casa
+Casa de amigos;Casa de amigos
+Switch <col=ff8040>394</col>;Vaihda <col=ff8040>394</col>
+Make<col=ff9040> Waka canoe;Merkki<col=ff9040> ​​Waka-kanootti
+View <col=ff9040>Woodcutting</col> guide;Katso <col=ff9040>Puunleikkaus</col>-opas
+ALP;ALP
+Quick-start;Pika-aloitus
+Open Link;Avaa linkki
+Travel to<col=ff9040> Ferox Enclave;Matkusta<col=ff9040> ​​Ferox Enclaveen
+Select <col=ff981f>Leagues;Valitse <col=ff981f>Liigat
+Select <col=ff891f>Demonic Quill;Valitse <col=ff891f>Demonic Quill
+Select <col=ff891f>Impish Ritual Kit;Valitse <col=ff891f>Impish Ritual Kit
+Select <col=ff891f>Leagues VI Relic Hunter (T1);Valitse <col=ff891f>Leagues VI Relic Hunter (T1)
+Select <col=ff891f>Demonic Trident Ornament Kit.;Valitse <col=ff891f>Demonic Trident Ornament Kit.
+Select <col=ff891f>Leagues VI Relic Hunter (T3);Valitse <col=ff891f>Leagues VI Relic Hunter (T3)
+Unlocked;Avattu
+Zoom Out;Loitonna
+Sniff;Haistella
+Select <col=ff981f>Imp repellent;Valitse <col=ff981f>Imp repellent
+Select <col=ff981f>Jar generator;Valitse <col=ff981f>Tölkkigeneraattori
+Select <col=ff981f>Magic butterfly net;Valitse <col=ff981f>Maaginen perhosverkko
+Select <col=ff981f>Impling jar;Valitse <col=ff981f>Impling jar
+Last-destination (CKQ);Viimeinen määränpää (CKQ)
+Locked;Lukittu
+Reclaim;Takaisin
+Select <col=ff891f>Leagues V Death;Valitse <col=ff891f>Leagues V Death
+Select <col=ff891f>Leagues V Portal;Valitse <col=ff891f>Liigat V -portaali
+Select <col=ff891f>Demonic Butler Scroll;Valitse <col=ff891f>Demoninen Butler Scroll
+Select <col=ff891f>Leagues V Curtains;Valitse <col=ff891f>Liigat V -verhot
+Rumour-settings;Huhu-asetukset
+Fur-clothing;Turkis-vaatteet
+Take-log;Ota loki
+Vote;Äänestää
+Check tax;Tarkista vero
+Request-supplies;Pyydä tarvikkeita
+View Collection Log;Näytä kokoelmaloki
+Other Collections;Muut kokoelmat
+Bosses Collections;Bossin kokoelmat
+View Collection Overview;Näytä kokoelman yleiskatsaus
+Minigames Collections;Minipelien kokoelmat
+Decapitate;Mestata
+Another;Toinen
+Sabotage;Sabotoida
+Plant-evidence;Kasvien todisteet
+Charter-to Civitas illa Fortis;Charter-to Civitas illa Fortis
+Bless;Siunata
+Impling-jar;Impling-purkki
+Butterfly-jar;Butterfly-purkki
+Make <col=ff9040>Sapphire ring</col>;Tee <col=ff9040>safiirisormus</col>
+Make <col=ff9040>Emerald ring</col>;Tee <col=ff9040>Smaragdisormus</col>
+Crush;Murskata
+Look-into;Tutustuminen
+Reset Vertical;Palauta pystysuuntainen
+Resize Vertical;Muuta kokoa pystysuunnassa
+View <col=ff9040>Attack</col> guide;Katso <col=ff9040>hyökkäys</col>-opas
+View <col=ff9040>Slayer</col> guide;Katso <col=ff9040>Slayer</col> -opas
+View <col=ff9040>Hitpoints</col> guide;Katso <col=ff9040>Hitpoints</col>-opas
+Body type A;Runkotyyppi A
+View Facial hair;Näytä Kasvojen hiukset
+View Hair;Näytä Hiukset
+View Wristwear;Katso Rannevaatteet
+View Shoes;Katso Kengät
+View Sleeves;Näytä hihat
+View Torsos;Katso Torsot
+View Bottoms;Näytä pohjat
+View Body types;Näytä vartalotyypit
+Upgrades;Päivitykset
+Benefits;Edut
+Lookup-entity;Haku-entiteetti
+Select <col=ff891f>Shattered Relic Hunter (T1);Valitse <col=ff891f>Shattered Relic Hunter (T1)
+Select <col=ff891f>Shattered Mystic Orn Kit;Valitse <col=ff891f>Shattered Mystic Orn Kit
+Select <col=ff891f>Trailblazer Graceful Kits x6;Valitse <col=ff891f>Trailblazer Graceful Kits x6
+Select <col=ff891f>Leagues IV Bulwark Orn Kit;Valitse <col=ff891f>Leagues IV Bulwark Orn Kit
+Select <col=ff891f>Demonic Skin Sample;Valitse <col=ff891f>Demoninen ihonäyte
+Select <col=ff891f>Twisted Horns;Valitse <col=ff891f>Twisted Horns
+Select <col=ff891f>Leagues IV Relic Hunter (T2);Valitse <col=ff891f>Leagues IV Relic Hunter (T2)
+Select <col=ff891f>Echo Virtus Robes Orn Kit;Valitse <col=ff891f>Echo Virtus Robes Orn Kit
+Select <col=ff891f>Demonic Staff Ornament Kit;Valitse <col=ff891f>Demonic Staff Ornament Kit
+Select <col=ff891f>Leagues V NPC Contact;Valitse <col=ff891f>Liigat V NPC -yhteyshenkilö
+Select <col=ff891f>Leagues V Relic Hunter (T1);Valitse <col=ff891f>Leagues V Relic Hunter (T1)
+Select <col=ff891f>Leagues IV Alchemy Scroll;Valitse <col=ff891f>Leagues IV Alchemy Scroll
+Select <col=ff891f>Leagues IV Teleport Scroll;Valitse <col=ff891f>Leagues IV Teleport Scroll
+Select <col=ff891f>Trailblazer Tool Orn Kit;Valitse <col=ff891f>Trailblazer Tool Orn Kit
+Select <col=ff891f>Leagues IV Rejuvination Pool;Valitse <col=ff891f>Liigan IV nuorentamisallas
+Select <col=ff891f>Echo Ahrim's Pieces Orn Kit;Valitse <col=ff891f>Echo Ahrim's Pieces Orn Kit
+Select <col=ff891f>Shattered Relic Hunter (T3);Valitse <col=ff891f>Shattered Relic Hunter (T3)
+Select <col=ff891f>Trailblazer Globe;Valitse <col=ff891f>Trailblazer Globe
+Select <col=ff891f>Trailblazer Teleport Scroll;Valitse <col=ff891f>Trailblazer Teleport Scroll
+Select <col=ff891f>Echo Venator Bow Orn Kit;Valitse <col=ff891f>Echo Venator Bow Orn Kit
+Recoil Settings;Rekyyliasetukset
+Recoil settings;Rekyyliasetukset
+Bandit Camp;Bandiitin leiri
+Lava Maze;Laava labyrintti
+Chaos Temple;Kaaoksen temppeli
+Check completion;Tarkista valmistuminen
+Channel (Kandarin);kanava (kandariini)
+Make <col=ff9040>Onyx amulet (u)</col>;Tee <col=ff9040>Onyx-amuletti (u)</col>
+Make <col=ff9040>Onyx bracelet</col>;Tee <col=ff9040>Onyx-rannekoru</col>
+Buy sets:;Osta sarjat:
+Jump-from;Jump-from
+Channel (Karamja);Kanava (Karamja)
+Master;Hallita
+Make <col=ff9040>Slayer ring (8)</col>;Tee <col=ff9040>Slayer-rengas (8)</col>
+Make-cuppa;Make-cuppa
+Unstore;Poista tallennus
+Ring-last-destination (DJP);Ring-last-destination (DJP)
+Rustle;Rasahdus
+Ring-last-destination (CJQ);Ring-last-destination (CJQ)
+Enchant;Lumoa
+Ring-last-destination (BJS);Ring-last-destination (BJS)
+Aim and Fire;Tähtää ja tulta
+Amy;Amy
+View Info;Näytä tiedot
+Teleport to <col=ff8040>Castle Wars</col>;Teleportoi <col=ff8040>Castle Warsiin</col>
+Join <col=ff8040>Castle Wars</col> channel;Liity <col=ff8040>Castle Wars</col> -kanavalle
+Make <col=ff9040>Diamond bracelet</col>;Tee <col=ff9040>timanttirannekoru</col>
+Blackout;Sähkökatkos
+Select <col=ff891f>Tier 1 Adventurer's Outfit;Valitse <col=ff891f>Tier 1 Seikkailijan asu
+Select <col=ff891f>Tier 2 Adventurer's Outfit;Valitse <col=ff891f>Tier 2 Seikkailijan asu
+Select <col=ff891f>Speedy Teleport Scroll;Valitse <col=ff891f>Speedy Teleport Scroll
+Select <col=ff891f>Tier 3 Adventurer's Outfit;Valitse <col=ff891f>Tier 3 Seikkailijan asu
+Select <col=ff891f>Giant Stopwatch;Valitse <col=ff891f>Jättiläinen sekuntikello
+Collections overview;Kokoelmien yleiskatsaus
+Stairs to Timeline exhibit;Portaat aikajanalle -näyttely
+Collections Overview;Kokoelmien yleiskatsaus
+Last-destination (ALR);Viimeinen kohde (ALR)
+Select <col=ff9040>Pineapple punch;Valitse <col=ff9040>Ananaspunssi
+Select <col=ff9040>Fruit blast;Valitse <col=ff9040>Fruit blast
+Select <col=ff9040>Blurberry special;Valitse <col=ff9040>Blurberry-erikois
+Mix-cocktail;Mix-cocktail
+Select <col=ff9040>Chocolate saturday;Valitse <col=ff9040>Suklaalauantai
+Select <col=ff9040>Drunk dragon;Valitse <col=ff9040>Huoneen lohikäärme
+Select <col=ff9040>Short green guy;Valitse <col=ff9040>Lyhyt vihreä kaveri
+Magic XP: 1 point;Magic XP: 1 piste
+Magic XP: 100 points;Magic XP: 100 pistettä
+Strength XP: 100 points;Vahvuus XP: 100 pistettä
+Magic XP: 10 points;Magic XP: 10 pistettä
+Ranged XP: 100 points;Range XP: 100 pistettä
+Steal;Varastaa
+Toggle-activity;Toggle-aktiviteetti
+Release all placeholders (38);Vapauta kaikki paikkamerkit (38)
+Dissolve;Liuota
+BJS;BJS
+BJP;BJP
+Ring-last-destination (CKQ);Ring-last-destination (CKQ)
+View <col=ff9040>Smithing</col> guide;Katso <col=ff9040>Smithingin</col>-opas
+Clan name;Klaanin nimi
+Permission access;Käyttöoikeus
+Notifications;Ilmoitukset
+Clan Hall;Klaanisali
+Management;Hallinto
+View Clan Count;Katso klaanien määrä
+Report name;Raportin nimi
+View clan;Näytä klaani
+Back to Recruitment Board;Takaisin rekrytointilautakuntaan
+Cortar;Cortar
+Lista de amigos;Lista de amigos
+Negocie com;Negocie com
+Esconder;Esconder
+Denúnciar;Denúnciar
+Caminhe até aqui;Caminhe até aqui
+Opções de Combate;Opções de Combate
+Jogar;Jogar
+Atacar;Atacar
+Configurações;Configurações
+Falar com;Falar com
+Controles;Ohjaimet
+Conta;Conta
+Habilidades;Habilidades
+Previous page;Edellinen sivu
+Move Left;Siirrä vasemmalle
+Move Right;Siirrä oikealle
+Move Down;Siirrä alas
+Fire!;Palo!
+Capture;Kaapata
+Diários de conquistas;Diários de conquistas
+View <col=ff9040>Construction</col> guide;Katso <col=ff9040>Rakennusopas</col>
+Largar;Largar
+Subida;Subida
+Saber mais;Saber mais
+Empunhar;Empunhar
+Digitar;Digitar
+Inventário;Keksintö
+Ver caixa de entrada;Ver caixa de entrada
+Fechar;Fechar
+Abrir;Abrir
+Vestir;Vestir
+Lançar;Lançar
+Pegar;Pegar
+Depósito;Depósito
+Coletar;Coletar
+Sair;Sair
+Trocador de mundo;Trocador de mundo
+Close Info;Sulje tiedot
+Selecione;Selectione
+História;Historia
+Trocar;Trocar
+Confirmar;Vahvistaja
+Conjuntos;Conjuntos
+Ver oferta;Ver oferta
+Abortar oferta;Abortar tarjous
+Depósito-X;Depósito-X
+Preços;Preços
+Depósitar-1;Depósitar-1
+Depósitar-10;Depósitar-10
+Depósito-Tudo;Depósito-Tudo
+Depósitar-5;Depósitar-5
+Insira o preço;Insira o preço
+Make <col=ff9040>Emerald necklace</col>;Tee <col=ff9040>Smaragdikaulakoru</col>
+Adicionar amigo;Adicionar amigo
+Mostrar no mapa:;Mostrar ei karttaa:
+Leia o diário:;Leia tai diário:
+Saque;Saque
+Recompensas;Recompensas
+Compre 5;Vertaa 5
+Vender 50<col=ff9040>;Myyjä 50<col=ff9040>
+Vender 10<col=ff9040>;Myyjä 10<col=ff9040>
+Vender 1<col=ff9040>;Myyjä 1<col=ff9040>
+Compre 50;Vertaa 50
+Valor<col=ff9040>;Valor<col=ff9040>
+Compre 10;Vertaa 10
+Vender 5<col=ff9040>;Myyjä 5<col=ff9040>
+Compre 1;Vertaa 1
+Chefes;Kokit
+Tarefas;Tarefas
+Registro de coleta;Registro de coleta
+Visão geral;Visão geral
+Visão geral da coleção;Visão geral da coleção
+Resgatar;Resgatar
+Compre-50;Compre-50
+Remover;Poistoaine
+Ver estatísticas do equipamento;Ver estatísticas do equipamento
+Empty Dish;Tyhjä astia
+Look-in;Katso sisään
+Look in;Katso sisään
+Info:;Tiedot:
+Mostrar no mapa;Mostrar ei karttaa
+Mostrar;Mostrar
+Clear them all;Tyhjennä ne kaikki
+Retaliação automática;Retaliação automatica
+Pedágio (10gp);Pedágio (10gp)
+Excluir amigo;Excluir amigo
+Soco;Soco
+Bloquear;Bloquear
+Void Knight Seal;Void Knight Seal
+Void Knight Top;Void Knight Top
+Void Ranger Helm;Void Ranger Helm
+Void Knight Gloves;Void Knight Gloves
+Leave <col=ff8040>Barbarian Assault</col> channel;Poistu <col=ff8040>Barbarian Assault</col> -kanavalta
+Switch <col=ff8040>306</col>;Vaihda <col=ff8040>306</col>
+Join <col=ff8040>Barbarian Assault</col> channel;Liity <col=ff8040>Barbarian Assault</col> -kanavalle
+Teleport to <col=ff8040>Barbarian Assault</col>;Teleportoi <col=ff8040>Barbarian Assaultiin</col>
+Take-Tofu;Take-Tofu
+Stock-Up;Varastoiminen
+Take-Crackers;Take-crackers
+Take-Worms;Take-Worms
+Reset-wave;Reset-aalto
+Write-Role;Kirjoitusrooli
+Teleport to <col=ff8040>Soul Wars</col>;Teleportoi <col=ff8040>Soul Warsiin</col>
+Leave <col=ff8040>Tombs of Amascut</col> channel;Poistu <col=ff8040>Tombs of Amascut</col> -kanavasta
+Switch <col=ff8040>320</col>;Vaihda <col=ff8040>320</col>
+Teleport to <col=ff8040>Tombs of Amascut</col>;Teleportoi kohteeseen <col=ff8040>Tombs of Amascut</col>
+Join <col=ff8040>Soul Wars</col> channel;Liity <col=ff8040>Soul Wars</col> -kanavalle
+Leave <col=ff8040>Soul Wars</col> channel;Poistu <col=ff8040>Soul Wars</col> -kanavasta
+Switch <col=ff8040>338</col>;Vaihda <col=ff8040>338</col>
+Teleport to <col=ff8040>God Wars</col>;Teleportoi <col=ff8040>God Warsiin</col>
+Leave <col=ff8040>God Wars</col> channel;Poistu <col=ff8040>God Wars</col> -kanavasta
+Join <col=ff8040>Tombs of Amascut</col> channel;Liity <col=ff8040>Tombs of Amascut</col> -kanavalle
+Join <col=ff8040>God Wars</col> channel;Liity <col=ff8040>God Wars</col> -kanavalle
+Teleport to <col=ff8040>Shooting Stars</col>;Teleportoi <col=ff8040>Shooting Starsiin</col>
+Leave <col=ff8040>Shooting Stars</col> channel;Poistu <col=ff8040>Shooting Stars</col> -kanavalta
+Join <col=ff8040>Volcanic Mine</col> channel;Liity <col=ff8040>Volcanic Mine</col> -kanavalle
+Join <col=ff8040>Shooting Stars</col> channel;Liity <col=ff8040>Shooting Stars</col> -kanavalle
+Switch <col=ff8040>323</col>;Vaihda <col=ff8040>323</col>
+Teleport to <col=ff8040>Volcanic Mine</col>;Teleportoi <col=ff8040>vulkaanikaivokselle</col>
+Resources;Resurssit
+Leave <col=ff8040>Volcanic Mine</col> channel;Poistu <col=ff8040>Volcanic Mine</col> -kanavalta
+Coletar no banco;Coletar no banco
+View Hunter on the Wiki;Katso Hunter Wikissä
+Karamja Shipyard;Karamjan telakka
+Teleport to <col=ff8040>Shades of Mort'ton</col>;Teleportoi <col=ff8040>Shades of Mort'toniin</col>
+Join <col=ff8040>Shades of Mort'ton</col> channel;Liity <col=ff8040>Shades of Mort'ton</col> -kanavalle
+Switch <col=ff8040>377</col>;Vaihda <col=ff8040>377</col>
+Show time remaining;Näytä jäljellä oleva aika
+Teleport to last boat;Teleporttaa viimeiselle veneelle
+Summon last boat;Kutsu viimeinen vene
+Deposit-pickaxe;Talletus-hakku
+Quick-Use;Pikakäyttö
+Quick-Pass;Quick-Pass
+Quick-Enter;Quick-Enter
+Resupply;Jälleentarjonta
+View Fishing on the Wiki;Katso Fishing Wikistä
+Reset Streak;Nollaa putki
+Comprar-1;Vertaa-1
+Saída;Saída
+Open Livestream;Avaa suora lähetys
+Aya;Aya
+Comprar-5;Vertaa-5
+Cambio de imagen;Cambio de imagen
+Sync your collection log with Temple;Synkronoi kokoelmalokisi Templen kanssa
+Stairs to Dig Site exhibit;Portaat kaivauspaikalle -näyttely
+Stairs to Natural History exhibit;Portaat luonnonhistorialliseen näyttelyyn
+Chute;Ränni
+Charter-to Port Khazard;Tilauslento Port Khazardiin
+Excluir;Exluir
+Teleport to <col=ff8040>Guardians of the Rift</col>;Teleportoi <col=ff8040>Guardians of the Rift</col> -palveluun
+Join <col=ff8040>Guardians of the Rift</col> channel;Liity <col=ff8040>Guardians of the Rift</col> -kanavalle
+Ghostly Grasp;Ghostly Grasp
+Equipar;Equipar
+Combine;Yhdistää
+Remover-10;Poistoaine-10
+Remover-X;Poistaja-X
+Remover tudo;Poistaja tudo
+Remover-5;Poistoaine-5
+View <col=ff9040>Farming</col> guide;Katso <col=ff9040>Maatalous</col>-opas
+Teleport to <col=ff8040>Tithe Farm</col>;Teleportoi <col=ff8040>Tithe Farmiin</col>
+Join <col=ff8040>Tithe Farm</col> channel;Liity <col=ff8040>Tithe Farm</col> -kanavalle
+Change icon (corp);Vaihda kuvake (yritys)
+Change icon (melee);Vaihda kuvake (lähitaistelu)
+Release all placeholders (18);Vapauta kaikki paikkamerkit (18)
+Change icon (ranger);Vaihda kuvake (ranger)
+Change icon (mage);Vaihda kuvake (mage)
+Comprar tudo;Comprar tudo
+Compre-X;Compre-X
+Poções;Poções
+Vault;Holvi
+Select <col=ff891f>Grid master tabard (g);Valitse <col=ff891f>Grid-päälehti (g)
+Select <col=ff891f>Swords and emblem (b);Valitse <col=ff891f>Miekat ja tunnus (b)
+Select <col=ff891f>Grid master tabard (b);Valitse <col=ff891f>Grid-päälehti (b)
+He/him;Hän/hän
+Comprar;Vertaa
+Charter-to Musa Point;Charter - Musa Point
+Leave <col=ff8040>Shades of Mort'ton</col> channel;Poistu <col=ff8040>Shades of Mort'ton</col> -kanavasta
+Pick-spine;Pick-selkäranka
+Jump-Across;Jump-Across
+Quick-board;Pikalauta
+Challenge-mode;Haaste-tila
+Change icon (mission's);Vaihda kuvake (tehtävän)
+Make <col=ff9040>Ruby bracelet</col>;Tee <col=ff9040>Ruby-rannekoru</col>
+More Info;Lisätietoja
+Look-up;Katso ylös
+Load last duel's settings;Lataa viimeisen kaksintaistelun asetukset
+Load preset settings;Lataa esiasetetut asetukset
+Save settings;Tallenna asetukset
+"Whip" settings;"Whip"-asetukset
+"Boxing" settings;"Nyrkkeily"-asetukset
+CKS;CKS
+AJP;AJP
+DKP;DKP
+Select <col=ff9040>Wizard blizzard;Valitse <col=ff9040>Wizard Blizzard
+Pay (east);Maksa (itä)
+Pay (west);Maksa (länsi)
+Remove-Bone;Poista-Bone
+Remove-Pot;Poista-Pot
+Group name;Ryhmän nimi
+Create Group;Luo ryhmä
+Teleport to <col=ff8040>Fishing Trawler</col>;Teleportoi <col=ff8040>kalastustroolariin</col>
+Join <col=ff8040>Fishing Trawler</col> channel;Liity <col=ff8040>Fishing Trawler</col> -kanavalle
+Screenshot;Kuvakaappaus
++15%;+15 %
+Attempt Translation;Yritä kääntää
++40%;+40 %
+-40%;-40 %
+Abort;Keskeyttää
+Steer left;Ohjaa vasemmalle
+Steer right;Ohjaa oikealle
+Increase throttle;Lisää kaasua
+Decrease throttle;Vähennä kaasua
+-15%;-15 %
+DIR;OHJ
+BLP;BLP
+Travel to<col=ff9040> Wilderness Pond;Matkusta<col=ff9040> ​​erämaalampi
+Restore;Palauttaa
+Swap-options;Vaihtovaihtoehdot
+Set Hotkey (Q);Aseta pikanäppäin (Q)
+Set Hotkey (P);Aseta pikanäppäin (P)
+Cyrisus;Cyrisus
+Captain Ginea;Kapteeni Ginea
+Krystilia;Krystilia
+Steve;Steve
+Konar;Konar
+Kuradal;Kuradal
+Barbarian Guard;Barbaarivartija
+Lanthus;Lanthus
+Add to;Lisää
+Remover espaços reservados;Remover espaços reservados
+Contagem de cheques;Contagem de checks
+Escolha;Escolha
+Elenco;Elenco
+Caminhe aqui;Caminhe aqui
+Alternar aviso;Vaihtoehtoinen aviso
+Descer;Descer
+Teletransporte do Mosteiro;Teletransporte do Mosteiro
+Mercado Geral;Mercado Geral
+Ativar;Ativar
+Ver todos os itens;Ver todos os itens
+Procurar;Procurar
+Viagem rápida;Viagem rápida
+Retirar-5;Eläkkeellä-5
+Viagem;Viagem
+Retirar-X;Retirar-X
+Depósito-10;Depósito-10
+Guia Exibir;Guia Exibir
+Fale com;Fale com
+Retirar-10;Eläkkeellä-10
+Depósito-1;Depósito-1
+Retirar tudo menos 1;Eläkkeellä oleva tudo menos 1
+Fora;Fora
+Configurar;Määritä
+Inspecionar;Inspectionar
+Troca;Troca
+Retirar tudo;Eläkkeellä oleva tudo
+Escalar;Escalar
+Retirar-1;Eläkkeellä-1
+Depósito-5;Depósito-5
+Ancinho;Ancinho
+Embarcar;Embarcar
+Soltar;Soltar
+Cozinhar;Cozinhar
+Esfregar;Esfregar
+Acariciar;Acariciar
+Guia;Guia
+Comuna;Comuna
+Visualizar;Visualizar
+Sementes;Sementes
+Reiniciar;Reiniciar
+Vazio;Vazio
+Meu;Meu
+Verificar;Varmistettu
+Tendência;Tendência
+Descansar;Descansar
+Crânio;Crânio
+Cruzar;Cruzar
+Nova guia;Nova guia
+Guilda de Pesca;Guilda de Pesca
+Rede pequena;Rede pequena
+Alternar avisos;Vaihtoehtoiset avisos
+Isca;Isca
+Bebida;Bebida
+Reivindique troféus;Reivindique troféus
+Ler;Ler
+Quadro;Quadro
+Roubar;Roubar
+Balsa;Balsa
+Cheirava;Cheirava
+Agarrar;Agarrar
+Tocar;Tocar
+Unid;Unid
+Change filter;Vaihda suodatin
+Membro inscrito;Membro inscrito
+List your clan;Listaa klaanisi
+Entrar como convidado;Entrar como convidado
+Invite applications;Kutsu hakemuksia
+Guest minimum QP;Vieraiden vähimmäismäärä
+Guest Iron status;Vierasraudan tila
+Icons;Kuvakkeet
+Kick from chat;Potku chatista
+Guests may listen in chat;Vieraat voivat kuunnella chatissa
+Cofre;Kahvi
+Decantar;Decantar
+Guest minimum skill total;Vieraiden vähimmäistaito yhteensä
+Alternar;Vaihtoehtoinen
+Piso superior;Piso ylivoimainen
+Verifique as cobranças;Vahvista kuten cobranças
+Teleporte;Teleportoi
+Verificação de integridade;Verificação de integridade
+Piso inferior;Piso huonompi
+Luz;Luz
+Doca;Doca
+Pegue ferramentas;Pegue ferramentas
+Pegue-rede;Pegue-rede
+Líquido;Liquido
+Adicionar;Adicionar
+Deposit All;Talleta kaikki
+Estudar;Estudar
+Assassino;Assassino
+Desativar;Desativar
+Rodar;Rodar
+Afaste-se;Afaste-se
+Atrair;Atrair
+Batida;Batida
+Claro;Claro
+Barra;Barra
+Remover um;Poistoaine um
+Itens de coleção;Itens de coleção
+Preencher;Preencher
+Pautas de reivindicação;Pautas de reivindicação
+Armadura;Armadura
+Escavação;Escavação
+Pagar;Pagar
+Olhe para dentro;Olhe para dentro
+Suba;Suba
+Machado de loja;Machado de loja
+Desmontar;Desmontar
+Alegar;Alegar
+Venda 5<col=ff9040>;Venda 5<col=ff9040>
+Idade;Idade
+Venda 10<col=ff9040>;Venda 10<col=ff9040>
+Venda 50<col=ff9040>;Venda 50<col=ff9040>
+Reparar;Reparar
+Chupar;Chupar
+Glider-to Lemanto Andra;Purjelentokone Lemanto Andralle
+Rastreamento;Rastreamento
+Características;Characterísticas
+Miscelânea;Sekalaista
+Enclave Ferox;Enklaavi Ferox
+Tome-5;Tome-5
+Encher balde;Encher kalju
+Pegue-X;Pegue-X
+Subida rápida;Subida rápida
+Início individual;Início yksilö
+Verifique munição;Verifique munição
+Amarração;Amarração
+Arpão;Arpão
+Desafio;Desafio
+Perder;Perder
+Juntar;Juntar
+Apagar;Apagar
+Sort-salvamento;Lajittele-salvamento
+Corte;Corte
+Leve qualquer carga;Leve qualquer carga
+Levar carga;Levar rahti
+Leve a última carga;Jätä viimeinen rahti
+Show key;Näytä avain
+Instruções;Instruções
+Cooked or raw fish?;Keitetty vai raaka kala?
+Check-Approval;Tarkista-hyväksyntä
+Passe de compra;Passe de compra
+Passagem;Passagem
+Olhe para;Olhe para
+Revigorar;Revigorar
+Registro;Registro
+Enterrar;Enterrar
+Parceiro;Parceiro
+Limpar;Limpar
+Desmantelar;Desmantelar
+Contagem de Mortes;Contagem de Mortes
+Contagem do Canyon (leste);Contagem do Canyon (leste)
+Contagem do Canyon (oeste);Contagem do Canyon (oeste)
+Ore;Malmi
+Converter;Muunnin
+Quebrar;Quebrar
+Informações;Informações
+Desbloquear;Desbloquear
+Atribuição;Atribuição
+Espremer;Espremer
+Saltar para cima;Saltar para cima
+Pular sobre;Selkeästi
+Escolher;Escolher
+Dispersão;Dispersão
+Mergulho;Mergulho
+Mudar;Mudar
+Gráfico;Graphico
+Roubar de;Roubar de
+Porto Piscarilius;Porto Piscarilius
+Fazer;Fazer
+Release all placeholders (39);Vapauta kaikki paikkamerkit (39)
+Investigar;Investigar
+Planador;Planador
+Junte-se às Guerras do Castelo;Junte-se às Guerras do Castelo
+Estatísticas;Estatísticas
+Remexer;Remexer
+Release all placeholders (30);Vapauta kaikki paikkamerkit (30)
+Loja;Loja
+Operar;Operaattori
+Redecorar;Redecorar
+Realocar;Realocar
+Lutar em particular;Lutar em erityisesti
+Invocar;Invocar
+Divino;Divino
+Não;Ei
+Compra-1;Verta-1
+Compra-5;Verta-5
+Jarro de enchimento;Jarro de enchimento
+Vidência;Vidência
+Fuga rápida;Fuga rápida
+Leite;Leite
+Descarregar;Decarregar
+Machado;Machado
+Roubar sino;Kiinan roubar
+Taxa de cheque;Taxa de shekki
+Fogo;Fogo
+Carregar X;Carregar X
+Espiar;Espiar
+Agitação;Agitação
+Haste de uso;Haste de uso
+Nadar;Nadar
+Nade para;Nade para
+Bater;Bater
+Mergulhe;Mergulhe
+Entrem;Entrem
+Gazua;Gazua
+Remover carvão;Poistoaine carvão
+Change icon (coletas);Vaihda kuvake (coletas)
+Ressaca;Ressaca
+Passar;Passar
+Pular;Pular
+Localizar;Localizar
+Verifique as etapas;Vahvista vaiheena
+Sentir;Sentir
+Descida;Descida
+Reforma;Reforma
+Cliente em potencial;Asiakaspotentiaalia
+Pule para;Pule para
+Cisalhamento;Cisalhamento
+Watchtower;Vartiotorni
+Laço;Laço
+Esmagar;Esmagar
+Reivindicações de registro de recompensas;Reivindicações de registro de recompensas
+Obter registro;Obter rekisteri
+Retirada;Retirada
+Quadro Rápido;Quadro Rápido
+Pule Através;Pule Através
+Plantar;Plantar
+Pegue o tesouro;Pegue tai tesouro
+Atravessar;Atravessar
+Iban Blast;Iban Blast
+Escavar;Escavar
+Corte de cabelo;Corte de cabelo
+Depilar;Depilar
+Portagem(2-Ecto);Portagem (2-ekto)
+Pagar (noroeste);Pagar (noroeste)
+Pagar (sudeste);Pagar (sudeste)
+Ir para;Ir para
+Mover;Liikkuja
+Comprar comida;Vertaa comida
+Comprar itens;Vertaa itensiä
+Retirar-10000;Eläkkeellä - 10 000
+Tokens de reivindicação;Tokens de reivindicação
+Animar;Animar
+Alternar-ressurgimento;Alternar-ressurgimento
+Empurrar;Empurrar
+Adicionar descobertas;Adicionar descobertas
+Rachadura;Rachadura
+Coletar dados;Coletar Dados
+Kick user;Kick käyttäjä
+Chip;Siru
+Marca;Marca
+Trancar;Trancar
+Peças de casco artesanal;Peças de casco artesanaal
+Comprar barco;Vertaa barcoa
+Barco personalizado;Barco personoitu
+Barco de recuperação;Barco de recuperação
+Arte;Arte
+Kits de reparo de artesanato;Kits de reparo de artesanato
+Porto Sarim;Porto Sarim
+Carta;Carta
+Verifique as pontuações;Vahvista kuten pontuações
+Livro de feitiços;Livro de feitiços
+Venerar;Venerar
+Cancelar tarefa;Peruuta tarefa
+Reivindicar recompensas;Reivindicar recompensas
+Relembrar;Relembrar
+Pegue a faca;Pegue a faca
+Caixa de pólvora;Caixa de pólvora
+Observar;Observar
+Lutar;Lutar
+Comprar amuleto;Vertaa amulettia
+Corantes;Corantes
+Puxar;Puxar
+Prédio sem elevador;Prédio sem elevador
+Compre tudo;Compre tudo
+Conversar;Keskustelija
+Cura;Cura
+Ver estatísticas;Ver estatísticas
+Amigo do conselho;Amigo do conselho
+Quadro anterior;Quadro anterior
+Grande pesquisa;Grande pesquisa
+Capa de reivindicação;Capa de reivindicação
+Dificuldade de conjunto;Diculdade de conjunto
+Privado;Privado
+Aberto para tudo;Aberto para tudo
+Pagar (canteiro de árvore);Pagar (canteiro de árvore)
+Combustível;Combustível
+Picareta;Picareta
+Último destino;Último destino
+Fill-in;Täytä
+Consult;Ota yhteyttä
+Passo a passo;Passo a passo
+Saltar;Saltar
+Reduzir;Reduzir
+Grande rede;Grande rede
+Armadilha;Armadilha
+Track-current;Seuraa virtaa
+Efeitos visuais;Efeitos visuais
+Coletar de;Coletar de
+Fazer um café;Fazer um kahvila
+Verifique os totais;Verifique os totais
+Jaula;Jaula
+Salto;Salto
+Equilíbrio;Equilíbrio
+Obstáculo;Obstaculo
+Dig-below;Kaivaa alla
+Alternar K/D;Vaihtoehtoinen K/D
+Descartar;Descartar
+Nenhum;Nenhum
+Toggle-vials;Toggle-injektiopullot
+Search-for-traps;Etsi ansoja
+-20%;-20 %
+Conjure;Loihtia
++20%;+20 %
+Set as Client;Aseta asiakkaaksi
+Remove-rat;Poista-rotta
+Quick-falcon;Pikahaukka
+Check/Uncharge;Tarkista/Poista lataus
+Set Hotkey (R);Aseta pikanäppäin (R)
+Set Hotkey (S);Aseta pikanäppäin (S)
+Playback;Toisto
+Contact;Ota yhteyttä
+Scan;Skannata
+Castori;Castori
+Prьfen;Prьfen
+Fдllen;Fдllen
+Dissolver;Liuotin
+Remove friend Fayyasha;Poista ystävä Fayyasha
+Remove friend Paladin Doop;Poista ystävä Paladin Doop
+Remove friend OSRSrockstar;Poista ystävä OSRSrockstar
+Change icon (clue);Vaihda kuvake (vihje)
+Implantar;Implantaari
+Aparar;Aparar
+Desembarcar;Desembarcar
+Modificar;Modificar
+Navegar;Navegar
+Escapar;Escapar
+Retirar;Eläkkeellä oleva
+Depósito-carga;Depósito-carga
+Select <col=ff9040>Ectoplasmator</col>;Valitse <col=ff9040>Ectoplasmator</col>
+Select <col=ff9040>10 Tokens/Blighted entangle sack</col>;Valitse <col=ff9040>10 Tokens/Blighted Enangle Sack</col>
+Select <col=ff9040>Blighted entangle sack</col>;Valitse <col=ff9040>Blighted takertuva pussi</col>
+Sacrifice-fragments;Uhri-fragmentit
+Select <col=ff9040>Blighted teleport spell sack</col>;Valitse <col=ff9040>Blighted teleport spell sack</col>
+Select <col=ff9040>30 Tokens/Spoils of war</col>;Valitse <col=ff9040>30 Tokens/Spoils of War</col>
+Select <col=ff9040>Blighted ancient ice sack</col>;Valitse <col=ff9040>Blighted antiikin jääsäkki</col>
+Select <col=ff9040>2500 Tokens/Soul cape</col>;Valitse <col=ff9040>2500 Tokens/Soul cape</col>
+Select <col=ff9040>Spoils of war</col>;Valitse <col=ff9040>Sodasaalis</col>
+Código de resgate;Código de resgate
+Itens de férias;Itens de férias
+Switch <col=ff8040>334</col>;Vaihda <col=ff8040>334</col>
+Torre de Vigia;Torre de Vigia
+Vez;Vez
+View journal <col=ff981f>Gertrude's Cat</col>;Näytä päiväkirja <col=ff981f>Gertruden kissa</col>
+Gatinho;Gatinho
+Prancha de compra;Prancha de compra
+Release all placeholders (16);Vapauta kaikki paikkamerkit (16)
+AKR;AKR
+Switch <col=ff8040>370</col>;Vaihda <col=ff8040>370</col>
+Leave <col=ff8040>Fishing Trawler</col> channel;Poistu <col=ff8040>Kalastustroolari</col>-kanavasta
+Sacrifício;Sacrifício
+O Pandemônio;Oi Pandemônio
+Pegue-barco;Pegue-barco
+Ponto Musa;Ponto Musa
+Dê-Espada;Dê-Espada
+Campainha;Campainha
+Hackear;Hackear
+Casa de amigo;Casa de amigo
+Munição;Munição
+Modo de construção;Modo de construção
+Anel;Anel
+Última visita;Última visita
+Sonhar;Sonhar
+Adicionar casa;Adicionar casa
+Página inicial;Sivun aloitus
+Check Totals;Tarkista summat
+Martelo;Martelo
+View Log;Näytä loki
+Completo;Completo
+Clues Collections;Vihjeitä kokoelmat
+View Tasks Dashboard;Näytä Tehtävien hallintapaneeli
+Visit;Vierailla
+Climb-off;Nousu pois
+RuneProfile;RuneProfile
+Alimentar;Alimentar
+Ajuda;Ajuda
+Misturas Take-5;Misturas Take-5
+Mistura para tomar;Mistura para tomar
+Take-10 misturas;Ota 10 misturaa
+Reset time;Nollaa aika
+Minerar;Minerar
+Resumo do Personagem;Resumo do Personagem
+Abrir Ajudante de Atividades;Abrir Ajudante de Atividades
+Lista de Quests;Lista de Quests
+Alterar Corrida;Alterar Corrida
+Magias;Magias
+Para o Norte;Para o Norte
+Colosseum;Colosseum
+Duel Arena;Duel Arena
+Negociar;Negociar
+Entrar;Entrar
+Rastelar;Rastelar
+Abrir Loja;Abrir Loja
+Vasculhar;Vasculhar
+Escolher Feitiço;Escolher Feitiço
+Equipamentos;Varusteet
+Retirar-Tudo;Retirar-Tudo
+Depositar-Tudo;Tallettaja-Tudo
+Depositar-X;Tallettaja-X
+Depositar-10;Tallettaja-10
+Depositar-5;Tallettaja-5
+Depositar-1;Tallettaja-1
+Gerenciar Conta;Gerenciar Conta
+Viajar;Viajar
+Itens Equipados;Itens Equipados
+Músicas;Musiikkia
+Quantidade padrão: Todos;Quantidade padrão: Todos
+Esconder Menu;Esconder-valikko
+Quantidade padrão: 5;Määrä: 5
+Quantidade padrão: 10;Määrä: 10
+Mostrar Menu;Mostrar-valikko
+Expandir;Expandir
+Mostrar tutorial;Mostrar opetusohjelma
+Depositar Invetário;Tallettaja Invetário
+Ver tag;Ver tag
+Esvaziar itens;Esvaziar itens
+Esvaziar;Esvaziar
+Beber de;Beber de
+Charte para Porto Khazard;Porto Khazardin kartta
+Seu Clã;Seu Clã
+Grupo;Grupo
+Veja outro Clã;Veja outro Clã
+Ofertar;Offertar
+Customizar;Mukauta
+Digite a Quantidade;Numeroi kvantidi
+Quantidade padrão: 1;Määrä: 1
+Voltar;Voltar
+Preço médio;Preço médio
+Ver itens mantidos na morte;Ver itens mantidos na morte
+Depositar itens Equipados;Depositar itens Equipados
+Chamar Seguidor;Chamar Seguidor
+Pregar;Pregar
+Ver guia de preços;Ver guia de preços
+Histórico;Histórico
+Saltar para baixo;Saltar para baixo
+Configurações de bloqueio de depósito;Configurações de bloqueio de depósito
+Bater na Porta;Bater na Porta
+Florescer;Florescer
+Elenco Flor;Elenco Flor
+Aldeia dos Videntes;Aldeia dos Videntes
+Camelo;Camelo
+Esconder Itens Equipados;Esconder Itens Equipados
+Fechar Ajudante de Atividades;Fechar Ajudante de Atividades
+Colocar dentro;Colocar dentro
+Favorite;Suosikki
+Show more;Näytä lisää
+Arrombar;Arrombar
+Mudar de Nome;Mudar de Nome
+Retirar-1000;Eläkkeellä - 1000
+Orar;Orar
+Oferta;Offerta
+Change icon (runas);Vaihda kuvake (runas)
+Change icon (teleport);Vaihda kuvake (teleportti)
+Change icon (seed);Vaihda kuvake (siemen)
+Mos Le'Harmless;Mos Le'Harmless
+Charter-to Mos Le'Harmless;Peruskirja Mos Le'Harmlessiin
+Charter-to Port Tyras;Tilauslento Port Tyrasiin
+Port Tyras;Port Tyras
+Transport;Kuljetus
+Sew;Ommella
+Toggle-warning;Toggle-varoitus
+Task;Tehtävä
+Set Hotkey (Not set);Aseta pikanäppäin (ei asetettu)
+Float;Kellua
+Tosquiar;Tosquiar
+Fornalha;Fornalha
+Change icon (rocks);Vaihda kuvake (kivet)
+Verifique elogios;Verifique elogios
+Use Suggested Settings;Käytä ehdotettuja asetuksia
+Castle Drakan;Drakanin linna
+Ponder;Mieti
+Mine-through;Kaivoksen läpi
+Pray-to;Rukoile
+Acknowledge;Tunnusta
+Pull-lever;Vetovipu
+Take it;Ota se
+View <col=ff9040>Castle Map</col>;Näytä <col=ff9040>Linnakartta</col>
+Place-item;Paikkakohde
+Rotate Anticlockwise;Kierrä vastapäivään
+Rotate Clockwise;Kierrä myötäpäivään
+Remove-emblem;Poista-tunnus
+Leave it;Jätä se
+Drag;Vetää
+Take them;Ota ne
+Discard-1;Hylkää-1
+Discard-5;Hylkää-5
+Discard-10;Hävitä - 10
+Discard-50;Hävitä - 50
+Take-supplies;Take-tarvikkeita
+Harvest-from;Sato-alkaen
+Wrangle;Riita
+BLS;BLS
+Interface;Käyttöliittymä
+Rede;Rede
+Trocar de mundo;Trocar de mundo
+Reivindicar;Reivindicar
+Take-Vial;Take-Vial
+Take-Meat;Take-Meat
+Enviar Mensagem;Enviar Mensagem
+Modificar Oferta;Modificar Offerta
+Classificação;Classificação
+Espectador;Espectador
+Barbear;Parturi
+Desenterrar;Desenterrar
+Rezar;Rezar
+Girar no sentido horário;Girar no sentido horário
+Girar no sentido anti-horário;Girar no sentido anti-horário
+Admirar;Ihailija
+Sentado;Sentado
+Shoot-at;Ammu
+Reverter;Reverter
+Menu Teleporte;Valikko Teleporte
+Modo Desafio;Modo Desafio
+Metamorfose;Metamorfoosi
+Trabalhar em;Trabalhar em
+Atualizar;Atualizar
+Lithkren;Lithkren
+Remover decorações;Decorações-poistoaine
+-6%;-6 %
++6%;+6 %
+Show less;Näytä vähemmän
+Pull-back;Vetäytyminen
+Give-feathers;Anna höyhenet
+Trade-teeth;Kauppa-hampaita
+Crystalise-potion;Kiteytysjuoma
+Configuração;Configuração
+Procure por armadilhas;Hanki armadilhas
+Extinguir;Extinguir
+Ofertar<col=ff9040>;Ofertar<col=ff9040>
+Change icon (boses);Vaihda kuvake (boses)
+Sync (Right-click Search);Synkronoi (haku hiiren kakkospainikkeella)
+Release all placeholders (69);Vapauta kaikki paikkamerkit (69)
+Select <col=ff9040>Blighted vengeance sack</col>;Valitse <col=ff9040>Blighted Vengeance Sack</col>
+Select <col=ff9040>Soul cape</col>;Valitse <col=ff9040>Soul cape</col>
+Select <col=ff9040>Blighted karambwan</col>;Valitse <col=ff9040>Blighted karambwan</col>
+Select <col=ff9040>Blighted manta ray</col>;Valitse <col=ff9040>Blighted manta ray</col>
+Padrão;Padrão
+Wipe;Pyyhi
+Seek;Etsi
+Sign up;Rekisteröidy
+Max/Med;Max/Med
+Join fight;Liity taisteluun
+Zerker;Zerker
+Toggle set effect;Aseta tehoste päälle/pois
+<col=ff0000>Delete tag tab;<col=ff0000>Poista tunniste-välilehti
+CIP;CIP
+Take pages;Ota sivuja
+Store-2,000;Kauppa - 2000
+Bryophyta;Bryophyta
+Obor;Obor
+Branda and Eldric;Branda ja Eldric
+Change icon (royal titans);Vaihda kuvake (kuninkaalliset titaanit)
+Dentro;Dentro
+Carregar;Carregar
+Release all placeholders (42);Vapauta kaikki paikkamerkit (42)
+Release all placeholders (36);Vapauta kaikki paikkamerkit (36)
+Bank-All;Pankki-kaikki
+Destroy-All;Tuhoa kaikki
+Destroy-X;Tuhoa-X
+Bank-X;Pankki-X
+Withdraw all to;Poista kaikki
+Select <col=ff981f>Plugins;Valitse <col=ff981f>Lisäosat
+Last-destination (AKP);Viimeinen määränpää (AKP)
+Release all placeholders (32);Vapauta kaikki paikkamerkit (32)
+Release all placeholders (35);Vapauta kaikki paikkamerkit (35)
+Cross-to;Cross-to
+Tier 1 Cape;Tason 1 viitta
+Tier 2 Cape;Taso 2 Cape
+Rune Pouch Note;Rune Pouch Note
+Magic Shortbow Scroll;Magic Shortbow Scroll
+Ancient Halo;Muinainen halo
+Blighted Manta Ray;Vauras Manta Ray
+Ghorrock Teleport Tablet;Ghorrock Teleport Tabletti
+Crystal Weapon Seed;Crystal Weapon Seed
+Dark Bow Blue Paint;Tumma jousensininen maali
+Lava Staff Upgrade Kit;Lava Staff -päivityssarja
+Bandos Halo;Bandos Halo
+Ornate Maul Handle;Koristeellinen Maul-kahva
+Blighted Teleport Spell Sack;Blighted Teleport Spell Sack
+Saradomin's Tear;Saradominin kyynel
+Carrallanger Teleport Tablet;Carrallanger Teleport Tabletti
+Blighted Ancient Ice Sack;Blighted Ancient Ice Sack
+Looting Bag Note;Ryöstölaukku Huomautus
+Bolt Rack;Pulttiteline
+Tier 5 Cape;Taso 5 Cape
+Tier 4 Cape;Taso 4 Cape
+Blighted Super Restore (4);Blighted Super Restore (4)
+Ward Upgrade Kit;Ward Upgrade Kit
+Guthixian Icon;Guthixian ikoni
+Senntisten Teleport Tablet;Sennisten Teleport Tabletti
+Dark Bow Yellow Paint;Tummanrusetin keltainen maali
+Tier 6 Cape;Taso 6 Cape
+Lassar Teleport Tablet;Lassar Teleport Tabletti
+Golden Bandos Special;Golden Bandos Special
+Frozen Whip Mix;Jäädytetty Whip Mix
+Vesta's longsword (inactive);Vestan pitkä miekka (ei aktiivinen)
+Dragonstone Bolt (e);Dragonstone Bolt (e)
+Tier 3 Cape;Taso 3 Cape
+Wilderness tablet;Erämaa tabletti
+Ice Blitz;Ice Blitz
+Blighted Entangle Sack;Blighted Entangle Sack
+Deadman's Legs;Deadmanin jalat
+Looting Bag;Ryöstölaukku
+Climbing Boots;Kiipeilysaappaat
+<trans=127>Start cloud sync;<trans=127>Aloita pilvisynkronointi
+Set default;Aseta oletus
+Rename;Nimeä uudelleen
+Export;Viedä
+<col=ff0000>Delete;<col=ff0000>Poista
+Duplicate;Kopioi
+Shadow Burst;Shadow Burst
+Blood Burst;Blood Burst
+Ice Burst;Jääpurkaus
+Shadow Rush;Shadow Rush
+Trouver Parchment;Trouver pergamentti
+Swift Blade;Swift Blade
+Blighted Vengeance Sacks;Blighted Vengeance Sacks
+Rune Arrow;Rune Arrow
+Release all placeholders (23);Vapauta kaikki paikkamerkit (23)
+Deadman's Chest;Deadmanin arkku
+Adamant Arrow;Adamant Arrow
+Dragon Pickaxe Upgrade Kit;Dragon Pickaxe -päivityssarja
+Last-destination (DJQ);Viimeinen määränpää (DJQ)
+Last-destination (AJS);Viimeinen määränpää (AJS)
+Last-destination (AIR);Viimeinen määränpää (AIR)
+Pick-pocket;Taskuvaras
+Heart;Sydän
+Change icon (pets);Vaihda kuvake (lemmikkieläimet)
+Brincar com;Brincar com
+Reset-time;Nollausaika
+Create-book;Luo kirja
+Continue-trek;Jatka vaellusta
+Evade-event;Kiertää tapahtuma
+Return-to-Paterdomus;Paluu Paterdomukseen
+Swing-from;Swing-alkaen
+Return-to-Burgh;Paluu Burghiin
+Poison Waste;Myrkkyjäte
+Definir destino;Määrittele kohde
+Teleporte para o destino;Teleporte para o destino
+Copy Load-out;Kopioi Load-out
++5;+5
+View journal <col=ff981f>Temple of the Eye</col>;Näytä päiväkirja <col=ff981f>Silmän temppeli</col>
+View journal <col=ff981f>Witch's Potion</col>;Näytä päiväkirja <col=ff981f>Witch's Potion</col>
+View journal <col=ff981f>Fishing Contest</col>;Näytä päiväkirja <col=ff981f>Kalastuskilpailu</col>
+Pacote;Pacote
+Ver Lista de Amigos;Ver Lista de Amigos
+Descompacte;Purkaa
+Ver Lista de Ignorados;Ver Lista de Ignorados
+Coletar-Item;Coletar-tuote
+Coletar-Nota;Coletar-Nota
+Trocar capa de fogo;Trocar capa de fogo
+Release all placeholders (48);Vapauta kaikki paikkamerkit (48)
+Armadyl Halo;Armadyl Halo
+Select <col=ff9040>10 Tokens/Blighted teleport spell sack</col>;Valitse <col=ff9040>10 merkkiä/Blighted teleport-loitsusäkki</col>
+Select <col=ff9040>10 Tokens/Blighted anglerfish</col>;Valitse <col=ff9040>10 Tokens/Blighted merikrotti</col>
+Select <col=ff9040>10 Tokens/Blighted vengeance sack</col>;Valitse <col=ff9040>10 Tokens/Blighted Vengeance Sack</col>
+Select <col=ff9040>10 Tokens/Blighted ancient ice sack</col>;Valitse <col=ff9040>10 Tokens/Blighted vanha jääsäkki</col>
+Select <col=ff9040>10 Tokens/Blighted manta ray</col>;Valitse <col=ff9040>10 Tokens/Blighted manta ray</col>
+Select <col=ff9040>10 Tokens/Blighted karambwan</col>;Valitse <col=ff9040>10 Tokens/Blighted karambwan</col>
+Select <col=ff9040>250 Tokens/Ectoplasmator</col>;Valitse <col=ff9040>250 Tokens/Ectoplasmator</col>
+Toggle Respawn;Vaihda Respawn
+Toggle Effect;Vaihda tehoste
+Tie-rope;Kiinnitysköysi
+Rune Pouch;Rune pussi
+Golden Armadyl Special;Golden Armadyl Special
+Deadman's Cape;Deadmanin niemi
+Decorative Emblem;Koristeellinen tunnus
+Brassica Halo;Brassica Halo
+Seren Halo;Seren Halo
+Adicionar Todos;Lisätiedot Todos
+Adicionar<col=ff9040>;Lisävaruste<col=ff9040>
+Surrender;Antaudu
+Red Rock;Punainen kivi
+Teleport to <col=ff8040>TzHaar Fight Pit</col>;Teleportoi <col=ff8040>TzHaar Fight Pitiin</col>
+Join <col=ff8040>TzHaar Fight Pit</col> channel;Liity <col=ff8040>TzHaar Fight Pit</col> -kanavalle
+Switch <col=ff8040>362</col>;Vaihda <col=ff8040>362</col>
+Botﾃｭn;Botﾃｭn
+Take-eggs;Ota munia
+Open-stomach;Avoin vatsa
+Short fuse;Lyhyt sulake
+Medium fuse;Keskikokoinen sulake
+Long fuse;Pitkä sulake
+Ancient Vault;Muinainen holvi
+Explosive egg;Räjähtävä muna
+Tell-red;Kerro-punainen
+Take-Arrows;Take-Arrows
+Medic;Lääkintämies
+Attacker;Hyökkääjä
+Tell-green;Kerro vihreä
+Poison egg;Myrkkymuna
+Take-Runes;Take-Ruunit
+Defender;Puolustaja
+Tell-blue;Kerro-sininen
+Level-up;Taso ylöspäin
+Advanced;Edistynyt
+Stun egg;Tainnutus muna
+Omega egg;Omega muna
+Collector;Keräilijä
+Tell-accurate;Kerro tarkasti
+Tell-defensive;Puolustava
+Tell-aggressive;Kerro aggressiivinen
+Tell-controlled;Kerro-ohjattu
+Fill-X;Täytä-X
+Fill-All;Täytä-kaikki
+Eat-from;Syö-alkaen
+Healer;Parantaja
+Call;Soittaa
+Get-Spikes;Get-Spikes
+Dunk;Upottaa
+Tell-crackers;Kerro-keksejä
+Tell-tofu;Kerro tofu
+Tell-worms;Kerromadot
+Fill potions;Täytä juomia
+Custom quantity: 2,000;Mukautettu määrä: 2 000
+Watson;Watson
+Deposit potions;Talleta juomia
+Smoke Rush;Smoke Rush
+Target Teleport Scroll;Kohde Teleport Scroll
+Dark Bow Green Paint;Tumma jousenvihreä maali
+Dark Bow White Paint;Tumma rusetin valkoinen maali
+Release all placeholders (37);Vapauta kaikki paikkamerkit (37)
+Sangvesti;Sangvesti
+Release all placeholders (41);Vapauta kaikki paikkamerkit (41)
+Release all placeholders (22);Vapauta kaikki paikkamerkit (22)
+Release all placeholders (5);Vapauta kaikki paikkamerkit (5)
+Release all placeholders (3);Vapauta kaikki paikkamerkit (3)
+Release all placeholders (31);Vapauta kaikki paikkamerkit (31)
+DIQ;DIQ
+Charter-to Sunset Coast;Charterista Sunset Coastille
+Bottle-boat;Pullo-vene
+Tell-meat;Kerro lihaa
+Release all placeholders (11);Vapauta kaikki paikkamerkit (11)
+Release all placeholders (28);Vapauta kaikki paikkamerkit (28)
+Accept challenge;Hyväksy haaste
+1 Def Pure;1 Def Pure
+Select <col=ff9040>Blighted anglerfish</col>;Valitse <col=ff9040>Blighted merikrotti</col>
+Balance-across;Tasapaino
+9;9 
+Fill-1;Täyttö-1
+Fill-5;Täyttö-5
+View Magic on the Wiki;Katso Magic Wikissä
+Donate-X;Lahjoita-X
+Donate-10;Lahjoita - 10
+Donate-5;Lahjoita - 5
+Donate;Lahjoittaa
+Donate-All;Lahjoita - Kaikki
+Travel-Start;Matka-aloitus
+Travel-End;Matkan loppu
+Trade-Builders-Store;Trade-Builders-Store
+Trade-General-Store;Yleiskauppa
+Check rank;Tarkista sijoitus
+Check Rank;Tarkista sijoitus
+Set head slot to;Aseta pään aukko asentoon
+Set legs slot to;Aseta jalkojen aukko asentoon
+Set torso slot to;Aseta vartalon aukko asentoon
+Set amulet slot to;Aseta amulettipaikka asentoon
+Set boots slot to;Aseta saappaiden paikka asentoon
+Set hands slot to;Aseta käsien aukko asentoon
+Set cape slot to;Aseta viittapaikka asentoon
+Charter-to Aldarin;Peruskirja Aldarinille
+Release all placeholders (10);Vapauta kaikki paikkamerkit (10)
+Last-destination (CLP);Viimeinen kohde (CLP)
+Examine <col=ff981f>Infinity boots;Tutki <col=ff981f>Infinity-saappaat
+Select <col=ff981f>Infinity boots;Valitse <col=ff981f>Infinity-saappaat
+Take-cutting;Take-leikkaus
+Release-all;Vapauta kaikki
+Chant;Laulaa
+Pelt;Pelt
+Prepare-fish;Valmista-kala
+-10%;-10 %
++10%;+10 %
+Smash-ice;Murskaa jäätä
+Step-off;Astu pois
+Walk-to;Kävele
+Press;Paina
+Dismantle kit;Purkamissarja
+Get-down;Alas
+Stand-on;Stand-on
+Throw-at;Heitto-at
+Open (private);Avoin (yksityinen)
+Open (normal);Avoin (normaali)
+Travel to<col=ff9040> The Clocktower;Matkusta<col=ff9040> ​​Kellotorniin
+Travel to<col=ff9040> Tree Gnome Village;Matkusta<col=ff9040> ​​Tree Gnome Villageen
+Push-against;Työnnä vastaan
+Exit-through;Läpivienti
+Set shield slot to;Aseta suojuksen paikka asentoon
+Set weapon slot to;Aseta asepaikka asentoon
+Release all placeholders (53);Vapauta kaikki paikkamerkit (53)
+Travel to<col=ff9040> Tree Gnome Stronghold;Matkusta<col=ff9040> ​​Tree Gnome Strongholdiin
+Travel to<col=ff9040> Chaos Druid Tower;Matkusta<col=ff9040> ​​Chaos Druid Toweriin
+Make <col=ff9040>Sapphire bracelet</col>;Tee <col=ff9040>safiirirannekoru</col>
+Botín;Botín
+AKQ;AKQ
+CJQ;CJQ
+DKS;DKS
+Teleport to <col=ff8040>Last Man Standing</col>;Teleportoi <col=ff8040>Last Man Standingiin</col>
+Join <col=ff8040>Last Man Standing</col> channel;Liity <col=ff8040>Last Man Standing</col> -kanavalle
+Golden Zamorak Special;Golden Zamorak Special
+Volcanic Whip Mix;Volcanic Whip Mix
+LatamDark;LatamDark
+Expel;Karkottaa
+Resignation;Eroaminen
+Wipe title;Pyyhi otsikko
+Emote;Emote
+Sing;Laulaa
+Change icon (armaduras);Vaihda kuvake (armaduras)
+Select <col=ff981f>Dust rune;Valitse <col=ff981f>Pölyrune
+Examine <col=ff981f>Dust rune;Tutki <col=ff981f>Pölyriimu
+Select <col=ff981f>Chaos rune;Valitse <col=ff981f>Chaos Rune
+Examine <col=ff981f>Chaos rune;Tutki <col=ff981f>kaaosriimua
+Release all placeholders (8);Vapauta kaikki paikkamerkit (8)
+Join <col=ff8040>Mage Training Arena</col> channel;Liity <col=ff8040>Mage Training Arena</col> -kanavalle
+Teleport to <col=ff8040>Mage Training Arena</col>;Teleportoi <col=ff8040>Mage Training Arenalle</col>
+Wyrmscraig;Wyrmscraig
+Simple;Yksinkertainen
+<col=00afff>Resume autochat</col>;<col=00afff>Jatka automaattista keskustelua</col>
+<col=00afff>Pause autochat</col>;<col=00afff>Keskeytä automaattinen keskustelu</col>
+Look-through;Katse läpi
+PK broadcasts;PK lähetyksiä
+PK broadcast value;PK-lähetyksen arvo
+Player defeat broadcasts;Pelaajien tappiolähetykset
+Loot key broadcasts;Ryöstä avainlähetykset
+Combat Achievement task threshold;Combat Achievement -tehtävän kynnys
+Joining/Leaving clan;Klaaniin liittyminen/poistuminen
+Broadcasts from main world only;Lähetykset vain päämaailmasta
+Achievement diary broadcasts;Saavutuspäiväkirjan lähetykset
+Quest broadcasts;Quest-lähetykset
+Hardcore death broadcasts;Kovat kuolemanlähetykset
+Level-up broadcasts;Tasotason lähetykset
+Collection log broadcasts;Kokoelmalokilähetykset
+Level-up increments of 1;Tason nousu 1
+Level-up increments of 5;Tason nousu 5
+Loot key broadcast value;Luota avaimen lähetysarvo
+Level-up increments of 10;Tason nousu 10
+Personal best broadcasts;Henkilökohtaiset parhaat lähetykset
+Distract;Hajauttaa
+Burn-down;Poltettu
+View <col=ff9040>Gauntlet Map</col>;Näytä <col=ff9040>Gauntlet-kartta</col>
+Pedal;Polkea
+Échanger avec;Échanger avec
+Shape-Air;Muoto-ilma
+Shape-Water;Muoto-Vesi
+Shape-Fire;Muoto-Tulo
+Shape-Earth;Muoto-Maa
+Select Fragment 3;Valitse Fragmentti 3
+Rotate the Fragment;Pyöritä fragmenttia
+Select Fragment 2;Valitse Fragmentti 2
+Flip Fragment Over;Käännä fragmentti ympäri
+Move Fragment Left;Siirrä fragmenttia vasemmalle
+Select Fragment 1;Valitse Fragmentti 1
+Move Fragment Down;Siirrä fragmentti alas
+Move Fragment Right;Siirrä fragmenttia oikealle
+Shape-Mind;Muoto-mieli
+Move Fragment Up;Siirrä fragmentti ylös
+Charter-to Corsair Cove;Charter-matka Corsair Coveen
+Restore <col=ff9040>Minimap</col>;Palauta <col=ff9040>pienikartta</col>
+Last-destination (DIR);Viimeinen määränpää (DIR)
+Enter-cloud;Enter-pilvi
+Submit;Lähetä
+Examine <col=ff981f>Mist rune;Tutki <col=ff981f>Sumurune
+Select <col=ff981f>Mist rune;Valitse <col=ff981f>Sumurune
+Go-up;Nouse ylös
+Swim-to;Uimaan
+The Summer Shore;Kesä Ranta
+Quick-open;Pika-avattava
+View Slayer on the Wiki;Katso Slayer Wikissä
+Wyrmscraig Cavern;Wyrmscraig-luola
+Scorch;Paahtaa
+Flare;Leimahdus
+Ring-last-destination (BLP);Ring-last-destination (BLP)
+Zerstören;Zerstören
+Take-one;Ota yksi
+ÐžÑ‚Ð¼ÐµÐ½Ð°;ÐžÑ‚Ð¼ÐµÐ½Ð°
+Ð˜Ð´Ð¸ Ñ�ÑŽÐ´Ð°;Ð˜Ð´Ð¸ Ñ�ÑŽÐ´Ð°
+Release all placeholders (20);Vapauta kaikki paikkamerkit (20)
+Cross-bridge;Ristisilta
+Store-1,000;Kauppa - 1000
+Release all placeholders (7);Vapauta kaikki paikkamerkit (7)
+Remove <col=ff981f>Dragonstone bolts (e);Poista <col=ff981f>Dragonstone-pultit (e)
+Select-trial;Valitse-kokeilu
+Deliver-rum;Toimita rommi
+Minimise;Minimoida
+Exit trial;Poistu kokeilusta
+Quick-reset trial;Pikareset-kokeilu
+Reset trial;Nollaa kokeilu
+Release all placeholders (2);Vapauta kaikki paikkamerkit (2)
+Make <col=ff9040>Diamond amulet (u)</col>;Tee <col=ff9040>Timanttiamuletti (u)</col>
+Make <col=ff9040>Diamond ring</col>;Tee <col=ff9040>timanttisormus</col>
+Small net;Pieni verkko
+Make Party;Tee juhlat
+Friends/Clan Only;Vain ystävät/klaanit
+View Party:;Näytä juhlat:
+Flip;Kääntää
+Begin;Alkaa
+re:^Withdraw-([\d,]+)$;Nosta-$1
+re:^Deposit-([\d,]+)$;Talleta-$1
+re:^Withdraw ([\d,]+)$;Nosta $1
+re:^Deposit ([\d,]+)$;Talleta $1
+re:^Buy: ([\d,]+) x (.+)$;Osta: $1 x $2
+re:^Sell: ([\d,]+) x (.+)$;Myy: $1 x $2
+re:^Buy ([\d,]+)$;Osta $1
+re:^Sell ([\d,]+)$;Myy $1
+re:^Buy-([\d,]+)$;Osta-$1
+re:^Sell-([\d,]+)$;Myy-$1
+re:^Default quantity: ([\d,]+)$;Oletusmäärä: $1
+re:^Add friend (.+)$;Lisää ystävä $1
+re:^Add ignore (.+)$;Lisää ohitus $1
+re:^Remove-([\d,]+)$;Poista-$1
+re:^Take-([\d,]+)$;Ota-$1
+Enable-autotele;Ota käyttöön-autotele
+Challenges;Haasteet
+Information;Tiedot
+Reclaim-items;Palauta-items
+Align-net;Tasaa-net
+Create-last;Luo-last
+Remove-plank;Poista-plank
