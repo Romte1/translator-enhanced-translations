@@ -1,0 +1,37 @@
+name: Mark translated texts
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - translations/interface/**.txt
+      - translations/menu_entry_option/**.txt
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  mark:
+    runs-on: ubuntu-latest
+    strategy:
+      max-parallel: 1
+      fail-fast: false
+      matrix:
+        language: [spanish, french, german, italian, portuguese, dutch, finnish, swedish]
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Mark
+        env:
+          PENDING_URL: ${{ vars.PENDING_URL }}
+          PENDING_TOKEN: ${{ secrets.PENDING_TOKEN }}
+        run: |
+          for type in interface menu_entry_option; do
+            node scripts/mark-translated.mjs "${{ matrix.language }}" "$type"
+          done

@@ -1,0 +1,119 @@
+name: Translate pending texts
+
+on:
+  workflow_dispatch:
+    inputs:
+      language:
+        description: Translate only one language (empty = all)
+        required: false
+        default: ""
+      limit:
+        description: Max texts per language (default 40)
+        required: false
+        default: "40"
+  schedule:
+    - cron: "0 6 * * 1"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    strategy:
+      max-parallel: 1
+      fail-fast: false
+      matrix:
+        language: [spanish, french, german, italian, portuguese, dutch, finnish, swedish]
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Check API key
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+        run: |
+          if [ -z "$LLM_API_KEY" ]; then
+            echo "::error::Set the LLM_API_KEY repository secret"
+            exit 1
+          fi
+
+      - name: Translate
+        if: ${{ inputs.language == '' || inputs.language == matrix.language }}
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: ${{ vars.LLM_BASE_URL }}
+          LLM_MODEL: ${{ vars.LLM_MODEL }}
+          PENDING_URL: ${{ vars.PENDING_URL }}
+          PENDING_TOKEN: ${{ secrets.PENDING_TOKEN }}
+          SEED_FROM: spanish
+          LIMIT: ${{ inputs.limit || '40' }}
+          BATCH_SIZE: 20
+        run: node scripts/translate-worker.mjs "${{ matrix.language }}"
+
+      - name: Merge
+        if: ${{ inputs.language == '' || inputs.language == matrix.language }}
+        run: node scripts/merge-translations.mjs "${{ matrix.language }}"
+
+      - name: Translate menu options
+        if: ${{ inputs.language == '' || inputs.language == matrix.language }}
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: ${{ vars.LLM_BASE_URL }}
+          LLM_MODEL: ${{ vars.LLM_MODEL }}
+          PENDING_URL: ${{ vars.PENDING_URL }}
+          PENDING_TOKEN: ${{ secrets.PENDING_TOKEN }}
+          LIMIT: ${{ inputs.limit || '40' }}
+          BATCH_SIZE: 20
+        run: node scripts/translate-worker.mjs "${{ matrix.language }}" menu_entry_option
+
+      - name: Merge menu options
+        if: ${{ inputs.language == '' || inputs.language == matrix.language }}
+        run: node scripts/merge-translations.mjs "${{ matrix.language }}" menu_entry_option
+
+      - name: Update manifest
+        if: ${{ inputs.language == '' || inputs.language == matrix.language }}
+        env:
+          TRANSLATIONS_VERSION: ${{ github.run_id }}
+        run: node scripts/update-manifest.mjs
+
+      - name: Validate
+        if: ${{ inputs.language == '' || inputs.language == matrix.language }}
+        run: node scripts/validate-translations.mjs
+
+      - name: Open pull request
+        id: pr
+        continue-on-error: true
+        if: ${{ inputs.language == '' || inputs.language == matrix.language }}
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: Translate pending ${{ matrix.language }} texts
+          title: "Translations: ${{ matrix.language }}"
+          body: |
+            Machine first pass generated with `scripts/translate-worker.mjs` for
+            **${{ matrix.language }}** (journals and menu options).
+
+            The validator checks tags, numbers, placeholders, duplicates and the manifest,
+            but the wording still needs a review before merging.
+          branch: translations/${{ matrix.language }}
+          delete-branch: true
+
+      - name: Open pull request (retry)
+        if: ${{ steps.pr.outcome == 'failure' }}
+        uses: peter-evans/create-pull-request@v6
+        with:
+          commit-message: Translate pending ${{ matrix.language }} texts
+          title: "Translations: ${{ matrix.language }}"
+          body: |
+            Machine first pass generated with `scripts/translate-worker.mjs` for
+            **${{ matrix.language }}** (journals and menu options).
+
+            The validator checks tags, numbers, placeholders, duplicates and the manifest,
+            but the wording still needs a review before merging.
+          branch: translations/${{ matrix.language }}
+          delete-branch: true
