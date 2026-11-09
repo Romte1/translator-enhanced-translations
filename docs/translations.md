@@ -108,32 +108,32 @@ one rolling PR per language.
 
 Marking is **never** done by the worker. A pull request can be reviewed, delayed or closed,
 so removing texts from the queue before the dictionary has them would lose them. Instead
-`.github/workflows/mark-translated.yml` runs after a merge to master and marks every key that
+`.github/workflows/mark-translated.yml` runs after a merge to `main` and marks every key that
 is now in the dictionary. The server only accepts hashes that already exist in its queue.
 
 `.github/workflows/translate.yml` does the same on GitHub (manual or every Monday): fetch the
-queue, translate, merge, `./gradlew build`, open a rolling PR. CI validates duplicate keys,
-tags, numbers, placeholders and non-empty keys.
+queue, translate, merge, update `manifest.json`, validate and open a rolling PR. The
+validator checks duplicate keys, tags, numbers, placeholders, non-empty values and the
+manifest hashes.
 
 ## 5. Distribution: no release per translation
 
-The dictionary is bundled in the jar as a fallback, and the client also downloads it on
-start when `Journals -> Download translations` is on:
+The plugin downloads the dictionaries from this repository and caches the last valid copy.
+The interface dictionary also has a bundled fallback in the plugin; menu options are
+downloaded on first use:
 
 ```
-bundled ──► online dictionary ──► user overrides ──► aliases
-                │ fails: cached copy in ~/.runelite/translator/interface/
+interface: bundled ──► remote ──► cache ──► user overrides ──► aliases
+menu:                 remote ──► cache ──► user overrides ──► aliases
 ```
 
-The address is a constant in `TranslatorAPI`, maintained by the project, not a user setting.
-It points at the repository every client shares, not at a personal machine:
+The remote address and the manifest are constants in `TranslatorAPI`, maintained by the
+project, not a user setting. Every file is validated against the SHA-256 in `manifest.json`
+before it is parsed or written to the cache.
 
-* `interface/` and `menu_entry_option/` are curated here and downloaded from this repository;
+* `translations/interface/` and `translations/menu_entry_option/` are curated here;
 * `dialogue`, `npc`, `item` and `object` still come from `iolave/osrs-translations` until
   they are migrated too.
-
-A downloaded file with fewer entries than the bundled one is ignored, so a stale branch can
-never regress the plugin.
 
 ## 6. Local workflow (no server)
 
@@ -146,7 +146,8 @@ node scripts/merge-translations.mjs spanish
 # menu options
 node scripts/translate-worker.mjs spanish menu_entry_option
 node scripts/merge-translations.mjs spanish menu_entry_option
-./gradlew build
+node scripts/update-manifest.mjs
+node scripts/validate-translations.mjs
 ```
 
 `merge-captures.ps1` drops duplicates and everything that already has a translation, so the
