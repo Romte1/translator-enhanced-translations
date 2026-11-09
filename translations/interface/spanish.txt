@@ -1365,3 +1365,4 @@ You are awarded:;Has recibido:
 <col=000000>If I ever lose my Morytania legs I can speak to<br>Le-sabrè in;<col=000000>Si alguna vez pierdo mis Morytania legs puedo hablar con<br>Le-sabrè en
 <col=000000>outside Kourend Castle.;<col=000000>fuera de Kourend Castle.
 <col=000000>outside of Lumbridge Castle.;<col=000000>fuera de Lumbridge Castle.
+<str><col=ffffff>(<col=000080><str>22 Herblore</str>, <col=000080><str>Started In Aid of the Myreque</str><col=ffffff>);<str><col=ffffff>(<col=000080><str>22 Herblore</str>, <col=000080><str>In Aid of the Myreque iniciada</str><col=ffffff>)
