@@ -617,3 +617,21 @@ You are awarded:;Você recebeu:
 <str>potion.;<str>poção.
 <col=000000>If I ever lose my Varrock armour I can speak to<br>Toby in;<col=000000>Se eu perder minha Varrock armour, posso falar com<br>Toby em
 <col=000000>If I ever lose my Western banner I can speak to the Elder;<col=000000>Se eu perder meu Western banner, posso falar com o Elder
+<col=000000>Thorodin south of Rellekka.;<col=000000>Thorodin sul de Rellekka.
+<str>Use Lunar magic to make 20 mahogany planks at the;<str>Use Lunar magic para fazer 20 mahogany planks em
+<str>the Varrock church.<col=ffffff>(<col=000080><str>60 Woodcutting</str>, <col=000080><str>60 Firemaking</str><col=ffffff>);<str>a Varrock church.<col=ffffff>(<col=000080><str>60 Woodcutting</str>, <col=000080><str>60 Firemaking</str><col=ffffff>)
+<col=000000>'Wedge' outside Camelot castle.;<col=000000>'Wedge' fora do Camelot castle.
+<str>Construct a Pyre ship from Magic Logs.;<str>Construa um Pyre ship a partir de Magic Logs.
+<str>Have Aubury teleport you to the Essence mine.;<str>Peça a Aubury para teleportá-lo ao Essence mine.
+<str>Have Aubury teleport you to the Essence mine.<col=ffffff>(<col=000080><str>Rune Mysteries</str><col=ffffff>);<str>Peça a Aubury para teleportá-lo ao Essence mine.<col=ffffff>(<col=000080><str>Rune Mysteries</str><col=ffffff>)
+<str>Speak to Haig Halen after obtaining at least 50 Kudos.;<str>Fale com Haig Halen depois de obter pelo menos 50 Kudos.
+<str>Spin a bowl on the pottery wheel and fire it in the oven in;<str>Gire uma bowl na pottery wheel e queime-a no oven em
+<col=000000>If I ever lose my Desert amulet I can speak to Jarr at the;<col=000000>Se eu perder meu Desert amulet, posso falar com Jarr em
+<col=000000>If I ever lose my Explorer's ring I can speak to<br>Mikasi;<col=000000>Se eu perder meu Explorer's ring, posso falar com<br>Mikasi
+<col=000000>If I ever lose my Fremennik sea boots I can speak to;<col=000000>Se eu perder minhas Fremennik sea boots, posso falar com
+<col=000000>If I ever lose my Morytania legs I can speak to<br>Le-sabrè in;<col=000000>Se eu perder minhas Morytania legs, posso falar com<br>Le-sabrè em
+<col=000000>outside Kourend Castle.;<col=000000>fora do Kourend Castle.
+<col=000000>outside of Lumbridge Castle.;<col=000000>fora do Lumbridge Castle.
+<str><col=ffffff>(<col=800000>96 Fishing<col=000080>, <col=000080><str>76 Strength</str>, <col=000080><str>In Aid of the Myreque</str><col=ffffff>);<str><col=ffffff>(<col=800000>96 Pesca<col=000080>, <col=000080><str>76 Força</str>, <col=000080><str>Em Ajuda dos Myreque</str><col=ffffff>)
+<str>Craft 56 astral runes from Essence simultaneously from;<str>Crie 56 astral runes simultaneamente a partir de Essence
+<str>Obtain the Blast Furnace Foremans permission to use the;<str>Obtenha a Blast Furnace Foremans permission to use the
