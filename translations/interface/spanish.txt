@@ -1366,3 +1366,40 @@ You are awarded:;Has recibido:
 <col=000000>outside Kourend Castle.;<col=000000>fuera de Kourend Castle.
 <col=000000>outside of Lumbridge Castle.;<col=000000>fuera de Lumbridge Castle.
 <str><col=ffffff>(<col=000080><str>22 Herblore</str>, <col=000080><str>Started In Aid of the Myreque</str><col=ffffff>);<str><col=ffffff>(<col=000080><str>22 Herblore</str>, <col=000080><str>In Aid of the Myreque iniciada</str><col=ffffff>)
+<str><col=ffffff>(<col=000080><str>70 Defence</str>, <col=000080><str>70 Attack or 70 Strength or 70 Ranged<br>or 70 Magic</str><col=ffffff>);<str><col=ffffff>(<col=000080><str>70 Defence</str>, <col=000080><str>70 Attack o 70 Strength o 70 Ranged<br>o 70 Magic</str><col=ffffff>)
+<str>Craft 56 astral runes from Essence simultaneously from;<str>Craftea 56 astral runes from Essence simultaneously from
+<str>Obtain the Blast Furnace Foremans permission to use the;<str>Obtén el permiso del Blast Furnace Foreman's para usar el
+You have completed Client of Kourend!;¡Has completado Client of Kourend!
+2 lots of 4,650 XP in Agility,;2 lotes de 4,650 XP en Agility,
+<col=000000>If I ever lose my Ardougne cloak I can speak to Two-pints;<col=000000>Si alguna vez pierdo mi Ardougne cloak puedo hablar con Two-pints
+<col=000000>If I ever lose my Kandarin headgear I can speak to The;<col=000000>Si alguna vez pierdo mi Kandarin headgear puedo hablar con The
+<col=000000>If I ever lose my Karamja gloves I can speak to<br>Pirate;<col=000000>Si alguna vez pierdo mis Karamja gloves puedo hablar a<br>Pirate
+<col=000000>If I ever lose my Karamja gloves I can speak to<br>the Pirate;<col=000000>Si alguna vez pierdo mis Karamja gloves puedo hablar a<br>the Pirate
+<col=000000>If I ever lose my Rada's blessing, I can speak to Elise;<col=000000>Si alguna vez pierdo mi Rada's blessing, puedo hablar con Elise
+<col=000000>Jackie the Fruit in Brimhaven.;<col=000000>Jackie the Fruit en Brimhaven.
+<col=000000>at the Flying Horse Inn in Ardougne.;<col=000000>en la posada Flying Horse en Ardougne.
+<col=000080>I should see what else I can find with the help of the key.;<col=000080>Debería ver qué más puedo encontrar con la ayuda de la llave.
+<col=000080>I spoke to <col=800000>Betty<col=000080> outside her home in <col=800000>Land's End<col=000080>. She told me;<col=000080>Hablé con <col=800000>Betty<col=000080> fuera de su casa en <col=800000>Land's End<col=000080>. Ella me dijo
+<col=000080>a disturbing truth, that the <col=800000>Plague<col=000080> of <col=800000>West Ardougne<col=000080> is a lie. I;<col=000080>una verdad perturbadora, que la <col=800000>Plague<col=000080> de <col=800000>West Ardougne<col=000080> es una mentira. Yo
+<col=000080>be able to get some advice from <col=800000>Sergeant Hudson<col=000080> or one of;<col=000080>puedo obtener algún consejo de <col=800000>Sergeant Hudson<col=000080> o de uno de
+<col=000080>from <col=800000>Sergeant Hudson<col=000080> or one of his <col=800000>Corporals<col=000080>.;<col=000080>de <col=800000>Sergeant Hudson<col=000080> o de uno de sus <col=800000>Corporals<col=000080>.
+<col=000080>help. I can now begin my investigation. If I need help, I might;<col=000080>ayuda. Ahora puedo comenzar mi investigación. Si necesito ayuda, podría
+<col=000080>help. I started to investigate, but I suspect there's still more;<col=000080>ayuda. Empecé a investigar, pero sospecho que aún hay más
+<col=000080>her father had been murdered and I offered to investigate. I;<col=000080>su padre había sido asesinado y me ofrecí a investigar. Yo
+<col=000080>his <col=800000>Corporals<col=000080>.;<col=000080>sus <col=800000>Corporals<col=000080>.
+<col=000080>should return to <col=800000>Elena<col=000080> and tell her.;<col=000080>debería volver a <col=800000>Elena<col=000080> y decírselo.
+<col=000080>spoke to <col=800000>Sergeant Hudson<col=000080> and he reluctantly agreed to let me;<col=000080>hablé con <col=800000>Sergeant Hudson<col=000080> y él aceptó a regañadientes dejarme
+<col=000080>to uncover. If I need help, I might be able to get some advice;<col=000080>descubrir. Si necesito ayuda, podría obtener algún consejo
+<str>Ardougne before. However, I spoke to Jerico, an old friend of;<str>Ardougne antes. Sin embargo, hablé con Jerico, un viejo amigo de
+<str>Ardougne. I found Elena's Distillator inside and returned it to;<str>Ardougne. Encontré el Distillator de Elena dentro y lo devolví a
+<str>Elena asked me to take some items to Guidor in Varrock so;<str>Elena me pidió que llevara algunos objetos a Guidor en Varrock para que
+<str>Elena ran some tests on a Plague Sample using her Distillator.;<str>Elena realizó algunas pruebas en una muestra de Plague usando su Distillator.
+<str>Elena's father, about finding another way into the city.;<str>El padre de Elena, sobre encontrar otra forma de entrar a la ciudad.
+<str>However, she wasn't able to discover anything.;<str>Sin embargo, ella no pudo descubrir nada.
+<str>I managed to get into the Mourner Headquarters in West;<str>Logré entrar en la sede de los Mourners en el Oeste
+<str>I've spoken to Elena in East Ardougne. She told me that the;<str>He hablado con Elena en East Ardougne. Ella me dijo que el
+<str>Mourners confiscated her Distillator while she was helping;<str>Los Mourners confiscaron su Distillator mientras ella ayudaba
+<str>Omart and Kilron, friends of Jerico, helped me cross the wall;<str>Omart y Kilron, amigos de Jerico, me ayudaron a cruzar el muro
+<str>The Mourners blocked the tunnel I used to enter West;<str>Los Mourners bloquearon el túnel que usé para entrar al Oeste
+<str>While helping Jorral to save the Ardougne Outpost, I received;<str>Mientras ayudaba a Jorral a salvar el Ardougne Outpost, recibí
+<str>a strange key from Erin the silver merchant, which used to;<str>una llave extraña de Erin el comerciante de plata, que solía
