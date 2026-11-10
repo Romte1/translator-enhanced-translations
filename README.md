@@ -11,6 +11,7 @@ the network is unavailable.
 ## Layout
 
 ```text
+AGENTS.md
 manifest.json
 translations/
   translations/interface/<language>.txt
@@ -32,6 +33,12 @@ Each dictionary is `english key;translation`, one entry per line. Interface file
 original tags, numbers and line breaks. Menu files use `re:` patterns for dynamic options
 such as `Withdraw-<n>`, `Buy: <n> x <item>`, `Default quantity: <n>` and
 `Add friend <name>`.
+
+## Development standards
+
+The mandatory architecture, environment, testing and automation rules are in
+[AGENTS.md](AGENTS.md). In short: one Node data pipeline, PR-only translation changes,
+validated manifests, local-only tests and no destructive operations against production.
 
 ## Updating translations
 
