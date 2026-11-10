@@ -326,3 +326,40 @@ You are awarded:;Vous recevez :
 <str>and equip it.<col=ffffff>(<col=000080><str>66 Hunter</str><col=ffffff>);<str>et équipez‑le.<col=ffffff>(<col=000080><str>66 Hunter</str><col=ffffff>)
 <col=000000>If I ever lose my Varrock armour I can speak to<br>Toby in;<col=000000>Si je perds jamais mon Varrock armour je peux parler à<br>Toby à
 <col=000000>If I ever lose my Western banner I can speak to the Elder;<col=000000>Si je perds jamais mon Western banner je peux parler à l’Elder
+<col=000000>Thorodin south of Rellekka.;<col=000000>Thorodin au sud de Rellekka.
+<str><col=ffffff>(<col=000080><str>Started Garden of Tranquillity</str>, <col=000080><str>Gertrude's Cat</str><col=ffffff>);<str><col=ffffff>(<col=000080><str>Commencé Garden of Tranquillity</str>, <col=000080><str>Gertrude's Cat</str><col=ffffff>)
+<str>Cast the teleport to Varrock spell.<col=ffffff>(<col=000080><str>25 Magic</str><col=ffffff>);<str>Lancez le sort de téléportation vers Varrock.<col=ffffff>(<col=000080><str>25 Magic</str><col=ffffff>)
+<str>Chop some yew logs in Varrock and burn them at the<br>top of;<str>Coupez quelques yew logs à Varrock et brûlez-les au<br>sommet de
+<str>Collect at least 2 yew roots from the Tree patch<br>in Varrock;<str>Collectez au moins 2 yew roots du patch d'arbres<br>à Varrock
+<str>Craft 100 or more earth runes simultaneously from;<str>Fabriquez 100 runes earth ou plus simultanément à partir de
+<str>Create a super combat potion in Varrock west bank.;<str>Créez une super combat potion à la banque ouest de Varrock.
+<str>Enter the Tolna dungeon after completing A Soul's<br>Bane.<col=ffffff>(<col=000080><str>A Soul's Bane</str><col=ffffff>);<str>Entrez dans le donjon Tolna après avoir terminé A Soul's<br>Bane.<col=ffffff>(<col=000080><str>A Soul's Bane</str><col=ffffff>)
+<str>Essence without the use of Extracts.<col=ffffff>(<col=000080><str>78 Runecraft</str><col=ffffff>);<str>Essence sans l'utilisation d'Extracts.<col=ffffff>(<col=000080><str>78 Runecraft</str><col=ffffff>)
+<str>Have Aubury teleport you to the Essence mine.<col=ffffff>(<col=000080><str>Rune<br>Mysteries</str><col=ffffff>);<str>Faites téléporter Aubury à la mine d'Essence.<col=ffffff>(<col=000080><str>Rune<br>Mysteries</str><col=ffffff>)
+<str>Have the Apothecary in Varrock make you a strength;<str>Faites que l'Apothecary de Varrock vous fabrique une strength
+<str>Have the Varrock estate agent decorate your house<br>with;<str>Faites que l'agent immobilier de Varrock décore votre maison<br>avec
+<str>Make a Waka Canoe near Edgeville.<col=ffffff>(<col=000080><str>57 Woodcutting</str><col=ffffff>);<str>Fabriquez un Waka Canoe près d'Edgeville.<col=ffffff>(<col=000080><str>57 Woodcutting</str><col=ffffff>)
+<str>Pick a White tree fruit.<col=ffffff>(<col=000080><str>25 Farming</str>, <col=000080><str>Garden of<br>Tranquillity</str><col=ffffff>);<str>Cueillez un White tree fruit.<col=ffffff>(<col=000080><str>25 Farming</str>, <col=000080><str>Garden of<br>Tranquillity</str><col=ffffff>)
+<str>Smith and fletch ten rune darts within Varrock.;<str>Fabriquez et fabriquez dix rune darts à Varrock.
+<str>Speak to Haig Halen after obtaining at least 50<br>Kudos.;<str>Parlez à Haig Halen après avoir obtenu au moins 50<br>Kudos.
+<str>Speak to Orlando Smith when you have achieved 153;<str>Parlez à Orlando Smith lorsque vous avez atteint 153
+<str>Spin a bowl on the pottery wheel and fire it in<br>the oven in;<str>Tournez un bol sur le tour de poterie et faites-le cuire dans<br>le four de
+<str>Squeeze through an obstacle pipe in Edgeville<br>dungeon.;<str>Faufilez-vous à travers un tuyau d'obstacle dans le donjon d'Edgeville<br>.
+<str>Use Lunar magic to make 20 mahogany planks at the;<str>Utilisez la magie lunaire pour fabriquer 20 mahogany planks à
+<str>the Varrock church.<col=ffffff>(<col=000080><str>60 Woodcutting</str>, <col=000080><str>60 Firemaking</str><col=ffffff>);<str>l'église de Varrock.<col=ffffff>(<col=000080><str>60 Woodcutting</str>, <col=000080><str>60 Firemaking</str><col=ffffff>)
+<col=000000>'Wedge' outside Camelot castle.;<col=000000>'Wedge' à l'extérieur de Camelot castle.
+<str>Construct a Pyre ship from Magic Logs.;<str>Construisez un Pyre ship à partir de Magic Logs.
+<str>Have Aubury teleport you to the Essence mine.;<str>Faites qu'Aubury vous téléporte à la Essence mine.
+<col=000000>If I ever lose my Desert amulet I can speak to Jarr at the;<col=000000>Si je perds jamais mon Desert amulet, je peux parler à Jarr à
+<col=000000>If I ever lose my Explorer's ring I can speak to<br>Mikasi;<col=000000>Si je perds jamais mon Explorer's ring, je peux parler à<br>Mikasi
+<col=000000>If I ever lose my Fremennik sea boots I can speak to;<col=000000>Si je perds jamais mes Fremennik sea boots, je peux parler à
+<col=000000>If I ever lose my Morytania legs I can speak to<br>Le-sabrè in;<col=000000>Si je perds jamais mes Morytania legs, je peux parler à<br>Le-sabrè dans
+<col=000000>outside Kourend Castle.;<col=000000>à l'extérieur de Kourend Castle.
+<col=000000>outside of Lumbridge Castle.;<col=000000>à l'extérieur de Lumbridge Castle.
+<str>Craft 56 astral runes from Essence simultaneously from;<str>Fabriquez 56 astral runes from Essence simultaneously from
+<str>Obtain the Blast Furnace Foremans permission to use the;<str>Obtenez the Blast Furnace Foremans permission to use the
+<str>altar.<col=ffffff>(<col=000080><str>46 Agility</str>, <col=000080><str>Lost City</str><col=ffffff>);<str>autel.<col=ffffff>(<col=000080><str>46 Agility</str>, <col=000080><str>Lost City</str><col=ffffff>)
+You have completed Client of Kourend!;Vous avez terminé Client of Kourend!
+2 lots of 4,650 XP in Agility,;2 lots de 4,650 XP in Agility,
+<col=000000>If I ever lose my Ardougne cloak I can speak to Two-pints;<col=000000>Si je perds jamais mon Ardougne cloak je peux parler à Two-pints
+<col=000000>If I ever lose my Kandarin headgear I can speak to The;<col=000000>Si je perds jamais mon Kandarin headgear je peux parler à The
