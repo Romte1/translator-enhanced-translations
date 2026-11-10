@@ -57,7 +57,7 @@ I can start this quest by talking to <col=800000>Jamila<col=000080> at her stall
 <col=000000>Mine 5 Adamantite ores on Jatizso.<col=ffffff>(<col=800000>70 Mining<col=000080>, <col=800000>The Fremennik Isles<col=000080><col=ffffff>);<col=000000>Estrai 5 Adamantite ores a Jatizso.<col=ffffff>(<col=800000>70 Mining<col=000080>, <col=800000>The Fremennik Isles<col=000080><col=ffffff>)
 <col=000000>Obtain 100% support from your kingdom subjects.;<col=000000>Ottieni il 100% di supporto dai sudditi del tuo regno.
 <col=000000>Teleport to Waterbirth Island.<col=ffffff>(<col=800000>72 Magic<col=000080>, <col=800000>Lunar Diplomacy<col=000080><col=ffffff>);<col=000000>Teletrasporta a Waterbirth Island.<col=ffffff>(<col=800000>72 Magic<col=000080>, <col=800000>Lunar Diplomacy<col=000080><col=ffffff>)
-<col=000000>Obtain the Blast Furnace Foreman's permission to use the;<col=000000>Ottieni il permesso del Blast Furnace Foreman per usare il
+<col=000000>Obtain the Blast Furnace Foreman's permission to use the;<col=000000>Ottieni il permesso del caposquadra della Blast Furnace per usare il
 <col=000000>Blast Furnace for free.<col=ffffff>(<col=800000>60 Smithing<col=000080>, <col=800000>Started The Giant Dwarf<col=000080><col=ffffff>);<col=000000>Fornace a getto gratis.<col=ffffff>(<col=800000>60 Smithing<col=000080>, <col=800000>Started The Giant Dwarf<col=000080><col=ffffff>)
 Difficulty:;Difficoltà:
 Length:;Durata:
@@ -359,34 +359,34 @@ You are awarded:;Hai ricevuto:
 <str>potion.;<str>pozione.
 <str><col=ffffff>(<col=000080><str>Started Garden of Tranquillity</str>, <col=000080><str>Gertrude's Cat</str><col=ffffff>);<str><col=ffffff>(<col=000080><str>Iniziato Garden of Tranquillity</str>, <col=000080><str>Gertrude's Cat</str><col=ffffff>)
 <str>Cast the teleport to Varrock spell.<col=ffffff>(<col=000080><str>25 Magic</str><col=ffffff>);<str>Lancia l'incantesimo di teletrasporto a Varrock.<col=ffffff>(<col=000080><str>25 Magic</str><col=ffffff>)
-<str>Chop some yew logs in Varrock and burn them at the<br>top of;<str>Taglia alcuni tronchi di yew a Varrock e bruciali al<br>top of
+<str>Chop some yew logs in Varrock and burn them at the<br>top of;<str>Taglia alcuni tronchi di yew a Varrock e bruciali in<br>cima a
 <str>Collect at least 2 yew roots from the Tree patch<br>in Varrock;<str>Raccogli almeno 2 yew roots dalla Tree patch<br>in Varrock
 <str>Craft 100 or more earth runes simultaneously from;<str>Crea 100 o più earth runes simultaneamente da
 <str>Create a super combat potion in Varrock west bank.;<str>Crea una super combat potion nella Varrock west bank.
 <str>Enter the Tolna dungeon after completing A Soul's<br>Bane.<col=ffffff>(<col=000080><str>A Soul's Bane</str><col=ffffff>);<str>Entra nel Tolna dungeon dopo aver completato A Soul's<br>Bane.<col=ffffff>(<col=000080><str>A Soul's Bane</str><col=ffffff>)
 <str>Essence without the use of Extracts.<col=ffffff>(<col=000080><str>78 Runecraft</str><col=ffffff>);<str>Essence senza l'uso di Extracts.<col=ffffff>(<col=000080><str>78 Runecraft</str><col=ffffff>)
-<str>Have Aubury teleport you to the Essence mine.<col=ffffff>(<col=000080><str>Rune<br>Mysteries</str><col=ffffff>);<str>Fai teletrasportare da Aubury al Essence mine.<col=ffffff>(<col=000080><str>Rune<br>Mysteries</str><col=ffffff>)
-<str>Have the Apothecary in Varrock make you a strength;<str>Fai preparare dall'Apothecary di Varrock una strength
-<str>Have the Varrock estate agent decorate your house<br>with;<str>Fai decorare la tua casa dall'Varrock estate agent<br>with
+<str>Have Aubury teleport you to the Essence mine.<col=ffffff>(<col=000080><str>Rune<br>Mysteries</str><col=ffffff>);<str>Fatti teletrasportare da Aubury alla Essence mine.<col=ffffff>(<col=000080><str>Rune<br>Mysteries</str><col=ffffff>)
+<str>Have the Apothecary in Varrock make you a strength;<str>Fai preparare dal farmacista di Varrock una strength
+<str>Have the Varrock estate agent decorate your house<br>with;<str>Fai decorare la tua casa dall'agente immobiliare di Varrock<br>con
 <str>Make a Waka Canoe near Edgeville.<col=ffffff>(<col=000080><str>57 Woodcutting</str><col=ffffff>);<str>Costruisci un Waka Canoe vicino a Edgeville.<col=ffffff>(<col=000080><str>57 Woodcutting</str><col=ffffff>)
 <str>Pick a White tree fruit.<col=ffffff>(<col=000080><str>25 Farming</str>, <col=000080><str>Garden of<br>Tranquillity</str><col=ffffff>);<str>Raccogli un White tree fruit.<col=ffffff>(<col=000080><str>25 Farming</str>, <col=000080><str>Garden of<br>Tranquillity</str><col=ffffff>)
-<str>Smith and fletch ten rune darts within Varrock.;<str>Forgia e fletch dieci rune darts a Varrock.
+<str>Smith and fletch ten rune darts within Varrock.;<str>Forgia e assembla dieci rune darts a Varrock.
 <str>Speak to Haig Halen after obtaining at least 50<br>Kudos.;<str>Parla con Haig Halen dopo aver ottenuto almeno 50<br>Kudos.
 <str>Speak to Orlando Smith when you have achieved 153;<str>Parla con Orlando Smith quando hai raggiunto 153
 <str>Spin a bowl on the pottery wheel and fire it in<br>the oven in;<str>Gira una ciotola sulla ruota di ceramica e cuocila nel<br>forno di
-<str>Squeeze through an obstacle pipe in Edgeville<br>dungeon.;<str>Strizza attraverso un tubo ostacolo nel dungeon di Edgeville<br>.
-<str>Use Lunar magic to make 20 mahogany planks at the;<str>Usa la magia Lunare per creare 20 mahogany planks at the
-<str>the Varrock church.<col=ffffff>(<col=000080><str>60 Woodcutting</str>, <col=000080><str>60 Firemaking</str><col=ffffff>);<str>la Varrock church.<col=ffffff>(<col=000080><str>60 Woodcutting</str>, <col=000080><str>60 Firemaking</str><col=ffffff>)
-<col=000000>'Wedge' outside Camelot castle.;<col=000000>'Wedge' fuori dal castello di Camelot.
+<str>Squeeze through an obstacle pipe in Edgeville<br>dungeon.;<str>Passa attraverso un tubo ostacolo nel dungeon di Edgeville<br>.
+<str>Use Lunar magic to make 20 mahogany planks at the;<str>Usa la magia Lunare per creare 20 mahogany planks nella
+<str>the Varrock church.<col=ffffff>(<col=000080><str>60 Woodcutting</str>, <col=000080><str>60 Firemaking</str><col=ffffff>);<str>chiesa di Varrock.<col=ffffff>(<col=000080><str>60 Woodcutting</str>, <col=000080><str>60 Firemaking</str><col=ffffff>)
+<col=000000>'Wedge' outside Camelot castle.;<col=000000>'Wedge' fuori da Camelot Castle.
 <str>Construct a Pyre ship from Magic Logs.;<str>Costruisci una nave Pyre con Magic Logs.
-<str>Have Aubury teleport you to the Essence mine.;<str>Fai teletrasportare Aubury alla Essence mine.
+<str>Have Aubury teleport you to the Essence mine.;<str>Fatti teletrasportare da Aubury alla Essence mine.
 <col=000000>If I ever lose my Desert amulet I can speak to Jarr at the;<col=000000>Se mai perdo il mio Desert amulet posso parlare a Jarr al
 <col=000000>If I ever lose my Explorer's ring I can speak to<br>Mikasi;<col=000000>Se mai perdo il mio Explorer's ring posso parlare a<br>Mikasi
 <col=000000>If I ever lose my Fremennik sea boots I can speak to;<col=000000>Se mai perdo i miei Fremennik sea boots posso parlare a
 <col=000000>If I ever lose my Morytania legs I can speak to<br>Le-sabrè in;<col=000000>Se mai perdo le mie Morytania legs posso parlare a<br>Le-sabrè in
 <col=000000>outside Kourend Castle.;<col=000000>fuori dal Kourend Castle.
 <col=000000>outside of Lumbridge Castle.;<col=000000>fuori del Lumbridge Castle.
-<str>Craft 56 astral runes from Essence simultaneously from;<str>Crea 56 rune astrali da Essence simultaneamente da
-<str>Obtain the Blast Furnace Foremans permission to use the;<str>Ottieni il permesso del Blast Furnace Foreman per usare il
+<str>Craft 56 astral runes from Essence simultaneously from;<str>Crea 56 astral runes da Essence simultaneamente da
+<str>Obtain the Blast Furnace Foremans permission to use the;<str>Ottieni il permesso del caposquadra della Blast Furnace per usare il
 <str>altar.<col=ffffff>(<col=000080><str>46 Agility</str>, <col=000080><str>Lost City</str><col=ffffff>);<str>altare.<col=ffffff>(<col=000080><str>46 Agility</str>, <col=000080><str>Lost City</str><col=ffffff>)
 You have completed Client of Kourend!;Hai completato Client of Kourend!

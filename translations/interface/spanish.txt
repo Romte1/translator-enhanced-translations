@@ -1345,7 +1345,7 @@ You are awarded:;Has recibido:
 <str>Enter the Tolna dungeon after completing A Soul's<br>Bane.<col=ffffff>(<col=000080><str>A Soul's Bane</str><col=ffffff>);<str>Entra en la mazmorra Tolna después de completar A Soul's<br>Bane.<col=ffffff>(<col=000080><str>A Soul's Bane</str><col=ffffff>)
 <str>Essence without the use of Extracts.<col=ffffff>(<col=000080><str>78 Runecraft</str><col=ffffff>);<str>Esencia sin usar Extracts.<col=ffffff>(<col=000080><str>78 Runecraft</str><col=ffffff>)
 <str>Have Aubury teleport you to the Essence mine.<col=ffffff>(<col=000080><str>Rune<br>Mysteries</str><col=ffffff>);<str>Haz que Aubury te teletransporte a la mina de Essence.<col=ffffff>(<col=000080><str>Rune<br>Mysteries</str><col=ffffff>)
-<str>Have the Apothecary in Varrock make you a strength;<str>Haz que el Apothecary en Varrock te haga una strength
+<str>Have the Apothecary in Varrock make you a strength;<str>Haz que el boticario de Varrock te haga una strength
 <str>Have the Varrock estate agent decorate your house<br>with;<str>Haz que el agente inmobiliario de Varrock decore tu casa<br>con
 <str>Make a Waka Canoe near Edgeville.<col=ffffff>(<col=000080><str>57 Woodcutting</str><col=ffffff>);<str>Construye una Waka Canoe cerca de Edgeville.<col=ffffff>(<col=000080><str>57 Woodcutting</str><col=ffffff>)
 <str>Pick a White tree fruit.<col=ffffff>(<col=000080><str>25 Farming</str>, <col=000080><str>Garden of<br>Tranquillity</str><col=ffffff>);<str>Recoge un White tree fruit.<col=ffffff>(<col=000080><str>25 Farming</str>, <col=000080><str>Garden of<br>Tranquillity</str><col=ffffff>)
@@ -1354,8 +1354,8 @@ You are awarded:;Has recibido:
 <str>Speak to Orlando Smith when you have achieved 153;<str>Habla con Orlando Smith cuando hayas alcanzado 153
 <str>Spin a bowl on the pottery wheel and fire it in<br>the oven in;<str>Gira un bowl en la rueda de alfarería y hornéalo en<br>el horno de
 <str>Squeeze through an obstacle pipe in Edgeville<br>dungeon.;<str>Pásate por una tubería de obstáculos en<br>la mazmorra de Edgeville.
-<str>Use Lunar magic to make 20 mahogany planks at the;<str>Usa magia Lunar para hacer 20 mahogany planks en el
-<str>the Varrock church.<col=ffffff>(<col=000080><str>60 Woodcutting</str>, <col=000080><str>60 Firemaking</str><col=ffffff>);<str>la iglesia de Varrock.<col=ffffff>(<col=000080><str>60 Woodcutting</str>, <col=000080><str>60 Firemaking</str><col=ffffff>)
+<str>Use Lunar magic to make 20 mahogany planks at the;<str>Usa magia Lunar para hacer 20 mahogany planks en la
+<str>the Varrock church.<col=ffffff>(<col=000080><str>60 Woodcutting</str>, <col=000080><str>60 Firemaking</str><col=ffffff>);<str>iglesia de Varrock.<col=ffffff>(<col=000080><str>60 Woodcutting</str>, <col=000080><str>60 Firemaking</str><col=ffffff>)
 <col=000000>'Wedge' outside Camelot castle.;<col=000000>'Wedge' fuera de Camelot Castle.
 <str>Construct a Pyre ship from Magic Logs.;<str>Construye un Pyre ship con Magic Logs.
 <str>Have Aubury teleport you to the Essence mine.;<str>Haz que Aubury te teletransporte a la mina de Essence.
@@ -1367,20 +1367,20 @@ You are awarded:;Has recibido:
 <col=000000>outside of Lumbridge Castle.;<col=000000>fuera de Lumbridge Castle.
 <str><col=ffffff>(<col=000080><str>22 Herblore</str>, <col=000080><str>Started In Aid of the Myreque</str><col=ffffff>);<str><col=ffffff>(<col=000080><str>22 Herblore</str>, <col=000080><str>In Aid of the Myreque iniciada</str><col=ffffff>)
 <str><col=ffffff>(<col=000080><str>70 Defence</str>, <col=000080><str>70 Attack or 70 Strength or 70 Ranged<br>or 70 Magic</str><col=ffffff>);<str><col=ffffff>(<col=000080><str>70 Defence</str>, <col=000080><str>70 Attack o 70 Strength o 70 Ranged<br>o 70 Magic</str><col=ffffff>)
-<str>Craft 56 astral runes from Essence simultaneously from;<str>Craftea 56 astral runes from Essence simultaneously from
-<str>Obtain the Blast Furnace Foremans permission to use the;<str>Obtén el permiso del Blast Furnace Foreman's para usar el
+<str>Craft 56 astral runes from Essence simultaneously from;<str>Fabrica 56 astral runes simultáneamente con Essence
+<str>Obtain the Blast Furnace Foremans permission to use the;<str>Obtén el permiso del capataz de la Blast Furnace para usar el
 You have completed Client of Kourend!;¡Has completado Client of Kourend!
 2 lots of 4,650 XP in Agility,;2 lotes de 4,650 XP en Agility,
 <col=000000>If I ever lose my Ardougne cloak I can speak to Two-pints;<col=000000>Si alguna vez pierdo mi Ardougne cloak puedo hablar con Two-pints
 <col=000000>If I ever lose my Kandarin headgear I can speak to The;<col=000000>Si alguna vez pierdo mi Kandarin headgear puedo hablar con The
-<col=000000>If I ever lose my Karamja gloves I can speak to<br>Pirate;<col=000000>Si alguna vez pierdo mis Karamja gloves puedo hablar a<br>Pirate
-<col=000000>If I ever lose my Karamja gloves I can speak to<br>the Pirate;<col=000000>Si alguna vez pierdo mis Karamja gloves puedo hablar a<br>the Pirate
+<col=000000>If I ever lose my Karamja gloves I can speak to<br>Pirate;<col=000000>Si alguna vez pierdo mis Karamja gloves puedo hablar con<br>Pirate
+<col=000000>If I ever lose my Karamja gloves I can speak to<br>the Pirate;<col=000000>Si alguna vez pierdo mis Karamja gloves puedo hablar con<br>el pirata
 <col=000000>If I ever lose my Rada's blessing, I can speak to Elise;<col=000000>Si alguna vez pierdo mi Rada's blessing, puedo hablar con Elise
 <col=000000>Jackie the Fruit in Brimhaven.;<col=000000>Jackie the Fruit en Brimhaven.
 <col=000000>at the Flying Horse Inn in Ardougne.;<col=000000>en la posada Flying Horse en Ardougne.
 <col=000080>I should see what else I can find with the help of the key.;<col=000080>Debería ver qué más puedo encontrar con la ayuda de la llave.
 <col=000080>I spoke to <col=800000>Betty<col=000080> outside her home in <col=800000>Land's End<col=000080>. She told me;<col=000080>Hablé con <col=800000>Betty<col=000080> fuera de su casa en <col=800000>Land's End<col=000080>. Ella me dijo
-<col=000080>a disturbing truth, that the <col=800000>Plague<col=000080> of <col=800000>West Ardougne<col=000080> is a lie. I;<col=000080>una verdad perturbadora, que la <col=800000>Plague<col=000080> de <col=800000>West Ardougne<col=000080> es una mentira. Yo
+<col=000080>a disturbing truth, that the <col=800000>Plague<col=000080> of <col=800000>West Ardougne<col=000080> is a lie. I;<col=000080>una verdad perturbadora, que la <col=800000>Peste<col=000080> de <col=800000>West Ardougne<col=000080> es una mentira. Yo
 <col=000080>be able to get some advice from <col=800000>Sergeant Hudson<col=000080> or one of;<col=000080>puedo obtener algún consejo de <col=800000>Sergeant Hudson<col=000080> o de uno de
 <col=000080>from <col=800000>Sergeant Hudson<col=000080> or one of his <col=800000>Corporals<col=000080>.;<col=000080>de <col=800000>Sergeant Hudson<col=000080> o de uno de sus <col=800000>Corporals<col=000080>.
 <col=000080>help. I can now begin my investigation. If I need help, I might;<col=000080>ayuda. Ahora puedo comenzar mi investigación. Si necesito ayuda, podría

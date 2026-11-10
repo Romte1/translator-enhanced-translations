@@ -177,7 +177,7 @@ Description: <col=ffffff>Kill an Aberrant Spectre.</col>;Beskrivning: <col=fffff
 <col=000000>Obtain 100% support from your kingdom subjects.;<col=000000>Få 100% stöd från dina kungadömetsundersåtar.
 Warden't you believe it;Warden, tror du inte det?
 <col=000000>Teleport to Waterbirth Island.<col=ffffff>(<col=800000>72 Magic<col=000080>, <col=800000>Lunar Diplomacy<col=000080><col=ffffff>);<col=000000>Teleportera till Waterbirth Island.<col=ffffff>(<col=800000>72 Magic<col=000080>, <col=800000>Lunar Diplomacy<col=000080><col=ffffff>)
-<col=000000>Obtain the Blast Furnace Foreman's permission to use the;<col=000000>Skaffa Blast Furnace-förmans tillstånd att använda den
+<col=000000>Obtain the Blast Furnace Foreman's permission to use the;<col=000000>Skaffa förmannens på Blast Furnace tillstånd att använda den
 <col=000000>Blast Furnace for free.<col=ffffff>(<col=800000>60 Smithing<col=000080>, <col=800000>Started The Giant Dwarf<col=000080><col=ffffff>);<col=000000>Blast Furnace gratis.<col=ffffff>(<col=800000>60 Smithing<col=000080>, <col=800000>Started The Giant Dwarf<col=000080><col=ffffff>)
 <col=000000>Kill each of the Dagannoth Kings.;<col=000000>Döda var och en av Dagannoth Kings.
 <col=000000>Craft 56 astral runes simultaneously from Essence;<col=000000>Tillverka 56 astral runes samtidigt från Essence
@@ -231,25 +231,25 @@ You are awarded:;Du får:
 <str>potion.;<str>dryck.
 <col=000000>Thorodin south of Rellekka.;<col=000000>Thorodin söder om Rellekka.
 <str>Cast the teleport to Varrock spell.<col=ffffff>(<col=000080><str>25 Magic</str><col=ffffff>);<str>Kasta teleport till Varrock‑besvärjelsen.<col=ffffff>(<col=000080><str>25 Magic</str><col=ffffff>)
-<str>Chop some yew logs in Varrock and burn them at the<br>top of;<str>Hugg några yew logs i Varrock och bränn dem på toppen av<br>top of
+<str>Chop some yew logs in Varrock and burn them at the<br>top of;<str>Hugg några yew logs i Varrock och bränn dem på<br>toppen av
 <str>Collect at least 2 yew roots from the Tree patch<br>in Varrock;<str>Samla minst 2 yew roots från Tree patch<br>i Varrock
 <str>Craft 100 or more earth runes simultaneously from;<str>Tillverka 100 eller fler earth runes samtidigt från
 <str>Create a super combat potion in Varrock west bank.;<str>Skapa en super combat potion i Varrock västra bank.
 <str>Enter the Tolna dungeon after completing A Soul's<br>Bane.<col=ffffff>(<col=000080><str>A Soul's Bane</str><col=ffffff>);<str>Gå in i Tolna dungeon efter att ha slutfört A Soul's<br>Bane.<col=ffffff>(<col=000080><str>A Soul's Bane</str><col=ffffff>)
 <str>Essence without the use of Extracts.<col=ffffff>(<col=000080><str>78 Runecraft</str><col=ffffff>);<str>Essence utan att använda Extracts.<col=ffffff>(<col=000080><str>78 Runecraft</str><col=ffffff>)
-<str>Have Aubury teleport you to the Essence mine.<col=ffffff>(<col=000080><str>Rune<br>Mysteries</str><col=ffffff>);<str>Låt Aubrey teleportera dig till Essence mine.<col=ffffff>(<col=000080><str>Rune<br>Mysteries</str><col=ffffff>)
-<str>Have the Apothecary in Varrock make you a strength;<str>Låt Apothecary i Varrock göra en strength
-<str>Have the Varrock estate agent decorate your house<br>with;<str>Låt Varrock estate agent dekorera ditt hus<br>med
+<str>Have Aubury teleport you to the Essence mine.<col=ffffff>(<col=000080><str>Rune<br>Mysteries</str><col=ffffff>);<str>Låt Aubury teleportera dig till Essence mine.<col=ffffff>(<col=000080><str>Rune<br>Mysteries</str><col=ffffff>)
+<str>Have the Apothecary in Varrock make you a strength;<str>Låt apotekaren i Varrock göra en strength
+<str>Have the Varrock estate agent decorate your house<br>with;<str>Låt fastighetsmäklaren i Varrock dekorera ditt hus<br>med
 <str>Make a Waka Canoe near Edgeville.<col=ffffff>(<col=000080><str>57 Woodcutting</str><col=ffffff>);<str>Tillverka en Waka Canoe nära Edgeville.<col=ffffff>(<col=000080><str>57 Woodcutting</str><col=ffffff>)
 <str>Pick a White tree fruit.<col=ffffff>(<col=000080><str>25 Farming</str>, <col=000080><str>Garden of<br>Tranquillity</str><col=ffffff>);<str>Plocka en White tree fruit.<col=ffffff>(<col=000080><str>25 Farming</str>, <col=000080><str>Garden of<br>Tranquillity</str><col=ffffff>)
-<str>Smith and fletch ten rune darts within Varrock.;<str>Smidda och fletcha tio rune darts i Varrock.
+<str>Smith and fletch ten rune darts within Varrock.;<str>Smida och fletcha tio rune darts i Varrock.
 <str>Speak to Haig Halen after obtaining at least 50<br>Kudos.;<str>Prata med Haig Halen efter att ha fått minst 50<br>Kudos.
 <str>Speak to Orlando Smith when you have achieved 153;<str>Prata med Orlando Smith när du har uppnått 153
 <str>Spin a bowl on the pottery wheel and fire it in<br>the oven in;<str>Snurra en skål på keramikhjulet och bränn den i<br>ugnen i
 <str>Squeeze through an obstacle pipe in Edgeville<br>dungeon.;<str>Pressa igenom ett hinderrör i Edgeville<br>dungeon.
 <str>Use Lunar magic to make 20 mahogany planks at the;<str>Använd Lunar-magi för att göra 20 mahogany planks vid
-<str>the Varrock church.<col=ffffff>(<col=000080><str>60 Woodcutting</str>, <col=000080><str>60 Firemaking</str><col=ffffff>);<str>Varrock church.<col=ffffff>(<col=000080><str>60 Woodcutting</str>, <col=000080><str>60 Firemaking</str><col=ffffff>)
-<col=000000>'Wedge' outside Camelot castle.;<col=000000>'Wedge' utanför Camelot castle.
+<str>the Varrock church.<col=ffffff>(<col=000080><str>60 Woodcutting</str>, <col=000080><str>60 Firemaking</str><col=ffffff>);<str>Varrockkyrkan.<col=ffffff>(<col=000080><str>60 Woodcutting</str>, <col=000080><str>60 Firemaking</str><col=ffffff>)
+<col=000000>'Wedge' outside Camelot castle.;<col=000000>'Wedge' utanför Camelot Castle.
 <str>Construct a Pyre ship from Magic Logs.;<str>Bygg ett Pyre-fartyg av Magic Logs.
 <str>Have Aubury teleport you to the Essence mine.;<str>Låt Aubury teleportera dig till Essence mine.
 <col=000000>If I ever lose my Desert amulet I can speak to Jarr at the;<col=000000>Om jag någonsin förlorar min Desert amulet kan jag prata med Jarr vid
@@ -258,6 +258,6 @@ You are awarded:;Du får:
 <col=000000>If I ever lose my Morytania legs I can speak to<br>Le-sabrè in;<col=000000>Om jag någonsin förlorar mina Morytania legs kan jag prata med<br>Le-sabrè i
 <col=000000>outside Kourend Castle.;<col=000000>utanför Kourend Castle.
 <col=000000>outside of Lumbridge Castle.;<col=000000>utanför Lumbridge Castle.
-<str>Craft 56 astral runes from Essence simultaneously from;<str>Tillverka 56 astral runes från Essence samtidigt from
-<str>Obtain the Blast Furnace Foremans permission to use the;<str>Skaffa Blast Furnace Foremans tillstånd att använda the
+<str>Craft 56 astral runes from Essence simultaneously from;<str>Tillverka 56 astral runes från Essence samtidigt
+<str>Obtain the Blast Furnace Foremans permission to use the;<str>Skaffa förmannens på Blast Furnace tillstånd att använda den
 <str>altar.<col=ffffff>(<col=000080><str>46 Agility</str>, <col=000080><str>Lost City</str><col=ffffff>);<str>altare.<col=ffffff>(<col=000080><str>46 Agility</str>, <col=000080><str>Lost City</str><col=ffffff>)

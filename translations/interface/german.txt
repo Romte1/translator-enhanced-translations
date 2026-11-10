@@ -57,7 +57,7 @@ I can start this quest by talking to <col=800000>Jamila<col=000080> at her stall
 <col=000000>Mine 5 Adamantite ores on Jatizso.<col=ffffff>(<col=800000>70 Mining<col=000080>, <col=800000>The Fremennik Isles<col=000080><col=ffffff>);<col=000000>Bergbaue 5 Adamantite ores on Jatizso.<col=ffffff>(<col=800000>70 Mining<col=000080>, <col=800000>The Fremennik Isles<col=000080><col=ffffff>)
 <col=000000>Obtain 100% support from your kingdom subjects.;<col=000000>Erhalte 100% Unterstützung von deinen Untertanen des Königreichs.
 <col=000000>Teleport to Waterbirth Island.<col=ffffff>(<col=800000>72 Magic<col=000080>, <col=800000>Lunar Diplomacy<col=000080><col=ffffff>);<col=000000>Teleportiere zu Waterbirth Island.<col=ffffff>(<col=800000>72 Magic<col=000080>, <col=800000>Lunar Diplomacy<col=000080><col=ffffff>)
-<col=000000>Obtain the Blast Furnace Foreman's permission to use the;<col=000000>Erhalte die Erlaubnis des Blast Furnace Foreman's, um zu benutzen
+<col=000000>Obtain the Blast Furnace Foreman's permission to use the;<col=000000>Erhalte die Erlaubnis des Vorarbeiters der Blast Furnace, um zu benutzen
 <col=000000>Blast Furnace for free.<col=ffffff>(<col=800000>60 Smithing<col=000080>, <col=800000>Started The Giant Dwarf<col=000080><col=ffffff>);<col=000000>Blast Furnace kostenlos.<col=ffffff>(<col=800000>60 Smithing<col=000080>, <col=800000>Started The Giant Dwarf<col=000080><col=ffffff>)
 Difficulty:;Schwierigkeit:
 Length:;Länge:
@@ -318,16 +318,16 @@ You are awarded:;Du erhältst:
 <col=000000>If I ever lose my Western banner I can speak to the Elder;<col=000000>Wenn ich jemals mein Western banner verliere, kann ich zum Elder sprechen.
 <col=000000>Thorodin south of Rellekka.;<col=000000>Thorodin südlich von Rellekka.
 <str><col=ffffff>(<col=000080><str>Started Garden of Tranquillity</str>, <col=000080><str>Gertrude's Cat</str><col=ffffff>);<str><col=ffffff>(<col=000080><str>Begonnen Garden of Tranquillity</str>, <col=000080><str>Gertrude's Cat</str><col=ffffff>)
-<str>Cast the teleport to Varrock spell.<col=ffffff>(<col=000080><str>25 Magic</str><col=ffffff>);<str>Wirke den Teleport nach Varrock Zauber.<col=ffffff>(<col=000080><str>25 Magic</str><col=ffffff>)
+<str>Cast the teleport to Varrock spell.<col=ffffff>(<col=000080><str>25 Magic</str><col=ffffff>);<str>Wirke den Zauber Teleport nach Varrock.<col=ffffff>(<col=000080><str>25 Magic</str><col=ffffff>)
 <str>Chop some yew logs in Varrock and burn them at the<br>top of;<str>Hacke einige yew logs in Varrock und verbrenne sie am<br>oberen Ende von
 <str>Collect at least 2 yew roots from the Tree patch<br>in Varrock;<str>Sammle mindestens 2 yew roots vom Tree patch<br>in Varrock
 <str>Craft 100 or more earth runes simultaneously from;<str>Stelle 100 oder mehr earth runes gleichzeitig her aus
 <str>Create a super combat potion in Varrock west bank.;<str>Stelle ein super combat potion in Varrock west bank her.
 <str>Enter the Tolna dungeon after completing A Soul's<br>Bane.<col=ffffff>(<col=000080><str>A Soul's Bane</str><col=ffffff>);<str>Betritt das Tolna dungeon nach Abschluss von A Soul's<br>Bane.<col=ffffff>(<col=000080><str>A Soul's Bane</str><col=ffffff>)
 <str>Essence without the use of Extracts.<col=ffffff>(<col=000080><str>78 Runecraft</str><col=ffffff>);<str>Essenz ohne Verwendung von Extracts.<col=ffffff>(<col=000080><str>78 Runecraft</str><col=ffffff>)
-<str>Have Aubury teleport you to the Essence mine.<col=ffffff>(<col=000080><str>Rune<br>Mysteries</str><col=ffffff>);<str>Lasse Aubrey dich zum Essence mine teleportieren.<col=ffffff>(<col=000080><str>Rune<br>Mysteries</str><col=ffffff>)
-<str>Have the Apothecary in Varrock make you a strength;<str>Lasse den Apothecary in Varrock dir ein strength herstellen
-<str>Have the Varrock estate agent decorate your house<br>with;<str>Lasse den Varrock estate agent dein Haus<br>mit dekorieren
+<str>Have Aubury teleport you to the Essence mine.<col=ffffff>(<col=000080><str>Rune<br>Mysteries</str><col=ffffff>);<str>Lass Aubury dich zur Essence-Mine teleportieren.<col=ffffff>(<col=000080><str>Rune<br>Mysteries</str><col=ffffff>)
+<str>Have the Apothecary in Varrock make you a strength;<str>Lass den Apotheker in Varrock dir ein strength herstellen
+<str>Have the Varrock estate agent decorate your house<br>with;<str>Lass den Immobilienmakler von Varrock dein Haus<br>mit dekorieren
 <str>Make a Waka Canoe near Edgeville.<col=ffffff>(<col=000080><str>57 Woodcutting</str><col=ffffff>);<str>Stelle ein Waka Canoe in der Nähe von Edgeville her.<col=ffffff>(<col=000080><str>57 Woodcutting</str><col=ffffff>)
 <str>Pick a White tree fruit.<col=ffffff>(<col=000080><str>25 Farming</str>, <col=000080><str>Garden of<br>Tranquillity</str><col=ffffff>);<str>Pflücke eine White tree fruit.<col=ffffff>(<col=000080><str>25 Farming</str>, <col=000080><str>Garden of<br>Tranquillity</str><col=ffffff>)
 <str>Smith and fletch ten rune darts within Varrock.;<str>Schmiede und fletche zehn rune darts in Varrock.
@@ -336,10 +336,10 @@ You are awarded:;Du erhältst:
 <str>Spin a bowl on the pottery wheel and fire it in<br>the oven in;<str>Drehe eine Schüssel auf dem pottery wheel und brenne sie im<br>Ofen in
 <str>Squeeze through an obstacle pipe in Edgeville<br>dungeon.;<str>Schlüpfe durch ein Hindernisrohr im Edgeville<br>dungeon.
 <str>Use Lunar magic to make 20 mahogany planks at the;<str>Verwende Lunar-Magie, um 20 mahogany planks herzustellen bei
-<str>the Varrock church.<col=ffffff>(<col=000080><str>60 Woodcutting</str>, <col=000080><str>60 Firemaking</str><col=ffffff>);<str>der Varrock church.<col=ffffff>(<col=000080><str>60 Woodcutting</str>, <col=000080><str>60 Firemaking</str><col=ffffff>)
-<col=000000>'Wedge' outside Camelot castle.;<col=000000>'Wedge' außerhalb Camelot castle.
+<str>the Varrock church.<col=ffffff>(<col=000080><str>60 Woodcutting</str>, <col=000080><str>60 Firemaking</str><col=ffffff>);<str>der Kirche von Varrock.<col=ffffff>(<col=000080><str>60 Woodcutting</str>, <col=000080><str>60 Firemaking</str><col=ffffff>)
+<col=000000>'Wedge' outside Camelot castle.;<col=000000>'Wedge' außerhalb von Camelot Castle.
 <str>Construct a Pyre ship from Magic Logs.;<str>Baue ein Pyre ship aus Magic Logs.
-<str>Have Aubury teleport you to the Essence mine.;<str>Lasse Aubury dich zum Essence mine teleportieren.
+<str>Have Aubury teleport you to the Essence mine.;<str>Lass Aubury dich zur Essence-Mine teleportieren.
 <col=000000>If I ever lose my Desert amulet I can speak to Jarr at the;<col=000000>Wenn ich jemals mein Desert amulet verliere, kann ich zu Jarr am
 <col=000000>If I ever lose my Explorer's ring I can speak to<br>Mikasi;<col=000000>Wenn ich jemals meinen Explorer's ring verliere, kann ich zu<br>Mikasi sprechen
 <col=000000>If I ever lose my Fremennik sea boots I can speak to;<col=000000>Wenn ich jemals meine Fremennik sea boots verliere, kann ich zu
@@ -348,6 +348,6 @@ You are awarded:;Du erhältst:
 <col=000000>outside of Lumbridge Castle.;<col=000000>außerhalb Lumbridge Castle.
 <str><col=ffffff>(<col=000080><str>22 Herblore</str>, <col=000080><str>Started In Aid of the Myreque</str><col=ffffff>);<str><col=ffffff>(<col=000080><str>22 Herblore</str>, <col=000080><str>In Aid of the Myreque begonnen</str><col=ffffff>)
 <str><col=ffffff>(<col=000080><str>70 Defence</str>, <col=000080><str>70 Attack or 70 Strength or 70 Ranged<br>or 70 Magic</str><col=ffffff>);<str><col=ffffff>(<col=000080><str>70 Defence</str>, <col=000080><str>70 Attack oder 70 Strength oder 70 Ranged<br>oder 70 Magic</str><col=ffffff>)
-<str>Craft 56 astral runes from Essence simultaneously from;<str>Stelle 56 astral runes aus Essence gleichzeitig her von
-<str>Obtain the Blast Furnace Foremans permission to use the;<str>Erhalte die Erlaubnis des Blast Furnace Foreman, um zu benutzen
+<str>Craft 56 astral runes from Essence simultaneously from;<str>Stelle 56 astral runes gleichzeitig aus Essence her
+<str>Obtain the Blast Furnace Foremans permission to use the;<str>Erhalte die Erlaubnis des Vorarbeiters der Blast Furnace, um zu benutzen
 <str>altar.<col=ffffff>(<col=000080><str>46 Agility</str>, <col=000080><str>Lost City</str><col=ffffff>);<str>Altar.<col=ffffff>(<col=000080><str>46 Agility</str>, <col=000080><str>Lost City</str><col=ffffff>)

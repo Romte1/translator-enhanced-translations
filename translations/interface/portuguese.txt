@@ -84,7 +84,7 @@ Standalone;Independente
 <col=000000>Mine 5 Adamantite ores on Jatizso.<col=ffffff>(<col=800000>70 Mining<col=000080>, <col=800000>The Fremennik Isles<col=000080><col=ffffff>);<col=000000>Minere 5 Adamantite ore em Jatizso.<col=ffffff>(<col=800000>70 Mining<col=000080>, <col=800000>The Fremennik Isles<col=000080><col=ffffff>)
 <col=000000>Obtain 100% support from your kingdom subjects.;<col=000000>Obtenha 100% de apoio dos súditos do seu reino.
 <col=000000>Teleport to Waterbirth Island.<col=ffffff>(<col=800000>72 Magic<col=000080>, <col=800000>Lunar Diplomacy<col=000080><col=ffffff>);<col=000000>Teleporte-se para Waterbirth Island.<col=ffffff>(<col=800000>72 Magic<col=000080>, <col=800000>Lunar Diplomacy<col=000080><col=ffffff>)
-<col=000000>Obtain the Blast Furnace Foreman's permission to use the;<col=000000>Obtenha a permissão do Blast Furnace Foreman para usar a
+<col=000000>Obtain the Blast Furnace Foreman's permission to use the;<col=000000>Obtenha a permissão do capataz da Blast Furnace para usar a
 <col=000000>Blast Furnace for free.<col=ffffff>(<col=800000>60 Smithing<col=000080>, <col=800000>Started The Giant Dwarf<col=000080><col=ffffff>);<col=000000>Blast Furnace gratuitamente.<col=ffffff>(<col=800000>60 Smithing<col=000080>, <col=800000>Iniciada The Giant Dwarf<col=000080><col=ffffff>)
 <col=000000>Kill each of the Dagannoth Kings.;<col=000000>Mate cada um dos Dagannoth Kings.
 <col=000000>Craft 56 astral runes simultaneously from Essence;<col=000000>Fabrique 56 astral runes simultaneamente a partir de Essence
@@ -617,21 +617,21 @@ You are awarded:;Você recebeu:
 <str>potion.;<str>poção.
 <col=000000>If I ever lose my Varrock armour I can speak to<br>Toby in;<col=000000>Se eu perder minha Varrock armour, posso falar com<br>Toby em
 <col=000000>If I ever lose my Western banner I can speak to the Elder;<col=000000>Se eu perder meu Western banner, posso falar com o Elder
-<col=000000>Thorodin south of Rellekka.;<col=000000>Thorodin sul de Rellekka.
-<str>Use Lunar magic to make 20 mahogany planks at the;<str>Use Lunar magic para fazer 20 mahogany planks em
-<str>the Varrock church.<col=ffffff>(<col=000080><str>60 Woodcutting</str>, <col=000080><str>60 Firemaking</str><col=ffffff>);<str>a Varrock church.<col=ffffff>(<col=000080><str>60 Woodcutting</str>, <col=000080><str>60 Firemaking</str><col=ffffff>)
-<col=000000>'Wedge' outside Camelot castle.;<col=000000>'Wedge' fora do Camelot castle.
+<col=000000>Thorodin south of Rellekka.;<col=000000>Thorodin ao sul de Rellekka.
+<str>Use Lunar magic to make 20 mahogany planks at the;<str>Use magia Lunar para fazer 20 mahogany planks na
+<str>the Varrock church.<col=ffffff>(<col=000080><str>60 Woodcutting</str>, <col=000080><str>60 Firemaking</str><col=ffffff>);<str>igreja de Varrock.<col=ffffff>(<col=000080><str>60 Woodcutting</str>, <col=000080><str>60 Firemaking</str><col=ffffff>)
+<col=000000>'Wedge' outside Camelot castle.;<col=000000>'Wedge' fora do Camelot Castle.
 <str>Construct a Pyre ship from Magic Logs.;<str>Construa um Pyre ship a partir de Magic Logs.
 <str>Have Aubury teleport you to the Essence mine.;<str>Peça a Aubury para teleportá-lo ao Essence mine.
 <str>Have Aubury teleport you to the Essence mine.<col=ffffff>(<col=000080><str>Rune Mysteries</str><col=ffffff>);<str>Peça a Aubury para teleportá-lo ao Essence mine.<col=ffffff>(<col=000080><str>Rune Mysteries</str><col=ffffff>)
 <str>Speak to Haig Halen after obtaining at least 50 Kudos.;<str>Fale com Haig Halen depois de obter pelo menos 50 Kudos.
-<str>Spin a bowl on the pottery wheel and fire it in the oven in;<str>Gire uma bowl na pottery wheel e queime-a no oven em
+<str>Spin a bowl on the pottery wheel and fire it in the oven in;<str>Gire uma tigela na roda de oleiro e queime-a no forno em
 <col=000000>If I ever lose my Desert amulet I can speak to Jarr at the;<col=000000>Se eu perder meu Desert amulet, posso falar com Jarr em
 <col=000000>If I ever lose my Explorer's ring I can speak to<br>Mikasi;<col=000000>Se eu perder meu Explorer's ring, posso falar com<br>Mikasi
 <col=000000>If I ever lose my Fremennik sea boots I can speak to;<col=000000>Se eu perder minhas Fremennik sea boots, posso falar com
 <col=000000>If I ever lose my Morytania legs I can speak to<br>Le-sabrè in;<col=000000>Se eu perder minhas Morytania legs, posso falar com<br>Le-sabrè em
 <col=000000>outside Kourend Castle.;<col=000000>fora do Kourend Castle.
 <col=000000>outside of Lumbridge Castle.;<col=000000>fora do Lumbridge Castle.
-<str><col=ffffff>(<col=800000>96 Fishing<col=000080>, <col=000080><str>76 Strength</str>, <col=000080><str>In Aid of the Myreque</str><col=ffffff>);<str><col=ffffff>(<col=800000>96 Pesca<col=000080>, <col=000080><str>76 Força</str>, <col=000080><str>Em Ajuda dos Myreque</str><col=ffffff>)
+<str><col=ffffff>(<col=800000>96 Fishing<col=000080>, <col=000080><str>76 Strength</str>, <col=000080><str>In Aid of the Myreque</str><col=ffffff>);<str><col=ffffff>(<col=800000>96 Fishing<col=000080>, <col=000080><str>76 Strength</str>, <col=000080><str>In Aid of the Myreque</str><col=ffffff>)
 <str>Craft 56 astral runes from Essence simultaneously from;<str>Crie 56 astral runes simultaneamente a partir de Essence
-<str>Obtain the Blast Furnace Foremans permission to use the;<str>Obtenha a Blast Furnace Foremans permission to use the
+<str>Obtain the Blast Furnace Foremans permission to use the;<str>Obtenha a permissão do capataz da Blast Furnace para usar o
