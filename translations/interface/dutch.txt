@@ -262,3 +262,40 @@ You are awarded:;Je krijgt:
 <str>potion.;<str>drank.
 <col=000000>If I ever lose my Varrock armour I can speak to<br>Toby in;<col=000000>Als ik ooit mijn Varrock armour verlies, kan ik met<br>Toby praten in
 <col=000000>If I ever lose my Western banner I can speak to the Elder;<col=000000>Als ik ooit mijn Western banner verlies, kan ik met de Elder praten
+<str><col=ffffff>(<col=000080><str>50 Smithing</str>, <col=000080><str>Started Between a Rock...</str><col=ffffff>);<str><col=ffffff>(<col=000080><str>50 Smithing</str>, <col=000080><str>Begonnen Tussen een Rots...</str><col=ffffff>)
+<col=000000>Thorodin south of Rellekka.;<col=000000>Thorodin ten zuiden van Rellekka.
+<str><col=ffffff>(<col=000080><str>Started Garden of Tranquillity</str>, <col=000080><str>Gertrude's Cat</str><col=ffffff>);<str><col=ffffff>(<col=000080><str>Begonnen Garden of Tranquillity</str>, <col=000080><str>Gertrude's Cat</str><col=ffffff>)
+<str>Cast the teleport to Varrock spell.<col=ffffff>(<col=000080><str>25 Magic</str><col=ffffff>);<str>Gooi de teleport naar Varrock spreuk.<col=ffffff>(<col=000080><str>25 Magic</str><col=ffffff>)
+<str>Chop some yew logs in Varrock and burn them at the<br>top of;<str>Hak wat yew logs in Varrock en verbrand ze op de<br>top van
+<str>Collect at least 2 yew roots from the Tree patch<br>in Varrock;<str>Verzamel minstens 2 yew roots van de Tree patch<br>in Varrock
+<str>Craft 100 or more earth runes simultaneously from;<str>Maak 100 of meer earth runes tegelijk van
+<str>Create a super combat potion in Varrock west bank.;<str>Maak een super combat potion in Varrock west bank.
+<str>Enter the Tolna dungeon after completing A Soul's<br>Bane.<col=ffffff>(<col=000080><str>A Soul's Bane</str><col=ffffff>);<str>Betreed de Tolna dungeon na het voltooien van A Soul's<br>Bane.<col=ffffff>(<col=000080><str>A Soul's Bane</str><col=ffffff>)
+<str>Essence without the use of Extracts.<col=ffffff>(<col=000080><str>78 Runecraft</str><col=ffffff>);<str>Essence zonder het gebruik van Extracts.<col=ffffff>(<col=000080><str>78 Runecraft</str><col=ffffff>)
+<str>Have Aubury teleport you to the Essence mine.<col=ffffff>(<col=000080><str>Rune<br>Mysteries</str><col=ffffff>);<str>Laat Aubury je teleporteren naar de Essence mine.<col=ffffff>(<col=000080><str>Rune<br>Mysteries</str><col=ffffff>)
+<str>Have the Apothecary in Varrock make you a strength;<str>Laat de Apothecary in Varrock een strength voor je maken
+<str>Have the Varrock estate agent decorate your house<br>with;<str>Laat de Varrock estate agent je huis versieren<br>met
+<str>Make a Waka Canoe near Edgeville.<col=ffffff>(<col=000080><str>57 Woodcutting</str><col=ffffff>);<str>Maak een Waka Canoe bij Edgeville.<col=ffffff>(<col=000080><str>57 Woodcutting</str><col=ffffff>)
+<str>Pick a White tree fruit.<col=ffffff>(<col=000080><str>25 Farming</str>, <col=000080><str>Garden of<br>Tranquillity</str><col=ffffff>);<str>Pluk een White tree fruit.<col=ffffff>(<col=000080><str>25 Farming</str>, <col=000080><str>Garden of<br>Tranquillity</str><col=ffffff>)
+<str>Smith and fletch ten rune darts within Varrock.;<str>Smeed en fletsch tien rune darts in Varrock.
+<str>Speak to Haig Halen after obtaining at least 50<br>Kudos.;<str>Praat met Haig Halen na het verkrijgen van minstens 50<br>Kudos.
+<str>Speak to Orlando Smith when you have achieved 153;<str>Praat met Orlando Smith wanneer je 153 hebt behaald
+<str>Spin a bowl on the pottery wheel and fire it in<br>the oven in;<str>Draai een kom op het pottenbakkerswiel en bak het in<br>de oven in
+<str>Squeeze through an obstacle pipe in Edgeville<br>dungeon.;<str>Kruip door een obstakel pijp in Edgeville<br>dungeon.
+<str>Use Lunar magic to make 20 mahogany planks at the;<str>Gebruik Lunar-magic om 20 mahogany planks te maken bij de
+<str>the Varrock church.<col=ffffff>(<col=000080><str>60 Woodcutting</str>, <col=000080><str>60 Firemaking</str><col=ffffff>);<str>de Varrock kerk.<col=ffffff>(<col=000080><str>60 Woodcutting</str>, <col=000080><str>60 Firemaking</str><col=ffffff>)
+<col=000000>'Wedge' outside Camelot castle.;<col=000000>'Wedge' buiten Camelot kasteel.
+<str>Construct a Pyre ship from Magic Logs.;<str>Bouw een Pyre ship van Magic Logs.
+<str>Have Aubury teleport you to the Essence mine.;<str>Laat Aubrey je teleporteren naar de Essence mine.
+<col=000000>If I ever lose my Desert amulet I can speak to Jarr at the;<col=000000>Als ik ooit mijn Desert amulet verlies, kan ik met Jarr praten bij de
+<col=000000>If I ever lose my Explorer's ring I can speak to<br>Mikasi;<col=000000>Als ik ooit mijn Explorer's ring verlies, kan ik met<br>Mikasi praten
+<col=000000>If I ever lose my Fremennik sea boots I can speak to;<col=000000>Als ik ooit mijn Fremennik sea boots verlies, kan ik met
+<col=000000>If I ever lose my Morytania legs I can speak to<br>Le-sabrè in;<col=000000>Als ik ooit mijn Morytania legs verlies, kan ik met<br>Le-sabrè praten in
+<col=000000>outside Kourend Castle.;<col=000000>buiten Kourend Castle.
+<col=000000>outside of Lumbridge Castle.;<col=000000>buiten Lumbridge Castle.
+<str>Craft 56 astral runes from Essence simultaneously from;<str>Maak 56 astral runes van Essence gelijktijdig van
+<str>Obtain the Blast Furnace Foremans permission to use the;<str>Verkrijg de Blast Furnace Foremans toestemming om te gebruiken
+<str>altar.<col=ffffff>(<col=000080><str>46 Agility</str>, <col=000080><str>Lost City</str><col=ffffff>);<str>altaar.<col=ffffff>(<col=000080><str>46 Agility</str>, <col=000080><str>Lost City</str><col=ffffff>)
+Moons of Peril Speed-Chaser;Moons of Peril Snelheidsjager
+Trying to fit in;Proberen te passen
+Two Times the Torment;Twee keer de Torment
