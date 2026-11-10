@@ -243,3 +243,36 @@ You are awarded:;Sinulle annetaan:
 <str>potion.;<str>taikajuoma.
 <col=000000>If I ever lose my Varrock armour I can speak to<br>Toby in;<col=000000>Jos koskaan kadotan Varrock armourini, voin puhua Tobylle<br>
 <col=000000>If I ever lose my Western banner I can speak to the Elder;<col=000000>Jos koskaan kadotan Western bannerini, voin puhua Elderille
+<col=000000>Thorodin south of Rellekka.;<col=000000>Thorodin Rellekan etelässä.
+<str><col=ffffff>(<col=000080><str>Started Garden of Tranquillity</str>, <col=000080><str>Gertrude's Cat</str><col=ffffff>);<str><col=ffffff>(<col=000080><str>Aloitettu Garden of Tranquillity</str>, <col=000080><str>Gertrude's Cat</str><col=ffffff>)
+<str>Cast the teleport to Varrock spell.<col=ffffff>(<col=000080><str>25 Magic</str><col=ffffff>);<str>Heitä Varrockiin teleporttitaikuutta.<col=ffffff>(<col=000080><str>25 Magic</str><col=ffffff>)
+<str>Chop some yew logs in Varrock and burn them at the<br>top of;<str>Hakkaa joitakin yew logs Varrockissa ja polta ne <br>yläosassa
+<str>Collect at least 2 yew roots from the Tree patch<br>in Varrock;<str>Kerää vähintään 2 yew roots puupellosta<br>Varrockissa
+<str>Craft 100 or more earth runes simultaneously from;<str>Valmista 100 tai enemmän earth runes samanaikaisesti
+<str>Create a super combat potion in Varrock west bank.;<str>Luo super combat potion Varrockin länsisalissa.
+<str>Enter the Tolna dungeon after completing A Soul's<br>Bane.<col=ffffff>(<col=000080><str>A Soul's Bane</str><col=ffffff>);<str>Mene Tolna luolaan suorittamisen jälkeen A Soul's<br>Bane.<col=ffffff>(<col=000080><str>A Soul's Bane</str><col=ffffff>)
+<str>Essence without the use of Extracts.<col=ffffff>(<col=000080><str>78 Runecraft</str><col=ffffff>);<str>Essence ilman Extracts käyttöä.<col=ffffff>(<col=000080><str>78 Runecraft</str><col=ffffff>)
+<str>Have Aubury teleport you to the Essence mine.<col=ffffff>(<col=000080><str>Rune<br>Mysteries</str><col=ffffff>);<str>Anna Aubury teleportata sinut Essence-kaivokseen.<col=ffffff>(<col=000080><str>Rune<br>Mysteries</str><col=ffffff>)
+<str>Have the Apothecary in Varrock make you a strength;<str>Anna Varrockin Apothecary tehdä sinulle strength
+<str>Have the Varrock estate agent decorate your house<br>with;<str>Anna Varrockin estate agent koristaa talosi<br>with
+<str>Make a Waka Canoe near Edgeville.<col=ffffff>(<col=000080><str>57 Woodcutting</str><col=ffffff>);<str>Tee Waka Canoe Edgevillen lähellä.<col=ffffff>(<col=000080><str>57 Woodcutting</str><col=ffffff>)
+<str>Pick a White tree fruit.<col=ffffff>(<col=000080><str>25 Farming</str>, <col=000080><str>Garden of<br>Tranquillity</str><col=ffffff>);<str>Poimi White tree fruit.<col=ffffff>(<col=000080><str>25 Farming</str>, <col=000080><str>Garden of<br>Tranquillity</str><col=ffffff>)
+<str>Smith and fletch ten rune darts within Varrock.;<str>Valmista ja nuolita kymmenen rune darts Varrockissa.
+<str>Speak to Haig Halen after obtaining at least 50<br>Kudos.;<str>Puhu Haig Halenille saadettuasi vähintään 50<br>Kudos.
+<str>Speak to Orlando Smith when you have achieved 153;<str>Puhu Orlando Smithille kun olet saavuttanut 153
+<str>Spin a bowl on the pottery wheel and fire it in<br>the oven in;<str>Pyöritä kulhoa savipyörällä ja polta se <br>uunissa
+<str>Squeeze through an obstacle pipe in Edgeville<br>dungeon.;<str>Työnnä itsesi esteputken läpi Edgeville<br>luolassa.
+<str>Use Lunar magic to make 20 mahogany planks at the;<str>Käytä Lunar magiaa tehdäksesi 20 mahogany planks at the
+<str>the Varrock church.<col=ffffff>(<col=000080><str>60 Woodcutting</str>, <col=000080><str>60 Firemaking</str><col=ffffff>);<str>Varrockin kirkko.<col=ffffff>(<col=000080><str>60 Woodcutting</str>, <col=000080><str>60 Firemaking</str><col=ffffff>)
+<col=000000>'Wedge' outside Camelot castle.;<col=000000>'Wedge' Camelotin linnan ulkopuolella.
+<str>Construct a Pyre ship from Magic Logs.;<str>Rakenna Pyre ship Magic Logs -puusta.
+<str>Have Aubury teleport you to the Essence mine.;<str>Anna Aubury teleportata sinut Essence-kaivokseen.
+<col=000000>If I ever lose my Desert amulet I can speak to Jarr at the;<col=000000>Jos koskaan kadotan Desert-amuletini, voin puhua Jarrille
+<col=000000>If I ever lose my Explorer's ring I can speak to<br>Mikasi;<col=000000>Jos koskaan kadotan Explorer's -sormukseni, voin puhua<br>Mikasi
+<col=000000>If I ever lose my Fremennik sea boots I can speak to;<col=000000>Jos koskaan kadotan Fremennik sea boots -kenkäni, voin puhua
+<col=000000>If I ever lose my Morytania legs I can speak to<br>Le-sabrè in;<col=000000>Jos koskaan kadotan Morytania legs -jalkani, voin puhua<br>Le-sabrèiin
+<col=000000>outside Kourend Castle.;<col=000000>Kourend Castlein ulkopuolella.
+<col=000000>outside of Lumbridge Castle.;<col=000000>Lumbridge Castlein ulkopuolella.
+<str>Craft 56 astral runes from Essence simultaneously from;<str>Valmista 56 astral runes Essence‑stä samanaikaisesti from
+<str>Obtain the Blast Furnace Foremans permission to use the;<str>Hanki Blast Furnace Foremans lupa käyttää the
+There is no escape!;Ei pakoon!

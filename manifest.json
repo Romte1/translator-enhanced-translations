@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "version": "20261110005020",
+  "version": "20261110005032",
   "files": {
     "translations/interface/dutch.txt": "16376dd51b4933fbb024acd184d67fbd3374a4b91002ebfbf8758688758b57e6",
-    "translations/interface/finnish.txt": "35db048861141b8ccfd194b28e10e1c29119921ac29b8f8c67c4417f1804c0bf",
+    "translations/interface/finnish.txt": "5605873254634588fefeb8bd7298ec8c3f597d2633e2da3e43a6475ba20dbee8",
     "translations/interface/french.txt": "8e99d76282f14b4642d63d7911f4617ff5e664e3a4206fcc3f3699dbffbe71a3",
     "translations/interface/german.txt": "50725917623ecfe9aafd11fae7a245ec5854f1c606619d6e42783a2709754b3f",
     "translations/interface/italian.txt": "664185af376d366d205237bd44389208b48248543362e8789415cf3987b24956",
