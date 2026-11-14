@@ -299,3 +299,46 @@ You are awarded:;Je krijgt:
 Moons of Peril Speed-Chaser;Moons of Peril Snelheidsjager
 Trying to fit in;Proberen te passen
 Two Times the Torment;Twee keer de Torment
+<str>I have collected all the beads.;<str>Ik heb alle kralen verzameld.
+<str>I have spoken to Wizard Mizgog.;<str>Ik heb met Wizard Mizgog gesproken.
+<str>Wizard Mizgog thanked me for finding his beads and gave me;<str>Wizard Mizgog bedankte me voor het vinden van zijn kralen en gaf me
+<str>an Amulet of Accuracy.;<str>een Amulet of Accuracy.
+<str>I spoke to Emelio in Outer Fortis. He asked me for some help in;<str>Ik sprak met Emelio in Outer Fortis. Hij vroeg me om wat hulp bij
+<str>Lelia arranged a slot for me to enter the Fortis Colosseum;<str>Lelia regelde een plek voor mij om het Fortis Colosseum te betreden
+<str>With the Missing Deliveries sorted, Emelio and I needed to;<str>Met de Missing Deliveries geregeld, moesten Emelio en ik
+<str>With the recipe perfected, Emelio asked me to speak to Lelia;<str>Met het recept geperfectioneerd, vroeg Emelio me om met Lelia te spreken
+<str>a selection of 'Connoisseurs'.;<str>een selectie van 'Connoisseurs'.
+<str>advertisement went rogue and I had to defeat it. However, the;<str>advertentie ging los en ik moest het verslaan. Echter, de
+<str>and advertise the Kebabs. A Minotaur involved in the;<str>en adverteer de Kebabs. Een Minotaurus betrokken bij de
+<str>at the Fortis Colosseum about marketing the Kebabs to the;<str>bij het Fortis Colosseum over het marketen van de Kebabs naar de
+<str>business that he gained from the advertising and promised;<str>zaak die hij verkreeg van de reclame en beloofde
+<str>crowd was still impressed. Emelio was very happy with the;<str>menigte was nog steeds onder de indruk. Emelio was erg blij met de
+<str>people of Varlamore.;<str>mensen van Varlamore.
+<str>perfect the recipe for the Kebabs. We did this with the help of;<str>perfecteer het recept voor de Kebabs. We deden dit met de hulp van
+<str>setting up Varlamore's first Kebab Shop. To do so, I chased up;<str>het opzetten van Varlamore's eerste Kebab Shop. Om dat te doen, ben ik achter
+<str>some Missing Deliveries for him.;<str>enkele Missing Deliveries voor hem.
+<str>to give me a special price on his Kebabs.;<str>om mij een speciale prijs op zijn Kebabs te geven.
+<col=000080>I've found the treasure, gained 2 Quest Points and gained;<col=000080>Ik heb de schat gevonden, 2 Quest Points verdiend en
+<col=000080>access to the Pay-fare option to travel to and from Karamja!;<col=000080>toegang tot de Pay-fare optie om te reizen naar en van Karamja!
+<str><str>become of Ali Morrisane's nephew.;<str><str>wordt van Ali Morrisane's neef.
+<str>A local drunk suggested that Ali's nephew's disappearance;<str>Een lokale dronkaard suggereerde dat Ali's neef's verdwijning
+<str>After I'd fetched a lot of bones for the Odd Old Man, near the;<str>Nadat ik veel botten had gehaald voor de Odd Old Man, nabij de
+<str>After purchasing two camels from 'Ali's Discount <str>Camel;<str>Na het kopen van twee kamelen van 'Ali's Discount <str>Camel
+<str>Dr Oddenstein thanked me for helping fix his machine;<str>Dr Oddenstein bedankte me voor het helpen repareren van zijn machine
+<str>Gertrude gave me my very own pet for a reward.;<str>Gertrude gaf me mijn eigen huisdier als beloning.
+<str>I entered the mayor's house using the key which 'Ali the;<str>Ik betrad het huis van de burgemeester met de sleutel die 'Ali de
+<str>I fed it and returned her missing kitten,;<str>Ik voedde het en bracht haar vermiste kitten terug,
+<str>I have been <str>given the task of identifying a traitor within the;<str>I have been <str>opdracht gekregen om een verrader binnen de
+<str>I have collected all the parts for the machine;<str>Ik heb alle onderdelen voor de machine verzameld
+<str>I have defeated the Bandit Leader's champion.;<str>Ik heb de kampioen van de Bandit Leader verslagen.
+<str>I have endeavoured to resolve the feud that exists <str>between;<str>Ik heb geprobeerd de vete die bestaat <str>tussen
+<str>I have given the hag the snake. Now she's asking for some;<str>Ik heb de heks de slang gegeven. Nu vraagt ze om wat
+<str>I have given the rum to Redbeard Frank. He has told me that;<str>Ik heb de rum aan Redbeard Frank gegeven. Hij heeft me verteld dat
+<str>I have joined the Menaphites. However I must now prove;<str>Ik ben toegetreden tot de Menaphites. Echter moet ik nu bewijzen
+<str>I have opened the chest in the Blue Moon, and found a note;<str>Ik heb de kist in de Blue Moon geopend, en een brief gevonden
+<str>I have opened the portal.;<str>Ik heb het portaal geopend.
+<str>I have poisoned 'Traitorous Ali's' drink.;<str>Ik heb het drankje van 'Traitorous Ali's' vergiftigd.
+<str>I have repaired the golem.;<str>Ik heb de golem gerepareerd.
+<str>I have retrieved the missing statuette from the Varrock;<str>Ik heb het ontbrekende beeldje uit de Varrock teruggevonden
+<str>I have rid the town of the Menaphite leader.;<str>Ik heb de stad ontdaan van de Menaphite leider.
+<str>I have smuggled some rum off Karamja, and retrieved it from;<str>Ik heb wat rum van Karamja gesmokkeld, en het teruggehaald van

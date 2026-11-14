@@ -635,3 +635,45 @@ You are awarded:;Você recebeu:
 <str><col=ffffff>(<col=800000>96 Fishing<col=000080>, <col=000080><str>76 Strength</str>, <col=000080><str>In Aid of the Myreque</str><col=ffffff>);<str><col=ffffff>(<col=800000>96 Fishing<col=000080>, <col=000080><str>76 Strength</str>, <col=000080><str>In Aid of the Myreque</str><col=ffffff>)
 <str>Craft 56 astral runes from Essence simultaneously from;<str>Crie 56 astral runes simultaneamente a partir de Essence
 <str>Obtain the Blast Furnace Foremans permission to use the;<str>Obtenha a permissão do capataz da Blast Furnace para usar o
+<str>I have collected all the beads.;<str>Coletei todas as contas.
+<str>I have spoken to Wizard Mizgog.;<str>Falei com Wizard Mizgog.
+<str>Wizard Mizgog thanked me for finding his beads and gave me;<str>Wizard Mizgog agradeceu-me por encontrar suas contas e me deu
+<str>an Amulet of Accuracy.;<str>um Amulet of Accuracy.
+<str>I spoke to Emelio in Outer Fortis. He asked me for some help in;<str>Falei com Emelio em Outer Fortis. Ele pediu-me ajuda em
+<str>Lelia arranged a slot for me to enter the Fortis Colosseum;<str>Lelia reservou um horário para eu entrar no Fortis Colosseum
+<str>With the Missing Deliveries sorted, Emelio and I needed to;<str>Com as Missing Deliveries resolvidas, Emelio e eu precisávamos
+<str>With the recipe perfected, Emelio asked me to speak to Lelia;<str>Com a receita aperfeiçoada, Emelio pediu-me para falar com Lelia
+<str>a selection of 'Connoisseurs'.;<str>uma seleção de 'Connoisseurs'.
+<str>advertisement went rogue and I had to defeat it. However, the;<str>o anúncio saiu do controle e eu tive de derrotá-lo. No entanto, o
+<str>and advertise the Kebabs. A Minotaur involved in the;<str>e anunciar os Kebabs. Um Minotauro envolvido no
+<str>at the Fortis Colosseum about marketing the Kebabs to the;<str>no Fortis Colosseum sobre a divulgação dos Kebabs para o
+<str>business that he gained from the advertising and promised;<str>negócio que ele ganhou com a publicidade e prometeu
+<str>crowd was still impressed. Emelio was very happy with the;<str>público ainda ficou impressionado. Emelio ficou muito feliz com o
+<str>people of Varlamore.;<str>povo de Varlamore.
+<str>perfect the recipe for the Kebabs. We did this with the help of;<str>aperfeiçoar a receita dos Kebabs. Fizemos isso com a ajuda de
+<str>setting up Varlamore's first Kebab Shop. To do so, I chased up;<str>abrir a primeira Kebab Shop de Varlamore. Para isso, procurei
+<str>some Missing Deliveries for him.;<str>algumas Missing Deliveries para ele.
+<str>to give me a special price on his Kebabs.;<str>para me dar um preço especial nos seus Kebabs.
+<str>Cast the teleport to Varrock spell.<col=ffffff>(<col=000080><str>25 Magic</str><col=ffffff>);<str>Lance o feitiço de teleporte para Varrock.<col=ffffff>(<col=000080><str>25 Magic</str><col=ffffff>)
+<str>Chop some yew logs in Varrock and burn them at the<br>top of;<str>Corte alguns yew logs em Varrock e queime-os no<br>topo de
+<str>Collect at least 2 yew roots from the Tree patch<br>in Varrock;<str>Colete pelo menos 2 yew roots da Tree patch<br>em Varrock
+<str>Craft 100 or more earth runes simultaneously from;<str>Crie 100 ou mais earth runes simultaneamente a partir de
+<str>Create a super combat potion in Varrock west bank.;<str>Crie uma super combat potion no Varrock west bank.
+<str>Enter the Tolna dungeon after completing A Soul's<br>Bane.<col=ffffff>(<col=000080><str>A Soul's Bane</str><col=ffffff>);<str>Entre na Tolna dungeon após completar A Soul's<br>Bane.<col=ffffff>(<col=000080><str>A Soul's Bane</str><col=ffffff>)
+<str>Essence without the use of Extracts.<col=ffffff>(<col=000080><str>78 Runecraft</str><col=ffffff>);<str>Essence sem o uso de Extracts.<col=ffffff>(<col=000080><str>78 Runecraft</str><col=ffffff>)
+<str>Have the Apothecary in Varrock make you a strength;<str>Peça ao Apothecary em Varrock para fazer-lhe um strength
+<str>Have the Varrock estate agent decorate your house<br>with;<str>Peça ao Varrock estate agent para decorar sua casa<br>com
+<str>Make a Waka Canoe near Edgeville.<col=ffffff>(<col=000080><str>57 Woodcutting</str><col=ffffff>);<str>Faça um Waka Canoe perto de Edgeville.<col=ffffff>(<col=000080><str>57 Woodcutting</str><col=ffffff>)
+<str>Pick a White tree fruit.<col=ffffff>(<col=000080><str>25 Farming</str>, <col=000080><str>Garden of<br>Tranquillity</str><col=ffffff>);<str>Colha um White tree fruit.<col=ffffff>(<col=000080><str>25 Farming</str>, <col=000080><str>Garden of<br>Tranquillity</str><col=ffffff>)
+<str>Smith and fletch ten rune darts within Varrock.;<str>Forje e fabrique dez rune darts em Varrock.
+<str>Speak to Orlando Smith when you have achieved 153;<str>Fale com Orlando Smith quando você tiver alcançado 153
+<str>Squeeze through an obstacle pipe in Edgeville<br>dungeon.;<str>Passe por um tubo de obstáculo no Edgeville<br>dungeon.
+<col=000080>I've found the treasure, gained 2 Quest Points and gained;<col=000080>Eu encontrei o tesouro, ganhei 2 Quest Points e ganhei
+<col=000080>access to the Pay-fare option to travel to and from Karamja!;<col=000080>acesso à opção Pay-fare para viajar de e para Karamja!
+<str><str>become of Ali Morrisane's nephew.;<str><str>tornar-se do sobrinho de Ali Morrisane's nephew.
+<str>A local drunk suggested that Ali's nephew's disappearance;<str>Um bêbado local sugeriu que o desaparecimento do sobrinho de Ali
+<str>After I'd fetched a lot of bones for the Odd Old Man, near the;<str>Depois que eu recolhi muitos ossos para o Odd Old Man, perto do
+<str>After purchasing two camels from 'Ali's Discount <str>Camel;<str>Depois de comprar dois camelos da 'Ali's Discount <str>Camel
+<str>Dr Oddenstein thanked me for helping fix his machine;<str>Dr Oddenstein agradeceu-me por ajudar a consertar sua máquina
+<str>Gertrude gave me my very own pet for a reward.;<str>Gertrude deu-me o meu próprio animal de estimação como recompensa.
+<str>I entered the mayor's house using the key which 'Ali the;<str>Entrei na casa do prefeito usando a chave que 'Ali the

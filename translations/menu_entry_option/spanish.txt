@@ -3376,3 +3376,7 @@ re:^Add friend (.+)$;Agregar amigo $1
 re:^Add ignore (.+)$;Agregar ignorar $1
 re:^Remove-([\d,]+)$;Quitar-$1
 re:^Take-([\d,]+)$;Recoger-$1
+Toggle-warnings;Alternar advertencias
+Change Name;Cambiar nombre
+View Attack on the Wiki;Ver Attack en la Wiki
+View Benefits;Ver beneficios
