@@ -261,3 +261,52 @@ You are awarded:;Du får:
 <str>Craft 56 astral runes from Essence simultaneously from;<str>Tillverka 56 astral runes från Essence samtidigt
 <str>Obtain the Blast Furnace Foremans permission to use the;<str>Skaffa förmannens på Blast Furnace tillstånd att använda den
 <str>altar.<col=ffffff>(<col=000080><str>46 Agility</str>, <col=000080><str>Lost City</str><col=ffffff>);<str>altare.<col=ffffff>(<col=000080><str>46 Agility</str>, <col=000080><str>Lost City</str><col=ffffff>)
+<str>I have collected all the beads.;<str>Jag har samlat alla pärlor.
+<str>I have spoken to Wizard Mizgog.;<str>Jag har pratat med Wizard Mizgog.
+<str>Wizard Mizgog thanked me for finding his beads and gave me;<str>Wizard Mizgog tackade mig för att jag hittade hans pärlor och gav mig
+<str>an Amulet of Accuracy.;<str>en Amulet of Accuracy.
+<str>I spoke to Emelio in Outer Fortis. He asked me for some help in;<str>Jag pratade med Emelio i Outer Fortis. Han bad mig om hjälp i
+<str>Lelia arranged a slot for me to enter the Fortis Colosseum;<str>Lelia ordnade en plats för mig att gå in i Fortis Colosseum
+<str>With the Missing Deliveries sorted, Emelio and I needed to;<str>Med Missing Deliveries ordnade, behövde Emelio och jag
+<str>With the recipe perfected, Emelio asked me to speak to Lelia;<str>Med receptet färdigställt, bad Emelio mig prata med Lelia
+<str>a selection of 'Connoisseurs'.;<str>ett urval av 'Connoisseurs'.
+<str>advertisement went rogue and I had to defeat it. However, the;<str>annonsen gick löpsk och jag var tvungen att besegra den. Men, den
+<str>and advertise the Kebabs. A Minotaur involved in the;<str>och marknadsför Kebabs. En Minotaur involverad i
+<str>at the Fortis Colosseum about marketing the Kebabs to the;<str>vid Fortis Colosseum om marknadsföring av Kebabs till
+<str>business that he gained from the advertising and promised;<str>affär som han fick från annonseringen och lovade
+<str>crowd was still impressed. Emelio was very happy with the;<str>publiken var fortfarande imponerad. Emelio var mycket glad med
+<str>people of Varlamore.;<str>folket i Varlamore.
+<str>perfect the recipe for the Kebabs. We did this with the help of;<str>perfekta receptet för Kebabs. Vi gjorde detta med hjälp av
+<str>setting up Varlamore's first Kebab Shop. To do so, I chased up;<str>att starta Varlamore's första Kebab Shop. För att göra det jag jagade upp
+<str>some Missing Deliveries for him.;<str>några Missing Deliveries för honom.
+<str>to give me a special price on his Kebabs.;<str>för att ge mig ett specialpris på hans Kebabs.
+<str><col=ffffff>(<col=000080><str>50 Smithing</str>, <col=000080><str>Started Between a Rock...</str><col=ffffff>);<str><col=ffffff>(<col=000080><str>50 Smithing</str>, <col=000080><str>Startade Mellan en Sten...</str><col=ffffff>)
+<str><col=ffffff>(<col=000080><str>Started Garden of Tranquillity</str>, <col=000080><str>Gertrude's Cat</str><col=ffffff>);<str><col=ffffff>(<col=000080><str>Startade Garden of Tranquillity</str>, <col=000080><str>Gertrude's Cat</str><col=ffffff>)
+<col=000080>I've found the treasure, gained 2 Quest Points and gained;<col=000080>Jag har hittat skatten, fått 2 Quest Points och fått
+<col=000080>access to the Pay-fare option to travel to and from Karamja!;<col=000080>tillgång till Pay-fare-alternativet för att resa till och från Karamja!
+<str><str>become of Ali Morrisane's nephew.;<str><str>bli av Ali Morrisane's nephew.
+<str>A local drunk suggested that Ali's nephew's disappearance;<str>En lokal fulling föreslog att Ali's nephew's disappearance
+<str>After I'd fetched a lot of bones for the Odd Old Man, near the;<str>Efter att jag hämtat en massa ben för Odd Old Man, nära
+<str>After purchasing two camels from 'Ali's Discount <str>Camel;<str>Efter att ha köpt två kameler från 'Ali's Discount <str>Camel
+<str>Dr Oddenstein thanked me for helping fix his machine;<str>Dr Oddenstein tackade mig för att ha hjälpt till att reparera hans maskin
+<str>Gertrude gave me my very own pet for a reward.;<str>Gertrude gav mig mitt eget husdjur som belöning.
+<str>I entered the mayor's house using the key which 'Ali the;<str>Jag gick in i borgmästarens hus med nyckeln som 'Ali the
+<str>I fed it and returned her missing kitten,;<str>Jag matade den och återlämnade hennes försvunna kattunge,
+<str>I have been <str>given the task of identifying a traitor within the;<str>Jag har blivit <str>tilldelad uppgiften att identifiera en förrädare inom
+<str>I have collected all the parts for the machine;<str>Jag har samlat alla delar till maskinen
+<str>I have defeated the Bandit Leader's champion.;<str>Jag har besegrat Bandit Leader's champion.
+<str>I have endeavoured to resolve the feud that exists <str>between;<str>Jag har försökt lösa fejd som finns <str>mellan
+<str>I have given the hag the snake. Now she's asking for some;<str>Jag har gett häxan ormen. Nu ber hon om lite
+<str>I have given the rum to Redbeard Frank. He has told me that;<str>Jag har gett rom till Redbeard Frank. Han har sagt till mig att
+<str>I have joined the Menaphites. However I must now prove;<str>Jag har gått med i Menaphites. Men jag måste nu bevisa
+<str>I have opened the chest in the Blue Moon, and found a note;<str>Jag har öppnat kistan i Blue Moon, och hittade ett meddelande
+<str>I have opened the portal.;<str>Jag har öppnat portalen.
+<str>I have poisoned 'Traitorous Ali's' drink.;<str>Jag har förgiftat 'Traitorous Ali's' dryck.
+<str>I have repaired the golem.;<str>Jag har reparerat golemmen.
+<str>I have retrieved the missing statuette from the Varrock;<str>Jag har hämtat den saknade statyn från Varrock
+<str>I have rid the town of the Menaphite leader.;<str>Jag har befriat staden från Menaphite-ledaren.
+<str>I have smuggled some rum off Karamja, and retrieved it from;<str>Jag har smugglat lite rom från Karamja, och återfått det från
+<str>I have spoken to Redbeard Frank. He has agreed to tell me the;<str>Jag har pratat med Redbeard Frank. Han har gått med på att berätta för mig
+<str>I have spoken to Veronica;<str>Jag har pratat med Veronica
+<str>I have spoken to the golem.;<str>Jag har pratat med golemmen.
+<str>I have successfully burgled the mayor's house and given 'Ali;<str>Jag har framgångsrikt rånat borgmästarens hus och gett 'Ali
