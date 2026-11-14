@@ -3650,5 +3650,5 @@ Remove-plank;Entfernen-plank
 Information;Informationen
 Toggle-warnings;Warnungen umschalten
 Change Name;Name ändern
-View Attack on the Wiki;Angriff im Wiki ansehen
+View Attack on the Wiki;Attack im Wiki ansehen
 View Benefits;Vorteile ansehen

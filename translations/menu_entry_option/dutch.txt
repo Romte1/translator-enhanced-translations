@@ -3650,5 +3650,5 @@ Create-last;Laatste maken
 Remove-plank;Plank verwijderen
 Toggle-warnings;Waarschuwingen schakelen
 Change Name;Naam wijzigen
-View Attack on the Wiki;Aanval bekijken op de Wiki
+View Attack on the Wiki;Attack bekijken op de wiki
 View Benefits;Voordelen bekijken

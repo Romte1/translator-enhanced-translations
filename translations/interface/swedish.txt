@@ -270,17 +270,17 @@ You are awarded:;Du får:
 <str>With the Missing Deliveries sorted, Emelio and I needed to;<str>Med Missing Deliveries ordnade, behövde Emelio och jag
 <str>With the recipe perfected, Emelio asked me to speak to Lelia;<str>Med receptet färdigställt, bad Emelio mig prata med Lelia
 <str>a selection of 'Connoisseurs'.;<str>ett urval av 'Connoisseurs'.
-<str>advertisement went rogue and I had to defeat it. However, the;<str>annonsen gick löpsk och jag var tvungen att besegra den. Men, den
+<str>advertisement went rogue and I had to defeat it. However, the;<str>annonsen spårade ur och jag var tvungen att besegra den. Men, den
 <str>and advertise the Kebabs. A Minotaur involved in the;<str>och marknadsför Kebabs. En Minotaur involverad i
 <str>at the Fortis Colosseum about marketing the Kebabs to the;<str>vid Fortis Colosseum om marknadsföring av Kebabs till
 <str>business that he gained from the advertising and promised;<str>affär som han fick från annonseringen och lovade
 <str>crowd was still impressed. Emelio was very happy with the;<str>publiken var fortfarande imponerad. Emelio var mycket glad med
 <str>people of Varlamore.;<str>folket i Varlamore.
 <str>perfect the recipe for the Kebabs. We did this with the help of;<str>perfekta receptet för Kebabs. Vi gjorde detta med hjälp av
-<str>setting up Varlamore's first Kebab Shop. To do so, I chased up;<str>att starta Varlamore's första Kebab Shop. För att göra det jag jagade upp
+<str>setting up Varlamore's first Kebab Shop. To do so, I chased up;<str>att starta Varlamore's första Kebab Shop. För att göra det följde jag upp
 <str>some Missing Deliveries for him.;<str>några Missing Deliveries för honom.
 <str>to give me a special price on his Kebabs.;<str>för att ge mig ett specialpris på hans Kebabs.
-<str><col=ffffff>(<col=000080><str>50 Smithing</str>, <col=000080><str>Started Between a Rock...</str><col=ffffff>);<str><col=ffffff>(<col=000080><str>50 Smithing</str>, <col=000080><str>Startade Mellan en Sten...</str><col=ffffff>)
+<str><col=ffffff>(<col=000080><str>50 Smithing</str>, <col=000080><str>Started Between a Rock...</str><col=ffffff>);<str><col=ffffff>(<col=000080><str>50 Smithing</str>, <col=000080><str>Startade Between a Rock...</str><col=ffffff>)
 <str><col=ffffff>(<col=000080><str>Started Garden of Tranquillity</str>, <col=000080><str>Gertrude's Cat</str><col=ffffff>);<str><col=ffffff>(<col=000080><str>Startade Garden of Tranquillity</str>, <col=000080><str>Gertrude's Cat</str><col=ffffff>)
 <col=000080>I've found the treasure, gained 2 Quest Points and gained;<col=000080>Jag har hittat skatten, fått 2 Quest Points och fått
 <col=000080>access to the Pay-fare option to travel to and from Karamja!;<col=000080>tillgång till Pay-fare-alternativet för att resa till och från Karamja!
@@ -294,7 +294,7 @@ You are awarded:;Du får:
 <str>I fed it and returned her missing kitten,;<str>Jag matade den och återlämnade hennes försvunna kattunge,
 <str>I have been <str>given the task of identifying a traitor within the;<str>Jag har blivit <str>tilldelad uppgiften att identifiera en förrädare inom
 <str>I have collected all the parts for the machine;<str>Jag har samlat alla delar till maskinen
-<str>I have defeated the Bandit Leader's champion.;<str>Jag har besegrat Bandit Leader's champion.
+<str>I have defeated the Bandit Leader's champion.;<str>Jag har besegrat Bandit Leaders förkämpe.
 <str>I have endeavoured to resolve the feud that exists <str>between;<str>Jag har försökt lösa fejd som finns <str>mellan
 <str>I have given the hag the snake. Now she's asking for some;<str>Jag har gett häxan ormen. Nu ber hon om lite
 <str>I have given the rum to Redbeard Frank. He has told me that;<str>Jag har gett rom till Redbeard Frank. Han har sagt till mig att

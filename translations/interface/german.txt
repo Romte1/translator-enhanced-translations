@@ -367,21 +367,20 @@ You are awarded:;Du erhältst:
 <str>crowd was still impressed. Emelio was very happy with the;<str>Menge war immer noch beeindruckt. Emelio war sehr zufrieden mit dem
 <str>people of Varlamore.;<str>Volk von Varlamore.
 <str>perfect the recipe for the Kebabs. We did this with the help of;<str>perfektioniere das Rezept für die Kebabs. Wir machten das mit Hilfe von
-<str>setting up Varlamore's first Kebab Shop. To do so, I chased up;<str>bei der Eröffnung von Varlamores erstem Kebab-Laden. Dafür verfolgte ich
+<str>setting up Varlamore's first Kebab Shop. To do so, I chased up;<str>bei der Eröffnung von Varlamores erstem Kebab-Laden. Dafür hakte ich nach
 <str>some Missing Deliveries for him.;<str>einige Missing Deliveries für ihn.
 <str>to give me a special price on his Kebabs.;<str>um mir einen Sonderpreis für seine Kebabs zu geben.
 <str>I spoke to King Bolren who told me that one of their orbs of;<str>Ich sprach mit King Bolren, der mir sagte, dass einer ihrer
 <str>protection has been stolen by Khazard troops.;<str>Schutz wurde von Khazard-Truppen gestohlen.
 Description: <col=ffffff>Kill Glough in less than 2 minutes and 30 seconds.</col>;Beschreibung: <col=ffffff>Töte Glough in weniger als 2 Minuten und 30 Sekunden.</col>
 I started this quest by talking to <col=800000>King Bolren<col=000080> in the <col=800000>Tree Gnome Village<col=000080>.;Ich begann diese Quest, indem ich mit <col=800000>King Bolren<col=000080> im <col=800000>Tree Gnome Village<col=000080> sprach.
-Type: <col=ffffff>Speed</col> <col=dfdfdf>(+4 points)</col>;Typ: <col=ffffff>Speed</col> <col=dfdfdf>(+4 points)</col>
+Type: <col=ffffff>Speed</col> <col=dfdfdf>(+4 points)</col>;Typ: <col=ffffff>Geschwindigkeit</col> <col=dfdfdf>(+4 Punkte)</col>
 You Didn't Say Anything About a Bat;Du hast nichts über eine Fledermaus gesagt.
 You are not prepared;Du bist nicht vorbereitet.
 You have completed Client of Kourend!;Du hast Client of Kourend abgeschlossen!
 You have completed Fight Arena!;Du hast Fight Arena abgeschlossen!
 You have completed The Restless Ghost!;Du hast The Restless Ghost abgeschlossen!
 You have completed Tree Gnome Village!;Du hast Tree Gnome Village abgeschlossen!
-11,450 Attack de XP;11,450 Attack XP
 2 lots of 4,650 XP in Agility,;2 Mal 4,650 XP in Agility,
 <col=000000>Burn some Maple logs with a bow in Seers' Village.;<col=000000>Verbrenne einige Maple logs mit einem Bogen in Seers' Village.
 <col=000000>Buy a Stew from the Seers' pub.;<col=000000>Kaufe einen Stew im Seers' pub.

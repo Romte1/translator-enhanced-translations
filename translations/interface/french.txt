@@ -386,9 +386,9 @@ You have completed Client of Kourend!;Vous avez terminé Client of Kourend!
 <str>protection has been stolen by Khazard troops.;<str>la protection a été volée par les troupes de Khazard.
 Description: <col=ffffff>Kill Glough in less than 2 minutes and 30 seconds.</col>;Description: <col=ffffff>Tuez Glough en moins de 2 minutes et 30 secondes.</col>
 I started this quest by talking to <col=800000>King Bolren<col=000080> in the <col=800000>Tree Gnome Village<col=000080>.;J'ai commencé cette quête en parlant à <col=800000>King Bolren<col=000080> dans le <col=800000>Tree Gnome Village<col=000080>.
-You have completed Fight Arena!;You have completed Fight Arena! => Vous avez terminé Fight Arena !
-You have completed The Restless Ghost!;You have completed The Restless Ghost! => Vous avez terminé The Restless Ghost !
-You have completed Tree Gnome Village!;You have completed Tree Gnome Village! => Vous avez terminé Tree Gnome Village !
+You have completed Fight Arena!;Vous avez terminé Fight Arena !
+You have completed The Restless Ghost!;Vous avez terminé The Restless Ghost !
+You have completed Tree Gnome Village!;Vous avez terminé Tree Gnome Village !
 <col=000000>Burn some Maple logs with a bow in Seers' Village.;<col=000000>Brûlez quelques Maple logs avec un arc dans Seers' Village.
 <col=000000>Buy a Stew from the Seers' pub.;<col=000000>Achetez un Stew au pub des Seers'.
 <col=000000>Buy a candle from the Chandler in Catherby.;<col=000000>Achetez une candle au Chandler à Catherby.

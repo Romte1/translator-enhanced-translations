@@ -328,7 +328,7 @@ Two Times the Torment;Twee keer de Torment
 <str>Gertrude gave me my very own pet for a reward.;<str>Gertrude gaf me mijn eigen huisdier als beloning.
 <str>I entered the mayor's house using the key which 'Ali the;<str>Ik betrad het huis van de burgemeester met de sleutel die 'Ali de
 <str>I fed it and returned her missing kitten,;<str>Ik voedde het en bracht haar vermiste kitten terug,
-<str>I have been <str>given the task of identifying a traitor within the;<str>I have been <str>opdracht gekregen om een verrader binnen de
+<str>I have been <str>given the task of identifying a traitor within the;<str>Ik heb <str>de opdracht gekregen om een verrader binnen de
 <str>I have collected all the parts for the machine;<str>Ik heb alle onderdelen voor de machine verzameld
 <str>I have defeated the Bandit Leader's champion.;<str>Ik heb de kampioen van de Bandit Leader verslagen.
 <str>I have endeavoured to resolve the feud that exists <str>between;<str>Ik heb geprobeerd de vete die bestaat <str>tussen
