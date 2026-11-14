@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "version": "20261109215530",
+  "version": "43550559592",
   "files": {
     "translations/interface/dutch.txt": "781d4933b57a864cee0509038bc92197422a4be3985223bf3ec9138f54ca9cec",
     "translations/interface/finnish.txt": "44e7ec87426fabba2b037d71616f7e3ad3df7548d0c0b5a9b2d66bdea9768de6",
     "translations/interface/french.txt": "afc33785f4b3509559bba38cb15e64c68e154770db948a8201dd32f12f1f1252",
     "translations/interface/german.txt": "691a799f0ea52207b80d0a4f13bdde937915f5cb18a59c35a8c0fd1e1a2057d6",
     "translations/interface/italian.txt": "3704ebcf35d1b58516981fc9659dd51ca2825558df256ea9b14fd0dcd12078b7",
-    "translations/interface/portuguese.txt": "271307aa2fd2e8d3ef3cab0b1fb4e570353302c43059969a2756c038f5881a8c",
+    "translations/interface/portuguese.txt": "ab1f71399a675886b469aaf5bd293a927c564d0577656824f5e5320589aecf08",
     "translations/interface/spanish.txt": "37567f0dc11efba0d6a7f4233c6fd7204de4d3b04c10ceae9e9d14942c35ec8e",
     "translations/interface/swedish.txt": "abafec84efad67e387f8f4eeb838be1276aff83b1565506eee72fd759478a414",
     "translations/menu_entry_option/dutch.txt": "a50388bdc437b6a0463f1c0ba42ce32946af4a057e2a83e21fa207309ed31be2",
@@ -15,7 +15,7 @@
     "translations/menu_entry_option/french.txt": "ec7adc741e57612529ed3a15cf876386463a7699d0fa391b63f27edcc016f610",
     "translations/menu_entry_option/german.txt": "0d362abba61f874ebb4bc4508295273af820905efd8849acd421788d91c0bd77",
     "translations/menu_entry_option/italian.txt": "79b39051bab463cb61cf5679967c8937e0f368a2e4a5095591c9ab4756e41f4d",
-    "translations/menu_entry_option/portuguese.txt": "fce91053802fcb89bfb8f5929e4c86dfd9b9e5bef354dcbf5611abf2f79679d4",
+    "translations/menu_entry_option/portuguese.txt": "b08416bf06ca12c42b94008d22ec064b6d0541d85596e7915ea2a5939cb296ef",
     "translations/menu_entry_option/spanish.txt": "16bd4c344bfa2a6bfb0c5f35325798d3b4bb6dca18edf80d900944fe18e68670",
     "translations/menu_entry_option/swedish.txt": "0d58b2c70ff41c86934edd44c6efa73167e0a1425fc5c47ac00fb1ea9192308b"
   }
