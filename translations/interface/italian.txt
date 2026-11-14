@@ -390,3 +390,46 @@ You are awarded:;Hai ricevuto:
 <str>Obtain the Blast Furnace Foremans permission to use the;<str>Ottieni il permesso del caposquadra della Blast Furnace per usare il
 <str>altar.<col=ffffff>(<col=000080><str>46 Agility</str>, <col=000080><str>Lost City</str><col=ffffff>);<str>altare.<col=ffffff>(<col=000080><str>46 Agility</str>, <col=000080><str>Lost City</str><col=ffffff>)
 You have completed Client of Kourend!;Hai completato Client of Kourend!
+<str>I have collected all the beads.;<str>Ho raccolto tutte le perle.
+<str>I have spoken to Wizard Mizgog.;<str>Ho parlato con Wizard Mizgog.
+<str>Wizard Mizgog thanked me for finding his beads and gave me;<str>Wizard Mizgog mi ha ringraziato per aver trovato le sue perle e mi ha dato
+<str>an Amulet of Accuracy.;<str>un Amulet of Accuracy.
+<str>I spoke to Emelio in Outer Fortis. He asked me for some help in;<str>Ho parlato con Emelio in Outer Fortis. Mi ha chiesto aiuto in
+<str>Lelia arranged a slot for me to enter the Fortis Colosseum;<str>Lelia ha organizzato uno slot per me per entrare nel Fortis Colosseum
+<str>With the Missing Deliveries sorted, Emelio and I needed to;<str>Con le Missing Deliveries sistemate, Emelio e io dovevamo
+<str>With the recipe perfected, Emelio asked me to speak to Lelia;<str>Con la ricetta perfezionata, Emelio mi ha chiesto di parlare con Lelia
+<str>a selection of 'Connoisseurs'.;<str>una selezione di 'Connoisseurs'.
+<str>advertisement went rogue and I had to defeat it. However, the;<str>l'annuncio è impazzito e ho dovuto sconfiggerlo. Tuttavia, il
+<str>and advertise the Kebabs. A Minotaur involved in the;<str>e pubblicizzare i Kebabs. Un Minotauro coinvolto nel
+<str>at the Fortis Colosseum about marketing the Kebabs to the;<str>al Fortis Colosseum sul marketing dei Kebabs verso il
+<str>business that he gained from the advertising and promised;<str>business che ha guadagnato dalla pubblicità e ha promesso
+<str>crowd was still impressed. Emelio was very happy with the;<str>pubblico era ancora impressionato. Emelio era molto felice con il
+<str>people of Varlamore.;<str>popolo di Varlamore.
+<str>perfect the recipe for the Kebabs. We did this with the help of;<str>perfezionare la ricetta dei Kebabs. L'abbiamo fatto con l'aiuto di
+<str>setting up Varlamore's first Kebab Shop. To do so, I chased up;<str>aprendo il primo Kebab Shop di Varlamore. Per farlo, ho rincorso
+<str>some Missing Deliveries for him.;<str>alcune Missing Deliveries per lui.
+<str>to give me a special price on his Kebabs.;<str>per darmi un prezzo speciale sui suoi Kebabs.
+<col=000000>Thorodin south of Rellekka.;<col=000000>Thorodin a sud di Rellekka.
+<col=000080>I've found the treasure, gained 2 Quest Points and gained;<col=000080>Ho trovato il tesoro, guadagnato 2 Quest Points e guadagnato
+<col=000080>access to the Pay-fare option to travel to and from Karamja!;<col=000080>accesso all'opzione Pay-fare per viaggiare da e verso Karamja!
+<str><str>become of Ali Morrisane's nephew.;<str><str>diventare di nipote di Ali Morrisane's nephew.
+<str>A local drunk suggested that Ali's nephew's disappearance;<str>Un ubriaco locale suggerì che la scomparsa del nipote di Ali
+<str>After I'd fetched a lot of bones for the Odd Old Man, near the;<str>Dopo aver raccolto molti ossa per l'Odd Old Man, vicino al
+<str>After purchasing two camels from 'Ali's Discount <str>Camel;<str>Dopo aver acquistato due cammelli da 'Ali's Discount <str>Camel
+<str>Dr Oddenstein thanked me for helping fix his machine;<str>Il dott. Oddenstein mi ha ringraziato per aver aiutato a riparare la sua macchina
+<str>Gertrude gave me my very own pet for a reward.;<str>Gertrude mi ha dato il mio animale domestico per una ricompensa.
+<str>I entered the mayor's house using the key which 'Ali the;<str>Sono entrato nella casa del sindaco usando la chiave che 'Ali the
+<str>I fed it and returned her missing kitten,;<str>L'ho nutrito e ho restituito il suo gattino scomparso,
+<str>I have been <str>given the task of identifying a traitor within the;<str>Sono stato <str>assegnato il compito di identificare un traditore dentro il
+<str>I have collected all the parts for the machine;<str>Ho raccolto tutti i pezzi per la macchina
+<str>I have defeated the Bandit Leader's champion.;<str>Ho sconfitto il campione del Bandit Leader's champion.
+<str>I have endeavoured to resolve the feud that exists <str>between;<str>Ho cercato di risolvere la faida che esiste <str>tra
+<str>I have given the hag the snake. Now she's asking for some;<str>Ho dato alla strega il serpente. Ora chiede qualcosa
+<str>I have given the rum to Redbeard Frank. He has told me that;<str>Ho dato il rum a Redbeard Frank. Mi ha detto che
+<str>I have joined the Menaphites. However I must now prove;<str>Mi sono unito ai Menaphites. Tuttavia ora devo dimostrare
+<str>I have opened the chest in the Blue Moon, and found a note;<str>Ho aperto il forziere nella Blue Moon e ho trovato un biglietto
+<str>I have opened the portal.;<str>Ho aperto il portale.
+<str>I have poisoned 'Traitorous Ali's' drink.;<str>Ho avvelenato la bevanda di 'Traitorous Ali'.
+<str>I have repaired the golem.;<str>Ho riparato il golem.
+<str>I have retrieved the missing statuette from the Varrock;<str>Ho recuperato la statuetta mancante da Varrock
+<str>I have rid the town of the Menaphite leader.;<str>Ho liberato la città dal capo Menaphite.
