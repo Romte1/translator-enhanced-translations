@@ -363,3 +363,42 @@ You have completed Client of Kourend!;Vous avez terminé Client of Kourend!
 2 lots of 4,650 XP in Agility,;2 lots de 4,650 XP in Agility,
 <col=000000>If I ever lose my Ardougne cloak I can speak to Two-pints;<col=000000>Si je perds jamais mon Ardougne cloak je peux parler à Two-pints
 <col=000000>If I ever lose my Kandarin headgear I can speak to The;<col=000000>Si je perds jamais mon Kandarin headgear je peux parler à The
+<str>I have collected all the beads.;<str>J'ai collecté toutes les perles.
+<str>I have spoken to Wizard Mizgog.;<str>J'ai parlé à Wizard Mizgog.
+<str>Wizard Mizgog thanked me for finding his beads and gave me;<str>Wizard Mizgog m'a remercié d'avoir trouvé ses perles et m'a donné
+<str>an Amulet of Accuracy.;<str>un Amulet of Accuracy.
+<str>I spoke to Emelio in Outer Fortis. He asked me for some help in;<str>J'ai parlé à Emelio dans Outer Fortis. Il m'a demandé de l'aide pour
+<str>Lelia arranged a slot for me to enter the Fortis Colosseum;<str>Lelia a réservé un créneau pour que j'entre dans le Fortis Colosseum
+<str>With the Missing Deliveries sorted, Emelio and I needed to;<str>Une fois les Missing Deliveries triées, Emelio et moi devions
+<str>With the recipe perfected, Emelio asked me to speak to Lelia;<str>Avec la recette perfectionnée, Emelio m'a demandé de parler à Lelia
+<str>a selection of 'Connoisseurs'.;<str>une sélection de 'Connoisseurs'.
+<str>advertisement went rogue and I had to defeat it. However, the;<str>la publicité est devenue incontrôlable et j'ai dû la vaincre. Cependant, le
+<str>and advertise the Kebabs. A Minotaur involved in the;<str>et faire la publicité des Kebabs. Un Minotaure impliqué dans le
+<str>at the Fortis Colosseum about marketing the Kebabs to the;<str>au Fortis Colosseum concernant le marketing des Kebabs aux
+<str>business that he gained from the advertising and promised;<str>entreprise qu'il a tirée de la publicité et a promis
+<str>crowd was still impressed. Emelio was very happy with the;<str>la foule était toujours impressionnée. Emelio était très heureux avec le
+<str>people of Varlamore.;<str>les habitants de Varlamore.
+<str>perfect the recipe for the Kebabs. We did this with the help of;<str>perfectionner la recette des Kebabs. Nous l'avons fait avec l'aide de
+<str>setting up Varlamore's first Kebab Shop. To do so, I chased up;<str>mettre en place le premier Kebab Shop de Varlamore. Pour cela, j'ai relancé
+<str>some Missing Deliveries for him.;<str>des Missing Deliveries pour lui.
+<str>to give me a special price on his Kebabs.;<str>pour me donner un prix spécial sur ses Kebabs.
+<str>I spoke to King Bolren who told me that one of their orbs of;<str>J'ai parlé à King Bolren qui m'a dit que l'un de leurs orbes de
+<str>protection has been stolen by Khazard troops.;<str>la protection a été volée par les troupes de Khazard.
+Description: <col=ffffff>Kill Glough in less than 2 minutes and 30 seconds.</col>;Description: <col=ffffff>Tuez Glough en moins de 2 minutes et 30 secondes.</col>
+I started this quest by talking to <col=800000>King Bolren<col=000080> in the <col=800000>Tree Gnome Village<col=000080>.;J'ai commencé cette quête en parlant à <col=800000>King Bolren<col=000080> dans le <col=800000>Tree Gnome Village<col=000080>.
+You have completed Fight Arena!;You have completed Fight Arena! => Vous avez terminé Fight Arena !
+You have completed The Restless Ghost!;You have completed The Restless Ghost! => Vous avez terminé The Restless Ghost !
+You have completed Tree Gnome Village!;You have completed Tree Gnome Village! => Vous avez terminé Tree Gnome Village !
+<col=000000>Burn some Maple logs with a bow in Seers' Village.;<col=000000>Brûlez quelques Maple logs avec un arc dans Seers' Village.
+<col=000000>Buy a Stew from the Seers' pub.;<col=000000>Achetez un Stew au pub des Seers'.
+<col=000000>Buy a candle from the Chandler in Catherby.;<col=000000>Achetez une candle au Chandler à Catherby.
+<col=000000>Catch a Leaping Sturgeon.;<col=000000>Attrapez un Leaping Sturgeon.
+<col=000000>Catch a Mackerel at Catherby.;<col=000000>Attrapez un Mackerel à Catherby.
+<col=000000>Catch and cook a Bass in Catherby.;<col=000000>Attrapez et cuisinez un Bass à Catherby.
+<col=000000>Charge a Water Orb.;<col=000000>Chargez un Water Orb.
+<col=000000>Collect five Flax from the Seers' flax fields.;<col=000000>Collectez cinq Flax des champs de Flax des Seers'.
+<col=000000>Complete a lap of the Barbarian agility course.;<col=000000>Complétez un tour du cours d'agilité Barbarian.
+<col=000000>Complete a lap of the Seers' Village agility course.;<col=000000>Complétez un tour du cours d'agilité du Seers' Village.
+<col=000000>Complete a wave of Barbarian Assault.;<col=000000>Complétez une vague de Barbarian Assault.
+<col=000000>Construct a Pyre ship from Magic Logs.<col=800000>(Requires Chewed;<col=000000>Construisez un Pyre ship à partir de Magic Logs.<col=800000>(Requires Chewed
+<col=000000>Create a Mind helmet.;<col=000000>Créez un Mind helmet.
