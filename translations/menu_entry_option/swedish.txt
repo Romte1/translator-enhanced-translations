@@ -3647,3 +3647,7 @@ Reclaim-items;Återta-föremål
 Align-net;Justera-net
 Create-last;Skapa-sista
 Remove-plank;Ta-bort-plank
+Toggle-warnings;Växla varningar
+Change Name;Byt namn
+View Attack on the Wiki;Visa Attack på wikin
+View Benefits;Visa fördelar
