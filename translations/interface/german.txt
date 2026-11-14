@@ -351,3 +351,39 @@ You are awarded:;Du erhältst:
 <str>Craft 56 astral runes from Essence simultaneously from;<str>Stelle 56 astral runes gleichzeitig aus Essence her
 <str>Obtain the Blast Furnace Foremans permission to use the;<str>Erhalte die Erlaubnis des Vorarbeiters der Blast Furnace, um zu benutzen
 <str>altar.<col=ffffff>(<col=000080><str>46 Agility</str>, <col=000080><str>Lost City</str><col=ffffff>);<str>Altar.<col=ffffff>(<col=000080><str>46 Agility</str>, <col=000080><str>Lost City</str><col=ffffff>)
+<str>I have collected all the beads.;<str>Ich habe alle Perlen gesammelt.
+<str>I have spoken to Wizard Mizgog.;<str>Ich habe mit Wizard Mizgog gesprochen.
+<str>Wizard Mizgog thanked me for finding his beads and gave me;<str>Wizard Mizgog dankte mir für das Finden seiner Perlen und gab mir
+<str>an Amulet of Accuracy.;<str>ein Amulet of Accuracy.
+<str>I spoke to Emelio in Outer Fortis. He asked me for some help in;<str>Ich sprach mit Emelio in Outer Fortis. Er bat mich um Hilfe bei
+<str>Lelia arranged a slot for me to enter the Fortis Colosseum;<str>Lelia arrangierte einen Platz für mich, um das Fortis Colosseum zu betreten
+<str>With the Missing Deliveries sorted, Emelio and I needed to;<str>Nachdem die Missing Deliveries erledigt waren, mussten Emelio und ich
+<str>With the recipe perfected, Emelio asked me to speak to Lelia;<str>Nachdem das Rezept perfektioniert war, bat mich Emelio, mit Lelia zu sprechen
+<str>a selection of 'Connoisseurs'.;<str>eine Auswahl an 'Connoisseurs'.
+<str>advertisement went rogue and I had to defeat it. However, the;<str>Werbung geriet außer Kontrolle und ich musste sie besiegen. Allerdings, die
+<str>and advertise the Kebabs. A Minotaur involved in the;<str>und bewerben die Kebabs. Ein Minotaurus ist beteiligt an dem
+<str>at the Fortis Colosseum about marketing the Kebabs to the;<str>im Fortis Colosseum über das Marketing der Kebabs an die
+<str>business that he gained from the advertising and promised;<str>Geschäft, das er durch die Werbung gewonnen hat und versprochen
+<str>crowd was still impressed. Emelio was very happy with the;<str>Menge war immer noch beeindruckt. Emelio war sehr zufrieden mit dem
+<str>people of Varlamore.;<str>Volk von Varlamore.
+<str>perfect the recipe for the Kebabs. We did this with the help of;<str>perfektioniere das Rezept für die Kebabs. Wir machten das mit Hilfe von
+<str>setting up Varlamore's first Kebab Shop. To do so, I chased up;<str>bei der Eröffnung von Varlamores erstem Kebab-Laden. Dafür verfolgte ich
+<str>some Missing Deliveries for him.;<str>einige Missing Deliveries für ihn.
+<str>to give me a special price on his Kebabs.;<str>um mir einen Sonderpreis für seine Kebabs zu geben.
+<str>I spoke to King Bolren who told me that one of their orbs of;<str>Ich sprach mit King Bolren, der mir sagte, dass einer ihrer
+<str>protection has been stolen by Khazard troops.;<str>Schutz wurde von Khazard-Truppen gestohlen.
+Description: <col=ffffff>Kill Glough in less than 2 minutes and 30 seconds.</col>;Beschreibung: <col=ffffff>Töte Glough in weniger als 2 Minuten und 30 Sekunden.</col>
+I started this quest by talking to <col=800000>King Bolren<col=000080> in the <col=800000>Tree Gnome Village<col=000080>.;Ich begann diese Quest, indem ich mit <col=800000>King Bolren<col=000080> im <col=800000>Tree Gnome Village<col=000080> sprach.
+Type: <col=ffffff>Speed</col> <col=dfdfdf>(+4 points)</col>;Typ: <col=ffffff>Speed</col> <col=dfdfdf>(+4 points)</col>
+You Didn't Say Anything About a Bat;Du hast nichts über eine Fledermaus gesagt.
+You are not prepared;Du bist nicht vorbereitet.
+You have completed Client of Kourend!;Du hast Client of Kourend abgeschlossen!
+You have completed Fight Arena!;Du hast Fight Arena abgeschlossen!
+You have completed The Restless Ghost!;Du hast The Restless Ghost abgeschlossen!
+You have completed Tree Gnome Village!;Du hast Tree Gnome Village abgeschlossen!
+11,450 Attack de XP;11,450 Attack XP
+2 lots of 4,650 XP in Agility,;2 Mal 4,650 XP in Agility,
+<col=000000>Burn some Maple logs with a bow in Seers' Village.;<col=000000>Verbrenne einige Maple logs mit einem Bogen in Seers' Village.
+<col=000000>Buy a Stew from the Seers' pub.;<col=000000>Kaufe einen Stew im Seers' pub.
+<col=000000>Buy a candle from the Chandler in Catherby.;<col=000000>Kaufe eine candle vom Chandler in Catherby.
+<col=000000>Catch a Leaping Sturgeon.;<col=000000>Fange einen Leaping Sturgeon.
