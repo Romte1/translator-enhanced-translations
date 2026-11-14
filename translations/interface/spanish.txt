@@ -1403,3 +1403,41 @@ You have completed Client of Kourend!;¡Has completado Client of Kourend!
 <str>The Mourners blocked the tunnel I used to enter West;<str>Los Mourners bloquearon el túnel que usé para entrar al Oeste
 <str>While helping Jorral to save the Ardougne Outpost, I received;<str>Mientras ayudaba a Jorral a salvar el Ardougne Outpost, recibí
 <str>a strange key from Erin the silver merchant, which used to;<str>una llave extraña de Erin el comerciante de plata, que solía
+<str>I have collected all the beads.;<str>He recogido todas las cuentas.
+<str>I have spoken to Wizard Mizgog.;<str>He hablado con Wizard Mizgog.
+<str>Wizard Mizgog thanked me for finding his beads and gave me;<str>me agradeció por encontrar sus beads y me dio
+<str>an Amulet of Accuracy.;<str>un Amulet of Accuracy.
+<str>I spoke to Emelio in Outer Fortis. He asked me for some help in;<str>Hablé con Emelio en Outer Fortis. Él me pidió ayuda en
+<str>Lelia arranged a slot for me to enter the Fortis Colosseum;<str>Lelia reservó una plaza para que entre al Fortis Colosseum
+<str>With the Missing Deliveries sorted, Emelio and I needed to;<str>Con las Missing Deliveries ordenadas, Emelio y yo necesitábamos
+<str>With the recipe perfected, Emelio asked me to speak to Lelia;<str>Con la receta perfeccionada, Emelio me pidió que hablara con Lelia
+<str>a selection of 'Connoisseurs'.;<str>una selección de 'Connoisseurs'
+<str>advertisement went rogue and I had to defeat it. However, the;<str>el anuncio se volvió rebelde y tuve que derrotarlo. Sin embargo, el
+<str>and advertise the Kebabs. A Minotaur involved in the;<str>y publicita los Kebabs. Un Minotaur involucrado en el
+<str>at the Fortis Colosseum about marketing the Kebabs to the;<str>en el Fortis Colosseum sobre promocionar los Kebabs a
+<str>business that he gained from the advertising and promised;<str>negocio que obtuvo de la publicidad y prometió
+<str>crowd was still impressed. Emelio was very happy with the;<str>la multitud todavía estaba impresionada. Emelio estaba muy feliz con el
+<str>people of Varlamore.;<str>gente de Varlamore.
+<str>perfect the recipe for the Kebabs. We did this with the help of;<str>perfecciona la receta de los Kebabs. Lo hicimos con la ayuda de
+<str>setting up Varlamore's first Kebab Shop. To do so, I chased up;<str>configurando la primera Kebab Shop de Varlamore. Para hacerlo, perseguí up
+<str>some Missing Deliveries for him.;<str>algunas Missing Deliveries para él.
+<str>to give me a special price on his Kebabs.;<str>para darme un precio especial en sus Kebabs.
+<str>I spoke to King Bolren who told me that one of their orbs of;<str>Hablé con King Bolren quien me dijo que uno de sus orbes de
+<str>protection has been stolen by Khazard troops.;<str>la protección ha sido robada por tropas de Khazard.
+Description: <col=ffffff>Kill Glough in less than 2 minutes and 30 seconds.</col>;Description: <col=ffffff>Mata a Glough en menos de 2 minutos y 30 segundos.</col>
+Type: <col=ffffff>Speed</col> <col=dfdfdf>(+4 points)</col>;Type: <col=ffffff>Velocidad</col> <col=dfdfdf>(+4 puntos)</col>
+<str>Falei com King Bolren, que me disse que um de seus orbes de;<str>Hablé con King Bolren, que me dijo que uno de sus orbes de
+<str>belong to his great grandfather. By checking the temperature;<str>pertenecen a su bisabuelo. Al comprobar la temperatura
+<str>buried chest containing a journal.;<str>cofre enterrado que contiene un diario.
+<str>her.;<str>ella.
+<str>into West Ardougne.;<str>hacia West Ardougne.
+<str>of the key as I moved from place to place, I was able to find a;<str>de la llave mientras me desplazaba de un lugar a otro, pude encontrar una
+<str>plague victims in West Ardougne. She's asked me to help her;<str>víctimas de la plaga en West Ardougne. Ella me ha pedido que le ayude
+<str>proteção foi roubado por tropas Khazard.;<str>la protección fue robada por tropas Khazard.
+<str>recover it.;<str>recupérala.
+<str>that he could run his own tests on the Plague Sample.;<str>que él pueda realizar sus propias pruebas sobre la Muestra de la Plaga.
+Ability to make Elemental;Habilidad para crear Elemental
+Ability to make Mind;Habilidad para crear Mind
+Ability to make Throwing Darts;Habilidad para crear Throwing Darts
+Ability to use a Costume;Habilidad para usar un Disfraz
+Access to Morytania;Acceso a Morytania
