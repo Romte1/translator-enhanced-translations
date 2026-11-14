@@ -3648,3 +3648,7 @@ Reclaim-items;Récupérer-objets
 Align-net;Aligner-net
 Create-last;Créer-dernier
 Remove-plank;Retirer-plank
+Toggle-warnings;Basculer les avertissements
+Change Name;Changer le nom
+View Attack on the Wiki;Voir Attack sur le Wiki
+View Benefits;Voir les avantages
