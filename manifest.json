@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "version": "20261114033158",
+  "version": "20261114033229",
   "files": {
     "translations/interface/dutch.txt": "767ddaaa7ae1ae47671117e4700223258b5579420ed5614add32c185f569e188",
-    "translations/interface/finnish.txt": "44e7ec87426fabba2b037d71616f7e3ad3df7548d0c0b5a9b2d66bdea9768de6",
+    "translations/interface/finnish.txt": "88eb6525b24df380e8e6bfcd74d1a91069480acff7a3c902a37266b888367ce4",
     "translations/interface/french.txt": "a096cf8e741622fb2691dbfc3a64ec2f42e19d0bb759248520189f8f826f4578",
     "translations/interface/german.txt": "3e550e24079113b20767152c5531b20bfa51476533609c4a72de2c27b776b725",
     "translations/interface/italian.txt": "967607308c1b227c6f1d068cc79c2bbb2c8a90fdf99b9f539f871ba59ad39807",
@@ -11,7 +11,7 @@
     "translations/interface/spanish.txt": "7ae5f2ca994aa46d493fcdb78ae01710353147b83f1015601895a5dbf5dc79d9",
     "translations/interface/swedish.txt": "abafec84efad67e387f8f4eeb838be1276aff83b1565506eee72fd759478a414",
     "translations/menu_entry_option/dutch.txt": "e11a5c8165488d8a3ff2add145134fc358a2de509cc79c1c683827138c9c7953",
-    "translations/menu_entry_option/finnish.txt": "853d4f2b679cd9513bb1c4c26ce25cd2d5c2b03d46fd9b431480595c63f509bd",
+    "translations/menu_entry_option/finnish.txt": "020ccea6130b13eac61d8f92a7de8f15409a9ad59ba98c06210531c70de6f49c",
     "translations/menu_entry_option/french.txt": "5f750a10ff38a9c50443b26ef17ee504a32c28e6416137cf5325953aaed9ce41",
     "translations/menu_entry_option/german.txt": "36b51a0ac03a47c51afedd05c139972072911e086f0553d4ec75378c5d56209e",
     "translations/menu_entry_option/italian.txt": "86389af3a4714a678ac1365291a11927c04f1fc73952b0a6ddd8899caa50d4c2",

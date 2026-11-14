@@ -3648,3 +3648,7 @@ Reclaim-items;Palauta-items
 Align-net;Tasaa-net
 Create-last;Luo-last
 Remove-plank;Poista-plank
+Toggle-warnings;Vaihda varoituksia
+Change Name;Vaihda nimeä
+View Attack on the Wiki;Katso Attack Wiki
+View Benefits;Katso hyödyt
