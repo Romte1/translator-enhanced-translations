@@ -276,3 +276,52 @@ You are awarded:;Sinulle annetaan:
 <str>Craft 56 astral runes from Essence simultaneously from;<str>Valmista 56 astral runes Essence‑stä samanaikaisesti
 <str>Obtain the Blast Furnace Foremans permission to use the;<str>Hanki Blast Furnace -valimon esimiehen lupa käyttää
 There is no escape!;Ei pakoon!
+<str>I have collected all the beads.;<str>Olen kerännyt kaikki helmet.
+<str>I have spoken to Wizard Mizgog.;<str>Olen puhunut Wizard Mizgogille.
+<str>Wizard Mizgog thanked me for finding his beads and gave me;<str>Wizard Mizgog kiitti minua helmien löytämisestä ja antoi minulle
+<str>an Amulet of Accuracy.;<str>Amulet of Accuracy.
+<str>I spoke to Emelio in Outer Fortis. He asked me for some help in;<str>Puhuin Emeliolle Outer Fortisissa. Hän pyysi minua auttamaan
+<str>Lelia arranged a slot for me to enter the Fortis Colosseum;<str>Lelia järjesti minulle paikan Fortis Colosseumiin
+<str>With the Missing Deliveries sorted, Emelio and I needed to;<str>Kun Missing Deliveries on ratkaistu, Emelio ja minun täytyi
+<str>With the recipe perfected, Emelio asked me to speak to Lelia;<str>Kun resepti on hiottu, Emelio pyysi minua puhumaan Lelialle
+<str>a selection of 'Connoisseurs'.;<str>valikoima 'Connoisseurs'.
+<str>advertisement went rogue and I had to defeat it. However, the;<str>mainos meni kapinaan ja minun täytyi voittaa se. Kuitenkin,
+<str>and advertise the Kebabs. A Minotaur involved in the;<str>ja mainostaa Kebabsia. Minotaurus mukana
+<str>at the Fortis Colosseum about marketing the Kebabs to the;<str>Fortis Colosseumissa markkinoimassa Kebabsia
+<str>business that he gained from the advertising and promised;<str>liiketoimintaa, jonka hän sai mainonnasta ja lupasi
+<str>crowd was still impressed. Emelio was very happy with the;<str>yleisö oli edelleen vaikuttunut. Emelio oli erittäin tyytyväinen
+<str>people of Varlamore.;<str>Varlamoren ihmiset.
+<str>perfect the recipe for the Kebabs. We did this with the help of;<str>hiota Kebabs-resepti. Teimme sen avustuksella
+<str>setting up Varlamore's first Kebab Shop. To do so, I chased up;<str>perustaen Varlamoren ensimmäisen Kebab Shopin. Jotta se tehtiin, loin yhteyden
+<str>some Missing Deliveries for him.;<str>joitakin Missing Deliveries -tehtäviä hänelle.
+<str>to give me a special price on his Kebabs.;<str>antaa minulle erikoishinnan hänen Kebabs-ruokiinsa.
+<col=000080>I've found the treasure, gained 2 Quest Points and gained;<col=000080>Olen löytänyt aarteen, saanut 2 Quest Points ja saanut
+<col=000080>access to the Pay-fare option to travel to and from Karamja!;<col=000080>pääsyn Pay-fare -vaihtoehtoon matkustaa Karamjaan ja sieltä!
+<str><str>become of Ali Morrisane's nephew.;<str><str>tulla Ali Morrisane'n veljenpojaksi.
+<str>A local drunk suggested that Ali's nephew's disappearance;<str>Paikallinen juoppo ehdotti, että Ali'n veljenpojan katoaminen
+<str>After I'd fetched a lot of bones for the Odd Old Man, near the;<str>Kun olin kerännyt paljon luita Odd Old Manille, lähellä
+<str>After purchasing two camels from 'Ali's Discount <str>Camel;<str>Kun ostin kaksi kamelia 'Ali's Discount' <str>Camel
+<str>Dr Oddenstein thanked me for helping fix his machine;<str>Tohtori Oddenstein kiitti minua, että autoin korjaamaan hänen koneensa
+<str>Gertrude gave me my very own pet for a reward.;<str>Gertrude antoi minulle oman lemmikin palkintona.
+<str>I entered the mayor's house using the key which 'Ali the;<str>Pääsin pormestarin taloon käyttäen avainta, jonka 'Ali the
+<str>I fed it and returned her missing kitten,;<str>Ruoksin sen ja palautin hänen kadonneen kissanpentunsa,
+<str>I have been <str>given the task of identifying a traitor within the;<str>Minulle on <str>annettu tehtäväksi tunnistaa petturi ryhmän sisällä
+<str>I have collected all the parts for the machine;<str>Olen kerännyt kaikki koneen osat
+<str>I have defeated the Bandit Leader's champion.;<str>Olen voittanut Bandit Leaderin mestarin.
+<str>I have endeavoured to resolve the feud that exists <str>between;<str>Olen pyrkinyt ratkaisemaan riidan, joka on olemassa <str>välillä
+<str>I have given the hag the snake. Now she's asking for some;<str>Olen antanut noidalle käärmeen. Nyt hän pyytää jotain
+<str>I have given the rum to Redbeard Frank. He has told me that;<str>Olen antanut rommia Redbeard Frankille. Hän on kertonut minulle, että
+<str>I have joined the Menaphites. However I must now prove;<str>Olen liittynyt Menaphiteihin. Kuitenkin minun täytyy nyt todistaa
+<str>I have opened the chest in the Blue Moon, and found a note;<str>Olen avannut arkun Blue Moonissa, ja löytänyt muistiinpanon
+<str>I have opened the portal.;<str>Olen avannut portaalin.
+<str>I have poisoned 'Traitorous Ali's' drink.;<str>Olen myrkyttänyt 'Traitorous Ali's' juoman.
+<str>I have repaired the golem.;<str>Olen korjannut golemin.
+<str>I have retrieved the missing statuette from the Varrock;<str>Olen saanut puuttuvan patsaan Varrockista.
+<str>I have rid the town of the Menaphite leader.;<str>Olen poistanut kaupungista Menaphite‑johtajan.
+<str>I have smuggled some rum off Karamja, and retrieved it from;<str>Olen salakuljettanut hieman rommia Karamjalta ja saanut sen takaisin.
+<str>I have spoken to Redbeard Frank. He has agreed to tell me the;<str>Olen puhunut Redbeard Frankille. Hän on suostunut kertomaan minulle.
+<str>I have spoken to Veronica;<str>Olen puhunut Veronicalle.
+<str>I have spoken to the golem.;<str>Olen puhunut golemille.
+<str>I have successfully burgled the mayor's house and given 'Ali;<str>Olen onnistuneesti ryöstänyt pormestarin talon ja antanut 'Alille.
+<str>I have visited the demon's lair and seen its skeleton.;<str>Olen käynyt demonin luolassa ja nähnyt sen luurangon.
+<str>I helped Gertrude to find her lost cat,;<str>Autoin Gertruden löytämään hänen kadonneen kissansa.

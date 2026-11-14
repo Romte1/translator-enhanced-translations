@@ -3648,3 +3648,7 @@ Reclaim-items;Reclamar-itens
 Align-net;Alinhar-net
 Create-last;Criar-last
 Remove-plank;Remover-plank
+Toggle-warnings;Alternar avisos
+Change Name;Alterar nome
+View Attack on the Wiki;Ver Attack na Wiki
+View Benefits;Ver Benefícios
