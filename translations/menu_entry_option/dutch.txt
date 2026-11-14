@@ -3648,3 +3648,7 @@ Reclaim-items;Items terugvorderen
 Align-net;Net uitlijnen
 Create-last;Laatste maken
 Remove-plank;Plank verwijderen
+Toggle-warnings;Waarschuwingen schakelen
+Change Name;Naam wijzigen
+View Attack on the Wiki;Aanval bekijken op de Wiki
+View Benefits;Voordelen bekijken
