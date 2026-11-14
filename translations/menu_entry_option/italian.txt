@@ -3648,3 +3648,7 @@ Reclaim-items;Riprendi-oggetti
 Align-net;Allinea-net
 Create-last;Crea-ultimo
 Remove-plank;Rimuovi-plank
+Toggle-warnings;Attivare avvisi
+Change Name;Cambiare nome
+View Attack on the Wiki;Visualizzare Attack sul Wiki
+View Benefits;Visualizzare benefici
