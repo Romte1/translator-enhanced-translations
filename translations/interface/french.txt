@@ -402,3 +402,51 @@ You have completed Tree Gnome Village!;Vous avez terminé Tree Gnome Village !
 <col=000000>Complete a wave of Barbarian Assault.;<col=000000>Complétez une vague de Barbarian Assault.
 <col=000000>Construct a Pyre ship from Magic Logs.<col=800000>(Requires Chewed;<col=000000>Construisez un Pyre ship à partir de Magic Logs.<col=800000>(Requires Chewed
 <col=000000>Create a Mind helmet.;<col=000000>Créez un Mind helmet.
+875 Magic de XP;875 Magic XP
+You have completed Imp Catcher;Vous avez terminé Imp Catcher
+You have completed Imp Catcher!;Vous avez terminé Imp Catcher!
+<col=000080>I've found the treasure, gained 2 Quest Points and gained;<col=000080>J'ai trouvé le trésor, gagné 2 Quest Points et gagné
+<col=000080>access to the Pay-fare option to travel to and from Karamja!;<col=000080>accès à l'option Pay-fare pour voyager vers et depuis Karamja!
+<str><str>become of Ali Morrisane's nephew.;<str><str>devenir le neveu d'Ali Morrisane.
+<str>A local drunk suggested that Ali's nephew's disappearance;<str>Un ivrogne local a suggéré que la disparition du neveu d'Ali
+<str>After I'd fetched a lot of bones for the Odd Old Man, near the;<str>Après avoir récupéré beaucoup d'os pour l'Odd Old Man, près du
+<str>After purchasing two camels from 'Ali's Discount <str>Camel;<str>Après avoir acheté deux chameaux chez 'Ali's Discount <str>Camel
+<str>Dr Oddenstein thanked me for helping fix his machine;<str>Dr Oddenstein m'a remercié de l'avoir aidé à réparer sa machine
+<str>Gertrude gave me my very own pet for a reward.;<str>Gertrude m'a donné mon propre animal de compagnie en récompense.
+<str>I entered the mayor's house using the key which 'Ali the;<str>Je suis entré dans la maison du maire en utilisant la clé que 'Ali le
+<str>I fed it and returned her missing kitten,;<str>Je l'ai nourri et rendu son chaton perdu,
+<str>I have been <str>given the task of identifying a traitor within the;<str>J'ai été <str>chargé d'identifier un traître au sein du
+<str>I have collected all the parts for the machine;<str>J'ai rassemblé toutes les pièces de la machine
+<str>I have defeated the Bandit Leader's champion.;<str>J'ai vaincu le champion du chef bandit.
+<str>I have endeavoured to resolve the feud that exists <str>between;<str>J'ai entrepris de résoudre la querelle qui existe <str>entre
+<str>I have given the hag the snake. Now she's asking for some;<str>J'ai donné le serpent à la sorcière. Maintenant elle demande un peu
+<str>I have given the rum to Redbeard Frank. He has told me that;<str>J'ai donné le rhum à Redbeard Frank. Il m'a dit que
+<str>I have joined the Menaphites. However I must now prove;<str>J'ai rejoint les Menaphites. Cependant je dois maintenant prouver
+<str>I have opened the chest in the Blue Moon, and found a note;<str>J'ai ouvert le coffre dans le Blue Moon, et trouvé une note
+<str>I have opened the portal.;<str>J'ai ouvert le portail.
+<str>I have poisoned 'Traitorous Ali's' drink.;<str>J'ai empoisonné la boisson de 'Traitorous Ali'.
+<str>I have repaired the golem.;<str>J'ai réparé le golem.
+<str>I have retrieved the missing statuette from the Varrock;<str>J'ai récupéré la statuette manquante de Varrock
+<str>I have rid the town of the Menaphite leader.;<str>J'ai débarrassé la ville du chef Menaphite.
+<str>I have smuggled some rum off Karamja, and retrieved it from;<str>J'ai fait passer du rhum hors de Karamja, et l'ai récupéré de
+<str>I have spoken to Redbeard Frank. He has agreed to tell me the;<str>J'ai parlé à Redbeard Frank. Il a accepté de me dire le
+<str>I have spoken to Veronica;<str>J'ai parlé à Veronica
+<str>I have spoken to the golem.;<str>J'ai parlé au golem.
+<str>I have successfully burgled the mayor's house and given 'Ali;<str>J'ai cambriolé avec succès la maison du maire et donné à 'Ali
+<str>I have visited the demon's lair and seen its skeleton.;<str>J'ai visité le repaire du démon et vu son squelette.
+<str>I helped Gertrude to find her lost cat,;<str>J'ai aidé Gertrude à retrouver son chat perdu,
+<str>I met with Ali Morrisane, who asked me to travel to;<str>J'ai rencontré Ali Morrisane, qui m'a demandé de voyager vers
+<str>I pick-pocketed the three villagers using a number of;<str>J'ai fait du pickpocket les trois villageois en utilisant un certain nombre de
+<str>I reprogrammed the golem so that it knows its task is;<str>J'ai reprogrammé le golem afin qu'il sache que sa tâche est
+<str>I successfully staked out the house to make sure no one was;<str>J'ai surveillé avec succès la maison pour m'assurer que personne n'était
+<str>I talked to Elissa about the letter from the desert.;<str>J'ai parlé à Elissa au sujet de la lettre du désert.
+<str>I talked to the villagers who informed me that I had caused;<str>J'ai parlé aux villageois qui m'ont informé que j'avais causé
+<str>I told Ali Morrisane about his nephew's fortunes, despite the;<str>J'ai dit à Ali Morrisane les fortunes de son neveu, malgré le
+<str>I told the golem that the demon was dead, but it did not;<str>J'ai dit au golem que le démon était mort, mais il n'a pas
+<str>I took Varmen's notes from the Digsite Exam Centre.;<str>J'ai pris les notes de Varmen du Digsite Exam Centre.
+<str>Limestone Mine, he asked me to fetch some more. They were;<str>Limestone Mine, il m'a demandé d'en récupérer plus. Ils étaient
+<str>Museum and repaired the puzzle in the temple.;<str>Museum et réparé le puzzle dans le temple.
+<str>On reporting my success I was informed that I passed the;<str>En signalant mon succès, on m'a informé que j'avais passé le
+<str>On talking to the leader of the Menaphites he appeared to<str>be;<str>En parlant au chef des Menaphites, il semblait<str>être
+<str>Operator' gave me.;<str>Operator' m'a donné.
+<str>Pollnivneach, a small town to the south of Al Kharid and look;<str>Pollnivneach, une petite ville au sud d'Al Kharid et regarde
