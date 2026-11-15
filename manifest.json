@@ -1,13 +1,13 @@
 {
   "schemaVersion": 1,
-  "version": "20261115122039",
+  "version": "20261115122050",
   "files": {
     "translations/interface/dutch.txt": "883121546f3d9cee8658ea316b3129ae9f1259757e4786de4889f887959f037c",
     "translations/interface/finnish.txt": "88eb6525b24df380e8e6bfcd74d1a91069480acff7a3c902a37266b888367ce4",
     "translations/interface/french.txt": "1db407c404f31695c3ea069c37e6f40a111c738201dbe53c943fc031fae5db5a",
     "translations/interface/german.txt": "cba42d5ba08841db4c7140208f65a210bdf42c48c764220170f0209391145f45",
     "translations/interface/italian.txt": "41fcb8d7375d27a88b8a0e8d98a481ca3eb145e8d9c8cbec68c304fefde55e9f",
-    "translations/interface/portuguese.txt": "ab1f71399a675886b469aaf5bd293a927c564d0577656824f5e5320589aecf08",
+    "translations/interface/portuguese.txt": "3ba85f7f31fc44e453a67e1ea53087dff377f96cc23027d0431f06f36d127089",
     "translations/interface/spanish.txt": "b968c6a537c6757065cd56325f2b3528fa8a284b68d148762a13fdfd9ef1f753",
     "translations/interface/swedish.txt": "c8bca5c85d67e871ca0302fb2b659fff80fac29a0317bc0a55069c5144a75ecd",
     "translations/menu_entry_option/dutch.txt": "1e1054b132db461dc05fa8b830aca240ebdec136ddd1ec5c22b4931a407a7bb8",
@@ -15,7 +15,7 @@
     "translations/menu_entry_option/french.txt": "f28a6aeb581b00305d0bbd36f2c0fab20170b830d26ec41d8175b0c152f0f211",
     "translations/menu_entry_option/german.txt": "490bb21229bb4ba21c2c5c7f2cdf593a8de33637204e225cc51525819a2a8d09",
     "translations/menu_entry_option/italian.txt": "6a8fd81208aa61e5259cdb7bd71f99cc468f8e2c94a9b7e89dc221420ce3ee92",
-    "translations/menu_entry_option/portuguese.txt": "b08416bf06ca12c42b94008d22ec064b6d0541d85596e7915ea2a5939cb296ef",
+    "translations/menu_entry_option/portuguese.txt": "540e7b1e8d12566e4efb2611ca88c8059343f40f6c9227f72446247b2a2eb844",
     "translations/menu_entry_option/spanish.txt": "e7e53414c2b1f3ba42c8e65b4f5e3c7468995d6c8daa459bde416530ffb0ab14",
     "translations/menu_entry_option/swedish.txt": "d80df15f75a9e205c7474eaa42faa30dfee891e3652c35915972e90c66ce4122"
   }
