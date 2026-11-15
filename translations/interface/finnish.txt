@@ -325,3 +325,49 @@ There is no escape!;Ei pakoon!
 <str>I have successfully burgled the mayor's house and given 'Ali;<str>Olen onnistuneesti ryöstänyt pormestarin talon ja antanut 'Alille.
 <str>I have visited the demon's lair and seen its skeleton.;<str>Olen käynyt demonin luolassa ja nähnyt sen luurangon.
 <str>I helped Gertrude to find her lost cat,;<str>Autoin Gertruden löytämään hänen kadonneen kissansa.
+You have completed Imp Catcher;Olet suorittanut Imp Catcher
+You have completed Imp Catcher!;Olet suorittanut Imp Catcher!
+<str>I met with Ali Morrisane, who asked me to travel to;<str>Tapasin Ali Morrisane, joka pyysi minua matkustamaan
+<str>I pick-pocketed the three villagers using a number of;<str>Varastin kolmen kyläläisen taskut käyttäen useita
+<str>I reprogrammed the golem so that it knows its task is;<str>Ohjelmoin golemia uudelleen niin että se tietää tehtävänsä
+<str>I successfully staked out the house to make sure no one was;<str>Väijyin onnistuneesti talon ympärillä varmistaakseni ettei kukaan ollut
+<str>I talked to Elissa about the letter from the desert.;<str>Puhuin Elissan kanssa kirjeestä, joka tuli aavikolta.
+<str>I talked to the villagers who informed me that I had caused;<str>Puhuin kyläläisten kanssa, jotka kertoivat minulle että olin aiheuttanut
+<str>I told Ali Morrisane about his nephew's fortunes, despite the;<str>Kerroin Ali Morrisanelle hänen veljenpoikansa onnen, huolimatta
+<str>I told the golem that the demon was dead, but it did not;<str>Kerroin golemille että demoni oli kuollut, mutta se ei
+<str>I took Varmen's notes from the Digsite Exam Centre.;<str>Otin Varmenin muistiinpanot Digsite Exam Centre -keskuksesta.
+<str>Limestone Mine, he asked me to fetch some more. They were;<str>Limestone Mine, hän pyysi minua hakemaan lisää. Ne olivat
+<str>Museum and repaired the puzzle in the temple.;<str>Museossa ja korjasin pulman temppelissä.
+<str>On reporting my success I was informed that I passed the;<str>Ilmoittaessani onnistumiseni minulle kerrottiin että läpäisin
+<str>On talking to the leader of the Menaphites he appeared to<str>be;<str>Kun puhuin Menaphitien johtajalle, hän vaikutti olevan<str>be
+<str>Operator' gave me.;<str>Operator' antoi minulle.
+<str>Pollnivneach, a small town to the south of Al Kharid and look;<str>Pollnivneach, pieni kaupunki Al Kharidin eteläpuolella ja katso
+<str>Saradomin points to the X which marks the spot.';<str>Saradomin osoittaa X:ään, joka merkitsee paikkaa.
+<str>Store', I gave one to each group.;<str>Store', annoin yhden jokaiselle ryhmälle.
+<str>The camel approach has failed because neither group keeps;<str>Kamelin lähestymistapa on epäonnistunut, koska kumpikaan ryhmä ei pidä
+<str>The golem asked me to open the portal so it could defeat a;<str>Golem pyysi minua avaamaan portaalin, jotta se voisi voittaa
+<str>The hag gave me the poison once I had given her a snake and;<str>Noita antoi minulle myrkyn, kun olin antanut hänelle käärmeen ja
+<str>The local hag agrees to concoct an undetectable poison for;<str>Paikallinen noita suostuu valmistamaan havaitsemattoman myrkyn
+<str>The mayor, out of gratitude for my efforts tells me what has;<str>Pormestari, kiitollisena ponnisteluistani, kertoo minulle mitä on
+<str>The note reads 'Visit the city of the White Knights. In the park,;<str>Muistilapussa lukee 'Vieraile Valkoiset Ritareiden kaupungissa. Puistossa,
+<str>The villagers were still ungrateful despite me defeating both;<str>Kyläläiset olivat edelleen kiittämättömiä, vaikka voitin molemmat
+<str>We turned Ernest back to normal and he rewarded me;<str>Palautimme Ernestin takaisin normaaliksi ja hän palkitsi minut
+<str>a bucket of camel dung.;<str>ämpäri kamelin ulostetta.
+<str>and some information concerning Ali <str>Morrisane's nephew.;<str>ja jotain tietoa Ali <str>Morrisane's nephew.
+<str>believe me!;<str>usko minua!
+<str>complete.;<str>valmis.
+<str>deranged and power-mad.;<str>hulluna ja vallanhimoisena.
+<str>different techniques, some more subtle than others.;<str>eri tekniikoita, joitakin hienovaraisempia kuin toiset.
+<str>failure of <str>the quest's overall goal he seemed more than;<str>epäonnistuminen <str>the quest's overall goal hän vaikutti enemmän kuin
+<str>first stage of my initiation.;<str>aloitukseni ensimmäinen vaihe.
+<str>for his nephew.;<str>hänen veljenpoikansa puolesta.
+<str>fresh camel dung to complete the potion.;<str>tuoretta kamelin ulostetta taikajuoman valmistamiseen.
+<str>gang.;<str>jeng.
+<str>groups and freeing the town from their influence.;<str>ryhmät ja kaupungin vapauttaminen heidän vaikutuksestaan.
+<str>home.;<str>koti.
+<str>inside. I think it will tell me where to dig.;<str>sisällä. Luulen, että se kertoo minulle, missä kaivaa.
+<str>join one of them.;<str>liity johonkin heistä.
+<str>location of some treasure for some Karamja Rum.;<str>aarrepaikka Karamja Rommia varten.
+<str>may be linked to the two gangs that seem to run the town.;<str>voi olla yhteydessä kahteen jengiin, jotka näyttävät hallitsevan kaupunkia.
+<str>me if I bring her the ingredients.;<str>minulle, jos tuon hänelle ainekset.
+<str>myself by pick-pocketing three villagers in Pollnivneach.;<str>itseni ryöstämällä taskusta kolme asukasta Pollnivneachissa.
