@@ -1439,3 +1439,50 @@ Ability to make Mind;Habilidad para crear Mind
 Ability to make Throwing Darts;Habilidad para crear Throwing Darts
 Ability to use a Costume;Habilidad para usar un Disfraz
 Access to Morytania;Acceso a Morytania
+You have completed Imp Catcher;Has completado Imp Catcher
+You have completed Imp Catcher!;¡Has completado Imp Catcher!
+<col=000080>I've found the treasure, gained 2 Quest Points and gained;<col=000080>He encontrado el tesoro, gané 2 Quest Points y gané
+<col=000080>access to the Pay-fare option to travel to and from Karamja!;<col=000080>acceso a la opción Pay-fare para viajar hacia y desde Karamja!
+<str><str>become of Ali Morrisane's nephew.;<str><str>convertido en el sobrino de Ali Morrisane.
+<str>A local drunk suggested that Ali's nephew's disappearance;<str>Un borracho local sugirió que la desaparición del sobrino de Ali
+<str>After I'd fetched a lot of bones for the Odd Old Man, near the;<str>Después de haber recogido muchos huesos para el Odd Old Man, cerca del
+<str>After purchasing two camels from 'Ali's Discount <str>Camel;<str>Después de comprar dos camellos de 'Ali's Discount <str>Camel
+<str>Dr Oddenstein thanked me for helping fix his machine;<str>El Dr Oddenstein me agradeció por ayudar a reparar su máquina
+<str>Gertrude gave me my very own pet for a reward.;<str>Gertrude me dio mi propia mascota como recompensa.
+<str>I entered the mayor's house using the key which 'Ali the;<str>Entré a la casa del alcalde usando la llave que 'Ali el
+<str>I fed it and returned her missing kitten,;<str>Lo alimenté y devolví su gatito desaparecido,
+<str>I have been <str>given the task of identifying a traitor within the;<str>Me han <str>asignado la tarea de identificar a un traidor dentro del
+<str>I have collected all the parts for the machine;<str>He recogido todas las piezas para la máquina
+<str>I have defeated the Bandit Leader's champion.;<str>He derrotado al campeón del líder bandido.
+<str>I have endeavoured to resolve the feud that exists <str>between;<str>He intentado resolver la enemistad que existe <str>entre
+<str>I have given the hag the snake. Now she's asking for some;<str>Le he dado la serpiente a la bruja. Ahora ella pide algo de
+<str>I have given the rum to Redbeard Frank. He has told me that;<str>He dado el rum a Redbeard Frank. Él me ha dicho que
+<str>I have joined the Menaphites. However I must now prove;<str>Me he unido a los Menaphites. Sin embargo ahora debo probar
+<str>I have opened the chest in the Blue Moon, and found a note;<str>He abierto el cofre en la Blue Moon, y he encontrado una nota
+<str>I have opened the portal.;<str>He abierto el portal.
+<str>I have poisoned 'Traitorous Ali's' drink.;<str>He envenenado la bebida de 'Traitorous Ali'.
+<str>I have repaired the golem.;<str>He reparado el golem.
+<str>I have retrieved the missing statuette from the Varrock;<str>He recuperado la estatua faltante de la Varrock
+<str>I have rid the town of the Menaphite leader.;<str>He eliminado al líder Menaphite de la ciudad.
+<str>I have smuggled some rum off Karamja, and retrieved it from;<str>He contrabandeado algo de rum fuera de Karamja, y lo he recuperado de
+<str>I have spoken to Redbeard Frank. He has agreed to tell me the;<str>He hablado con Redbeard Frank. Él ha aceptado decirme el
+<str>I have spoken to Veronica;<str>He hablado con Veronica
+<str>I have spoken to the golem.;<str>He hablado con el golem.
+<str>I have successfully burgled the mayor's house and given 'Ali;<str>He asaltado con éxito la casa del alcalde y dado a 'Ali
+<str>I have visited the demon's lair and seen its skeleton.;<str>He visitado la guarida del demonio y he visto su esqueleto.
+<str>I helped Gertrude to find her lost cat,;<str>Ayudé a Gertrude a encontrar su gato perdido,
+<str>I met with Ali Morrisane, who asked me to travel to;<str>Me reuní con Ali Morrisane, quien me pidió viajar a
+<str>I pick-pocketed the three villagers using a number of;<str>He robado a los tres aldeanos usando un número de
+<str>I reprogrammed the golem so that it knows its task is;<str>He reprogramado el golem para que sepa que su tarea es
+<str>I successfully staked out the house to make sure no one was;<str>He vigilado con éxito la casa para asegurarme de que nadie estaba
+<str>I talked to Elissa about the letter from the desert.;<str>Hablé con Elissa sobre la carta del desierto.
+<str>I talked to the villagers who informed me that I had caused;<str>hablé con los aldeanos que me informaron que había causado
+<str>I told Ali Morrisane about his nephew's fortunes, despite the;<str>le dije a Ali Morrisane sobre la fortuna de su sobrino, a pesar de
+<str>I told the golem that the demon was dead, but it did not;<str>le dije al golem que el demonio estaba muerto, pero no
+<str>I took Varmen's notes from the Digsite Exam Centre.;<str>tomé las notas de Varmen del Digsite Exam Centre.
+<str>Limestone Mine, he asked me to fetch some more. They were;<str>Limestone Mine, me pidió que trajera más. Estaban
+<str>Museum and repaired the puzzle in the temple.;<str>Museum y reparé el puzzle en el templo.
+<str>On reporting my success I was informed that I passed the;<str>Al informar de mi éxito me informaron que había pasado el
+<str>On talking to the leader of the Menaphites he appeared to<str>be;<str>Al hablar con el líder de los Menaphites parecía<str>be
+<str>Operator' gave me.;<str>Operator' me dio.
+<str>Pollnivneach, a small town to the south of Al Kharid and look;<str>Pollnivneach, una pequeña ciudad al sur de Al Kharid y mira
