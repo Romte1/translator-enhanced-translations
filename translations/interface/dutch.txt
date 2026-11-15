@@ -342,3 +342,51 @@ Two Times the Torment;Twee keer de Torment
 <str>I have retrieved the missing statuette from the Varrock;<str>Ik heb het ontbrekende beeldje uit de Varrock teruggevonden
 <str>I have rid the town of the Menaphite leader.;<str>Ik heb de stad ontdaan van de Menaphite leider.
 <str>I have smuggled some rum off Karamja, and retrieved it from;<str>Ik heb wat rum van Karamja gesmokkeld, en het teruggehaald van
+875 Magic de XP;875 Magic XP
+An Amulet of Accuracy;Een Amulet of Accuracy
+You have completed Imp Catcher;Je hebt Imp Catcher voltooid
+You have completed Imp Catcher!;Je hebt Imp Catcher voltooid!
+<str>I have spoken to Redbeard Frank. He has agreed to tell me the;<str>Ik heb met Redbeard Frank gesproken. Hij heeft ingestemd om me te vertellen de
+<str>I have spoken to Veronica;<str>Ik heb met Veronica gesproken
+<str>I have spoken to the golem.;<str>Ik heb met de golem gesproken.
+<str>I have successfully burgled the mayor's house and given 'Ali;<str>Ik heb met succes het huis van de burgemeester geplunderd en 'Ali gegeven
+<str>I have visited the demon's lair and seen its skeleton.;<str>Ik heb het hol van de demon bezocht en het skelet gezien.
+<str>I helped Gertrude to find her lost cat,;<str>Ik heb Gertrude geholpen haar verloren kat te vinden,
+<str>I met with Ali Morrisane, who asked me to travel to;<str>Ik heb Ali Morrisane ontmoet, die me vroeg om te reizen naar
+<str>I pick-pocketed the three villagers using a number of;<str>Ik heb de drie dorpelingen gestolen met een aantal
+<str>I reprogrammed the golem so that it knows its task is;<str>Ik heb de golem geherprogrammeerd zodat hij weet dat zijn taak is
+<str>I successfully staked out the house to make sure no one was;<str>Ik heb met succes het huis in de gaten gehouden om zeker te weten dat niemand was
+<str>I talked to Elissa about the letter from the desert.;<str>Ik sprak met Elissa over de brief uit de woestijn.
+<str>I talked to the villagers who informed me that I had caused;<str>Ik sprak met de dorpelingen die me vertelden dat ik had veroorzaakt
+<str>I told Ali Morrisane about his nephew's fortunes, despite the;<str>Ik vertelde Ali Morrisane over het fortuin van zijn neef, ondanks de
+<str>I told the golem that the demon was dead, but it did not;<str>Ik vertelde de golem dat de demon dood was, maar hij deed het niet
+<str>I took Varmen's notes from the Digsite Exam Centre.;<str>Ik nam Varmen's notities van het Digsite Exam Centre.
+<str>Limestone Mine, he asked me to fetch some more. They were;<str>Limestone Mine, hij vroeg me om nog wat te halen. Ze waren
+<str>Museum and repaired the puzzle in the temple.;<str>Museum en repareerde de puzzel in de tempel.
+<str>On reporting my success I was informed that I passed the;<str>Toen ik mijn succes rapporteerde, kreeg ik te horen dat ik de
+<str>On talking to the leader of the Menaphites he appeared to<str>be;<str>Bij het praten met de leider van de Menaphites leek hij<str>te
+<str>Operator' gave me.;<str>Operator' gaf me.
+<str>Pollnivneach, a small town to the south of Al Kharid and look;<str>Pollnivneach, een klein stadje ten zuiden van Al Kharid en kijk
+<str>Saradomin points to the X which marks the spot.';<str>Saradomin wijst naar de X die de plek markeert.'
+<str>Store', I gave one to each group.;<str>Store', ik gaf er één aan elke groep.
+<str>The camel approach has failed because neither group keeps;<str>De kameelaanpak is mislukt omdat geen van beide groepen behoudt
+<str>The golem asked me to open the portal so it could defeat a;<str>De golem vroeg me het portaal te openen zodat hij een
+<str>The hag gave me the poison once I had given her a snake and;<str>De heks gaf me het gif nadat ik haar een slang had gegeven en
+<str>The local hag agrees to concoct an undetectable poison for;<str>De lokale heks stemt toe een ondetecteerbaar gif te maken voor
+<str>The mayor, out of gratitude for my efforts tells me what has;<str>De burgemeester, uit dankbaarheid voor mijn inspanningen, vertelt me wat er
+<str>The note reads 'Visit the city of the White Knights. In the park,;<str>De notitie luidt 'Bezoek de stad van de White Knights. In het park,
+<str>The villagers were still ungrateful despite me defeating both;<str>De dorpelingen waren nog steeds ondankbaar ondanks dat ik beide
+<str>We turned Ernest back to normal and he rewarded me;<str>We brachten Ernest terug naar normaal en hij beloonde me
+<str>a bucket of camel dung.;<str>een emmer kameelmest.
+<str>and some information concerning Ali <str>Morrisane's nephew.;<str>en wat informatie over Ali <str>Morrisane's neef.
+<str>believe me!;<str>geloof me!
+<str>complete.;<str>voltooid.
+<str>deranged and power-mad.;<str>verward en machtswaanzinnig.
+<str>different techniques, some more subtle than others.;<str>verschillende technieken, sommige subtieler dan andere.
+<str>failure of <str>the quest's overall goal he seemed more than;<str>mislukking van <str>het algehele doel van de quest leek meer dan
+<str>first stage of my initiation.;<str>eerste fase van mijn inwijding.
+<str>for his nephew.;<str>voor zijn neef.
+<str>fresh camel dung to complete the potion.;<str>verse kamelenmest om het drankje te voltooien.
+<str>gang.;<str>bende.
+<str>groups and freeing the town from their influence.;<str>groeperingen en het bevrijden van de stad van hun invloed.
+<str>home.;<str>thuis.
