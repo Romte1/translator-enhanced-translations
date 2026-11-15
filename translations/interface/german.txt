@@ -386,3 +386,51 @@ You have completed Tree Gnome Village!;Du hast Tree Gnome Village abgeschlossen!
 <col=000000>Buy a Stew from the Seers' pub.;<col=000000>Kaufe einen Stew im Seers' pub.
 <col=000000>Buy a candle from the Chandler in Catherby.;<col=000000>Kaufe eine candle vom Chandler in Catherby.
 <col=000000>Catch a Leaping Sturgeon.;<col=000000>Fange einen Leaping Sturgeon.
+<str><col=ffffff>(<col=000080><str>40 Mining</str>, <col=000080><str>Shilo Village or Jungle Potion</str><col=ffffff>);<str><col=ffffff>(<col=000080><str>40 Mining</str>, <col=000080><str>Shilo Village oder Jungle Potion</str><col=ffffff>)
+You have completed Imp Catcher;Du hast Imp Catcher abgeschlossen
+You have completed Imp Catcher!;Du hast Imp Catcher abgeschlossen!
+<col=000080>I've found the treasure, gained 2 Quest Points and gained;<col=000080>Ich habe den Schatz gefunden, 2 Quest Points erhalten und erhalten
+<col=000080>access to the Pay-fare option to travel to and from Karamja!;<col=000080>Zugang zur Pay-fare-Option, um nach Karamja zu reisen und zurück!
+<str><str>become of Ali Morrisane's nephew.;<str><str>werde zu Ali Morrisane's Neffen.
+<str>A local drunk suggested that Ali's nephew's disappearance;<str>Ein örtlicher Betrunkener schlug vor, dass Ali's Neffen verschwunden ist
+<str>After I'd fetched a lot of bones for the Odd Old Man, near the;<str>Nachdem ich viele Knochen für den Odd Old Man gesammelt hatte, in der Nähe des
+<str>After purchasing two camels from 'Ali's Discount <str>Camel;<str>Nachdem ich zwei Kamele von 'Ali's Discount <str>Camel gekauft habe
+<str>Dr Oddenstein thanked me for helping fix his machine;<str>Dr Oddenstein dankte mir, dass ich geholfen habe, seine Maschine zu reparieren
+<str>Gertrude gave me my very own pet for a reward.;<str>Gertrude gab mir als Belohnung mein eigenes Haustier.
+<str>I entered the mayor's house using the key which 'Ali the;<str>Ich betrat das Haus des Bürgermeisters mit dem Schlüssel, den 'Ali the
+<str>I fed it and returned her missing kitten,;<str>Ich fütterte es und brachte ihr vermisstes Kätzchen zurück,
+<str>I have been <str>given the task of identifying a traitor within the;<str>Mir wurde <str>die Aufgabe gegeben, einen Verräter innerhalb des
+<str>I have collected all the parts for the machine;<str>Ich habe alle Teile für die Maschine gesammelt
+<str>I have defeated the Bandit Leader's champion.;<str>Ich habe den Champion des Banditenführers besiegt.
+<str>I have endeavoured to resolve the feud that exists <str>between;<str>Ich habe versucht, die Fehde zu beenden, die existiert <str>zwischen
+<str>I have given the hag the snake. Now she's asking for some;<str>Ich habe der Hexe die Schlange gegeben. Jetzt verlangt sie nach etwas
+<str>I have given the rum to Redbeard Frank. He has told me that;<str>Ich habe den Rum an Redbeard Frank gegeben. Er hat mir gesagt, dass
+<str>I have joined the Menaphites. However I must now prove;<str>Ich bin den Menaphiten beigetreten. Allerdings muss ich jetzt beweisen
+<str>I have opened the chest in the Blue Moon, and found a note;<str>Ich habe die Truhe im Blue Moon geöffnet und eine Notiz gefunden
+<str>I have opened the portal.;<str>Ich habe das Portal geöffnet.
+<str>I have poisoned 'Traitorous Ali's' drink.;<str>Ich habe das Getränk von 'Traitorous Ali' vergiftet.
+<str>I have repaired the golem.;<str>Ich habe den Golem repariert.
+<str>I have retrieved the missing statuette from the Varrock;<str>Ich habe die fehlende Statuette aus dem Varrock zurückgeholt.
+<str>I have rid the town of the Menaphite leader.;<str>Ich habe die Stadt vom Menaphitenführer befreit.
+<str>I have smuggled some rum off Karamja, and retrieved it from;<str>Ich habe etwas Rum von Karamja geschmuggelt und es wiedergefunden von
+<str>I have spoken to Redbeard Frank. He has agreed to tell me the;<str>Ich habe mit Redbeard Frank gesprochen. Er hat zugestimmt, mir das zu erzählen.
+<str>I have spoken to Veronica;<str>Ich habe mit Veronica gesprochen
+<str>I have spoken to the golem.;<str>Ich habe mit dem Golem gesprochen.
+<str>I have successfully burgled the mayor's house and given 'Ali;<str>Ich habe das Haus des Bürgermeisters erfolgreich ausgeraubt und 'Ali gegeben
+<str>I have visited the demon's lair and seen its skeleton.;<str>Ich habe das Versteck des Dämons besucht und sein Skelett gesehen.
+<str>I helped Gertrude to find her lost cat,;<str>Ich half Gertrude, ihre verlorene Katze zu finden,
+<str>I met with Ali Morrisane, who asked me to travel to;<str>Ich traf Ali Morrisane, der mich bat, nach
+<str>I pick-pocketed the three villagers using a number of;<str>Ich habe den drei Dorfbewohnern die Taschen geleert, indem ich eine Anzahl von
+<str>I reprogrammed the golem so that it knows its task is;<str>Ich habe den Golem neu programmiert, damit er weiß, dass seine Aufgabe ist
+<str>I successfully staked out the house to make sure no one was;<str>Ich habe das Haus erfolgreich ausspioniert, um sicherzustellen, dass niemand war
+<str>I talked to Elissa about the letter from the desert.;<str>Ich habe mit Elissa über den Brief aus der Wüste gesprochen.
+<str>I talked to the villagers who informed me that I had caused;<str>Ich sprach mit den Dorfbewohnern, die mir mitteilten, dass ich verursacht hatte
+<str>I told Ali Morrisane about his nephew's fortunes, despite the;<str>Ich erzählte Ali Morrisane von den Schicksalen seines Neffen, trotz des
+<str>I told the golem that the demon was dead, but it did not;<str>Ich sagte dem Golem, dass der Dämon tot sei, aber er tat es nicht
+<str>I took Varmen's notes from the Digsite Exam Centre.;<str>Ich nahm Varmen's notes vom Digsite Exam Centre.
+<str>Limestone Mine, he asked me to fetch some more. They were;<str>Limestone Mine, er bat mich, noch mehr zu holen. Sie waren
+<str>Museum and repaired the puzzle in the temple.;<str>Museum und reparierte das Puzzle im Tempel.
+<str>On reporting my success I was informed that I passed the;<str>Als ich meinen Erfolg meldete, wurde mir mitgeteilt, dass ich die
+<str>On talking to the leader of the Menaphites he appeared to<str>be;<str>Als ich mit dem Anführer der Menaphites sprach, schien er<str>sein
+<str>Operator' gave me.;<str>Operator' gab mir.
+<str>Pollnivneach, a small town to the south of Al Kharid and look;<str>Pollnivneach, eine kleine Stadt südlich von Al Kharid und
