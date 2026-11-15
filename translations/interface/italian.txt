@@ -433,3 +433,49 @@ You have completed Client of Kourend!;Hai completato Client of Kourend!
 <str>I have repaired the golem.;<str>Ho riparato il golem.
 <str>I have retrieved the missing statuette from the Varrock;<str>Ho recuperato la statuetta mancante da Varrock
 <str>I have rid the town of the Menaphite leader.;<str>Ho liberato la città dal capo Menaphite.
+You have completed Imp Catcher;Hai completato Imp Catcher
+You have completed Imp Catcher!;Hai completato Imp Catcher!
+<str>I have smuggled some rum off Karamja, and retrieved it from;<str>Ho contrabbandato del rum da Karamja e l'ho recuperato da
+<str>I have spoken to Redbeard Frank. He has agreed to tell me the;<str>Ho parlato con Redbeard Frank. Ha accettato di dirmi il
+<str>I have spoken to Veronica;<str>Ho parlato con Veronica
+<str>I have spoken to the golem.;<str>Ho parlato con il golem.
+<str>I have successfully burgled the mayor's house and given 'Ali;<str>Ho rapinato con successo la casa del sindaco e dato a 'Ali
+<str>I have visited the demon's lair and seen its skeleton.;<str>Ho visitato la tana del demone e ho visto il suo scheletro.
+<str>I helped Gertrude to find her lost cat,;<str>Ho aiutato Gertrude a trovare il suo gatto smarrito,
+<str>I met with Ali Morrisane, who asked me to travel to;<str>Mi sono incontrato con Ali Morrisane, che mi ha chiesto di viaggiare verso
+<str>I pick-pocketed the three villagers using a number of;<str>Ho borseggiato i tre abitanti usando un numero di
+<str>I reprogrammed the golem so that it knows its task is;<str>Ho riprogrammato il golem affinché sappia che il suo compito è
+<str>I successfully staked out the house to make sure no one was;<str>Ho sorvegliato con successo la casa per assicurarmi che nessuno fosse
+<str>I talked to Elissa about the letter from the desert.;<str>Ho parlato con Elissa della lettera del deserto.
+<str>I talked to the villagers who informed me that I had caused;<str>Ho parlato con gli abitanti che mi hanno informato che avevo causato
+<str>I told Ali Morrisane about his nephew's fortunes, despite the;<str>Ho detto ad Ali Morrisane delle fortune del suo nipote, nonostante il
+<str>I told the golem that the demon was dead, but it did not;<str>Ho detto al golem che il demone era morto, ma non lo
+<str>I took Varmen's notes from the Digsite Exam Centre.;<str>Ho preso gli appunti di Varmen dal Digsite Exam Centre.
+<str>Limestone Mine, he asked me to fetch some more. They were;<str>Limestone Mine, mi ha chiesto di prenderne altri. Erano
+<str>Museum and repaired the puzzle in the temple.;<str>Museum e ho riparato il puzzle nel tempio.
+<str>On reporting my success I was informed that I passed the;<str>Segnalando il mio successo mi è stato detto che ho superato il
+<str>On talking to the leader of the Menaphites he appeared to<str>be;<str>Parlando con il capo dei Menaphites sembrava di<str>essere
+<str>Operator' gave me.;<str>Operator' mi ha dato.
+<str>Pollnivneach, a small town to the south of Al Kharid and look;<str>Pollnivneach, una piccola città a sud di Al Kharid e guarda
+<str>Saradomin points to the X which marks the spot.';<str>Saradomin indica la X che segna il punto.'
+<str>Store', I gave one to each group.;<str>Store', ho dato uno a ogni gruppo.
+<str>The camel approach has failed because neither group keeps;<str>L'approccio camel è fallito perché nessun gruppo mantiene
+<str>The golem asked me to open the portal so it could defeat a;<str>Il golem mi ha chiesto di aprire il portale così potesse sconfiggere un
+<str>The hag gave me the poison once I had given her a snake and;<str>La strega mi ha dato il veleno una volta che le avevo dato un serpente e
+<str>The local hag agrees to concoct an undetectable poison for;<str>La strega locale accetta di preparare un veleno indetectabile per
+<str>The mayor, out of gratitude for my efforts tells me what has;<str>Il sindaco, per gratitudine dei miei sforzi, mi dice cosa ha
+<str>The note reads 'Visit the city of the White Knights. In the park,;<str>La nota dice 'Visita la città dei White Knights. Nel parco,
+<str>The villagers were still ungrateful despite me defeating both;<str>Gli abitanti erano ancora ingrati nonostante avessi sconfitto entrambi
+<str>We turned Ernest back to normal and he rewarded me;<str>Abbiamo riportato Ernest alla normalità e lui mi ha ricompensato
+<str>a bucket of camel dung.;<str>un secchio di camel dung.
+<str>and some information concerning Ali <str>Morrisane's nephew.;<str>e alcune informazioni riguardanti Ali <str>Morrisane's nephew.
+<str>believe me!;<str>credimi!
+<str>complete.;<str>completo.
+<str>demon.;<str>demone.
+<str>deranged and power-mad.;<str>sciocchi e assetati di potere.
+<str>different techniques, some more subtle than others.;<str>tecniche diverse, alcune più sottili di altre.
+<str>failure of <str>the quest's overall goal he seemed more than;<str>fallimento di <str>l'obiettivo complessivo della quest sembrava più
+<str>first stage of my initiation.;<str>prima fase della mia iniziazione.
+<str>for his nephew.;<str>per suo nipote.
+<str>fresh camel dung to complete the potion.;<str>fresca cacca di cammello per completare la pozione.
+<str>groups and freeing the town from their influence.;<str>gruppi e liberare la città dalla loro influenza.
