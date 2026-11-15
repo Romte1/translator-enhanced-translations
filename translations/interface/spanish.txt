@@ -1486,3 +1486,91 @@ You have completed Imp Catcher!;¡Has completado Imp Catcher!
 <str>On talking to the leader of the Menaphites he appeared to<str>be;<str>Al hablar con el líder de los Menaphites parecía<str>ser
 <str>Operator' gave me.;<str>Operator' me dio.
 <str>Pollnivneach, a small town to the south of Al Kharid and look;<str>Pollnivneach, una pequeña ciudad al sur de Al Kharid y busca
+<str>Saradomin points to the X which marks the spot.';<str>Saradomin señala la X que marca el sitio.'
+<str>Store', I gave one to each group.;<str>Store', le di una a cada grupo.
+<str>The camel approach has failed because neither group keeps;<str>El enfoque del camello ha fracasado porque ninguno de los dos grupos mantiene
+<str>The golem asked me to open the portal so it could defeat a;<str>El golem me pidió que abriera el portal para poder derrotar a un
+<str>The hag gave me the poison once I had given her a snake and;<str>La bruja me dio el veneno una vez que le había dado una serpiente y
+<str>The local hag agrees to concoct an undetectable poison for;<str>La bruja local acepta preparar un veneno indetectable para
+<str>The mayor, out of gratitude for my efforts tells me what has;<str>El alcalde, por gratitud a mis esfuerzos, me cuenta lo que ha
+<str>The note reads 'Visit the city of the White Knights. In the park,;<str>La nota dice 'Visita la ciudad de los White Knights. En el parque,
+<str>The villagers were still ungrateful despite me defeating both;<str>Los aldeanos siguieron siendo ingratos a pesar de que derroté a ambos
+<str>We turned Ernest back to normal and he rewarded me;<str>Hicimos que Ernest volviera a la normalidad y me recompensó
+<str>a bucket of camel dung.;<str>un cubo de estiércol de camello.
+<str>and some information concerning Ali <str>Morrisane's nephew.;<str>y algo de información sobre el sobrino de Ali <str>Morrisane.
+<str>believe me!;<str>¡créeme!
+<str>complete.;<str>completo.
+<str>demon.;<str>demonio.
+<str>deranged and power-mad.;<str>desequilibrado y loco de poder.
+<str>different techniques, some more subtle than others.;<str>técnicas diferentes, algunas más sutiles que otras.
+<str>failure of <str>the quest's overall goal he seemed more than;<str>El fracaso del <str>objetivo general de la misión parecía más que
+<str>first stage of my initiation.;<str>primera etapa de mi iniciación.
+<str>for his nephew.;<str>para su sobrino.
+<str>fresh camel dung to complete the potion.;<str>estiércol fresco de camello para completar la poción.
+<str>gang.;<str>banda.
+<str>groups and freeing the town from their influence.;<str>grupos y liberando la ciudad de su influencia.
+<str>home.;<str>casa.
+<str>inside. I think it will tell me where to dig.;<str>dentro. Creo que me dirá dónde cavar.
+<str>join one of them.;<str>unirme a uno de ellos.
+<str>location of some treasure for some Karamja Rum.;<str>ubicación de un tesoro a cambio de un poco de Karamja Rum.
+<str>may be linked to the two gangs that seem to run the town.;<str>puede estar relacionado con las dos bandas que parecen controlar la ciudad.
+<str>me if I bring her the ingredients.;<str>a mí si le llevo los ingredientes.
+<str>myself by pick-pocketing three villagers in Pollnivneach.;<str>a mí mismo robando los bolsillos a tres aldeanos en Pollnivneach.
+<str>satisfied with the outcome.;<str>satisfecho con el resultado.
+<str>the Blue Moon Inn in Varrock.;<str>el Blue Moon Inn en Varrock.
+<str>the Menaphites and the bandits in order to earn <str>their trust;<str>a los Menaphites y a los bandidos para ganarme <str>su confianza
+<str>the Operator' the jewels.;<str>al Operator' las joyas.
+<str>the back room of Wydin's shop.;<str>la trastienda de la tienda de Wydin.
+<str>the treasure is hidden in the chest in the upstairs room of;<str>el tesoro está escondido en el cofre de la habitación de arriba de
+<str>their word. Perhaps I should try being a <str>little more direct and;<str>su palabra. Quizá debería intentar ser <str>un poco más directo y
+<str>them more harm by removing the Menaphite leader.;<str>hacerles más daño eliminando al líder de los Menaphites.
+<str>written on his wish list.;<str>escrito en su lista de deseos.
+I can start this quest by talking to <col=800000>Arianwyn<col=000080> in <col=800000>Lletya<col=000080>.;Puedo empezar esta misión hablando con <col=800000>Arianwyn<col=000080> en <col=800000>Lletya<col=000080>.
+I started this quest by talking to <col=800000>Veronica<col=000080> south of <col=800000>Draynor Manor<col=000080>.;Empecé esta misión hablando con <col=800000>Veronica<col=000080> al sur de <col=800000>Draynor Manor<col=000080>.
+<col=000000>Shantay pass.;<col=000000>Shantay pass.
+I started this quest by talking to <col=800000>King Bolren<col=000080> in the <col=800000>Tree Gnome Village<col=000080>.;Empecé esta misión hablando con <col=800000>King Bolren<col=000080> en el <col=800000>Tree Gnome Village<col=000080>.
+You have completed Fight Arena!;¡Has completado Fight Arena!
+You have completed The Restless Ghost!;¡Has completado The Restless Ghost!
+You have completed Tree Gnome Village!;¡Has completado Tree Gnome Village!
+<col=000000>gauntlets.;<col=000000>gauntlets.
+Access to the;Acceso a la
+Access to the Giants';Acceso a los Giants'
+Description: <col=ffffff>Finish off Hespori with a special attack.</col>;Descripción: <col=ffffff>Remata a Hespori con un ataque especial.</col>
+Description: <col=ffffff>Kill Dagannoth Prime 10 times.</col>;Descripción: <col=ffffff>Mata a Dagannoth Prime 10 veces.</col>
+Description: <col=ffffff>Kill Dagannoth Prime 25 times.</col>;Descripción: <col=ffffff>Mata a Dagannoth Prime 25 veces.</col>
+Description: <col=ffffff>Kill Dagannoth Prime whilst under attack by Dagannoth Supreme and Dagannoth Rex.</col>;Descripción: <col=ffffff>Mata a Dagannoth Prime mientras te atacan Dagannoth Supreme y Dagannoth Rex.</col>
+Description: <col=ffffff>Kill Hespori without losing any prayer points.</col>;Descripción: <col=ffffff>Mata a Hespori sin perder ningún punto de oración.</col>
+Description: <col=ffffff>Kill Prime using a Rune Thrownaxe special attack, bounced off Dagannoth Rex.</col>;Descripción: <col=ffffff>Mata a Prime usando un ataque especial de Rune Thrownaxe que rebote en Dagannoth Rex.</col>
+Description: <col=ffffff>Kill all of Hesporis flowers within 5 seconds.</col>;Descripción: <col=ffffff>Mata todas las flores de Hespori en 5 segundos.</col>
+Description: <col=ffffff>Kill the Hespori in less than 48 seconds.</col>;Descripción: <col=ffffff>Mata a Hespori en menos de 48 segundos.</col>
+Firstly, a piece of mined rune essence needs to be shaped;En primer lugar, hay que dar forma a un trozo de rune essence extraído
+However, it should be noted that this method of shaping;No obstante, cabe señalar que este método de dar forma
+I can start this quest by talking to <col=800000>Betty<col=000080> outside her home in <col=800000>Land's End<col=000080>.;Puedo comenzar esta misión hablando con <col=800000>Betty<col=000080> frente a su casa en <col=800000>Land's End<col=000080>.
+I can start this quest by talking to <col=800000>King Narnode Shareen<col=000080> in the <col=800000>Grand Tree<col=000080> in the <col=800000>Tree Gnome Stronghold<col=000080>.;Puedo comenzar esta misión hablando con <col=800000>King Narnode Shareen<col=000080> en el <col=800000>Grand Tree<col=000080>, en el <col=800000>Tree Gnome Stronghold<col=000080>.
+Once consecrated, the five stones of earth, air, fire,;Una vez consagradas, las cinco piedras de tierra, aire, fuego,
+Secondly, the mystical energies which empower;En segundo lugar, las energías místicas que potencian
+The method involved seems a little complex, but well within;El método empleado parece algo complejo, pero está dentro de
+The page details a method of modifying rune essence into;La página detalla un método para transformar rune essence en
+This page details the channelling method as it pertains to;Esta página detalla el método de canalización en lo relativo a
+This would need to be performed at the properly;Esto tendría que realizarse en el lugar adecuado
+Type: <col=ffffff>Kill Count</col> <col=dfdfdf>(+3 points)</col>;Tipo: <col=ffffff>Recuento de muertes</col> <col=dfdfdf>(+3 puntos)</col>
+Type: <col=ffffff>Mechanical</col> <col=dfdfdf>(+3 points)</col>;Tipo: <col=ffffff>Mecánica</col> <col=dfdfdf>(+3 puntos)</col>
+Type: <col=ffffff>Restriction</col> <col=dfdfdf>(+4 points)</col>;Tipo: <col=ffffff>Restricción</col> <col=dfdfdf>(+4 puntos)</col>
+You have completed Biohazard!;¡Has completado Biohazard!
+You have completed Death on the Isle!;¡Has completado Death on the Isle!
+You have completed Elemental Workshop I!;¡Has completado Elemental Workshop I!
+You have completed Elemental Workshop II!;¡Has completado Elemental Workshop II!
+You have completed Ethically Acquired Antiquities!;¡Has completado Ethically Acquired Antiquities!
+You have completed Hazeel Cult!;¡Has completado Hazeel Cult!
+You have completed Priest in Peril!;¡Has completado Priest in Peril!
+You have completed Sea Slug!;¡Has completado Sea Slug!
+You have completed Shield of Arrav!;¡Has completado Shield of Arrav!
+You have completed Sleeping Giants!;¡Has completado Sleeping Giants!
+You have completed The Knight's Sword!;¡Has completado The Knight's Sword!
+You have completed The Slug Menace!;¡Has completado The Slug Menace!
+You have completed The Tourist Trap!;¡Has completado The Tourist Trap!
+You have completed The Writing's on the Wall!;¡Has completado The Writing's on the Wall!
+You have completed Tree Gnome Village;Has completado Tree Gnome Village
+You have completed Tribal Totem!;¡Has completado Tribal Totem!
+You have completed Wanted!!;¡Has completado Wanted!!
+You have completed the Waterfall Quest!;¡Has completado Waterfall Quest!
