@@ -310,3 +310,50 @@ You are awarded:;Du får:
 <str>I have spoken to Veronica;<str>Jag har pratat med Veronica
 <str>I have spoken to the golem.;<str>Jag har pratat med golemmen.
 <str>I have successfully burgled the mayor's house and given 'Ali;<str>Jag har framgångsrikt rånat borgmästarens hus och gett 'Ali
+An Amulet of Accuracy;En Amulet of Accuracy
+You have completed Imp Catcher;Du har slutfört Imp Catcher
+You have completed Imp Catcher!;Du har slutfört Imp Catcher!
+<str>I have visited the demon's lair and seen its skeleton.;<str>Jag har besökt demonens lya och sett dess skelett.
+<str>I helped Gertrude to find her lost cat,;<str>Jag hjälpte Gertrude att hitta hennes förlorade katt,
+<str>I met with Ali Morrisane, who asked me to travel to;<str>Jag mötte Ali Morrisane, som bad mig resa till
+<str>I pick-pocketed the three villagers using a number of;<str>Jag fick plånböckerna på de tre byborna med ett antal
+<str>I reprogrammed the golem so that it knows its task is;<str>Jag omprogrammerade golemmen så att den vet att dess uppgift är
+<str>I successfully staked out the house to make sure no one was;<str>Jag lyckades hålla vakt vid huset för att försäkra mig om att ingen var
+<str>I talked to Elissa about the letter from the desert.;<str>Jag pratade med Elissa om brevet från öknen.
+<str>I talked to the villagers who informed me that I had caused;<str>Jag pratade med byborna som informerade mig om att jag hade orsakat
+<str>I told Ali Morrisane about his nephew's fortunes, despite the;<str>Jag berättade för Ali Morrisane om hans brorsöns förmögenhet, trots att
+<str>I told the golem that the demon was dead, but it did not;<str>Jag sade till golemmen att demonen var död, men den gjorde inte
+<str>I took Varmen's notes from the Digsite Exam Centre.;<str>Jag tog Varmen's notes från Digsite Exam Centre.
+<str>Limestone Mine, he asked me to fetch some more. They were;<str>Limestone Mine, han bad mig hämta lite mer. De var
+<str>Museum and repaired the puzzle in the temple.;<str>Museum och reparerade pusslet i templet.
+<str>On reporting my success I was informed that I passed the;<str>När jag rapporterade min framgång fick jag veta att jag klarade
+<str>On talking to the leader of the Menaphites he appeared to<str>be;<str>När jag pratade med ledaren för Menaphites verkade han<str>be
+<str>Operator' gave me.;<str>Operator' gav mig.
+<str>Pollnivneach, a small town to the south of Al Kharid and look;<str>Pollnivneach, en liten stad söder om Al Kharid och titta
+<str>Saradomin points to the X which marks the spot.';<str>Saradomin pekar på X som markerar platsen.'
+<str>Store', I gave one to each group.;<str>Store', jag gav en till varje grupp.
+<str>The camel approach has failed because neither group keeps;<str>Kamelmetoden har misslyckats eftersom ingen av grupperna behåller
+<str>The golem asked me to open the portal so it could defeat a;<str>Golemen bad mig öppna portalen så att den kunde besegra en
+<str>The hag gave me the poison once I had given her a snake and;<str>Häxan gav mig giftet när jag hade gett henne en orm och
+<str>The local hag agrees to concoct an undetectable poison for;<str>Den lokala häxan samtycker att blanda ett oupptäckbart gift för
+<str>The mayor, out of gratitude for my efforts tells me what has;<str>Borgmästaren, av tacksamhet för mina ansträngningar, berättar vad som har
+<str>The note reads 'Visit the city of the White Knights. In the park,;<str>Noten lyder 'Besök staden White Knights. I parken,
+<str>The villagers were still ungrateful despite me defeating both;<str>Byborna var fortfarande otacksamma trots att jag besegrade båda
+<str>We turned Ernest back to normal and he rewarded me;<str>Vi återförde Ernest till normal och han belönade mig
+<str>a bucket of camel dung.;<str>en hink med kameldung.
+<str>and some information concerning Ali <str>Morrisane's nephew.;<str>och lite information angående Ali <str>Morrisane's nephew.
+<str>believe me!;<str>tro mig!
+<str>complete.;<str>klar.
+<str>deranged and power-mad.;<str>galen och maktgalen.
+<str>different techniques, some more subtle than others.;<str>olika tekniker, några mer subtila än andra.
+<str>failure of <str>the quest's overall goal he seemed more than;<str>misslyckande av <str>questens övergripande mål han verkade mer än
+<str>first stage of my initiation.;<str>första steget av min initiering.
+<str>for his nephew.;<str>för hans brorson.
+<str>fresh camel dung to complete the potion.;<str>färsk kamelavföring för att slutföra brygden.
+<str>gang.;<str>gäng.
+<str>groups and freeing the town from their influence.;<str>grupper och befriar staden från deras inflytande.
+<str>home.;<str>hem.
+<str>inside. I think it will tell me where to dig.;<str>inuti. Jag tror att den kommer att berätta var jag ska gräva.
+<str>join one of them.;<str>gå med i en av dem.
+<str>location of some treasure for some Karamja Rum.;<str>plats för någon skatt för lite Karamja Rom.
+<str>may be linked to the two gangs that seem to run the town.;<str>kan vara kopplad till de två gängen som verkar styra staden.
