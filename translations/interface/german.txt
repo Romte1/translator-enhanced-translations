@@ -391,8 +391,8 @@ You have completed Imp Catcher;Du hast Imp Catcher abgeschlossen
 You have completed Imp Catcher!;Du hast Imp Catcher abgeschlossen!
 <col=000080>I've found the treasure, gained 2 Quest Points and gained;<col=000080>Ich habe den Schatz gefunden, 2 Quest Points erhalten und erhalten
 <col=000080>access to the Pay-fare option to travel to and from Karamja!;<col=000080>Zugang zur Pay-fare-Option, um nach Karamja zu reisen und zurück!
-<str><str>become of Ali Morrisane's nephew.;<str><str>werde zu Ali Morrisane's Neffen.
-<str>A local drunk suggested that Ali's nephew's disappearance;<str>Ein örtlicher Betrunkener schlug vor, dass Ali's Neffen verschwunden ist
+<str><str>become of Ali Morrisane's nephew.;<str><str>was aus Ali Morrisanes Neffen wird.
+<str>A local drunk suggested that Ali's nephew's disappearance;<str>Ein örtlicher Betrunkener meinte, dass das Verschwinden von Alis Neffen
 <str>After I'd fetched a lot of bones for the Odd Old Man, near the;<str>Nachdem ich viele Knochen für den Odd Old Man gesammelt hatte, in der Nähe des
 <str>After purchasing two camels from 'Ali's Discount <str>Camel;<str>Nachdem ich zwei Kamele von 'Ali's Discount <str>Camel gekauft habe
 <str>Dr Oddenstein thanked me for helping fix his machine;<str>Dr Oddenstein dankte mir, dass ich geholfen habe, seine Maschine zu reparieren
@@ -410,7 +410,7 @@ You have completed Imp Catcher!;Du hast Imp Catcher abgeschlossen!
 <str>I have opened the portal.;<str>Ich habe das Portal geöffnet.
 <str>I have poisoned 'Traitorous Ali's' drink.;<str>Ich habe das Getränk von 'Traitorous Ali' vergiftet.
 <str>I have repaired the golem.;<str>Ich habe den Golem repariert.
-<str>I have retrieved the missing statuette from the Varrock;<str>Ich habe die fehlende Statuette aus dem Varrock zurückgeholt.
+<str>I have retrieved the missing statuette from the Varrock;<str>Ich habe die fehlende Statuette aus Varrock zurückgeholt.
 <str>I have rid the town of the Menaphite leader.;<str>Ich habe die Stadt vom Menaphitenführer befreit.
 <str>I have smuggled some rum off Karamja, and retrieved it from;<str>Ich habe etwas Rum von Karamja geschmuggelt und es wiedergefunden von
 <str>I have spoken to Redbeard Frank. He has agreed to tell me the;<str>Ich habe mit Redbeard Frank gesprochen. Er hat zugestimmt, mir das zu erzählen.

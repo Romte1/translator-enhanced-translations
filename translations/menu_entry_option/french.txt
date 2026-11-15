@@ -3656,4 +3656,4 @@ View Construction on the Wiki;Voir Construction sur le Wiki
 Edit-navigator;Modifier-navigator
 Assign to crew slot 2;Attribuer au poste d'équipage 2
 Clear crew slot 2;Vider le poste d'équipage 2
-Claim-weapons;Revendiquer-weapons
+Claim-weapons;Revendiquer les armes

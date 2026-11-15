@@ -3652,7 +3652,7 @@ Toggle-warnings;Waarschuwingen schakelen
 Change Name;Naam wijzigen
 View Attack on the Wiki;Attack bekijken op de wiki
 View Benefits;Voordelen bekijken
-View Construction on the Wiki;Bekijken Construction on the Wiki
+View Construction on the Wiki;Construction bekijken op de wiki
 Edit-navigator;Bewerken-navigator
 Assign to crew slot 2;Toewijzen aan crew slot 2
 Clear crew slot 2;Leegmaken crew slot 2

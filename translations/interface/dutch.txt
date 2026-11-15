@@ -339,7 +339,7 @@ Two Times the Torment;Twee keer de Torment
 <str>I have opened the portal.;<str>Ik heb het portaal geopend.
 <str>I have poisoned 'Traitorous Ali's' drink.;<str>Ik heb het drankje van 'Traitorous Ali's' vergiftigd.
 <str>I have repaired the golem.;<str>Ik heb de golem gerepareerd.
-<str>I have retrieved the missing statuette from the Varrock;<str>Ik heb het ontbrekende beeldje uit de Varrock teruggevonden
+<str>I have retrieved the missing statuette from the Varrock;<str>Ik heb het ontbrekende beeldje uit Varrock teruggevonden
 <str>I have rid the town of the Menaphite leader.;<str>Ik heb de stad ontdaan van de Menaphite leider.
 <str>I have smuggled some rum off Karamja, and retrieved it from;<str>Ik heb wat rum van Karamja gesmokkeld, en het teruggehaald van
 875 Magic de XP;875 Magic XP
@@ -364,7 +364,7 @@ You have completed Imp Catcher!;Je hebt Imp Catcher voltooid!
 <str>Limestone Mine, he asked me to fetch some more. They were;<str>Limestone Mine, hij vroeg me om nog wat te halen. Ze waren
 <str>Museum and repaired the puzzle in the temple.;<str>Museum en repareerde de puzzel in de tempel.
 <str>On reporting my success I was informed that I passed the;<str>Toen ik mijn succes rapporteerde, kreeg ik te horen dat ik de
-<str>On talking to the leader of the Menaphites he appeared to<str>be;<str>Bij het praten met de leider van de Menaphites leek hij<str>te
+<str>On talking to the leader of the Menaphites he appeared to<str>be;<str>Bij het praten met de leider van de Menaphites leek hij<str>te zijn
 <str>Operator' gave me.;<str>Operator' gaf me.
 <str>Pollnivneach, a small town to the south of Al Kharid and look;<str>Pollnivneach, een klein stadje ten zuiden van Al Kharid en kijk
 <str>Saradomin points to the X which marks the spot.';<str>Saradomin wijst naar de X die de plek markeert.'

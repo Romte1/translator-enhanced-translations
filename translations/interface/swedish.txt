@@ -327,7 +327,7 @@ You have completed Imp Catcher!;Du har slutfört Imp Catcher!
 <str>Limestone Mine, he asked me to fetch some more. They were;<str>Limestone Mine, han bad mig hämta lite mer. De var
 <str>Museum and repaired the puzzle in the temple.;<str>Museum och reparerade pusslet i templet.
 <str>On reporting my success I was informed that I passed the;<str>När jag rapporterade min framgång fick jag veta att jag klarade
-<str>On talking to the leader of the Menaphites he appeared to<str>be;<str>När jag pratade med ledaren för Menaphites verkade han<str>be
+<str>On talking to the leader of the Menaphites he appeared to<str>be;<str>När jag pratade med ledaren för Menaphites verkade han<str>vara
 <str>Operator' gave me.;<str>Operator' gav mig.
 <str>Pollnivneach, a small town to the south of Al Kharid and look;<str>Pollnivneach, en liten stad söder om Al Kharid och titta
 <str>Saradomin points to the X which marks the spot.';<str>Saradomin pekar på X som markerar platsen.'
@@ -341,7 +341,7 @@ You have completed Imp Catcher!;Du har slutfört Imp Catcher!
 <str>The villagers were still ungrateful despite me defeating both;<str>Byborna var fortfarande otacksamma trots att jag besegrade båda
 <str>We turned Ernest back to normal and he rewarded me;<str>Vi återförde Ernest till normal och han belönade mig
 <str>a bucket of camel dung.;<str>en hink med kameldung.
-<str>and some information concerning Ali <str>Morrisane's nephew.;<str>och lite information angående Ali <str>Morrisane's nephew.
+<str>and some information concerning Ali <str>Morrisane's nephew.;<str>och lite information angående Ali <str>Morrisanes brorson.
 <str>believe me!;<str>tro mig!
 <str>complete.;<str>klar.
 <str>deranged and power-mad.;<str>galen och maktgalen.

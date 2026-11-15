@@ -339,7 +339,7 @@ You have completed Imp Catcher!;Olet suorittanut Imp Catcher!
 <str>Limestone Mine, he asked me to fetch some more. They were;<str>Limestone Mine, hän pyysi minua hakemaan lisää. Ne olivat
 <str>Museum and repaired the puzzle in the temple.;<str>Museossa ja korjasin pulman temppelissä.
 <str>On reporting my success I was informed that I passed the;<str>Ilmoittaessani onnistumiseni minulle kerrottiin että läpäisin
-<str>On talking to the leader of the Menaphites he appeared to<str>be;<str>Kun puhuin Menaphitien johtajalle, hän vaikutti olevan<str>be
+<str>On talking to the leader of the Menaphites he appeared to<str>be;<str>Kun puhuin Menaphitien johtajalle, hän vaikutti<str>olevan
 <str>Operator' gave me.;<str>Operator' antoi minulle.
 <str>Pollnivneach, a small town to the south of Al Kharid and look;<str>Pollnivneach, pieni kaupunki Al Kharidin eteläpuolella ja katso
 <str>Saradomin points to the X which marks the spot.';<str>Saradomin osoittaa X:ään, joka merkitsee paikkaa.
@@ -353,12 +353,12 @@ You have completed Imp Catcher!;Olet suorittanut Imp Catcher!
 <str>The villagers were still ungrateful despite me defeating both;<str>Kyläläiset olivat edelleen kiittämättömiä, vaikka voitin molemmat
 <str>We turned Ernest back to normal and he rewarded me;<str>Palautimme Ernestin takaisin normaaliksi ja hän palkitsi minut
 <str>a bucket of camel dung.;<str>ämpäri kamelin ulostetta.
-<str>and some information concerning Ali <str>Morrisane's nephew.;<str>ja jotain tietoa Ali <str>Morrisane's nephew.
+<str>and some information concerning Ali <str>Morrisane's nephew.;<str>ja jotain tietoa Ali <str>Morrisanen veljenpojasta.
 <str>believe me!;<str>usko minua!
 <str>complete.;<str>valmis.
 <str>deranged and power-mad.;<str>hulluna ja vallanhimoisena.
 <str>different techniques, some more subtle than others.;<str>eri tekniikoita, joitakin hienovaraisempia kuin toiset.
-<str>failure of <str>the quest's overall goal he seemed more than;<str>epäonnistuminen <str>the quest's overall goal hän vaikutti enemmän kuin
+<str>failure of <str>the quest's overall goal he seemed more than;<str>epäonnistuminen <str>questin kokonaistavoitteesta hän vaikutti enemmän kuin
 <str>first stage of my initiation.;<str>aloitukseni ensimmäinen vaihe.
 <str>for his nephew.;<str>hänen veljenpoikansa puolesta.
 <str>fresh camel dung to complete the potion.;<str>tuoretta kamelin ulostetta taikajuoman valmistamiseen.

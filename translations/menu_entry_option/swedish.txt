@@ -3655,4 +3655,4 @@ View Construction on the Wiki;Visa Construction på Wiki
 Edit-navigator;Redigera-navigator
 Assign to crew slot 2;Tilldela till besättningsslot 2
 Clear crew slot 2;Rensa besättningsslot 2
-Claim-weapons;Anspråk-weapons
+Claim-weapons;Gör anspråk på vapen

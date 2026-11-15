@@ -459,7 +459,7 @@ You have completed Imp Catcher!;Hai completato Imp Catcher!
 <str>Pollnivneach, a small town to the south of Al Kharid and look;<str>Pollnivneach, una piccola città a sud di Al Kharid e guarda
 <str>Saradomin points to the X which marks the spot.';<str>Saradomin indica la X che segna il punto.'
 <str>Store', I gave one to each group.;<str>Store', ho dato uno a ogni gruppo.
-<str>The camel approach has failed because neither group keeps;<str>L'approccio camel è fallito perché nessun gruppo mantiene
+<str>The camel approach has failed because neither group keeps;<str>L'approccio con i cammelli è fallito perché nessun gruppo mantiene
 <str>The golem asked me to open the portal so it could defeat a;<str>Il golem mi ha chiesto di aprire il portale così potesse sconfiggere un
 <str>The hag gave me the poison once I had given her a snake and;<str>La strega mi ha dato il veleno una volta che le avevo dato un serpente e
 <str>The local hag agrees to concoct an undetectable poison for;<str>La strega locale accetta di preparare un veleno indetectabile per
@@ -467,15 +467,15 @@ You have completed Imp Catcher!;Hai completato Imp Catcher!
 <str>The note reads 'Visit the city of the White Knights. In the park,;<str>La nota dice 'Visita la città dei White Knights. Nel parco,
 <str>The villagers were still ungrateful despite me defeating both;<str>Gli abitanti erano ancora ingrati nonostante avessi sconfitto entrambi
 <str>We turned Ernest back to normal and he rewarded me;<str>Abbiamo riportato Ernest alla normalità e lui mi ha ricompensato
-<str>a bucket of camel dung.;<str>un secchio di camel dung.
-<str>and some information concerning Ali <str>Morrisane's nephew.;<str>e alcune informazioni riguardanti Ali <str>Morrisane's nephew.
+<str>a bucket of camel dung.;<str>un secchio di letame di cammello.
+<str>and some information concerning Ali <str>Morrisane's nephew.;<str>e alcune informazioni riguardanti il nipote di Ali <str>Morrisane.
 <str>believe me!;<str>credimi!
 <str>complete.;<str>completo.
 <str>demon.;<str>demone.
 <str>deranged and power-mad.;<str>sciocchi e assetati di potere.
 <str>different techniques, some more subtle than others.;<str>tecniche diverse, alcune più sottili di altre.
-<str>failure of <str>the quest's overall goal he seemed more than;<str>fallimento di <str>l'obiettivo complessivo della quest sembrava più
+<str>failure of <str>the quest's overall goal he seemed more than;<str>il fallimento <str>dell'obiettivo generale della quest sembrava più
 <str>first stage of my initiation.;<str>prima fase della mia iniziazione.
 <str>for his nephew.;<str>per suo nipote.
-<str>fresh camel dung to complete the potion.;<str>fresca cacca di cammello per completare la pozione.
+<str>fresh camel dung to complete the potion.;<str>letame fresco di cammello per completare la pozione.
 <str>groups and freeing the town from their influence.;<str>gruppi e liberare la città dalla loro influenza.

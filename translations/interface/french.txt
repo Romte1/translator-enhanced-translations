@@ -436,12 +436,12 @@ You have completed Imp Catcher!;Vous avez terminé Imp Catcher!
 <str>I have visited the demon's lair and seen its skeleton.;<str>J'ai visité le repaire du démon et vu son squelette.
 <str>I helped Gertrude to find her lost cat,;<str>J'ai aidé Gertrude à retrouver son chat perdu,
 <str>I met with Ali Morrisane, who asked me to travel to;<str>J'ai rencontré Ali Morrisane, qui m'a demandé de voyager vers
-<str>I pick-pocketed the three villagers using a number of;<str>J'ai fait du pickpocket les trois villageois en utilisant un certain nombre de
+<str>I pick-pocketed the three villagers using a number of;<str>J'ai fouillé les poches des trois villageois en utilisant un certain nombre de
 <str>I reprogrammed the golem so that it knows its task is;<str>J'ai reprogrammé le golem afin qu'il sache que sa tâche est
 <str>I successfully staked out the house to make sure no one was;<str>J'ai surveillé avec succès la maison pour m'assurer que personne n'était
 <str>I talked to Elissa about the letter from the desert.;<str>J'ai parlé à Elissa au sujet de la lettre du désert.
 <str>I talked to the villagers who informed me that I had caused;<str>J'ai parlé aux villageois qui m'ont informé que j'avais causé
-<str>I told Ali Morrisane about his nephew's fortunes, despite the;<str>J'ai dit à Ali Morrisane les fortunes de son neveu, malgré le
+<str>I told Ali Morrisane about his nephew's fortunes, despite the;<str>J'ai parlé à Ali Morrisane des fortunes de son neveu, malgré le
 <str>I told the golem that the demon was dead, but it did not;<str>J'ai dit au golem que le démon était mort, mais il n'a pas
 <str>I took Varmen's notes from the Digsite Exam Centre.;<str>J'ai pris les notes de Varmen du Digsite Exam Centre.
 <str>Limestone Mine, he asked me to fetch some more. They were;<str>Limestone Mine, il m'a demandé d'en récupérer plus. Ils étaient
