@@ -1594,3 +1594,56 @@ Description: <col=ffffff>Kill Hespori 5 times.</col>;Descripción: <col=ffffff>D
 Description: <col=ffffff>Kill the Hespori in less than 36 seconds.</col>;Descripción: <col=ffffff>Derrota al Hespori en menos de 36 segundos.</col>
 I can start this quest by talking to <col=800000>Larry<col=000080> at the <col=800000>East Ardougne Zoo<col=000080>.;Puedo empezar esta misión hablando con <col=800000>Larry<col=000080> en el <col=800000>East Ardougne Zoo<col=000080>.
 Type: <col=ffffff>Speed</col> <col=dfdfdf>(+5 points)</col>;Tipo: <col=ffffff>Velocidad</col> <col=dfdfdf>(+5 puntos)</col>
+Description: <col=ffffff>Attack Tempoross from both sides by loading both cannons on both ships.</col>;Descripción: <col=ffffff>Ataca a Tempoross desde ambos lados cargando los dos cañones de ambos barcos.</col>
+Description: <col=ffffff>Extinguish at least 5 fires during a single Tempoross fight.</col>;Descripción: <col=ffffff>Extingue al menos 5 incendios durante una sola pelea contra Tempoross.</col>
+Description: <col=ffffff>Finish off Scurrius with a ratbane weapon in a private instance.</col>;Descripción: <col=ffffff>Acaba con Scurrius usando un arma mataratas en una instancia privada.</col>
+Description: <col=ffffff>Finish off a Greater Demon with a demonbane weapon.</col>;Descripción: <col=ffffff>Acaba con un Greater Demon usando un arma matademonios.</col>
+Description: <col=ffffff>Heal a pyromancer after they have fallen.</col>;Descripción: <col=ffffff>Sana a un Pyromancer después de que haya caído.</col>
+Description: <col=ffffff>Kill Dagannoth Rex 10 times.</col>;Descripción: <col=ffffff>Mata a Dagannoth Rex 10 veces.</col>
+Description: <col=ffffff>Kill Dagannoth Supreme 10 times.</col>;Descripción: <col=ffffff>Mata a Dagannoth Supreme 10 veces.</col>
+Description: <col=ffffff>Kill Obor on a free to play world.</col>;Descripción: <col=ffffff>Mata a Obor en un mundo free to play.</col>
+Description: <col=ffffff>Kill Obor whilst he is immobilized.</col>;Descripción: <col=ffffff>Mata a Obor mientras está inmovilizado.</col>
+Description: <col=ffffff>Kill Obor without being pushed back more than one square by his knockback attack.</col>;Descripción: <col=ffffff>Mata a Obor sin que su ataque de empuje te desplace más de una casilla.</col>
+Description: <col=ffffff>Kill Obor without taking any damage off prayer.</col>;Descripción: <col=ffffff>Mata a Obor sin recibir daño fuera de prayer.</col>
+Description: <col=ffffff>Kill Sarachnis 10 times.</col>;Descripción: <col=ffffff>Mata a Sarachnis 10 veces.</col>
+Description: <col=ffffff>Kill Sarachnis 25 times.</col>;Descripción: <col=ffffff>Mata a Sarachnis 25 veces.</col>
+Description: <col=ffffff>Kill Sarachnis with a crush weapon.</col>;Descripción: <col=ffffff>Mata a Sarachnis con un arma de tipo crush.</col>
+Description: <col=ffffff>Kill Skotizo once.</col>;Descripción: <col=ffffff>Mata a Skotizo una vez.</col>
+Description: <col=ffffff>Kill a Fire Giant.</col>;Descripción: <col=ffffff>Mata a un Fire Giant.</col>
+Description: <col=ffffff>Kill a Gargoyle.</col>;Descripción: <col=ffffff>Mata a un Gargoyle.</col>
+Description: <col=ffffff>Kill a Greater Demon.</col>;Descripción: <col=ffffff>Mata a un Greater Demon.</col>
+Description: <col=ffffff>Kill a Hellhound.</col>;Descripción: <col=ffffff>Mata a un Hellhound.</col>
+Description: <col=ffffff>Kill a Hill Giant, Moss Giant and Fire Giant in the Giant Cave within the Shayzien region.</col>;Descripción: <col=ffffff>Mata a un Hill Giant, un Moss Giant y un Fire Giant en la Giant Cave, dentro de la región de Shayzien.</col>
+Description: <col=ffffff>Kill a Kurask.</col>;Descripción: <col=ffffff>Mata a un Kurask.</col>
+Description: <col=ffffff>Kill a Lizardman Shaman.</col>;Descripción: <col=ffffff>Mata a un Lizardman Shaman.</col>
+Description: <col=ffffff>Kill a Skeletal Wyvern</col>;Descripción: <col=ffffff>Mata a un Skeletal Wyvern</col>
+Description: <col=ffffff>Kill a Wyrm.</col>;Descripción: <col=ffffff>Mata a un Wyrm.</col>
+Description: <col=ffffff>Kill one Titan at a time, without attacking the other.</col>;Descripción: <col=ffffff>Mata a un Titan a la vez, sin atacar al otro.</col>
+Description: <col=ffffff>Kill the Crazy Archaeologist with only magical attacks.</col>;Descripción: <col=ffffff>Mata al Crazy Archaeologist usando solo ataques mágicos.</col>
+Description: <col=ffffff>Kill the Crazy Archaeologist without anyone being hit by his "Rain of Knowledge" attack.</col>;Descripción: <col=ffffff>Mata al Crazy Archaeologist sin que nadie reciba su ataque "Rain of Knowledge".</col>
+Description: <col=ffffff>Kill the Deranged Archaeologist 10 times.</col>;Descripción: <col=ffffff>Mata al Deranged Archaeologist 10 veces.</col>
+Description: <col=ffffff>Kill the Deranged Archaeologist 25 times.</col>;Descripción: <col=ffffff>Mata al Deranged Archaeologist 25 veces.</col>
+Description: <col=ffffff>Kill the Deranged Archaeologist without anyone being hit by his "Learn to Read" attack.</col>;Descripción: <col=ffffff>Mata al Deranged Archaeologist sin que nadie reciba su ataque "Learn to Read".</col>
+Description: <col=ffffff>Kill the Giant Mole 10 times.</col>;Descripción: <col=ffffff>Mata a la Giant Mole 10 veces.</col>
+Description: <col=ffffff>Kill the Giant Mole without her damaging anyone.</col>;Descripción: <col=ffffff>Mata a la Giant Mole sin que ella dañe a nadie.</col>
+Description: <col=ffffff>Kill the Giant mole 25 times.</col>;Descripción: <col=ffffff>Mata a la Giant mole 25 veces.</col>
+Description: <col=ffffff>Kill the King Black Dragon 10 times.</col>;Descripción: <col=ffffff>Mata al King Black Dragon 10 veces.</col>
+Description: <col=ffffff>Kill the King Black Dragon 25 times.</col>;Descripción: <col=ffffff>Mata al King Black Dragon 25 veces.</col>
+Description: <col=ffffff>Kill the King Black Dragon with a stab weapon.</col>;Descripción: <col=ffffff>Mata al King Black Dragon con un arma de estocada.</col>
+Description: <col=ffffff>Kill the King Black Dragon with an antifire potion active and an antidragon shield equipped.</col>;Descripción: <col=ffffff>Mata al King Black Dragon con una antifire potion activa y un antidragon shield equipado.</col>
+Description: <col=ffffff>Kill the Royal Titans while having them kill a total of 10 elementals.</col>;Descripción: <col=ffffff>Mata a los Royal Titans mientras dejas que maten a un total de 10 elementales.</col>
+Description: <col=ffffff>Kill the Royal Titans without attacking any elementals.</col>;Descripción: <col=ffffff>Mata a los Royal Titans sin atacar a ningún elemental.</col>
+Description: <col=ffffff>Kill the Shellbane Gryphon 25 times.</col>;Descripción: <col=ffffff>Mata al Shellbane Gryphon 25 veces.</col>
+Description: <col=ffffff>Kill the Shellbane Gryphon after clearing its corrosive spit from your armour.</col>;Descripción: <col=ffffff>Mata al Shellbane Gryphon después de limpiar su saliva corrosiva de tu armadura.</col>
+Description: <col=ffffff>Open Obor's chest once.</col>;Descripción: <col=ffffff>Abre el cofre de Obor una vez.</col>
+Description: <col=ffffff>Repair a brazier which has been destroyed by the Wintertodt.</col>;Descripción: <col=ffffff>Repara un brasero que haya sido destruido por el Wintertodt.</col>
+Description: <col=ffffff>Repair either a mast or a totem pole.</col>;Descripción: <col=ffffff>Repara un mástil o un tótem.</col>
+Description: <col=ffffff>Subdue Tempoross 5 times.</col>;Descripción: <col=ffffff>Somete a Tempoross 5 veces.</col>
+Description: <col=ffffff>Subdue the Wintertodt 10 times.</col>;Descripción: <col=ffffff>Somete al Wintertodt 10 veces.</col>
+Description: <col=ffffff>Subdue the Wintertodt 5 times.</col>;Descripción: <col=ffffff>Somete al Wintertodt 5 veces.</col>
+Description: <col=ffffff>Subdue the Wintertodt with four pieces of warm equipment equipped.</col>;Descripción: <col=ffffff>Somete al Wintertodt con cuatro piezas de equipo cálido equipadas.</col>
+Description: <col=ffffff>Subdue the Wintertodt without allowing all 4 braziers to be broken at the same time.</col>;Descripción: <col=ffffff>Somete al Wintertodt sin permitir que los 4 braseros estén rotos al mismo tiempo.</col>
+I can start this quest by talking to <col=800000>Elias White<col=000080> in the <col=800000>Jolly Boar Inn<col=000080> north east of <col=800000>Varrock<col=000080>.;Puedo empezar esta misión hablando con <col=800000>Elias White<col=000080> en la <col=800000>Jolly Boar Inn<col=000080> al noreste de <col=800000>Varrock<col=000080>.
+I can start this quest by talking to <col=800000>Elias White<col=000080> in the <col=800000>Uzer Oasis<col=000080>.;Puedo empezar esta misión hablando con <col=800000>Elias White<col=000080> en el <col=800000>Uzer Oasis<col=000080>.
+I can start this quest by talking to <col=800000>Lord Kandur Hosidius<col=000080> at his home in <col=800000>Hosidius<col=000080>.;Puedo empezar esta misión hablando con <col=800000>Lord Kandur Hosidius<col=000080> en su casa en <col=800000>Hosidius<col=000080>.
+I can start this quest by talking to <col=800000>Veliaf Hurtz<col=000080> in the <col=800000>Myreque Hideout<col=000080> beneath <col=800000>Burgh de Rott<col=000080>.;Puedo empezar esta misión hablando con <col=800000>Veliaf Hurtz<col=000080> en el <col=800000>Myreque Hideout<col=000080> bajo <col=800000>Burgh de Rott<col=000080>.
