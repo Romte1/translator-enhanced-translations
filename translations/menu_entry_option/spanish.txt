@@ -3380,3 +3380,8 @@ Toggle-warnings;Alternar advertencias
 Change Name;Cambiar nombre
 View Attack on the Wiki;Ver Attack en la Wiki
 View Benefits;Ver beneficios
+View Construction on the Wiki;Ver Construction on the Wiki
+Edit-navigator;Editar-navigator
+Assign to crew slot 2;Asignar a crew slot 2
+Clear crew slot 2;Limpiar crew slot 2
+Claim-weapons;Reclamar-weapons
