@@ -1574,3 +1574,13 @@ You have completed Tree Gnome Village;Has completado Tree Gnome Village
 You have completed Tribal Totem!;¡Has completado Tribal Totem!
 You have completed Wanted!!;¡Has completado Wanted!!
 You have completed the Waterfall Quest!;¡Has completado Waterfall Quest!
+a mystical keystone.;una piedra angular mística.
+and empowering negates the runes use for the casting of;y potenciar anula el uso de las runas para el lanzamiento de
+consecrated rune altar.;altar de runas consagrado.
+into the required form.;a la forma requerida.
+mystical prison.;prisión mística.
+runestones need to be channeled into the rune essence.;las piedras rúnicas deben canalizarse hacia la rune essence.
+spells.;hechizos.
+the element of mind.;el elemento de la mente.
+water and mind should be placed into the door of the;el agua y la mente deben colocarse en la puerta de la
+your abilities.;tus habilidades.
