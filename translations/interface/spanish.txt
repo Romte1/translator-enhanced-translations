@@ -1586,3 +1586,11 @@ water and mind should be placed into the door of the;el agua y la mente deben co
 your abilities.;tus habilidades.
 Promotion to Proselyte;Ascenso a prosélito
 Fletching, Smithing or Thieving;Fletching, Smithing o Thieving
+<col=000080>I have to free the <col=800000>Lumbridge Guide<col=000080>! I can start by examining;<col=000080>¡Tengo que liberar al <col=800000>Lumbridge Guide<col=000080>! Puedo empezar examinando
+<col=000080>This sub-quest has the following requirements:;<col=000080>Esta submisión tiene los siguientes requisitos:
+<col=000080>his frozen self in <col=800000>Lumbridge Castle<col=000080>.;<col=000080>su cuerpo congelado en <col=800000>Lumbridge Castle<col=000080>.
+<str>X Marks the Spot<br>;<str>X Marks the Spot<br>
+Description: <col=ffffff>Kill Hespori 5 times.</col>;Descripción: <col=ffffff>Derrota a Hespori 5 veces.</col>
+Description: <col=ffffff>Kill the Hespori in less than 36 seconds.</col>;Descripción: <col=ffffff>Derrota al Hespori en menos de 36 segundos.</col>
+I can start this quest by talking to <col=800000>Larry<col=000080> at the <col=800000>East Ardougne Zoo<col=000080>.;Puedo empezar esta misión hablando con <col=800000>Larry<col=000080> en el <col=800000>East Ardougne Zoo<col=000080>.
+Type: <col=ffffff>Speed</col> <col=dfdfdf>(+5 points)</col>;Tipo: <col=ffffff>Velocidad</col> <col=dfdfdf>(+5 puntos)</col>
