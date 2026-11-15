@@ -3652,3 +3652,8 @@ Toggle-warnings;Alternar avisos
 Change Name;Alterar nome
 View Attack on the Wiki;Ver Attack na Wiki
 View Benefits;Ver Benefícios
+View Construction on the Wiki;Ver Construction no Wiki
+Edit-navigator;Editar-navegador
+Assign to crew slot 2;Atribuir ao slot da tripulação 2
+Clear crew slot 2;Limpar slot da tripulação 2
+Claim-weapons;Reivindicar-weapons

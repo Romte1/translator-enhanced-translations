@@ -677,3 +677,49 @@ You are awarded:;Você recebeu:
 <str>Dr Oddenstein thanked me for helping fix his machine;<str>Dr Oddenstein agradeceu-me por ajudar a consertar sua máquina
 <str>Gertrude gave me my very own pet for a reward.;<str>Gertrude deu-me o meu próprio animal de estimação como recompensa.
 <str>I entered the mayor's house using the key which 'Ali the;<str>Entrei na casa do prefeito usando a chave que 'Ali the
+You have completed Imp Catcher;Você completou Imp Catcher
+You have completed Imp Catcher!;Você completou Imp Catcher!
+<str>I fed it and returned her missing kitten,;<str>Alimentei e devolvi o gatinho desaparecido dela,
+<str>I have been <str>given the task of identifying a traitor within the;<str>Fui <str>designado a tarefa de identificar um traidor dentro do
+<str>I have collected all the parts for the machine;<str>Coletei todas as peças para a máquina
+<str>I have defeated the Bandit Leader's champion.;<str>Derrotei o campeão do líder dos bandidos.
+<str>I have endeavoured to resolve the feud that exists <str>between;<str>Tentei resolver a rivalidade que existe <str>entre
+<str>I have given the hag the snake. Now she's asking for some;<str>Dei a cobra à bruxa. Agora ela está pedindo um pouco de
+<str>I have given the rum to Redbeard Frank. He has told me that;<str>Dei o rum ao Redbeard Frank. Ele me disse que
+<str>I have joined the Menaphites. However I must now prove;<str>Juntei-me aos Menaphites. No entanto, agora devo provar
+<str>I have opened the chest in the Blue Moon, and found a note;<str>Abri o baú na Blue Moon e encontrei um bilhete
+<str>I have opened the portal.;<str>Abri o portal.
+<str>I have poisoned 'Traitorous Ali's' drink.;<str>Envenenei a bebida de 'Traitorous Ali'.
+<str>I have repaired the golem.;<str>Reparei o golem.
+<str>I have retrieved the missing statuette from the Varrock;<str>Recuperei a estátua desaparecida de Varrock
+<str>I have rid the town of the Menaphite leader.;<str>Livrei a cidade do líder Menaphite.
+<str>I have smuggled some rum off Karamja, and retrieved it from;<str>Eu contrabandeei um pouco de rum de Karamja, e o recuperei de
+<str>I have spoken to Redbeard Frank. He has agreed to tell me the;<str>Eu falei com Redbeard Frank. Ele concordou em me contar o
+<str>I have spoken to Veronica;<str>Eu falei com Veronica
+<str>I have spoken to the golem.;<str>Eu falei com o golem.
+<str>I have successfully burgled the mayor's house and given 'Ali;<str>Eu roubei com sucesso a casa do prefeito e dei a 'Ali
+<str>I have visited the demon's lair and seen its skeleton.;<str>Eu visitei a caverna do demon e vi seu esqueleto.
+<str>I helped Gertrude to find her lost cat,;<str>Eu ajudei Gertrude a encontrar seu gato perdido,
+<str>I met with Ali Morrisane, who asked me to travel to;<str>Eu me encontrei com Ali Morrisane, que me pediu para viajar até
+<str>I pick-pocketed the three villagers using a number of;<str>Eu furtei os três aldeões usando um número de
+<str>I reprogrammed the golem so that it knows its task is;<str>Eu reprogramei o golem para que ele saiba que sua tarefa é
+<str>I successfully staked out the house to make sure no one was;<str>Eu vigiei a casa com sucesso para garantir que ninguém estava
+<str>I talked to Elissa about the letter from the desert.;<str>Eu conversei com Elissa sobre a carta do deserto.
+<str>I talked to the villagers who informed me that I had caused;<str>Eu conversei com os aldeões que me informaram que eu causei
+<str>I told Ali Morrisane about his nephew's fortunes, despite the;<str>Eu contei a Ali Morrisane sobre a fortuna de seu sobrinho, apesar do
+<str>I told the golem that the demon was dead, but it did not;<str>Eu disse ao golem que o demon estava morto, mas ele não
+<str>I took Varmen's notes from the Digsite Exam Centre.;<str>Eu peguei as notas de Varmen do Digsite Exam Centre.
+<str>Limestone Mine, he asked me to fetch some more. They were;<str>Limestone Mine, ele me pediu para buscar mais. Eles eram
+<str>Museum and repaired the puzzle in the temple.;<str>Museum e reparei o quebra-cabeça no templo.
+<str>On reporting my success I was informed that I passed the;<str>Ao relatar meu sucesso, fui informado que passei o
+<str>On talking to the leader of the Menaphites he appeared to<str>be;<str>Ao conversar com o líder dos Menaphites ele pareceu <str>ser
+<str>Operator' gave me.;<str>Operator' deu-me.
+<str>Pollnivneach, a small town to the south of Al Kharid and look;<str>Pollnivneach, uma pequena cidade ao sul de Al Kharid e olhar
+<str>Saradomin points to the X which marks the spot.';<str>Saradomin aponta para o X que marca o local.'
+<str>Store', I gave one to each group.;<str>Store', dei um a cada grupo.
+<str>The camel approach has failed because neither group keeps;<str>A abordagem do camelo falhou porque nenhum grupo mantém
+<str>The golem asked me to open the portal so it could defeat a;<str>O golem pediu-me para abrir o portal para que ele pudesse derrotar um
+<str>The hag gave me the poison once I had given her a snake and;<str>A bruxa deu-me o veneno depois que lhe dei uma serpente e
+<str>The local hag agrees to concoct an undetectable poison for;<str>A bruxa local concorda em preparar um veneno indetectável para
+<str>The mayor, out of gratitude for my efforts tells me what has;<str>O prefeito, em gratidão pelos meus esforços, diz-me o que tem
+<str>The note reads 'Visit the city of the White Knights. In the park,;<str>The note reads 'Visite a cidade dos White Knights. No parque,
