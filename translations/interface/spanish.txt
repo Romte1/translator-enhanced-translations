@@ -1584,3 +1584,5 @@ spells.;hechizos.
 the element of mind.;el elemento de la mente.
 water and mind should be placed into the door of the;el agua y la mente deben colocarse en la puerta de la
 your abilities.;tus habilidades.
+Promotion to Proselyte;Ascenso a prosélito
+Fletching, Smithing or Thieving;Fletching, Smithing o Thieving
