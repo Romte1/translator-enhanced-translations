@@ -3657,3 +3657,8 @@ Edit-navigator;Navigator bearbeiten
 Assign to crew slot 2;Zuweisen zu Crew-Platz 2
 Clear crew slot 2;Crew-Platz 2 leeren
 Claim-weapons;Waffen beanspruchen
+Big net;Großes Netz
+View journal <col=ff981f>Prince Ali Rescue</col>;Journal ansehen <col=ff981f>Prince Ali Rescue</col>
+View journal <col=ff981f>Sheep Shearer</col>;Journal ansehen <col=ff981f>Sheep Shearer</col>
+View journal <col=ff981f>Mudfoot's Big Adventure</col>;Journal ansehen <col=ff981f>Mudfoot's Big Adventure</col>
+Confront;Konfrontieren
