@@ -357,3 +357,40 @@ You have completed Imp Catcher!;Du har slutfört Imp Catcher!
 <str>join one of them.;<str>gå med i en av dem.
 <str>location of some treasure for some Karamja Rum.;<str>plats för någon skatt för lite Karamja Rom.
 <str>may be linked to the two gangs that seem to run the town.;<str>kan vara kopplad till de två gängen som verkar styra staden.
+Type: <col=ffffff>Speed</col> <col=dfdfdf>(+5 points)</col>;Typ: <col=ffffff>Speed</col> <col=dfdfdf>(+5 points)</col>
+Description: <col=ffffff>Kill Obor without being pushed back more than one square by his knockback attack.</col>;Beskrivning: <col=ffffff>Döda Obor utan att bli knuffad tillbaka mer än en ruta av hans knockback attack.</col>
+Description: <col=ffffff>Kill a Fire Giant.</col>;Beskrivning: <col=ffffff>Döda en Fire Giant.</col>
+Description: <col=ffffff>Kill the Giant Mole 10 times.</col>;Beskrivning: <col=ffffff>Döda Giant Mole 10 gånger.</col>
+Description: <col=ffffff>Kill the King Black Dragon 25 times.</col>;Beskrivning: <col=ffffff>Döda King Black Dragon 25 gånger.</col>
+Description: <col=ffffff>Kill the Shellbane Gryphon after clearing its corrosive spit from your armour.</col>;Beskrivning: <col=ffffff>Döda Shellbane Gryphon efter att ha rensat dess frätande spott från din rustning.</col>
+<col=000080>I have to free the <col=800000>Lumbridge Guide<col=000080>! I can start by examining;<col=000080>Jag måste befria <col=800000>Lumbridge Guide<col=000080>! Jag kan börja med att undersöka
+<col=000080>This sub-quest has the following requirements:;<col=000080>Denna deluppdrag har följande krav:
+<col=000080>his frozen self in <col=800000>Lumbridge Castle<col=000080>.;<col=000080>hans frusna jag i <col=800000>Lumbridge Castle<col=000080>.
+Description: <col=ffffff>Kill Hespori 5 times.</col>;Beskrivning: <col=ffffff>Döda Hespori 5 gånger.</col>
+Description: <col=ffffff>Kill the Hespori in less than 36 seconds.</col>;Beskrivning: <col=ffffff>Döda Hespori på mindre än 36 sekunder.</col>
+I can start this quest by talking to <col=800000>Larry<col=000080> at the <col=800000>East Ardougne Zoo<col=000080>.;Jag kan starta det här uppdraget genom att prata med <col=800000>Larry<col=000080> på <col=800000>East Ardougne Zoo<col=000080>.
+There are no tasks available to you<br>that match your filters.;Det finns inga uppgifter tillgängliga för dig<br>som matchar dina filter.
+Total Points: 1 - Next unlock in 40 points;Totala poäng: 1 - Nästa upplåsning om 40 poäng
+Type: <col=ffffff>Kill Count</col> <col=dfdfdf>(+3 points)</col>;Typ: <col=ffffff>Kill Count</col> <col=dfdfdf>(+3 points)</col>
+Description: <col=ffffff>Attack Tempoross from both sides by loading both cannons on both ships.</col>;Beskrivning: <col=ffffff>Attackera Tempoross från båda sidor genom att ladda båda kanonerna på båda skeppen.</col>
+Description: <col=ffffff>Extinguish at least 5 fires during a single Tempoross fight.</col>;Beskrivning: <col=ffffff>Släck minst 5 eldar under en enda Tempoross-strid.</col>
+Description: <col=ffffff>Finish off Scurrius with a ratbane weapon in a private instance.</col>;Beskrivning: <col=ffffff>Slå ut Scurrius med ett ratbane weapon i en privat instans.</col>
+Description: <col=ffffff>Finish off a Greater Demon with a demonbane weapon.</col>;Beskrivning: <col=ffffff>Slå ut en Greater Demon med ett demonbane weapon.</col>
+Description: <col=ffffff>Heal a pyromancer after they have fallen.</col>;Beskrivning: <col=ffffff>Läk en pyromancer efter att de har fallit.</col>
+Description: <col=ffffff>Kill Dagannoth Rex 10 times.</col>;Beskrivning: <col=ffffff>Döda Dagannoth Rex 10 gånger.</col>
+Description: <col=ffffff>Kill Dagannoth Supreme 10 times.</col>;Beskrivning: <col=ffffff>Döda Dagannoth Supreme 10 gånger.</col>
+Description: <col=ffffff>Kill Obor on a free to play world.</col>;Beskrivning: <col=ffffff>Döda Obor på en free to play-värld.</col>
+Description: <col=ffffff>Kill Obor whilst he is immobilized.</col>;Beskrivning: <col=ffffff>Döda Obor medan han är immobiliserad.</col>
+Description: <col=ffffff>Kill Obor without taking any damage off prayer.</col>;Beskrivning: <col=ffffff>Döda Obor utan att ta någon skada från prayer.</col>
+Description: <col=ffffff>Kill Sarachnis 10 times.</col>;Beskrivning: <col=ffffff>Döda Sarachnis 10 gånger.</col>
+Description: <col=ffffff>Kill Sarachnis 25 times.</col>;Beskrivning: <col=ffffff>Döda Sarachnis 25 gånger.</col>
+Description: <col=ffffff>Kill Sarachnis with a crush weapon.</col>;Beskrivning: <col=ffffff>Döda Sarachnis med ett crush weapon.</col>
+Description: <col=ffffff>Kill Skotizo once.</col>;Beskrivning: <col=ffffff>Döda Skotizo en gång.</col>
+Description: <col=ffffff>Kill a Gargoyle.</col>;Beskrivning: <col=ffffff>Döda en Gargoyle.</col>
+Description: <col=ffffff>Kill a Greater Demon.</col>;Beskrivning: <col=ffffff>Döda en Greater Demon.</col>
+Description: <col=ffffff>Kill a Hellhound.</col>;Beskrivning: <col=ffffff>Döda en Hellhound.</col>
+Description: <col=ffffff>Kill a Hill Giant, Moss Giant and Fire Giant in the Giant Cave within the Shayzien region.</col>;Beskrivning: <col=ffffff>Döda en Hill Giant, Moss Giant och Fire Giant i Giant Cave i Shaytan-regionen.</col>
+Description: <col=ffffff>Kill a Kurask.</col>;Beskrivning: <col=ffffff>Döda en Kurask.</col>
+Description: <col=ffffff>Kill a Lizardman Shaman.</col>;Beskrivning: <col=ffffff>Döda en Lizardman Shaman.</col>
+Description: <col=ffffff>Kill a Skeletal Wyvern</col>;Beskrivning: <col=ffffff>Döda en Skeletal Wyvern</col>
+Description: <col=ffffff>Kill a Wyrm.</col>;Beskrivning: <col=ffffff>Döda en Wyrm.</col>
