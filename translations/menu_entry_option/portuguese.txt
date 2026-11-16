@@ -3657,3 +3657,8 @@ Edit-navigator;Editar-navegador
 Assign to crew slot 2;Atribuir ao slot da tripulação 2
 Clear crew slot 2;Limpar slot da tripulação 2
 Claim-weapons;Reivindicar armas
+Big net;Rede grande
+View journal <col=ff981f>Prince Ali Rescue</col>;Ver diário <col=ff981f>Prince Ali Rescue</col>
+View journal <col=ff981f>Sheep Shearer</col>;Ver diário <col=ff981f>Sheep Shearer</col>
+View journal <col=ff981f>Mudfoot's Big Adventure</col>;Ver diário <col=ff981f>Mudfoot's Big Adventure</col>
+Confront;Confrontar
