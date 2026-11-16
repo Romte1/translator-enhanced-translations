@@ -3656,3 +3656,8 @@ Edit-navigator;Redigera-navigator
 Assign to crew slot 2;Tilldela till besättningsslot 2
 Clear crew slot 2;Rensa besättningsslot 2
 Claim-weapons;Gör anspråk på vapen
+Big net;Stort nät
+View journal <col=ff981f>Prince Ali Rescue</col>;Visa dagbok <col=ff981f>Prince Ali Rescue</col>
+View journal <col=ff981f>Sheep Shearer</col>;Visa dagbok <col=ff981f>Sheep Shearer</col>
+View journal <col=ff981f>Mudfoot's Big Adventure</col>;Visa dagbok <col=ff981f>Mudfoot's Big Adventure</col>
+Confront;Konfrontera
