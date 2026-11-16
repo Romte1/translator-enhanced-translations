@@ -151,7 +151,7 @@ Description: <col=ffffff>Kill the Shellbane Gryphon 50 times.</col>;Description�
 Description: <col=ffffff>Kill the Royal Titans 10 times.</col>;Description : <col=ffffff>Tuez les Royal Titans 10 fois.</col>
 Description: <col=ffffff>Kill Amoxliatl using only glacial temotli as a weapon.</col>;Description : <col=ffffff>Tuez Amoxliatl en n'utilisant que glacial temotli comme arme.</col>
 Type: <col=ffffff>Restriction</col> <col=dfdfdf>(+2 points)</col>;Type : <col=ffffff>Restriction</col> <col=dfdfdf>(+2 points)</col>
-Type: <col=ffffff>Speed</col> <col=dfdfdf>(+2 points)</col>;Type : <col=ffffff>Speed</col> <col=dfdfdf>(+2 points)</col>
+Type: <col=ffffff>Speed</col> <col=dfdfdf>(+2 points)</col>;Type : <col=ffffff>Vitesse</col> <col=dfdfdf>(+2 points)</col>
 I can start this quest by talking to <col=800000>Alina<col=000080> and <col=800000>Noah<col=000080> in <col=800000>Varrock Square<col=000080>.;Je peux commencer cette quête en parlant à <col=800000>Alina<col=000080> et <col=800000>Noah<col=000080> dans <col=800000>Varrock Square<col=000080>.
 I can start this quest by talking to <col=800000>Veos<col=000080> on the <col=800000>Port Piscarilius<col=000080> docks.;Je peux commencer cette quête en parlant à <col=800000>Veos<col=000080> sur les quais de <col=800000>Port Piscarilius<col=000080>.
 I can start this quest by talking to <col=800000>Brother Kojo<col=000080> in the <col=800000>Clock Tower<col=000080> south of <col=800000>East Ardougne<col=000080>.;Je peux commencer cette quête en parlant à <col=800000>Brother Kojo<col=000080> dans la <col=800000>Clock Tower<col=000080> au sud de <col=800000>East Ardougne<col=000080>.
@@ -450,7 +450,7 @@ You have completed Imp Catcher!;Vous avez terminé Imp Catcher!
 <str>On talking to the leader of the Menaphites he appeared to<str>be;<str>En parlant au chef des Menaphites, il semblait<str>être
 <str>Operator' gave me.;<str>Operator' m'a donné.
 <str>Pollnivneach, a small town to the south of Al Kharid and look;<str>Pollnivneach, une petite ville au sud d'Al Kharid et regarde
-Type: <col=ffffff>Speed</col> <col=dfdfdf>(+5 points)</col>;Type : <col=ffffff>Speed</col> <col=dfdfdf>(+5 points)</col>
+Type: <col=ffffff>Speed</col> <col=dfdfdf>(+5 points)</col>;Type : <col=ffffff>Vitesse</col> <col=dfdfdf>(+5 points)</col>
 Description: <col=ffffff>Kill Obor without being pushed back more than one square by his knockback attack.</col>;Description : <col=ffffff>Tuez Obor sans être repoussé de plus d'une case par son attaque de recul.</col>
 Description: <col=ffffff>Kill a Fire Giant.</col>;Description : <col=ffffff>Tuez un Fire Giant.</col>
 Description: <col=ffffff>Kill the Giant Mole 10 times.</col>;Description : <col=ffffff>Tuez le Giant Mole 10 fois.</col>
@@ -465,7 +465,7 @@ Description: <col=ffffff>Kill the Hespori in less than 36 seconds.</col>;Descrip
 I can start this quest by talking to <col=800000>Larry<col=000080> at the <col=800000>East Ardougne Zoo<col=000080>.;Je peux commencer cette quête en parlant à <col=800000>Larry<col=000080> au <col=800000>East Ardougne Zoo<col=000080>.
 There are no tasks available to you<br>that match your filters.;Aucune tâche disponible pour vous<br>qui correspond à vos filtres.
 Total Points: 1 - Next unlock in 40 points;Points totaux : 1 - Prochain déverrouillage dans 40 points
-Type: <col=ffffff>Kill Count</col> <col=dfdfdf>(+3 points)</col>;Type : <col=ffffff>Kill Count</col> <col=dfdfdf>(+3 points)</col>
+Type: <col=ffffff>Kill Count</col> <col=dfdfdf>(+3 points)</col>;Type : <col=ffffff>Nombre d'éliminations</col> <col=dfdfdf>(+3 points)</col>
 Description: <col=ffffff>Attack Tempoross from both sides by loading both cannons on both ships.</col>;Description : <col=ffffff>Attaquez Tempoross des deux côtés en chargeant les deux canons sur les deux navires.</col>
 Description: <col=ffffff>Extinguish at least 5 fires during a single Tempoross fight.</col>;Description : <col=ffffff>Éteignez au moins 5 feux pendant un seul combat contre Tempoross.</col>
 Description: <col=ffffff>Finish off Scurrius with a ratbane weapon in a private instance.</col>;Description : <col=ffffff>Éliminez Scurrius avec une arme ratbane dans une instance privée.</col>
@@ -475,7 +475,7 @@ Description: <col=ffffff>Kill Dagannoth Rex 10 times.</col>;Description : <col=
 Description: <col=ffffff>Kill Dagannoth Supreme 10 times.</col>;Description : <col=ffffff>Tuez Dagannoth Supreme 10 fois.</col>
 Description: <col=ffffff>Kill Obor on a free to play world.</col>;Description : <col=ffffff>Tuez Obor sur un monde free to play.</col>
 Description: <col=ffffff>Kill Obor whilst he is immobilized.</col>;Description : <col=ffffff>Tuez Obor pendant qu'il est immobilisé.</col>
-Description: <col=ffffff>Kill Obor without taking any damage off prayer.</col>;Description : <col=ffffff>Tuez Obor sans subir de dégâts de prière.</col>
+Description: <col=ffffff>Kill Obor without taking any damage off prayer.</col>;Description : <col=ffffff>Tuez Obor sans subir de dégâts hors prière.</col>
 Description: <col=ffffff>Kill Sarachnis 10 times.</col>;Description : <col=ffffff>Tuez Sarachnis 10 fois.</col>
 Description: <col=ffffff>Kill Sarachnis 25 times.</col>;Description : <col=ffffff>Tuez Sarachnis 25 fois.</col>
 Description: <col=ffffff>Kill Sarachnis with a crush weapon.</col>;Description : <col=ffffff>Tuez Sarachnis avec une arme crush.</col>

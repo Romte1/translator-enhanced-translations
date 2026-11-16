@@ -723,7 +723,7 @@ You have completed Imp Catcher!;Você completou Imp Catcher!
 <str>The local hag agrees to concoct an undetectable poison for;<str>A bruxa local concorda em preparar um veneno indetectável para
 <str>The mayor, out of gratitude for my efforts tells me what has;<str>O prefeito, em gratidão pelos meus esforços, diz-me o que tem
 <str>The note reads 'Visit the city of the White Knights. In the park,;<str>A nota diz 'Visite a cidade dos White Knights. No parque,
-Type: <col=ffffff>Speed</col> <col=dfdfdf>(+5 points)</col>;Tipo: <col=ffffff>Speed</col> <col=dfdfdf>(+5 points)</col>
+Type: <col=ffffff>Speed</col> <col=dfdfdf>(+5 points)</col>;Tipo: <col=ffffff>Velocidade</col> <col=dfdfdf>(+5 pontos)</col>
 Description: <col=ffffff>Kill Obor without being pushed back more than one square by his knockback attack.</col>;Descrição: <col=ffffff>Mate Obor sem ser empurrado para trás mais de um quadrado por seu ataque de recuo.</col>
 Description: <col=ffffff>Kill a Fire Giant.</col>;Descrição: <col=ffffff>Mate um Fire Giant.</col>
 Description: <col=ffffff>Kill the Giant Mole 10 times.</col>;Descrição: <col=ffffff>Mate o Giant Mole 10 vezes.</col>
@@ -732,13 +732,13 @@ Description: <col=ffffff>Kill the Shellbane Gryphon after clearing its corrosive
 An Amulet of Accuracy;Um Amulet of Accuracy
 <col=000080>I have to free the <col=800000>Lumbridge Guide<col=000080>! I can start by examining;<col=000080>Preciso libertar o <col=800000>Lumbridge Guide<col=000080>! Posso começar examinando
 <col=000080>This sub-quest has the following requirements:;<col=000080>Esta sub-quest tem os seguintes requisitos:
-<col=000080>his frozen self in <col=800000>Lumbridge Castle<col=000080>.;<col=000080>seu eu congelado em <col=800000>Lumbridge Castle<col=000080>.
+<col=000080>his frozen self in <col=800000>Lumbridge Castle<col=000080>.;<col=000080>seu corpo congelado em <col=800000>Lumbridge Castle<col=000080>.
 Description: <col=ffffff>Kill Hespori 5 times.</col>;Descrição: <col=ffffff>Mate o Hespori 5 vezes.</col>
 Description: <col=ffffff>Kill the Hespori in less than 36 seconds.</col>;Descrição: <col=ffffff>Mate o Hespori em menos de 36 segundos.</col>
-I can start this quest by talking to <col=800000>Larry<col=000080> at the <col=800000>East Ardougne Zoo<col=000080>.;Posso iniciar esta quest falando com <col=800000>Larry<col=000080> no <col=800000>East Ardougne Zoo<col=000080>.
+I can start this quest by talking to <col=800000>Larry<col=000080> at the <col=800000>East Ardougne Zoo<col=000080>.;Posso iniciar esta missão falando com <col=800000>Larry<col=000080> no <col=800000>East Ardougne Zoo<col=000080>.
 There are no tasks available to you<br>that match your filters.;Não há tarefas disponíveis para você<br>que correspondam aos seus filtros.
 Total Points: 1 - Next unlock in 40 points;Pontos Totais: 1 - Próximo desbloqueio em 40 pontos
-Type: <col=ffffff>Kill Count</col> <col=dfdfdf>(+3 points)</col>;Tipo: <col=ffffff>Kill Count</col> <col=dfdfdf>(+3 points)</col>
+Type: <col=ffffff>Kill Count</col> <col=dfdfdf>(+3 points)</col>;Tipo: <col=ffffff>Contagem de mortes</col> <col=dfdfdf>(+3 pontos)</col>
 Description: <col=ffffff>Attack Tempoross from both sides by loading both cannons on both ships.</col>;Descrição: <col=ffffff>Ataque Tempoross de ambos os lados carregando ambos os canhões em ambas as embarcações.</col>
 Description: <col=ffffff>Extinguish at least 5 fires during a single Tempoross fight.</col>;Descrição: <col=ffffff>Apague ao menos 5 fogueiras durante uma única luta contra Tempoross.</col>
 Description: <col=ffffff>Finish off Scurrius with a ratbane weapon in a private instance.</col>;Descrição: <col=ffffff>Acabe com Scurrius usando uma arma ratbane em uma instância privada.</col>
@@ -748,7 +748,7 @@ Description: <col=ffffff>Kill Dagannoth Rex 10 times.</col>;Descrição: <col=ff
 Description: <col=ffffff>Kill Dagannoth Supreme 10 times.</col>;Descrição: <col=ffffff>Mate Dagannoth Supreme 10 vezes.</col>
 Description: <col=ffffff>Kill Obor on a free to play world.</col>;Descrição: <col=ffffff>Mate Obor em um mundo free to play.</col>
 Description: <col=ffffff>Kill Obor whilst he is immobilized.</col>;Descrição: <col=ffffff>Mate Obor enquanto ele está imobilizado.</col>
-Description: <col=ffffff>Kill Obor without taking any damage off prayer.</col>;Descrição: <col=ffffff>Mate Obor sem receber dano de oração.</col>
+Description: <col=ffffff>Kill Obor without taking any damage off prayer.</col>;Descrição: <col=ffffff>Mate Obor sem receber dano fora da oração.</col>
 Description: <col=ffffff>Kill Sarachnis 10 times.</col>;Descrição: <col=ffffff>Mate Sarachnis 10 vezes.</col>
 Description: <col=ffffff>Kill Sarachnis 25 times.</col>;Descrição: <col=ffffff>Mate Sarachnis 25 vezes.</col>
 Description: <col=ffffff>Kill Sarachnis with a crush weapon.</col>;Descrição: <col=ffffff>Mate Sarachnis com uma arma crush.</col>

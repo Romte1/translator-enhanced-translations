@@ -434,21 +434,21 @@ You have completed Imp Catcher!;Du hast Imp Catcher abgeschlossen!
 <str>On talking to the leader of the Menaphites he appeared to<str>be;<str>Als ich mit dem Anführer der Menaphites sprach, schien er<str>sein
 <str>Operator' gave me.;<str>Operator' gab mir.
 <str>Pollnivneach, a small town to the south of Al Kharid and look;<str>Pollnivneach, eine kleine Stadt südlich von Al Kharid und
-Type: <col=ffffff>Speed</col> <col=dfdfdf>(+5 points)</col>;Typ: <col=ffffff>Speed</col> <col=dfdfdf>(+5 points)</col>
+Type: <col=ffffff>Speed</col> <col=dfdfdf>(+5 points)</col>;Typ: <col=ffffff>Geschwindigkeit</col> <col=dfdfdf>(+5 Punkte)</col>
 Description: <col=ffffff>Kill Obor without being pushed back more than one square by his knockback attack.</col>;Beschreibung: <col=ffffff>Töte Obor, ohne durch seinen Rückstoßangriff mehr als ein Feld zurückgestoßen zu werden.</col>
 Description: <col=ffffff>Kill a Fire Giant.</col>;Beschreibung: <col=ffffff>Töte einen Fire Giant.</col>
 Description: <col=ffffff>Kill the Giant Mole 10 times.</col>;Beschreibung: <col=ffffff>Töte den Giant Mole 10 Mal.</col>
 Description: <col=ffffff>Kill the King Black Dragon 25 times.</col>;Beschreibung: <col=ffffff>Töte den King Black Dragon 25 Mal.</col>
 Description: <col=ffffff>Kill the Shellbane Gryphon after clearing its corrosive spit from your armour.</col>;Beschreibung: <col=ffffff>Töte den Shellbane Gryphon, nachdem du sein ätzendes Spucken von deiner Rüstung entfernt hast.</col>
-<col=000080>I have to free the <col=800000>Lumbridge Guide<col=000080>! I can start by examining;<col=000080>Ich muss den <col=800000>Lumbridge Guide<col=000080>! Ich kann beginnen, indem ich untersuche
-<col=000080>This sub-quest has the following requirements:;<col=000080>Dieses Unterquest hat die folgenden Voraussetzungen:
+<col=000080>I have to free the <col=800000>Lumbridge Guide<col=000080>! I can start by examining;<col=000080>Ich muss den <col=800000>Lumbridge Guide<col=000080> befreien! Ich kann beginnen, indem ich untersuche
+<col=000080>This sub-quest has the following requirements:;<col=000080>Diese Unterquest hat die folgenden Voraussetzungen:
 <col=000080>his frozen self in <col=800000>Lumbridge Castle<col=000080>.;<col=000080>sein gefrorenes Selbst in <col=800000>Lumbridge Castle<col=000080>.
 Description: <col=ffffff>Kill Hespori 5 times.</col>;Beschreibung: <col=ffffff>Töte Hespori 5 Mal.</col>
 Description: <col=ffffff>Kill the Hespori in less than 36 seconds.</col>;Beschreibung: <col=ffffff>Töte den Hespori in weniger als 36 Sekunden.</col>
 I can start this quest by talking to <col=800000>Larry<col=000080> at the <col=800000>East Ardougne Zoo<col=000080>.;Ich kann diese Quest starten, indem ich mit <col=800000>Larry<col=000080> im <col=800000>East Ardougne Zoo<col=000080> spreche.
 There are no tasks available to you<br>that match your filters.;Es gibt keine Aufgaben für dich<br>die deinen Filtern entsprechen.
 Total Points: 1 - Next unlock in 40 points;Gesamtpunkte: 1 - Nächste Freischaltung in 40 Punkten
-Type: <col=ffffff>Kill Count</col> <col=dfdfdf>(+3 points)</col>;Typ: <col=ffffff>Kill Count</col> <col=dfdfdf>(+3 points)</col>
+Type: <col=ffffff>Kill Count</col> <col=dfdfdf>(+3 points)</col>;Typ: <col=ffffff>Tötungszähler</col> <col=dfdfdf>(+3 Punkte)</col>
 Description: <col=ffffff>Attack Tempoross from both sides by loading both cannons on both ships.</col>;Beschreibung: <col=ffffff>Greife Tempoross von beiden Seiten an, indem du beide Kanonen auf beiden Schiffen lädst.</col>
 Description: <col=ffffff>Extinguish at least 5 fires during a single Tempoross fight.</col>;Beschreibung: <col=ffffff>Lösche mindestens 5 Feuer während eines einzelnen Tempoross-Kampfes.</col>
 Description: <col=ffffff>Finish off Scurrius with a ratbane weapon in a private instance.</col>;Beschreibung: <col=ffffff>Besiege Scurrius mit einer ratbane Waffe in einer privaten Instanz.</col>
@@ -458,7 +458,7 @@ Description: <col=ffffff>Kill Dagannoth Rex 10 times.</col>;Beschreibung: <col=f
 Description: <col=ffffff>Kill Dagannoth Supreme 10 times.</col>;Beschreibung: <col=ffffff>Töte Dagannoth Supreme 10 Mal.</col>
 Description: <col=ffffff>Kill Obor on a free to play world.</col>;Beschreibung: <col=ffffff>Töte Obor in einer Free-to-Play-Welt.</col>
 Description: <col=ffffff>Kill Obor whilst he is immobilized.</col>;Beschreibung: <col=ffffff>Töte Obor, während er immobilisiert ist.</col>
-Description: <col=ffffff>Kill Obor without taking any damage off prayer.</col>;Beschreibung: <col=ffffff>Töte Obor, ohne Schaden durch Gebet zu erleiden.</col>
+Description: <col=ffffff>Kill Obor without taking any damage off prayer.</col>;Beschreibung: <col=ffffff>Töte Obor, ohne Schaden außerhalb des Gebets zu erleiden.</col>
 Description: <col=ffffff>Kill Sarachnis 10 times.</col>;Beschreibung: <col=ffffff>Töte Sarachnis 10 Mal.</col>
 Description: <col=ffffff>Kill Sarachnis 25 times.</col>;Beschreibung: <col=ffffff>Töte Sarachnis 25 Mal.</col>
 Description: <col=ffffff>Kill Sarachnis with a crush weapon.</col>;Beschreibung: <col=ffffff>Töte Sarachnis mit einer crush Waffe.</col>

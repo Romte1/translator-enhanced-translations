@@ -1660,19 +1660,19 @@ I can start this quest by talking to <col=800000>Veliaf Hurtz<col=000080> in the
 <str>sense of the quality of the milk. It wasn't pleasant, but;<str>idea de la calidad de la leche. No fue agradable, pero
 <str>setting it up.;<str>ponerlo en marcha.
 I can start this quest by talking to the <col=800000>Cook<col=000080> in <col=800000>Lumbridge Castle<col=000080>.;Puedo empezar esta misión hablando con el <col=800000>Cook<col=000080> en <col=800000>Lumbridge Castle<col=000080>.
-I can start this quest by talking to <col=800000>Fred<col=000080> at his farm in northern <col=800000>Lumbridge<col=000080>.;Empieza la misión hablando con <col=800000>Fred<col=000080> en su granja al norte de <col=800000>Lumbridge<col=000080>.
+I can start this quest by talking to <col=800000>Fred<col=000080> at his farm in northern <col=800000>Lumbridge<col=000080>.;Puedo empezar esta misión hablando con <col=800000>Fred<col=000080> en su granja al norte de <col=800000>Lumbridge<col=000080>.
 You have completed Romeo & Juliet;Has completado Romeo & Juliet
 You have completed Romeo & Juliet!;Has completado Romeo & Juliet!
-You have completed Sheep Shearer!;Has completado Sheep Shearer!
+You have completed Sheep Shearer!;¡Has completado Sheep Shearer!
 <col=000080><col=800000>Lumbridge<col=000080> are the prime suspects. I should investigate them.;<col=000080><col=800000>Lumbridge<col=000080> son los principales sospechosos. Debería investigarlos.
-<col=000080>I spoke with <col=800000>Captain Harlan<col=000080> north of <col=800000>Lumbridge Castle<col=000080>. He told;<col=000080>hablé con <col=800000>Captain Harlan<col=000080> al norte de <col=800000>Lumbridge Castle<col=000080>. Él dijo
+<col=000080>I spoke with <col=800000>Captain Harlan<col=000080> north of <col=800000>Lumbridge Castle<col=000080>. He told;<col=000080>Hablé con <col=800000>Captain Harlan<col=000080> al norte de <col=800000>Lumbridge Castle<col=000080>. Él dijo
 <col=000080>me about a bounty for some <col=800000>Thieves<col=000080> who robbed the <col=800000>General;<col=000080>me habló de una recompensa por algunos <col=800000>Thieves<col=000080> que robaron al <col=800000>General
-I can start this quest by talking to <col=800000>Captain Harlan<col=000080> north of <col=800000>Lumbridge Castle<col=000080>.;Empieza la misión hablando con <col=800000>Captain Harlan<col=000080> al norte de <col=800000>Lumbridge Castle<col=000080>.
+I can start this quest by talking to <col=800000>Captain Harlan<col=000080> north of <col=800000>Lumbridge Castle<col=000080>.;Puedo empezar esta misión hablando con <col=800000>Captain Harlan<col=000080> al norte de <col=800000>Lumbridge Castle<col=000080>.
 Use of Doric's Anvils;Uso de los yunques de Doric
 You have completed Doric's Quest;Has completado Doric's Quest
 You have completed Doric's Quest!;Has completado Doric's Quest!
 <col=000080><col=800000>Lumbridge<col=000080>, and encountered one named <col=800000>Mudfoot<col=000080>. He revealed;<col=000080><col=800000>Lumbridge<col=000080>, y encontré a uno llamado <col=800000>Mudfoot<col=000080>. Él reveló
-<col=000080>I went to investigate the <col=800000>Goblins<col=000080> east of the <col=800000>River Lum<col=000080> in;<col=000080>fui a investigar los <col=800000>Goblins<col=000080> al este del <col=800000>River Lum<col=000080> en
+<col=000080>I went to investigate the <col=800000>Goblins<col=000080> east of the <col=800000>River Lum<col=000080> in;<col=000080>Fui a investigar los <col=800000>Goblins<col=000080> al este del <col=800000>River Lum<col=000080> en
 <col=000080>one near the <col=800000>General Store<col=000080>.;<col=000080>uno cerca de la <col=800000>General Store<col=000080>.
 <col=000080>set up by some <col=800000>Humans<col=000080>. We decided to work together to bring;<col=000080>establecido por algunos <col=800000>Humans<col=000080>. Decidimos trabajar juntos para traer
 <col=000080>that the <col=800000>Goblins<col=000080> weren't responsible, and had instead been;<col=000080>que los <col=800000>Goblins<col=000080> no fueron responsables, y en su lugar habían sido
@@ -1681,8 +1681,7 @@ You have completed Doric's Quest!;Has completado Doric's Quest!
 <str>Store. According to him, some Goblins east of the River Lum in;<str>Tienda. Según él, algunos Goblins al este del River Lum en
 You have completed Black Knights' Fortress;Has completado Black Knights' Fortress
 You have completed Black Knights' Fortress!;¡Has completado Black Knights' Fortress!
-I can start this quest by finding a <col=800000>Lost Snail<col=000080> in the <col=800000>Haunted Woods<col=000080>.;Puedes iniciar esta misión encontrando un <col=800000>Lost Snail<col=000080> en los <col=800000>Haunted Woods<col=000080>.
-I can start this quest by talking to <col=800000>Farmer Bea<col=000080> south west of the <col=800000>Digsite<col=000080>.;Puedes iniciar esta misión hablando con <col=800000>Farmer Bea<col=000080> al suroeste del <col=800000>Digsite<col=000080>.
-Eu comecei falando com o <col=800000>King Bolren<col=000080> em <col=800000>Tree Gnome Village<col=000080>.;Empecé hablando con el <col=800000>King Bolren<col=000080> en <col=800000>Tree Gnome Village<col=000080>.
+I can start this quest by finding a <col=800000>Lost Snail<col=000080> in the <col=800000>Haunted Woods<col=000080>.;Puedo empezar esta misión encontrando un <col=800000>Lost Snail<col=000080> en los <col=800000>Haunted Woods<col=000080>.
+I can start this quest by talking to <col=800000>Farmer Bea<col=000080> south west of the <col=800000>Digsite<col=000080>.;Puedo empezar esta misión hablando con <col=800000>Farmer Bea<col=000080> al suroeste del <col=800000>Digsite<col=000080>.
 You have completed A Tail of Two Cats!;¡Has completado A Tail of Two Cats!
 You have completed Demon Slayer;Has completado Demon Slayer
