@@ -3658,3 +3658,7 @@ Assign to crew slot 2;Toewijzen aan crew slot 2
 Clear crew slot 2;Leegmaken crew slot 2
 Big net;Groot net
 Claim-weapons;Claimen-wapens
+View journal <col=ff981f>Prince Ali Rescue</col>;Bekijk dagboek <col=ff981f>Prince Ali Rescue</col>
+View journal <col=ff981f>Sheep Shearer</col>;Bekijk dagboek <col=ff981f>Sheep Shearer</col>
+View journal <col=ff981f>Mudfoot's Big Adventure</col>;Bekijk dagboek <col=ff981f>Mudfoot's Big Adventure</col>
+Confront;Confronteren
