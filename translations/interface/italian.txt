@@ -479,3 +479,41 @@ You have completed Imp Catcher!;Hai completato Imp Catcher!
 <str>for his nephew.;<str>per suo nipote.
 <str>fresh camel dung to complete the potion.;<str>letame fresco di cammello per completare la pozione.
 <str>groups and freeing the town from their influence.;<str>gruppi e liberare la città dalla loro influenza.
+Type: <col=ffffff>Speed</col> <col=dfdfdf>(+5 points)</col>;Tipo: <col=ffffff>Speed</col> <col=dfdfdf>(+5 points)</col>
+Description: <col=ffffff>Kill Obor without being pushed back more than one square by his knockback attack.</col>;Descrizione: <col=ffffff>Uccidi Obor senza essere spinto indietro più di una casella dal suo attacco di knockback.</col>
+Description: <col=ffffff>Kill a Fire Giant.</col>;Descrizione: <col=ffffff>Uccidi un Fire Giant.</col>
+Description: <col=ffffff>Kill the Giant Mole 10 times.</col>;Descrizione: <col=ffffff>Uccidi il Giant Mole 10 volte.</col>
+Description: <col=ffffff>Kill the King Black Dragon 25 times.</col>;Descrizione: <col=ffffff>Uccidi il King Black Dragon 25 volte.</col>
+Description: <col=ffffff>Kill the Shellbane Gryphon after clearing its corrosive spit from your armour.</col>;Descrizione: <col=ffffff>Uccidi il Shellbane Gryphon dopo aver rimosso il suo sputo corrosivo dalla tua armatura.</col>
+875 Magic de XP;875 Magic di XP
+An Amulet of Accuracy;Un Amulet of Accuracy
+<col=000080>I have to free the <col=800000>Lumbridge Guide<col=000080>! I can start by examining;<col=000080>Devo liberare il <col=800000>Lumbridge Guide<col=000080>! Posso iniziare esaminando
+<col=000080>This sub-quest has the following requirements:;<col=000080>Questa sotto-quest ha i seguenti requisiti:
+<col=000080>his frozen self in <col=800000>Lumbridge Castle<col=000080>.;<col=000080>il suo sé congelato in <col=800000>Lumbridge Castle<col=000080>.
+Description: <col=ffffff>Kill Hespori 5 times.</col>;Descrizione: <col=ffffff>Uccidi Hespori 5 volte.</col>
+Description: <col=ffffff>Kill the Hespori in less than 36 seconds.</col>;Descrizione: <col=ffffff>Uccidi il Hespori in meno di 36 secondi.</col>
+I can start this quest by talking to <col=800000>Larry<col=000080> at the <col=800000>East Ardougne Zoo<col=000080>.;Posso iniziare questa quest parlando con <col=800000>Larry<col=000080> al <col=800000>East Ardougne Zoo<col=000080>.
+There are no tasks available to you<br>that match your filters.;Non ci sono compiti disponibili per te<br>che corrispondono ai tuoi filtri.
+Total Points: 1 - Next unlock in 40 points;Punti Totali: 1 - Prossimo sblocco in 40 punti
+Type: <col=ffffff>Kill Count</col> <col=dfdfdf>(+3 points)</col>;Tipo: <col=ffffff>Kill Count</col> <col=dfdfdf>(+3 points)</col>
+Description: <col=ffffff>Attack Tempoross from both sides by loading both cannons on both ships.</col>;Descrizione: <col=ffffff>Attacca Tempoross da entrambi i lati caricando entrambi i cannoni su entrambe le navi.</col>
+Description: <col=ffffff>Extinguish at least 5 fires during a single Tempoross fight.</col>;Descrizione: <col=ffffff>Estinguere almeno 5 fuochi durante un singolo combattimento contro Tempoross.</col>
+Description: <col=ffffff>Finish off Scurrius with a ratbane weapon in a private instance.</col>;Descrizione: <col=ffffff>Uccidi Scurrius con un'arma ratbane in un'istanza privata.</col>
+Description: <col=ffffff>Finish off a Greater Demon with a demonbane weapon.</col>;Descrizione: <col=ffffff>Uccidi un Greater Demon con un'arma demonbane.</col>
+Description: <col=ffffff>Heal a pyromancer after they have fallen.</col>;Descrizione: <col=ffffff>Guarisci un pyromancer dopo che è caduto.</col>
+Description: <col=ffffff>Kill Dagannoth Rex 10 times.</col>;Descrizione: <col=ffffff>Uccidi Dagannoth Rex 10 volte.</col>
+Description: <col=ffffff>Kill Dagannoth Supreme 10 times.</col>;Descrizione: <col=ffffff>Uccidi Dagannoth Supreme 10 volte.</col>
+Description: <col=ffffff>Kill Obor on a free to play world.</col>;Descrizione: <col=ffffff>Uccidi Obor in un mondo free to play.</col>
+Description: <col=ffffff>Kill Obor whilst he is immobilized.</col>;Descrizione: <col=ffffff>Uccidi Obor mentre è immobilizzato.</col>
+Description: <col=ffffff>Kill Obor without taking any damage off prayer.</col>;Descrizione: <col=ffffff>Uccidi Obor senza subire danni dalla preghiera.</col>
+Description: <col=ffffff>Kill Sarachnis 10 times.</col>;Descrizione: <col=ffffff>Uccidi Sarachnis 10 volte.</col>
+Description: <col=ffffff>Kill Sarachnis 25 times.</col>;Descrizione: <col=ffffff>Uccidi Sarachnis 25 volte.</col>
+Description: <col=ffffff>Kill Sarachnis with a crush weapon.</col>;Descrizione: <col=ffffff>Uccidi Sarachnis con un'arma crush.</col>
+Description: <col=ffffff>Kill Skotizo once.</col>;Descrizione: <col=ffffff>Uccidi Skotizo una volta.</col>
+Description: <col=ffffff>Kill a Gargoyle.</col>;Descrizione: <col=ffffff>Uccidi un Gargoyle.</col>
+Description: <col=ffffff>Kill a Greater Demon.</col>;Descrizione: <col=ffffff>Uccidi un Greater Demon.</col>
+Description: <col=ffffff>Kill a Hellhound.</col>;Descrizione: <col=ffffff>Uccidi un Hellhound.</col>
+Description: <col=ffffff>Kill a Hill Giant, Moss Giant and Fire Giant in the Giant Cave within the Shayzien region.</col>;Descrizione: <col=ffffff>Uccidi un Hill Giant, un Moss Giant e un Fire Giant nella Giant Cave nella regione Shaytan.</col>
+Description: <col=ffffff>Kill a Kurask.</col>;Descrizione: <col=ffffff>Uccidi un Kurask.</col>
+Description: <col=ffffff>Kill a Lizardman Shaman.</col>;Descrizione: <col=ffffff>Uccidi un Lizardman Shaman.</col>
+Description: <col=ffffff>Kill a Skeletal Wyvern</col>;Descrizione: <col=ffffff>Uccidi un Skeletal Wyvern</col>
