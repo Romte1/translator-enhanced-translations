@@ -3658,3 +3658,7 @@ Assign to crew slot 2;Aseta crew slot 2:een
 Clear crew slot 2;Tyhjennä crew slot 2
 Big net;Iso verkko
 Claim-weapons;Varaa aseet
+View journal <col=ff981f>Prince Ali Rescue</col>;Katso päiväkirjaa <col=ff981f>Prince Ali Rescue</col>
+View journal <col=ff981f>Sheep Shearer</col>;Katso päiväkirjaa <col=ff981f>Sheep Shearer</col>
+View journal <col=ff981f>Mudfoot's Big Adventure</col>;Katso päiväkirjaa <col=ff981f>Mudfoot's Big Adventure</col>
+Confront;Kohtaa

@@ -371,3 +371,39 @@ You have completed Imp Catcher!;Olet suorittanut Imp Catcher!
 <str>may be linked to the two gangs that seem to run the town.;<str>voi olla yhteydessä kahteen jengiin, jotka näyttävät hallitsevan kaupunkia.
 <str>me if I bring her the ingredients.;<str>minulle, jos tuon hänelle ainekset.
 <str>myself by pick-pocketing three villagers in Pollnivneach.;<str>itseni ryöstämällä taskusta kolme asukasta Pollnivneachissa.
+Type: <col=ffffff>Speed</col> <col=dfdfdf>(+5 points)</col>;Tyyppi: <col=ffffff>Speed</col> <col=dfdfdf>(+5 points)</col>
+Description: <col=ffffff>Kill Obor without being pushed back more than one square by his knockback attack.</col>;Kuvaus: <col=ffffff>Tapa Obor ilman että hänen takaisinkiskautuksensa työntää sinut taakseen enempää kuin yksi ruutu.</col>
+Description: <col=ffffff>Kill a Fire Giant.</col>;Kuvaus: <col=ffffff>Tapa Fire Giant.</col>
+Description: <col=ffffff>Kill the Giant Mole 10 times.</col>;Kuvaus: <col=ffffff>Tapa Giant Mole 10 kertaa.</col>
+Description: <col=ffffff>Kill the King Black Dragon 25 times.</col>;Kuvaus: <col=ffffff>Tapa King Black Dragon 25 kertaa.</col>
+Description: <col=ffffff>Kill the Shellbane Gryphon after clearing its corrosive spit from your armour.</col>;Kuvaus: <col=ffffff>Tapa Shellbane Gryphon sen jälkeen, kun olet puhdistanut sen syövyttävän syljen varusteistasi.</col>
+<col=000080>I have to free the <col=800000>Lumbridge Guide<col=000080>! I can start by examining;<col=000080>Minun täytyy vapauttaa <col=800000>Lumbridge Guide<col=000080>! Voin aloittaa tutkimalla
+<col=000080>This sub-quest has the following requirements:;<col=000080>Tällä alitehtävällä on seuraavat vaatimukset:
+<col=000080>his frozen self in <col=800000>Lumbridge Castle<col=000080>.;<col=000080>hänen jäätynyt itsensä <col=800000>Lumbridge Castle<col=000080>.
+Description: <col=ffffff>Kill Hespori 5 times.</col>;Kuvaus: <col=ffffff>Tapa Hespori 5 kertaa.</col>
+Description: <col=ffffff>Kill the Hespori in less than 36 seconds.</col>;Kuvaus: <col=ffffff>Tapa Hespori alle 36 sekunnissa.</col>
+I can start this quest by talking to <col=800000>Larry<col=000080> at the <col=800000>East Ardougne Zoo<col=000080>.;Voin aloittaa tämän tehtävän puhumalla <col=800000>Larry<col=000080>lle <col=800000>East Ardougne Zoo<col=000080>ssa.
+There are no tasks available to you<br>that match your filters.;Sinulle ei ole saatavilla tehtäviä<br>jotka vastaavat suodattimiasi.
+Total Points: 1 - Next unlock in 40 points;Yhteensä pisteitä: 1 - Seuraava avaus 40 pisteessä
+Type: <col=ffffff>Kill Count</col> <col=dfdfdf>(+3 points)</col>;Tyyppi: <col=ffffff>Kill Count</col> <col=dfdfdf>(+3 points)</col>
+Description: <col=ffffff>Attack Tempoross from both sides by loading both cannons on both ships.</col>;Kuvaus: <col=ffffff>Hyökkää Temporossiin molemmilta puolilta lataamalla molemmat kanuunat molemmille aluksille.</col>
+Description: <col=ffffff>Extinguish at least 5 fires during a single Tempoross fight.</col>;Description: <col=ffffff>Samuta vähintään 5 tulta yhden Tempoross-taistelun aikana.</col>
+Description: <col=ffffff>Finish off Scurrius with a ratbane weapon in a private instance.</col>;Description: <col=ffffff>Tapa Scurrius ratbane-aseella yksityisessä instanssissa.</col>
+Description: <col=ffffff>Finish off a Greater Demon with a demonbane weapon.</col>;Description: <col=ffffff>Tapa Greater Demon demonbane-aseella.</col>
+Description: <col=ffffff>Heal a pyromancer after they have fallen.</col>;Description: <col=ffffff>Paranna pyromancer kaaduttuaan.</col>
+Description: <col=ffffff>Kill Dagannoth Rex 10 times.</col>;Description: <col=ffffff>Tapa Dagannoth Rex 10 kertaa.</col>
+Description: <col=ffffff>Kill Dagannoth Supreme 10 times.</col>;Description: <col=ffffff>Tapa Dagannoth Supreme 10 kertaa.</col>
+Description: <col=ffffff>Kill Obor on a free to play world.</col>;Description: <col=ffffff>Tapa Obor free-to-play-maailmassa.</col>
+Description: <col=ffffff>Kill Obor whilst he is immobilized.</col>;Description: <col=ffffff>Tapa Obor kun hän on immobilisoitu.</col>
+Description: <col=ffffff>Kill Obor without taking any damage off prayer.</col>;Description: <col=ffffff>Tapa Obor ottamatta mitään rukousvahinkoa.</col>
+Description: <col=ffffff>Kill Sarachnis 10 times.</col>;Description: <col=ffffff>Tapa Sarachnis 10 kertaa.</col>
+Description: <col=ffffff>Kill Sarachnis 25 times.</col>;Description: <col=ffffff>Tapa Sarachnis 25 kertaa.</col>
+Description: <col=ffffff>Kill Sarachnis with a crush weapon.</col>;Description: <col=ffffff>Tapa Sarachnis crush-aseella.</col>
+Description: <col=ffffff>Kill Skotizo once.</col>;Description: <col=ffffff>Tapa Skotizo kerran.</col>
+Description: <col=ffffff>Kill a Gargoyle.</col>;Description: <col=ffffff>Tapa Gargoyle.</col>
+Description: <col=ffffff>Kill a Greater Demon.</col>;Description: <col=ffffff>Tapa Greater Demon.</col>
+Description: <col=ffffff>Kill a Hellhound.</col>;Description: <col=ffffff>Tapa Hellhound.</col>
+Description: <col=ffffff>Kill a Hill Giant, Moss Giant and Fire Giant in the Giant Cave within the Shayzien region.</col>;Description: <col=ffffff>Tapa Hill Giant, Moss Giant ja Fire Giant Giant Cave -luolassa Shayzin alueella.</col>
+Description: <col=ffffff>Kill a Kurask.</col>;Description: <col=ffffff>Tapa Kurask.</col>
+Description: <col=ffffff>Kill a Lizardman Shaman.</col>;Description: <col=ffffff>Tapa Lizardman Shaman.</col>
+Description: <col=ffffff>Kill a Skeletal Wyvern</col>;Description: <col=ffffff>Tapa Skeletal Wyvern.</col>
