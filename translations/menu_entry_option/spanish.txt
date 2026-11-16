@@ -3385,3 +3385,4 @@ Edit-navigator;Editar-navigator
 Assign to crew slot 2;Asignar a crew slot 2
 Clear crew slot 2;Limpiar crew slot 2
 Claim-weapons;Reclamar armas
+View journal <col=ff981f>Prince Ali Rescue</col>;Ver diario <col=ff981f>Prince Ali Rescue</col>

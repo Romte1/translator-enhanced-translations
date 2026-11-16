@@ -1647,3 +1647,16 @@ I can start this quest by talking to <col=800000>Elias White<col=000080> in the 
 I can start this quest by talking to <col=800000>Elias White<col=000080> in the <col=800000>Uzer Oasis<col=000080>.;Puedo empezar esta misión hablando con <col=800000>Elias White<col=000080> en el <col=800000>Uzer Oasis<col=000080>.
 I can start this quest by talking to <col=800000>Lord Kandur Hosidius<col=000080> at his home in <col=800000>Hosidius<col=000080>.;Puedo empezar esta misión hablando con <col=800000>Lord Kandur Hosidius<col=000080> en su casa en <col=800000>Hosidius<col=000080>.
 I can start this quest by talking to <col=800000>Veliaf Hurtz<col=000080> in the <col=800000>Myreque Hideout<col=000080> beneath <col=800000>Burgh de Rott<col=000080>.;Puedo empezar esta misión hablando con <col=800000>Veliaf Hurtz<col=000080> en el <col=800000>Myreque Hideout<col=000080> bajo <col=800000>Burgh de Rott<col=000080>.
+<col=000080><col=800000>deal with<col=000080>.;<col=000080><col=800000>ocuparme de<col=000080>.
+<str>Duke couldn't grant us one without us speaking to the Groats;<str>Duke no pudo concedernos uno sin que habláramos con los Groats
+<str>Having returned Seth's book to Cassius, he then offered me;<str>Tras devolverle el libro de Seth a Cassius, él me ofreció
+<str>The next step in getting our business set up was to get a;<str>El siguiente paso para poner en marcha nuestro negocio era conseguir una
+<str>a sample of the milk we will be selling. It wasn't the most;<str>una muestra de la leche que venderemos. No fue la más
+<str>around Farmer Fred's farm in Lumbridge.;<str>por la granja de Farmer Fred en Lumbridge.
+<str>been useful to his budding milk business.;<str>sido útil para su incipiente negocio lechero.
+<str>family first.;<str>la familia primero.
+<str>permit for Cassius' future milk empire, but unfortunately the;<str>permiso para el futuro imperio lechero de Cassius, pero por desgracia el
+<str>raise their animals following a set of principles that Seth;<str>criar a sus animales siguiendo una serie de principios que Seth
+<str>sense of the quality of the milk. It wasn't pleasant, but;<str>idea de la calidad de la leche. No fue agradable, pero
+<str>setting it up.;<str>ponerlo en marcha.
+I can start this quest by talking to the <col=800000>Cook<col=000080> in <col=800000>Lumbridge Castle<col=000080>.;Puedo empezar esta misión hablando con el <col=800000>Cook<col=000080> en <col=800000>Lumbridge Castle<col=000080>.
