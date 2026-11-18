@@ -3661,3 +3661,27 @@ View journal <col=ff981f>Prince Ali Rescue</col>;Visa dagbok <col=ff981f>Prince 
 View journal <col=ff981f>Sheep Shearer</col>;Visa dagbok <col=ff981f>Sheep Shearer</col>
 View journal <col=ff981f>Mudfoot's Big Adventure</col>;Visa dagbok <col=ff981f>Mudfoot's Big Adventure</col>
 Confront;Konfrontera
+Cross-over;Korsa
+Contact <col=ff981f>Advisor Ghrim;Kontakta <col=ff981f>Advisor Ghrim
+Contact <col=ff981f>Barbarian Guard;Kontakta <col=ff981f>Barbarian Guard
+Contact <col=ff981f>Bert the Sandman;Kontakta <col=ff981f>Bert the Sandman
+Contact <col=ff981f>Chaeldar;Kontakta <col=ff981f>Chaeldar
+Contact <col=ff981f>Cyrisus;Kontakta <col=ff981f>Cyrisus
+Contact <col=ff981f>Dark Mage;Kontakta <col=ff981f>Dark Mage
+Contact <col=ff981f>Duradel;Kontakta <col=ff981f>Duradel
+Contact <col=ff981f>Ginea;Kontakta <col=ff981f>Ginea
+Contact <col=ff981f>Honest Jimmy;Kontakta <col=ff981f>Honest Jimmy
+Contact <col=ff981f>Konar;Kontakta <col=ff981f>Konar
+Contact <col=ff981f>Krystilia;Kontakta <col=ff981f>Krystilia
+Contact <col=ff981f>Lanthus;Kontakta <col=ff981f>Lanthus
+Contact <col=ff981f>Mazchna;Kontakta <col=ff981f>Mazchna
+Contact <col=ff981f>Mortimer;Kontakta <col=ff981f>Mortimer
+Contact <col=ff981f>Murphy;Kontakta <col=ff981f>Murphy
+Contact <col=ff981f>Nieve;Kontakta <col=ff981f>Nieve
+Contact <col=ff981f>Random;Kontakta <col=ff981f>Random
+Contact <col=ff981f>Smoggy;Kontakta <col=ff981f>Smoggy
+Contact <col=ff981f>Spria;Kontakta <col=ff981f>Spria
+Contact <col=ff981f>Turael;Kontakta <col=ff981f>Turael
+Contact <col=ff981f>Vannaka;Kontakta <col=ff981f>Vannaka
+Contact <col=ff981f>Watson;Kontakta <col=ff981f>Watson
+Plant-orb;Plantera-orb
