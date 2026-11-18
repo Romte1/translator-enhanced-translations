@@ -517,3 +517,41 @@ Description: <col=ffffff>Kill a Hill Giant, Moss Giant and Fire Giant in the Gia
 Description: <col=ffffff>Kill a Kurask.</col>;Descrizione: <col=ffffff>Uccidi un Kurask.</col>
 Description: <col=ffffff>Kill a Lizardman Shaman.</col>;Descrizione: <col=ffffff>Uccidi un Lizardman Shaman.</col>
 Description: <col=ffffff>Kill a Skeletal Wyvern</col>;Descrizione: <col=ffffff>Uccidi un Skeletal Wyvern</col>
+<str><col=ffffff>(<col=000080><str>40 Mining</str>, <col=000080><str>Shilo Village or Jungle Potion</str><col=ffffff>);<str><col=ffffff>(<col=000080><str>40 Mining</str>, <col=000080><str>Shilo Village o Jungle Potion</str><col=ffffff>)
+<col=000080><col=800000>Movario<col=000080> using his <col=800000>Dirty Shirt<col=000080>.;<col=000080><col=800000>Movario<col=000080> usando il suo <col=800000>Dirty Shirt<col=000080>.
+<col=000080>I returned to the <col=800000>Fight Arena<col=000080> and was able to use my <col=800000>Broav<col=000080> to;<col=000080>Sono tornato al <col=800000>Fight Arena<col=000080> e sono stato in grado di usare il mio <col=800000>Brojv<col=000080> per
+<col=000080>I spoke to the <col=800000>Hunting Expert<col=000080> in the <col=800000>Feldip Hills<col=000080> and she;<col=000080>Ho parlato con il <col=800000>Hunting Expert<col=000080> nei <col=800000>Feldip Hills<col=000080> e lei
+<col=000080>able to return to the <col=800000>Fight Arena<col=000080> and use my <col=800000>Broav<col=000080> to track;<col=000080>in grado di tornare al <col=800000>Fight Arena<col=000080> e usare il mio <col=800000>Broav<col=000080> per tracciare
+<col=000080>showed me how to catch and train a <col=800000>Broav<col=000080>. I should now be;<col=000080>mi ha mostrato come catturare e addestrare un <col=800000>Broav<col=000080>. Ora dovrei
+<col=000080>track <col=800000>Movario's<col=000080> scent to a <col=800000>Hidden Base<col=000080> below the <col=800000>Khazard;<col=000080>traccia <col=800000>Movario's<col=000080> odore fino a una <col=800000>Hidden Base<col=000080> sotto il <col=800000>Khazard
+<str>Assassins. However, we were able to defeat them.;<str>Assassini. Tuttavia, siamo riusciti a sconfiggerli.
+<str>Fight Arena as Movario hired a bodyguard from there called;<str>Fight Arena mentre Movario ha assunto una guardia del corpo da lì chiamata
+<str>I spoke to Ivy Sophista in Taverley. She directed me to;<str>Ho parlato con Ivy Sophista a Taverley. Lei mi ha indirizzato verso
+<str>I spoke to the Hunting Expert and she showed me how to catch;<str>Ho parlato con il Hunting Expert e lei mi ha mostrato come catturare
+<str>I travelled to the Fight Arena and found a Launderer who knew;<str>Sono andato al Fight Arena e ho trovato un Launderer che sapeva
+<str>Movario. He gave me a Dirty Shirt belonging to him and;<str>Movario. Mi ha dato una Dirty Shirt appartenente a lui e
+<str>Thaerisk asked me to help deal with the growing threat posed;<str>Thaerisk mi ha chiesto di aiutare a gestire la crescente minaccia rappresentata
+<str>Thaerisk, the leader of a group of Guthixians called Crux Eqal.;<str>Thaerisk, il leader di un gruppo di Guthixians chiamato Crux Eqal.
+<str>With the Assassins dealt with, Thaerisk asked me to;<str>Con gli Assassini sistemati, Thaerisk mi ha chiesto di
+<str>about obtaining a Broav to track Movario with.;<str>riguardo all'ottenere un Broav per tracciare Movario con.
+<str>and train a Broav.;<str>e addestrare un Broav.
+<str>by Lucien. Before he could tell me more, we were attacked by;<str>da Lucien. Prima che potesse dirmi di più, siamo stati attaccati da
+<str>directed me to the Hunting Expert in the Feldip Hills to ask;<str>mi ha indirizzato al Hunting Expert nei Feldip Hills per chiedere
+<str>had worked with Lucien. He suggested I start my search at the;<str>ave lavorato con Lucien. Ha suggerito di iniziare la mia ricerca a
+<str>investigate a treasure hunter called Movario who he believed;<str>indagare su un cacciatore di tesori chiamato Movario che lui credeva
+<col=000080><col=800000>McGrubor's Wood<col=000080> to find <col=800000>Idria<col=000080> and the <col=800000>Guardians of Armadyl<col=000080>.;<col=000080><col=800000>McGrubor's Wood<col=000080> per trovare <col=800000>Idria<col=000080> e i <col=800000>Guardians of Armadyl<col=000080>.
+<col=000080><col=800000>Mercenaries<col=000080>, but I was able to help defeat them. I should;<col=000080><col=800000>Mercenaries<col=000080>, ma sono riuscito ad aiutarli a sconfiggerli. Dovrei
+<col=000080>Upon arrival, I found them being attacked by some;<col=000080>All'arrivo, li ho trovati attaccati da alcuni
+<col=000080>Upon returning to <col=800000>Thaerisk<col=000080>, he asked me to head to;<col=000080>Al ritorno da <col=800000>Thaerisk<col=000080>, mi ha chiesto di dirigermi verso
+<col=000080>With the <col=800000>Mercenaries<col=000080> dealt with, I gave <col=800000>Idria<col=000080> an update on my;<col=000080>Con i <col=800000>Mercenaries<col=000080> sistemati, ho dato a <col=800000>Idria<col=000080> un aggiornamento sul mio
+<col=000080>With the <col=800000>Spy<col=000080> captured, we attempted to interrogate him using;<col=000080>Con lo <col=800000>Spy<col=000080> catturato, abbiamo tentato di interrogarlo usando
+<col=000080>discuss this with <col=800000>Idria<col=000080>.;<col=000080>discutere di questo con <col=800000>Idria<col=000080>.
+<col=000080>recent discoveries. She then departed for the <col=800000>White Knights';<col=000080>scoperte recenti. Poi è partita per i <col=800000>White Knights'
+<col=000080>should speak to <col=800000>Thaerisk<col=000080> about making some more.;<col=000080>dovrebbe parlare con <col=800000>Thaerisk<col=000080> per crearne altri.
+<col=000080>some <col=800000>Truth Serum<col=000080>. However, the <col=800000>Spy<col=000080> was able to destroy it. I;<col=000080>un po' di <col=800000>Truth Serum<col=000080>. Tuttavia, lo <col=800000>Spy<col=000080> è riuscito a distruggerlo. Io
+<str>I found some Research Notes within the Hidden Base and took;<str>Ho trovato alcune Research Notes nella Hidden Base e ho preso
+<str>I spoke with Thaerisk, Akrisae and Idria about the contents of;<str>Ho parlato con Thaerisk, Akrisae e Idria del contenuto di
+<str>Mercenaries, but I was able to help defeat them.;<str>Mercenaries, ma sono riuscito ad aiutarli a sconfiggerli.
+<str>Movario's Research Notes. They revealed Lucien's desire to;<str>Movario's Research Notes. Hanno rivelato il desiderio di Lucien di
+<str>Spies from Draynor Village. As such, I planted a Teleorb given;<str>Spies di Draynor Village. Perciò, ho piantato un Teleorb dato
+<str>Thaerisk asked me to head to McGrubor's Wood to find Idria;<str>Thaerisk mi ha chiesto di andare a McGrubor's Wood per trovare Idria
