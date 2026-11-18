@@ -3662,3 +3662,27 @@ View journal <col=ff981f>Prince Ali Rescue</col>;Katso päiväkirjaa <col=ff981f
 View journal <col=ff981f>Sheep Shearer</col>;Katso päiväkirjaa <col=ff981f>Sheep Shearer</col>
 View journal <col=ff981f>Mudfoot's Big Adventure</col>;Katso päiväkirjaa <col=ff981f>Mudfoot's Big Adventure</col>
 Confront;Kohtaa
+Cross-over;Ylitä
+Contact <col=ff981f>Advisor Ghrim;Ota yhteyttä <col=ff981f>Advisor Ghrim
+Contact <col=ff981f>Barbarian Guard;Ota yhteyttä <col=ff981f>Barbarian Guard
+Contact <col=ff981f>Bert the Sandman;Ota yhteyttä <col=ff981f>Bert the Sandman
+Contact <col=ff981f>Chaeldar;Ota yhteyttä <col=ff981f>Chaeldar
+Contact <col=ff981f>Cyrisus;Ota yhteyttä <col=ff981f>Cyrisus
+Contact <col=ff981f>Dark Mage;Ota yhteyttä <col=ff981f>Dark Mage
+Contact <col=ff981f>Duradel;Ota yhteyttä <col=ff981f>Duradel
+Contact <col=ff981f>Ginea;Ota yhteyttä <col=ff981f>Ginea
+Contact <col=ff981f>Honest Jimmy;Ota yhteyttä <col=ff981f>Honest Jimmy
+Contact <col=ff981f>Konar;Ota yhteyttä <col=ff981f>Konar
+Contact <col=ff981f>Krystilia;Ota yhteyttä <col=ff981f>Krystilia
+Contact <col=ff981f>Lanthus;Ota yhteyttä <col=ff981f>Lanthus
+Contact <col=ff981f>Mazchna;Ota yhteyttä <col=ff981f>Mazchna
+Contact <col=ff981f>Mortimer;Ota yhteyttä <col=ff981f>Mortimer
+Contact <col=ff981f>Murphy;Ota yhteyttä <col=ff981f>Murphy
+Contact <col=ff981f>Nieve;Ota yhteyttä <col=ff981f>Nieve
+Contact <col=ff981f>Random;Ota yhteyttä <col=ff981f>Random
+Contact <col=ff981f>Smoggy;Ota yhteyttä <col=ff981f>Smoggy
+Contact <col=ff981f>Spria;Ota yhteyttä <col=ff981f>Spria
+Contact <col=ff981f>Turael;Ota yhteyttä <col=ff981f>Turael
+Contact <col=ff981f>Vannaka;Ota yhteyttä <col=ff981f>Vannaka
+Contact <col=ff981f>Watson;Ota yhteyttä <col=ff981f>Watson
+Plant-orb;Istuta-orb

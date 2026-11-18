@@ -427,3 +427,41 @@ Description: <col=ffffff>Kill a Lizardman Shaman.</col>;Beschrijving: <col=fffff
 Description: <col=ffffff>Kill a Skeletal Wyvern</col>;Beschrijving: <col=ffffff>Dood een Skeletal Wyvern</col>
 Description: <col=ffffff>Kill a Wyrm.</col>;Beschrijving: <col=ffffff>Dood een Wyrm.</col>
 Description: <col=ffffff>Kill one Titan at a time, without attacking the other.</col>;Beschrijving: <col=ffffff>Dood één Titan per keer, zonder de andere aan te vallen.</col>
+<str><col=ffffff>(<col=000080><str>40 Mining</str>, <col=000080><str>Shilo Village or Jungle Potion</str><col=ffffff>);<str><col=ffffff>(<col=000080><str>40 Mining</str>, <col=000080><str>Shilo Village of Jungle Potion</str><col=ffffff>)
+<col=000080><col=800000>Movario<col=000080> using his <col=800000>Dirty Shirt<col=000080>.;<col=000080><col=800000>Movario<col=000080> gebruikt zijn <col=800000>Dirty Shirt<col=000080>.
+<col=000080>I returned to the <col=800000>Fight Arena<col=000080> and was able to use my <col=800000>Broav<col=000080> to;<col=000080>Ik keerde terug naar de <col=800000>Fight Arena<col=000080> en kon mijn <col=800000>Broav<col=000080> om
+<col=000080>I spoke to the <col=800000>Hunting Expert<col=000080> in the <col=800000>Feldip Hills<col=000080> and she;<col=000080>Ik sprak met de <col=800000>Hunting Expert<col=000080> in de <col=800000>Feldip Hills<col=000080> en zij
+<col=000080>able to return to the <col=800000>Fight Arena<col=000080> and use my <col=800000>Broav<col=000080> to track;<col=000080>kunnen terugkeren naar de <col=800000>Fight Arena<col=000080> en gebruik mijn <col=800000>Broav<col=000080> om te volgen
+<col=000080>showed me how to catch and train a <col=800000>Broav<col=000080>. I should now be;<col=000080>toonde me hoe ik een <col=800000>Broav<col=000080> kan vangen en trainen. Ik zou nu
+<col=000080>track <col=800000>Movario's<col=000080> scent to a <col=800000>Hidden Base<col=000080> below the <col=800000>Khazard;<col=000080>volg <col=800000>Movario's<col=000080> geur naar een <col=800000>Hidden Base<col=000080> onder de <col=800000>Khazard
+<str>Assassins. However, we were able to defeat them.;<str>Assassins. Echter, we konden hen verslaan.
+<str>Fight Arena as Movario hired a bodyguard from there called;<str>Fight Arena omdat Movario daar een lijfwacht huurde genaamd
+<str>I spoke to Ivy Sophista in Taverley. She directed me to;<str>Ik sprak met Ivy Sophista in Taverley. Ze verwees me naar
+<str>I spoke to the Hunting Expert and she showed me how to catch;<str>Ik sprak met de Hunting Expert en zij toonde me hoe ik kan vangen
+<str>I travelled to the Fight Arena and found a Launderer who knew;<str>Ik reisde naar de Fight Arena en vond een Launderer die wist
+<str>Movario. He gave me a Dirty Shirt belonging to him and;<str>Movario. Hij gaf me een Dirty Shirt dat van hem was en
+<str>Thaerisk asked me to help deal with the growing threat posed;<str>Thaerisk vroeg me te helpen omgaan met de groeiende dreiging veroorzaakt
+<str>Thaerisk, the leader of a group of Guthixians called Crux Eqal.;<str>Thaerisk, de leider van een groep Guthixians genaamd Crux Eqal.
+<str>With the Assassins dealt with, Thaerisk asked me to;<str>Met de Assassins afgehandeld, vroeg Thaerisk me om
+<str>about obtaining a Broav to track Movario with.;<str>over het verkrijgen van een Broav om Movario mee te volgen.
+<str>and train a Broav.;<str>en een Broav trainen.
+<str>by Lucien. Before he could tell me more, we were attacked by;<str>door Lucien. Voordat hij me meer kon vertellen, werden we aangevallen door
+<str>directed me to the Hunting Expert in the Feldip Hills to ask;<str>verwees me naar de Hunting Expert in de Feldip Hills om te vragen
+<str>had worked with Lucien. He suggested I start my search at the;<str>had samengewerkt met Lucien. Hij stelde voor dat ik mijn zoektocht begin bij de
+<str>investigate a treasure hunter called Movario who he believed;<str>onderzoekt een schattenjager genaamd Movario die hij geloofde
+<col=000080><col=800000>McGrubor's Wood<col=000080> to find <col=800000>Idria<col=000080> and the <col=800000>Guardians of Armadyl<col=000080>.;<col=000080><col=800000>McGrubor's Wood<col=000080> om <col=800000>Idria<col=000080> en de <col=800000>Guardians of Armadyl<col=000080> te vinden.
+<col=000080><col=800000>Mercenaries<col=000080>, but I was able to help defeat them. I should;<col=000080><col=800000>Mercenaries<col=000080>, maar ik kon hen helpen verslaan. Ik moet
+<col=000080>Upon arrival, I found them being attacked by some;<col=000080>Bij aankomst vond ik hen aangevallen door enkele
+<col=000080>Upon returning to <col=800000>Thaerisk<col=000080>, he asked me to head to;<col=000080>Bij terugkeer naar <col=800000>Thaerisk<col=000080>, vroeg hij me om naar
+<col=000080>With the <col=800000>Mercenaries<col=000080> dealt with, I gave <col=800000>Idria<col=000080> an update on my;<col=000080>Met de <col=800000>Mercenaries<col=000080> afgehandeld, gaf ik <col=800000>Idria<col=000080> een update over mijn
+<col=000080>With the <col=800000>Spy<col=000080> captured, we attempted to interrogate him using;<col=000080>Met de <col=800000>Spy<col=000080> gevangen, probeerden we hem ondervragen met
+<col=000080>discuss this with <col=800000>Idria<col=000080>.;<col=000080>bespreek dit met <col=800000>Idria<col=000080>.
+<col=000080>recent discoveries. She then departed for the <col=800000>White Knights';<col=000080>recente ontdekkingen. Ze vertrok vervolgens naar de <col=800000>White Knights'
+<col=000080>should speak to <col=800000>Thaerisk<col=000080> about making some more.;<col=000080>moet spreken met <col=800000>Thaerisk<col=000080> over het maken van meer.
+<col=000080>some <col=800000>Truth Serum<col=000080>. However, the <col=800000>Spy<col=000080> was able to destroy it. I;<col=000080>een beetje <col=800000>Truth Serum<col=000080>. Echter, de <col=800000>Spy<col=000080> kon het vernietigen. Ik
+<str>I found some Research Notes within the Hidden Base and took;<str>Ik vond enkele Research Notes in de Hidden Base en nam
+<str>I spoke with Thaerisk, Akrisae and Idria about the contents of;<str>Ik sprak met Thaerisk, Akrisae en Idria over de inhoud van
+<str>Mercenaries, but I was able to help defeat them.;<str>Mercenaries, maar ik kon hen helpen verslaan.
+<str>Movario's Research Notes. They revealed Lucien's desire to;<str>Movario's Research Notes. Ze onthulden Lucien's verlangen om
+<str>Spies from Draynor Village. As such, I planted a Teleorb given;<str>Spies uit Draynor Village. Daarom plantte ik een Teleorb gegeven
+<str>Thaerisk asked me to head to McGrubor's Wood to find Idria;<str>Thaerisk vroeg me om naar McGrubor's Wood te gaan om Idria te vinden

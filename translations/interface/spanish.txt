@@ -1685,3 +1685,40 @@ I can start this quest by finding a <col=800000>Lost Snail<col=000080> in the <c
 I can start this quest by talking to <col=800000>Farmer Bea<col=000080> south west of the <col=800000>Digsite<col=000080>.;Puedo empezar esta misión hablando con <col=800000>Farmer Bea<col=000080> al suroeste del <col=800000>Digsite<col=000080>.
 You have completed A Tail of Two Cats!;¡Has completado A Tail of Two Cats!
 You have completed Demon Slayer;Has completado Demon Slayer
+<col=000080><col=800000>Movario<col=000080> using his <col=800000>Dirty Shirt<col=000080>.;<col=000080><col=800000>Movario<col=000080> usando su <col=800000>Dirty Shirt<col=000080>.
+<col=000080>I returned to the <col=800000>Fight Arena<col=000080> and was able to use my <col=800000>Broav<col=000080> to;<col=000080>Regresé al <col=800000>Fight Arena<col=000080> y pude usar mi <col=800000>Brojv<col=000080> para
+<col=000080>I spoke to the <col=800000>Hunting Expert<col=000080> in the <col=800000>Feldip Hills<col=000080> and she;<col=000080>Hablé con la <col=800000>Hunting Expert<col=000080> en los <col=800000>Feldip Hills<col=000080> y ella
+<col=000080>able to return to the <col=800000>Fight Arena<col=000080> and use my <col=800000>Broav<col=000080> to track;<col=000080>pude volver al <col=800000>Fight Arena<col=000080> y usar mi <col=800000>Broav<col=000080> para rastrear
+<col=000080>showed me how to catch and train a <col=800000>Broav<col=000080>. I should now be;<col=000080>me mostró cómo atrapar y entrenar un <col=800000>Broav<col=000080>. Ahora debería
+<col=000080>track <col=800000>Movario's<col=000080> scent to a <col=800000>Hidden Base<col=000080> below the <col=800000>Khazard;<col=000080>rastrear el olor de <col=800000>Movario's<col=000080> hasta una <col=800000>Hidden Base<col=000080> bajo el <col=800000>Khazard
+<str>Assassins. However, we were able to defeat them.;<str>Asesinos. Sin embargo, pudimos derrotarlos.
+<str>Fight Arena as Movario hired a bodyguard from there called;<str>Fight Arena mientras Movario contrató a un guardaespaldas de allí llamado
+<str>I spoke to Ivy Sophista in Taverley. She directed me to;<str>Hablé con Ivy Sophista en Taverley. Ella me dirigió a
+<str>I spoke to the Hunting Expert and she showed me how to catch;<str>Hablé con la Hunting Expert y ella me mostró cómo atrapar
+<str>I travelled to the Fight Arena and found a Launderer who knew;<str>Viajé al Fight Arena y encontré a un Launderer que sabía
+<str>Movario. He gave me a Dirty Shirt belonging to him and;<str>Movario. Él me dio una Dirty Shirt que le pertenecía y
+<str>Thaerisk asked me to help deal with the growing threat posed;<str>Thaerisk me pidió ayudar a enfrentar la creciente amenaza que representa
+<str>Thaerisk, the leader of a group of Guthixians called Crux Eqal.;<str>Thaerisk, el líder de un grupo de Guthixians llamado Crux Eqal.
+<str>With the Assassins dealt with, Thaerisk asked me to;<str>Con los Asesinos derrotados, Thaerisk me pidió
+<str>about obtaining a Broav to track Movario with.;<str>sobre obtener un Broav para rastrear a Movario con.
+<str>and train a Broav.;<str>y entrenar un Broav.
+<str>by Lucien. Before he could tell me more, we were attacked by;<str>por Lucien. Antes de que pudiera decirme más, fuimos atacados por
+<str>directed me to the Hunting Expert in the Feldip Hills to ask;<str>me dirigió a la Hunting Expert en los Feldip Hills para preguntar
+<str>had worked with Lucien. He suggested I start my search at the;<str>había trabajado con Lucien. Él sugirió que empezara mi búsqueda en el
+<str>investigate a treasure hunter called Movario who he believed;<str>investigar a un cazador de tesoros llamado Movario que él creía
+<col=000080><col=800000>McGrubor's Wood<col=000080> to find <col=800000>Idria<col=000080> and the <col=800000>Guardians of Armadyl<col=000080>.;<col=000080><col=800000>McGrubor's Wood<col=000080> para encontrar <col=800000>Idria<col=000080> y los <col=800000>Guardians of Armadyl<col=000080>.
+<col=000080><col=800000>Mercenaries<col=000080>, but I was able to help defeat them. I should;<col=000080><col=800000>Mercenaries<col=000080>, pero pude ayudar a derrotarlos. Debería
+<col=000080>Upon arrival, I found them being attacked by some;<col=000080>Al llegar, los encontré siendo atacados por algunos
+<col=000080>Upon returning to <col=800000>Thaerisk<col=000080>, he asked me to head to;<col=000080>Al regresar a <col=800000>Thaerisk<col=000080>, él me pidió que me dirigiera a
+<col=000080>With the <col=800000>Mercenaries<col=000080> dealt with, I gave <col=800000>Idria<col=000080> an update on my;<col=000080>Con los <col=800000>Mercenaries<col=000080> solucionados, le di a <col=800000>Idria<col=000080> una actualización sobre mi
+<col=000080>With the <col=800000>Spy<col=000080> captured, we attempted to interrogate him using;<col=000080>Con el <col=800000>Spy<col=000080> capturado, intentamos interrogarlo usando
+<col=000080>discuss this with <col=800000>Idria<col=000080>.;<col=000080>discutir esto con <col=800000>Idria<col=000080>.
+<col=000080>recent discoveries. She then departed for the <col=800000>White Knights';<col=000080>descubrimientos recientes. Luego partió hacia los <col=800000>White Knights'
+<col=000080>should speak to <col=800000>Thaerisk<col=000080> about making some more.;<col=000080>debería hablar con <col=800000>Thaerisk<col=000080> sobre hacer algunos más.
+<col=000080>some <col=800000>Truth Serum<col=000080>. However, the <col=800000>Spy<col=000080> was able to destroy it. I;<col=000080>algo de <col=800000>Truth Serum<col=000080>. Sin embargo, el <col=800000>Spy<col=000080> pudo destruirlo. Yo
+<str>I found some Research Notes within the Hidden Base and took;<str>Encontré algunas Research Notes dentro de la Hidden Base y tomé
+<str>I spoke with Thaerisk, Akrisae and Idria about the contents of;<str>Hablé con Thaerisk, Akrisae e Idria sobre el contenido de
+<str>Mercenaries, but I was able to help defeat them.;<str>Mercenaries, pero pude ayudar a derrotarlos.
+<str>Movario's Research Notes. They revealed Lucien's desire to;<str>Movario's Research Notes. Revelaron el deseo de Lucien de
+<str>Spies from Draynor Village. As such, I planted a Teleorb given;<str>Spies de Draynor Village. Como tal, planté un Teleorb dado
+<str>Thaerisk asked me to head to McGrubor's Wood to find Idria;<str>Thaerisk me pidió que fuera a McGrubor's Wood para encontrar a Idria
