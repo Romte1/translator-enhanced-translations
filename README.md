@@ -1,8 +1,8 @@
 # Translator Enhanced translations
 
 This repository is the source of truth for the **curated** Translator Enhanced
-dictionaries: interface texts (journals, diaries, combat achievements) and right-click
-menu options.
+dictionaries: chatbox dialogues, interface texts (journals, diaries, combat achievements)
+and right-click menu options.
 
 The plugin consumes these files at runtime. It validates the SHA-256 of every downloaded
 file, caches the last valid copy and falls back to its bundled interface dictionary when
@@ -13,6 +13,7 @@ the network is unavailable.
 ```text
 manifest.json
 translations/
+  translations/dialogue/<language>.txt
   translations/interface/<language>.txt
   translations/menu_entry_option/<language>.txt
   translations/overrides/<language>.txt

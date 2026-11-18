@@ -7,7 +7,7 @@ import { fileURLToPath } from "node:url";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const translations = join(root, "translations");
-const types = ["interface", "menu_entry_option"];
+const types = ["dialogue", "interface", "menu_entry_option"];
 const errors = [];
 
 const DYNAMIC_MENU = [

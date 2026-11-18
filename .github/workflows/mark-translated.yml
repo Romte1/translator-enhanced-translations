@@ -4,6 +4,7 @@ on:
   push:
     branches: [main]
     paths:
+      - translations/dialogue/**.txt
       - translations/interface/**.txt
       - translations/menu_entry_option/**.txt
   workflow_dispatch:
@@ -32,6 +33,6 @@ jobs:
           PENDING_URL: ${{ vars.PENDING_URL }}
           PENDING_TOKEN: ${{ secrets.PENDING_TOKEN }}
         run: |
-          for type in interface menu_entry_option; do
+          for type in dialogue interface menu_entry_option; do
             node scripts/mark-translated.mjs "${{ matrix.language }}" "$type"
           done

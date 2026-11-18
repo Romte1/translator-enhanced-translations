@@ -26,7 +26,7 @@ const language = process.argv[2] ?? "spanish";
 const type = process.argv[3] ?? "interface";
 const dryRun = process.argv.includes("--dry-run");
 
-const TYPES = new Set(["interface", "menu_entry_option"]);
+const TYPES = new Set(["dialogue", "interface", "menu_entry_option"]);
 if (!TYPES.has(type)) {
 	console.error(`unknown dictionary type: ${type}`);
 	process.exit(1);
@@ -123,7 +123,7 @@ const pending = [...new Set([...texts, ...seedTexts])]
 	.filter(key => !IGNORED_PREFIXES.some(prefix => key.startsWith(prefix)))
 	.filter(key => !SPANISH_LABEL.test(key))
 	.filter(key => !(normalize(key).length > 12 && sourceValues.has(normalize(key))))
-	.filter(type === "interface" ? looksLikeText : looksLikeMenuOption)
+	.filter(type === "menu_entry_option" ? looksLikeMenuOption : looksLikeText)
 	.slice(0, limit > 0 ? limit : undefined);
 
 if (pending.length === 0) {

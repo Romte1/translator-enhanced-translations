@@ -1,0 +1,9 @@
+# Curated dialogue entries. Keep NPC, item and place names in English.
+hello;Hola
+Hello;Hola
+hello!;¡Hola!
+Hello!;¡Hola!
+Hello there;Hola
+Hello there!;¡Hola!
+Goodbye.;Adiós.
+See you later.;Hasta luego.

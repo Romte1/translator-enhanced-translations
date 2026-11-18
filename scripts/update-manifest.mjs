@@ -6,7 +6,7 @@ import { dirname, join, relative } from "node:path";
 import { fileURLToPath } from "node:url";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
-const types = ["interface", "menu_entry_option"];
+const types = ["dialogue", "interface", "menu_entry_option"];
 const files = {};
 
 for (const type of types) {
