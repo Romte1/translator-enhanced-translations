@@ -1686,11 +1686,11 @@ I can start this quest by talking to <col=800000>Farmer Bea<col=000080> south we
 You have completed A Tail of Two Cats!;¡Has completado A Tail of Two Cats!
 You have completed Demon Slayer;Has completado Demon Slayer
 <col=000080><col=800000>Movario<col=000080> using his <col=800000>Dirty Shirt<col=000080>.;<col=000080><col=800000>Movario<col=000080> usando su <col=800000>Dirty Shirt<col=000080>.
-<col=000080>I returned to the <col=800000>Fight Arena<col=000080> and was able to use my <col=800000>Broav<col=000080> to;<col=000080>Regresé al <col=800000>Fight Arena<col=000080> y pude usar mi <col=800000>Brojv<col=000080> para
+<col=000080>I returned to the <col=800000>Fight Arena<col=000080> and was able to use my <col=800000>Broav<col=000080> to;<col=000080>Regresé al <col=800000>Fight Arena<col=000080> y pude usar mi <col=800000>Broav<col=000080> para
 <col=000080>I spoke to the <col=800000>Hunting Expert<col=000080> in the <col=800000>Feldip Hills<col=000080> and she;<col=000080>Hablé con la <col=800000>Hunting Expert<col=000080> en los <col=800000>Feldip Hills<col=000080> y ella
 <col=000080>able to return to the <col=800000>Fight Arena<col=000080> and use my <col=800000>Broav<col=000080> to track;<col=000080>pude volver al <col=800000>Fight Arena<col=000080> y usar mi <col=800000>Broav<col=000080> para rastrear
 <col=000080>showed me how to catch and train a <col=800000>Broav<col=000080>. I should now be;<col=000080>me mostró cómo atrapar y entrenar un <col=800000>Broav<col=000080>. Ahora debería
-<col=000080>track <col=800000>Movario's<col=000080> scent to a <col=800000>Hidden Base<col=000080> below the <col=800000>Khazard;<col=000080>rastrear el olor de <col=800000>Movario's<col=000080> hasta una <col=800000>Hidden Base<col=000080> bajo el <col=800000>Khazard
+<col=000080>track <col=800000>Movario's<col=000080> scent to a <col=800000>Hidden Base<col=000080> below the <col=800000>Khazard;<col=000080>rastrear el olor de <col=800000>Movario<col=000080> hasta una <col=800000>Hidden Base<col=000080> bajo el <col=800000>Khazard
 <str>Assassins. However, we were able to defeat them.;<str>Asesinos. Sin embargo, pudimos derrotarlos.
 <str>Fight Arena as Movario hired a bodyguard from there called;<str>Fight Arena mientras Movario contrató a un guardaespaldas de allí llamado
 <str>I spoke to Ivy Sophista in Taverley. She directed me to;<str>Hablé con Ivy Sophista en Taverley. Ella me dirigió a
@@ -1700,7 +1700,7 @@ You have completed Demon Slayer;Has completado Demon Slayer
 <str>Thaerisk asked me to help deal with the growing threat posed;<str>Thaerisk me pidió ayudar a enfrentar la creciente amenaza que representa
 <str>Thaerisk, the leader of a group of Guthixians called Crux Eqal.;<str>Thaerisk, el líder de un grupo de Guthixians llamado Crux Eqal.
 <str>With the Assassins dealt with, Thaerisk asked me to;<str>Con los Asesinos derrotados, Thaerisk me pidió
-<str>about obtaining a Broav to track Movario with.;<str>sobre obtener un Broav para rastrear a Movario con.
+<str>about obtaining a Broav to track Movario with.;<str>sobre cómo obtener un Broav para rastrear a Movario.
 <str>and train a Broav.;<str>y entrenar un Broav.
 <str>by Lucien. Before he could tell me more, we were attacked by;<str>por Lucien. Antes de que pudiera decirme más, fuimos atacados por
 <str>directed me to the Hunting Expert in the Feldip Hills to ask;<str>me dirigió a la Hunting Expert en los Feldip Hills para preguntar
@@ -1720,5 +1720,5 @@ You have completed Demon Slayer;Has completado Demon Slayer
 <str>I spoke with Thaerisk, Akrisae and Idria about the contents of;<str>Hablé con Thaerisk, Akrisae e Idria sobre el contenido de
 <str>Mercenaries, but I was able to help defeat them.;<str>Mercenaries, pero pude ayudar a derrotarlos.
 <str>Movario's Research Notes. They revealed Lucien's desire to;<str>Movario's Research Notes. Revelaron el deseo de Lucien de
-<str>Spies from Draynor Village. As such, I planted a Teleorb given;<str>Spies de Draynor Village. Como tal, planté un Teleorb dado
+<str>Spies from Draynor Village. As such, I planted a Teleorb given;<str>Espías de Draynor Village. Como tal, planté un Teleorb dado
 <str>Thaerisk asked me to head to McGrubor's Wood to find Idria;<str>Thaerisk me pidió que fuera a McGrubor's Wood para encontrar a Idria

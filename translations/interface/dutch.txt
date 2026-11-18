@@ -433,8 +433,8 @@ Description: <col=ffffff>Kill one Titan at a time, without attacking the other.<
 <col=000080>I spoke to the <col=800000>Hunting Expert<col=000080> in the <col=800000>Feldip Hills<col=000080> and she;<col=000080>Ik sprak met de <col=800000>Hunting Expert<col=000080> in de <col=800000>Feldip Hills<col=000080> en zij
 <col=000080>able to return to the <col=800000>Fight Arena<col=000080> and use my <col=800000>Broav<col=000080> to track;<col=000080>kunnen terugkeren naar de <col=800000>Fight Arena<col=000080> en gebruik mijn <col=800000>Broav<col=000080> om te volgen
 <col=000080>showed me how to catch and train a <col=800000>Broav<col=000080>. I should now be;<col=000080>toonde me hoe ik een <col=800000>Broav<col=000080> kan vangen en trainen. Ik zou nu
-<col=000080>track <col=800000>Movario's<col=000080> scent to a <col=800000>Hidden Base<col=000080> below the <col=800000>Khazard;<col=000080>volg <col=800000>Movario's<col=000080> geur naar een <col=800000>Hidden Base<col=000080> onder de <col=800000>Khazard
-<str>Assassins. However, we were able to defeat them.;<str>Assassins. Echter, we konden hen verslaan.
+<col=000080>track <col=800000>Movario's<col=000080> scent to a <col=800000>Hidden Base<col=000080> below the <col=800000>Khazard;<col=000080>volg de geur van <col=800000>Movario<col=000080> naar een <col=800000>Hidden Base<col=000080> onder de <col=800000>Khazard
+<str>Assassins. However, we were able to defeat them.;<str>Moordenaars. Echter, we konden hen verslaan.
 <str>Fight Arena as Movario hired a bodyguard from there called;<str>Fight Arena omdat Movario daar een lijfwacht huurde genaamd
 <str>I spoke to Ivy Sophista in Taverley. She directed me to;<str>Ik sprak met Ivy Sophista in Taverley. Ze verwees me naar
 <str>I spoke to the Hunting Expert and she showed me how to catch;<str>Ik sprak met de Hunting Expert en zij toonde me hoe ik kan vangen
@@ -442,7 +442,7 @@ Description: <col=ffffff>Kill one Titan at a time, without attacking the other.<
 <str>Movario. He gave me a Dirty Shirt belonging to him and;<str>Movario. Hij gaf me een Dirty Shirt dat van hem was en
 <str>Thaerisk asked me to help deal with the growing threat posed;<str>Thaerisk vroeg me te helpen omgaan met de groeiende dreiging veroorzaakt
 <str>Thaerisk, the leader of a group of Guthixians called Crux Eqal.;<str>Thaerisk, de leider van een groep Guthixians genaamd Crux Eqal.
-<str>With the Assassins dealt with, Thaerisk asked me to;<str>Met de Assassins afgehandeld, vroeg Thaerisk me om
+<str>With the Assassins dealt with, Thaerisk asked me to;<str>Met de Moordenaars afgehandeld, vroeg Thaerisk me om
 <str>about obtaining a Broav to track Movario with.;<str>over het verkrijgen van een Broav om Movario mee te volgen.
 <str>and train a Broav.;<str>en een Broav trainen.
 <str>by Lucien. Before he could tell me more, we were attacked by;<str>door Lucien. Voordat hij me meer kon vertellen, werden we aangevallen door
@@ -463,5 +463,5 @@ Description: <col=ffffff>Kill one Titan at a time, without attacking the other.<
 <str>I spoke with Thaerisk, Akrisae and Idria about the contents of;<str>Ik sprak met Thaerisk, Akrisae en Idria over de inhoud van
 <str>Mercenaries, but I was able to help defeat them.;<str>Mercenaries, maar ik kon hen helpen verslaan.
 <str>Movario's Research Notes. They revealed Lucien's desire to;<str>Movario's Research Notes. Ze onthulden Lucien's verlangen om
-<str>Spies from Draynor Village. As such, I planted a Teleorb given;<str>Spies uit Draynor Village. Daarom plantte ik een Teleorb gegeven
+<str>Spies from Draynor Village. As such, I planted a Teleorb given;<str>Spionnen uit Draynor Village. Daarom plantte ik een Teleorb gegeven
 <str>Thaerisk asked me to head to McGrubor's Wood to find Idria;<str>Thaerisk vroeg me om naar McGrubor's Wood te gaan om Idria te vinden

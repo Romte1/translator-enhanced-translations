@@ -3682,7 +3682,7 @@ Contact <col=ff981f>Nieve;Contactar <col=ff981f>Nieve
 Contact <col=ff981f>Random;Contactar <col=ff981f>Random
 Contact <col=ff981f>Smoggy;Contactar <col=ff981f>Smoggy
 Contact <col=ff981f>Spria;Contactar <col=ff981f>Spria
-Contact <col=ff981f>Turael;Contatar <col=ff981f>Turael
-Contact <col=ff981f>Vannaka;Contatar <col=ff981f>Vannaka
-Contact <col=ff981f>Watson;Contatar <col=ff981f>Watson
+Contact <col=ff981f>Turael;Contactar <col=ff981f>Turael
+Contact <col=ff981f>Vannaka;Contactar <col=ff981f>Vannaka
+Contact <col=ff981f>Watson;Contactar <col=ff981f>Watson
 Plant-orb;Plantar-orb
