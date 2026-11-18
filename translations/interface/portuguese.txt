@@ -760,3 +760,40 @@ Description: <col=ffffff>Kill a Hill Giant, Moss Giant and Fire Giant in the Gia
 Description: <col=ffffff>Kill a Kurask.</col>;Descrição: <col=ffffff>Mate um Kurask.</col>
 Description: <col=ffffff>Kill a Lizardman Shaman.</col>;Descrição: <col=ffffff>Mate um Lizardman Shaman.</col>
 Description: <col=ffffff>Kill a Skeletal Wyvern</col>;Descrição: <col=ffffff>Mate um Skeletal Wyvern</col>
+<col=000080><col=800000>Movario<col=000080> using his <col=800000>Dirty Shirt<col=000080>.;<col=000080><col=800000>Movario<col=000080> usando sua <col=800000>Dirty Shirt<col=000080>.
+<col=000080>I returned to the <col=800000>Fight Arena<col=000080> and was able to use my <col=800000>Broav<col=000080> to;<col=000080>Voltei ao <col=800000>Fight Arena<col=000080> e pude usar meu <col=800000>Broav<col=000080> para
+<col=000080>I spoke to the <col=800000>Hunting Expert<col=000080> in the <col=800000>Feldip Hills<col=000080> and she;<col=000080>Falei com o <col=800000>Hunting Expert<col=000080> em <col=800000>Feldip Hills<col=000080> e ela
+<col=000080>able to return to the <col=800000>Fight Arena<col=000080> and use my <col=800000>Broav<col=000080> to track;<col=000080>conseguiu voltar ao <col=800000>Fight Arena<col=000080> e usar meu <col=800000>Broav<col=000080> para rastrear
+<col=000080>showed me how to catch and train a <col=800000>Broav<col=000080>. I should now be;<col=000080>mostrou-me como capturar e treinar um <col=800000>Broav<col=000080>. Agora devo
+<col=000080>track <col=800000>Movario's<col=000080> scent to a <col=800000>Hidden Base<col=000080> below the <col=800000>Khazard;<col=000080>rastrear o rastro de <col=800000>Movario's<col=000080> até uma <col=800000>Hidden Base<col=000080> abaixo do <col=800000>Khazard
+<str>Assassins. However, we were able to defeat them.;<str>Assassinos. No entanto, conseguimos derrotá-los.
+<str>Fight Arena as Movario hired a bodyguard from there called;<str>Fight Arena enquanto Movario contratou um guarda-costas de lá chamado
+<str>I spoke to Ivy Sophista in Taverley. She directed me to;<str>Falei com Ivy Sophista em Taverley. Ela me encaminhou para
+<str>I spoke to the Hunting Expert and she showed me how to catch;<str>Falei com o Hunting Expert e ela mostrou-me como capturar
+<str>I travelled to the Fight Arena and found a Launderer who knew;<str>Viajei ao Fight Arena e encontrei um Launderer que sabia
+<str>Movario. He gave me a Dirty Shirt belonging to him and;<str>Movario. Ele me deu um Dirty Shirt que lhe pertencia e
+<str>Thaerisk asked me to help deal with the growing threat posed;<str>Thaerisk pediu-me para ajudar a lidar com a crescente ameaça causada
+<str>Thaerisk, the leader of a group of Guthixians called Crux Eqal.;<str>Thaerisk, o líder de um grupo de Guthixians chamado Crux Eqal.
+<str>With the Assassins dealt with, Thaerisk asked me to;<str>Com os Assassinos resolvidos, Thaerisk pediu-me para
+<str>about obtaining a Broav to track Movario with.;<str>sobre obter um Broav para rastrear Movario com.
+<str>and train a Broav.;<str>e treinar um Broav.
+<str>by Lucien. Before he could tell me more, we were attacked by;<str>por Lucien. Antes que ele pudesse me contar mais, fomos atacados por
+<str>directed me to the Hunting Expert in the Feldip Hills to ask;<str>me encaminhou ao Hunting Expert em Feld
+<str>had worked with Lucien. He suggested I start my search at the;<str>tinha trabalhado com Lucien. Ele sugeriu que eu começasse minha busca em
+<str>investigate a treasure hunter called Movario who he believed;<str>investigar um caçador de tesouros chamado Movario que ele acreditava
+<col=000080><col=800000>McGrubor's Wood<col=000080> to find <col=800000>Idria<col=000080> and the <col=800000>Guardians of Armadyl<col=000080>.;<col=000080><col=800000>McGrubor's Wood<col=000080> para encontrar <col=800000>Idria<col=000080> e os <col=800000>Guardians of Armadyl<col=000080>.
+<col=000080><col=800000>Mercenaries<col=000080>, but I was able to help defeat them. I should;<col=000080><col=800000>Mercenaries<col=000080>, mas eu consegui ajudar a derrotá-los. Eu devo
+<col=000080>Upon arrival, I found them being attacked by some;<col=000080>Ao chegar, encontrei-os sendo atacados por alguns
+<col=000080>Upon returning to <col=800000>Thaerisk<col=000080>, he asked me to head to;<col=000080>Ao retornar a <col=800000>Thaerisk<col=000080>, ele me pediu para ir a
+<col=000080>With the <col=800000>Mercenaries<col=000080> dealt with, I gave <col=800000>Idria<col=000080> an update on my;<col=000080>Com os <col=800000>Mercenaries<col=000080> resolvidos, dei a <col=800000>Idria<col=000080> uma atualização sobre meu
+<col=000080>With the <col=800000>Spy<col=000080> captured, we attempted to interrogate him using;<col=000080>Com o <col=800000>Spy<col=000080> capturado, tentamos interrogá-lo usando
+<col=000080>discuss this with <col=800000>Idria<col=000080>.;<col=000080>discutir isso com <col=800000>Idria<col=000080>.
+<col=000080>recent discoveries. She then departed for the <col=800000>White Knights';<col=000080>descobertas recentes. Ela então partiu para os <col=800000>White Knights'
+<col=000080>should speak to <col=800000>Thaerisk<col=000080> about making some more.;<col=000080>deve falar com <col=800000>Thaerisk<col=000080> sobre fazer mais alguns.
+<col=000080>some <col=800000>Truth Serum<col=000080>. However, the <col=800000>Spy<col=000080> was able to destroy it. I;<col=000080>algum <col=800000>Truth Serum<col=000080>. No entanto, o <col=800000>Spy<col=000080> conseguiu destruí-lo. Eu
+<str>I found some Research Notes within the Hidden Base and took;<str>Encontrei algumas Research Notes dentro da Hidden Base e peguei
+<str>I spoke with Thaerisk, Akrisae and Idria about the contents of;<str>Conversei com Thaerisk, Akrisae e Idria sobre o conteúdo de
+<str>Mercenaries, but I was able to help defeat them.;<str>Mercenaries, mas eu consegui ajudar a derrotá-los.
+<str>Movario's Research Notes. They revealed Lucien's desire to;<str>Research Notes de Movario. Elas revelaram o desejo de Lucien de
+<str>Spies from Draynor Village. As such, I planted a Teleorb given;<str>Espiões de Draynor Village. Assim, plantei um Teleport dado
+<str>Thaerisk asked me to head to McGrubor's Wood to find Idria;<str>Thaerisk me pediu para ir a McGrubor's Wood para encontrar Idria
