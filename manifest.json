@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "version": "20261118113835",
+  "version": "44421100493",
   "files": {
     "translations/dialogue/spanish.txt": "8dd2b5d85c20fbed857f032a3f0a622d2dae9895bdbfc07adb6d64d58a5918f2",
     "translations/interface/dutch.txt": "ad0d9f845032a8ec2eb5f6def1a2882bf3fdd86f543de444d828f49d1366acb3",
     "translations/interface/finnish.txt": "f367d59407354f1d63e4e891a5178081b497d5f24d2f4bd5701c4b393fbaf2cc",
-    "translations/interface/french.txt": "c00298122ec57fc38cfe0d0ebfd188b53f96f1409355babece8dc9f4ec0405ed",
+    "translations/interface/french.txt": "4dcb01ce4067d5c91607895e7056b6000e310c50cb2b8c5780608ac7a63097e5",
     "translations/interface/german.txt": "c97decf328a155f74771770c60cb98fca0ab826496c53ef26f8c4838b4d85cd5",
     "translations/interface/italian.txt": "c6135f2a8c387c06fc82c0308e36b4b6b72934b535a8eeafe29f4a60339ee3e6",
     "translations/interface/portuguese.txt": "c34b14e06812e4cf53cca7700bb95c30b08d458267880dc00dd9d09eebff7bc5",
@@ -13,7 +13,7 @@
     "translations/interface/swedish.txt": "7619fc5497f32cd56c3ee33c9c5cb596f08a82a7f3da9040a1a52ad570608498",
     "translations/menu_entry_option/dutch.txt": "a35f57fe0c1d9c62f2eec66d2a742744e006de194ca995a7d2bda4ce6ecd2fe6",
     "translations/menu_entry_option/finnish.txt": "8e4aa5be6785349734b4e008ab7e0b26d35d63f0e65d086cdb44aac8c297390b",
-    "translations/menu_entry_option/french.txt": "33501b7ead95804748f60725855eaec5a71e7f7dcc0074d029c1004e61d0ccde",
+    "translations/menu_entry_option/french.txt": "70829d2b862053ff52ab83d7a68a2f94fd2381ddc602e06f2117e3d467a7e1fb",
     "translations/menu_entry_option/german.txt": "dc79c86c36526d31dba98d3b423b8886dbd3547269b5e83f3e81e7d995a92276",
     "translations/menu_entry_option/italian.txt": "839dad8ec89e59110a840caca39b22c20e686f9e7afe5f1ac12b79e73c95da84",
     "translations/menu_entry_option/portuguese.txt": "961fcf4872a7495fba4008dc849893f3b3ffef6c528ba5fb42e1736d730abe76",
