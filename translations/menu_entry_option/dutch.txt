@@ -3662,3 +3662,24 @@ View journal <col=ff981f>Prince Ali Rescue</col>;Bekijk dagboek <col=ff981f>Prin
 View journal <col=ff981f>Sheep Shearer</col>;Bekijk dagboek <col=ff981f>Sheep Shearer</col>
 View journal <col=ff981f>Mudfoot's Big Adventure</col>;Bekijk dagboek <col=ff981f>Mudfoot's Big Adventure</col>
 Confront;Confronteren
+Cross-over;Overschakelen
+Contact <col=ff981f>Advisor Ghrim;Contact opnemen <col=ff981f>Advisor Ghrim
+Contact <col=ff981f>Barbarian Guard;Contact opnemen <col=ff981f>Barbarian Guard
+Contact <col=ff981f>Bert the Sandman;Contact opnemen <col=ff981f>Bert the Sandman
+Contact <col=ff981f>Chaeldar;Contact opnemen <col=ff981f>Chaeldar
+Contact <col=ff981f>Cyrisus;Contact opnemen <col=ff981f>Cyrisus
+Contact <col=ff981f>Dark Mage;Contact opnemen <col=ff981f>Dark Mage
+Contact <col=ff981f>Duradel;Contact opnemen <col=ff981f>Duradel
+Contact <col=ff981f>Ginea;Contact opnemen <col=ff981f>Ginea
+Contact <col=ff981f>Honest Jimmy;Contact opnemen <col=ff981f>Honest Jimmy
+Contact <col=ff981f>Konar;Contact opnemen <col=ff981f>Konar
+Contact <col=ff981f>Krystilia;Contact opnemen <col=ff981f>Krystilia
+Contact <col=ff981f>Lanthus;Contact opnemen <col=ff981f>Lanthus
+Contact <col=ff981f>Mazchna;Contact opnemen <col=ff981f>Mazchna
+Contact <col=ff981f>Mortimer;Contact opnemen <col=ff981f>Mortimer
+Contact <col=ff981f>Murphy;Contact opnemen <col=ff981f>Murphy
+Contact <col=ff981f>Nieve;Contact opnemen <col=ff981f>Nieve
+Contact <col=ff981f>Random;Contact opnemen <col=ff981f>Random
+Contact <col=ff981f>Smoggy;Contact opnemen <col=ff981f>Smoggy
+Contact <col=ff981f>Spria;Contact opnemen <col=ff981f>Spria
+Plant-orb;Planten-orb
