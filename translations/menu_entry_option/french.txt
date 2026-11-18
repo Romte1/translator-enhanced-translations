@@ -3662,3 +3662,27 @@ View journal <col=ff981f>Prince Ali Rescue</col>;Voir journal <col=ff981f>Prince
 View journal <col=ff981f>Sheep Shearer</col>;Voir journal <col=ff981f>Sheep Shearer</col>
 View journal <col=ff981f>Mudfoot's Big Adventure</col>;Voir journal <col=ff981f>Mudfoot's Big Adventure</col>
 Confront;Confronter
+Cross-over;Traverser
+Contact <col=ff981f>Advisor Ghrim;Contacter <col=ff981f>Advisor Ghrim
+Contact <col=ff981f>Barbarian Guard;Contacter <col=ff981f>Barbarian Guard
+Contact <col=ff981f>Bert the Sandman;Contacter <col=ff981f>Bert the Sandman
+Contact <col=ff981f>Chaeldar;Contacter <col=ff981f>Chaeldar
+Contact <col=ff981f>Cyrisus;Contacter <col=ff981f>Cyrisus
+Contact <col=ff981f>Dark Mage;Contacter <col=ff981f>Dark Mage
+Contact <col=ff981f>Duradel;Contacter <col=ff981f>Duradel
+Contact <col=ff981f>Ginea;Contacter <col=ff981f>Ginea
+Contact <col=ff981f>Honest Jimmy;Contacter <col=ff981f>Honest Jimmy
+Contact <col=ff981f>Konar;Contacter <col=ff981f>Konar
+Contact <col=ff981f>Krystilia;Contacter <col=ff981f>Krystilia
+Contact <col=ff981f>Lanthus;Contacter <col=ff981f>Lanthus
+Contact <col=ff981f>Mazchna;Contacter <col=ff981f>Mazchna
+Contact <col=ff981f>Mortimer;Contacter <col=ff981f>Mortimer
+Contact <col=ff981f>Murphy;Contacter <col=ff981f>Murphy
+Contact <col=ff981f>Nieve;Contacter <col=ff981f>Nieve
+Contact <col=ff981f>Random;Contacter <col=ff981f>Random
+Contact <col=ff981f>Smoggy;Contacter <col=ff981f>Smoggy
+Contact <col=ff981f>Spria;Contacter <col=ff981f>Spria
+Contact <col=ff981f>Turael;Contacter <col=ff981f>Turael
+Contact <col=ff981f>Vannaka;Contacter <col=ff981f>Vannaka
+Contact <col=ff981f>Watson;Contacter <col=ff981f>Watson
+Plant-orb;Planter-orb
