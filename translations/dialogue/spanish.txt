@@ -7,3 +7,642 @@ Hello there;Hola
 Hello there!;¡Hola!
 Goodbye.;Adiós.
 See you later.;Hasta luego.
+Yes, escape to the Void Knights' Outpost.;Sí, escapa al Void Knights' Outpost.
+Yes, disembark at the Void Knights' Outpost;Sí, desembarca en el Void Knights' Outpost
+With the Staff, he is now on a path leading towards unimaginable power. After all, Zamorak himself was once a Mahjarrat, until he used the Staff of Armadyl to attain godhood...;Con el Staff, ahora va por un camino que lo lleva hacia un poder inimaginable. Después de todo, el propio Zamorak fue una vez un Mahjarrat, hasta que usó el Staff of Armadyl para alcanzar la divinidad...
+With that in mind, we'd like you to investigate a treasure hunter by the name of Movario. We believe he has been working with Lucien for some time.;Con eso en mente, nos gustaría que investigaras a un cazador de tesoros llamado Movario. Creemos que lleva un tiempo trabajando con Lucien.
+Hey, how's it go...;Oye, ¿cómo va...?
+And this is... juice?;¿Y esto es... jugo?
+First, we'll need some enriched snapdragon. Betty in Port Sarim should be able to help with that. You'll just need to take her a regular snapdragon seed.;Primero necesitaremos algo de snapdragon enriquecido. Betty, en Port Sarim, debería poder ayudarnos con eso. Solo tendrás que llevarle una semilla de snapdragon normal.
+I thought we agreed to keep theology out of this? Besides, I'd say this work was exclusively [PLAYER_NAME]'s doing.;Creí que habíamos acordado dejar la teología fuera de esto. Además, diría que este trabajo fue exclusivamente obra de [PLAYER_NAME].
+Over to you, Thaerisk.;Te toca a ti, Thaerisk.
+So I take it you're [PLAYER_NAME]? I've heard a lot about you. It's a pleasure to finally meet you. I'm Idria.;Así que supongo que eres [PLAYER_NAME]. He oído mucho sobre ti. Es un placer conocerte por fin. Soy Idria.
+This power you speak of... You refer to the power found in the Temple of the Eye?;Ese poder del que hablas... ¿Te refieres al poder que se encuentra en el Temple of the Eye?
+Actually, on second thoughts, probably best I don't ask.;En realidad, pensándolo mejor, será mejor que no pregunte.
+Be careful walking the corridors. The Black Knights are all on edge after that package got delivered.;Ten cuidado al recorrer los pasillos. Los Black Knights están todos nerviosos desde que se entregó ese paquete.
+Claim a shortbow and some arrows.;Reclama un shortbow y algunas flechas.
+Claim a staff and some runes.;Reclama un staff y algunas runas.
+I'd recommend disguising yourself again before you do so. That should let you get nice and close to Lucien without being spotted. I picked up some robes that should work. Just let me know if you need them.;Te recomendaría que te disfraces otra vez antes de hacerlo. Así podrás acercarte bien a Lucien sin que te detecten. Conseguí unas túnicas que deberían servir. Avísame si las necesitas.
+My friends, we cannot afford to lose hope now. The situation is dire, but one of our contacts recently reported in with information that may help us turn things around.;Amigos míos, no podemos permitirnos perder la esperanza ahora. La situación es grave, pero uno de nuestros contactos se presentó hace poco con información que podría ayudarnos a cambiar las cosas.
+You should disguise yourself before we begin, [PLAYER_NAME]. Silif said he had some robes for you to use.;Deberías disfrazarte antes de que empecemos, [PLAYER_NAME]. Silif dijo que tenía unas túnicas para que uses.
+Once attracted, they'd surround you and carry you to the far side.;Una vez atraídos, te rodearían y te llevarían al otro lado.
+Yes! I buy and sell axes! Take your pick... or axe!;¡Sí! ¡Compro y vendo hachas! ¡Elige la tuya... o tu hacha!
+A traveller passing through reckons he saw some of those goblins on the other side of the river playing with them.;Un viajero que pasaba por aquí dice que vio a algunos de esos goblins al otro lado del río jugando con ellos.
+But me generous also. Maybe me let human join as sidekick. Human can learn thing or two from Mudfoot.;Pero yo generoso también. Quizá dejar que humano se una como ayudante. Humano puede aprender una o dos cosas de Mudfoot.
+Greetings Adventurer, do you have the death runes so I can enchant your Amulet of Catspeak?;Saludos, aventurero. ¿Tienes las death runes para que pueda encantar tu Amulet of Catspeak?
+Hmm... me not really need help. Me very good at quest...;Mmm... yo no necesitar ayuda de verdad. Yo muy bueno en misiones...
+Me killing you.;Yo matarte.
+Okay. Me behind you.;Vale. Yo detrás de ti.
+See. We keep things safe. No touch them at all, apart from when Damptoes try to eat chisel, but he no do that again now. Eating chisel make him throw up and die.;Ves. Nosotros mantener cosas seguras. No tocarlas para nada, salvo cuando Damptoes intenta comer chisel, pero ahora ya no lo hace más. Comer chisel lo hace vomitar y morir.
+Wait, so it wasn't you goblins who robbed the General Store?;Espera, ¿así que no fueron los goblins quienes robaron el General Store?
+Yes. Me going to be great goblin adventurer. Other goblins will call me Mudfoot the... good at quests.;Sí. Yo va a ser gran aventurero goblin. Otros goblins me llamarán Mudfoot el... bueno en misiones.
+Cats are rather delicate creatures and they are subject to a good many ailments, but I never heard of one who suffered from insomnia.;Los gatos son criaturas bastante delicadas y están sujetos a muchas dolencias, pero nunca oí de uno que sufriera de insomnio.
+Hey Bob. Got any wisdom to share?;Hola, Bob. ¿Tienes alguna sabiduría que compartir?
+I've found a few things, but I think there's still more to uncover.;He encontrado algunas cosas, pero creo que aún queda más por descubrir.
+OK dad, maybe later. You're scaring me!;Vale, papá, quizá más tarde. ¡Me estás asustando!
+That's impossible!!;¡¡Eso es imposible!!
+Yes you do. Dive deep, search your feelings.;Sí que lo sabes. Bucea en tu interior, busca en tus sentimientos.
+About that cape you're wearing...;Sobre esa capa que llevas...
+But that was so long ago... Could they really have come back now?;Pero eso fue hace tanto tiempo... ¿De verdad podrían haber vuelto ahora?
+Did you see or hear anything around the time of the murder?;¿Viste u oíste algo en el momento del asesinato?
+Do you want to go back in?;¿Quieres volver a entrar?
+Hopefully not, but we can't rule anything out at this point.;Esperemos que no, pero no podemos descartar nada en este punto.
+It was a long time ago, when I was just a child. My mother and sister were murdered, right here in Land's End, but they never found the killer...;Fue hace mucho tiempo, cuando yo era apenas un niño. Asesinaron a mi madre y a mi hermana, aquí mismo en Land's End, pero nunca encontraron al asesino...
+No goblins in the pub please!;¡Nada de goblins en el pub, por favor!
+Now, to get started, you're going to want to get yourself some ore. You can either buy it or mine it yourself. If you do decide to mine it, the mine south of Lumbridge is a good place to start.;Bien, para empezar, vas a necesitar conseguir algo de mineral. Puedes comprarlo o minarlo tú mismo. Si decides minarlo, la mina al sur de Lumbridge es un buen lugar para empezar.
+Okay. Me meet you back outside goblin house when you done.;Vale. Yo encontrarte fuera de casa goblin cuando termines.
+A blood-covered knife? We missed that...;¿Un cuchillo cubierto de sangre? Eso se nos pasó...
+A real historian would never steal!;¡Un verdadero historiador nunca robaría!
+Ah, yeah... *hic* Go on then.;Ah, sí... *hic* Vamos, adelante.
+Ahoy there. It be a nice day for fishing.;Hola. Es un buen día para pescar.
+Although, we could use a hand... Think you could do us a small favour?;Aunque nos vendría bien una mano... ¿Crees que podrías hacernos un pequeño favor?
+And how do I go about joining the Champions' Guild?;¿Y cómo hago para unirme al Champions' Guild?
+And what about you?;¿Y tú qué?
+And you were living here back then as well?;¿Y tú también vivías aquí en aquel entonces?
+Anyway, I could be goin' on, but I'd just end up borin' ye'. Best thing to do is get out there and start fishin'. You'll quickly start learnin' more.;En fin, podría seguir hablando, pero acabaría aburriéndote. Lo mejor es salir ahí y empezar a pescar. Pronto empezarás a aprender más.
+Are you Sergeant Hudson?;¿Eres el sargento Hudson?
+As for when I knew for sure, I had a strong hunch, but it was just that until you led us to her.;En cuanto a cuándo lo supe con certeza, tenía una fuerte sospecha, pero no era más que eso hasta que nos llevaste hasta ella.
+Be my guest! Good luck making sense of them.;¡Adelante! Buena suerte intentando entenderlos.
+Betty said you were the one in charge of the investigation into her father's murder. I was wondering if I could help.;Betty dijo que tú estabas a cargo de la investigación del asesinato de su padre. Me preguntaba si podría ayudar.
+But he couldn't allow that! He couldn't let her be free. That's why he poisoned her! Her and my sister!;¡Pero él no podía permitirlo! No podía dejarla libre. ¡Por eso la envenenó! ¡A ella y a mi hermana!
+But you never once looked deeper! Don't you see? You're just as big a part of the problem as they were!;¡Pero tú nunca miraste más a fondo! ¿No lo ves? ¡Formas parte del problema tanto como ellos!
+Can't those fools see what they're doing?! Something horrible is happening, and rather than doing anything about it, they just throw us in a cell instead!;¿Es que esos necios no ven lo que están haciendo? ¡Está pasando algo horrible y, en lugar de hacer algo al respecto, nos meten en una celda!
+Could I take a look?;¿Puedo echar un vistazo?
+Daddy I'm tired.;Papi, tengo sueño.
+Do you have any fishing tools I could have?;¿Tienes alguna herramienta de pesca que pueda llevarme?
+Do you know what's south of here?;¿Sabes qué hay al sur de aquí?
+Don't worry, [PLAYER_NAME]. When the time is right, you'll be the first to know. I promise you, we will find Lucien. Together, we will stop him.;No te preocupes, [PLAYER_NAME]. Cuando llegue el momento, serás el primero en saberlo. Te prometo que encontraremos a Lucien. Juntos lo detendremos.
+From the letter they left in Land's End. I managed to translate it. They wanted us to know. They've been toying with us the whole time!;De la carta que dejaron en Land's End. Logré traducirla. Querían que lo supiéramos. ¡Han estado jugando con nosotros todo el tiempo!
+Go there and see if you're right.;Ve allí y comprueba si tienes razón.
+Greetings, adventurer! I see that you're new here. My name is Phileas, but people often call me the Lumbridge Guide. I'm always happy to give out tips to budding adventurers. Is there anything I can help you with?;¡Saludos, aventurero! Veo que eres nuevo por aquí. Me llamo Phileas, pero la gente suele llamarme el Lumbridge Guide. Siempre me alegra dar consejos a los aventureros que empiezan. ¿Hay algo en lo que pueda ayudarte?
+Have you heard of the Keystone Lodge?;¿Has oído hablar de la Keystone Lodge?
+Have you seen anything odd around here lately?;¿Has visto algo extraño por aquí últimamente?
+He said I had no business spreading the word of Saradomin anywhere near his home. He said it was an affront to his order, whatever that means. He then threatened to get violent if I did it again!;Dijo que no tenía nada que hacer difundiendo la palabra de Saradomin cerca de su casa. Dijo que era una afrenta a su orden, sea lo que sea eso. ¡Luego amenazó con volverse violento si lo volvía a hacer!
+He's... He's...;Él... Él es...
+Here they are!;¡Aquí están!
+Hmm... Alright, where can we find her?;Mmm... De acuerdo, ¿dónde podemos encontrarla?
+How are you getting on with your investigation?;¿Cómo va tu investigación?
+However, I would say we have enough reason to take him in for questioning. I'll have the corporals arrange it...;Sin embargo, diría que tenemos motivos suficientes para llevarlo a interrogatorio. Haré que los cabos lo organicen...
+I did take some notes. It was driving me crazy trying to make sense of it!;Sí tomé algunas notas. ¡Me estaba sacando de quicio intentar entenderlo!
+I don't know... The doors are locked, which is very odd...;No sé... Las puertas están cerradas con llave, lo cual es muy raro...
+I found Xerna's Diadem...;Encontré Xerna's Diadem...
+I know son, it was a long journey. I just need to work out where we're going.;Lo sé, hijo, fue un viaje largo. Solo necesito averiguar adónde vamos.
+I regularly travel around here, sharing the word of our holy lord. That is what I am doing right now, in fact, and it was what I was doing when he came and confronted me.;Suelo viajar por aquí, compartiendo la palabra de nuestro señor sagrado. De hecho, eso es lo que estoy haciendo ahora mismo, y era lo que estaba haciendo cuando él vino y me encaró.
+I should talk to Kovac before I start pouring metal.;Debería hablar con Kovac antes de empezar a verter metal.
+I take it you saw the message left in that cell? Betty is missing!;Supongo que viste el mensaje que dejaron en esa celda. ¡Betty ha desaparecido!
+I will be sure to pass on the message when I get back there.;Me aseguraré de transmitir el mensaje cuando vuelva allí.
+I'll meet you there soon.;Nos vemos allí pronto.
+I'm looking for Xerna's Diadem.;Estoy buscando Xerna's Diadem.
+I'm sorry you feel that way. Will you at least allow me to arrange an escort to take you to your uncle's home?;Lamento que te sientas así. ¿Al menos me permitirás organizar una escolta que te lleve a casa de tu tío?
+I've found a few things that might be of note, but the main one is that I found some symbols, just like the ones back at your home.;He encontrado algunas cosas que podrían ser relevantes, pero lo principal es que encontré unos símbolos, iguales a los que hay en tu casa.
+I... No, why would I?;Yo... No, ¿por qué lo haría?
+If you're sure... Take care of yourself, Betty. We'll be in touch soon.;Si estás seguro... Cuídate, Betty. Estaremos en contacto pronto.
+It is? That's great news! Where did you find it?;¿De verdad? ¡Es una gran noticia! ¿Dónde lo encontraste?
+It was... It was you!;Fue... ¡Fuiste tú!
+It's... It's the former Commissioner.;Es... Es el antiguo Commissioner.
+Let's see... Thread that through there...;Veamos... Pasa eso por ahí...
+Maybe I should take a look around...;Quizá debería echar un vistazo por aquí...
+Maybe someone new passing through and acting suspicious, or something like that.;Quizá alguien nuevo que pasaba por aquí y actuaba de forma sospechosa, o algo así.
+Mmm, well, there are a few portraits I can paint. I can only let you have one if you've got some connection with that person though. Who would you like?;Mmm, bueno, hay unos cuantos retratos que puedo pintar. Pero solo puedo dejarte uno si tienes alguna conexión con esa persona. ¿A quién quieres?
+Naturally, as soon as Varlamore opened, I was keen to visit their Grand Museum.;Naturalmente, en cuanto se abrió Varlamore, tuve ganas de visitar su Grand Museum.
+No, I don't *hic* think so. I didn't know him too well though.;No, no lo *hic* creo. Aunque no lo conocía demasiado bien.
+No. Every criminal in this kingdom would likely consider Edwards their enemy.;No. Probablemente todo criminal de este reino consideraría a Edwards su enemigo.
+No. We sent a scouting party in that direction, when we first established our camp. Some of the men got lost in the swamps. Eventually we listed them as dead.;No. Enviamos un grupo de exploradores en esa dirección cuando establecimos el campamento. Algunos de los hombres se perdieron en los pantanos. Con el tiempo los dimos por muertos.
+No... Was just sayin', I was...;No... Solo lo decía, yo...
+Nonsense, old gal, we take our work very seriously. The fate of the world rests in our hands, don't you know.;Tonterías, vieja, nos tomamos nuestro trabajo muy en serio. El destino del mundo está en nuestras manos, ¿sabes?
+Not from this world? You very much look like you are... You don't have any slime... or tentacles... What are you on about?;¿No eres de este mundo? La verdad es que lo pareces... No tienes nada de limo... ni tentáculos... ¿De qué hablas?
+Now, I think it's time to bring this madness to an end. You're coming with us, Betty.;Bien, creo que es hora de poner fin a esta locura. Vienes con nosotros, Betty.
+Now, the thing about those first two is that the killer never sets out to kill someone. One thing leads to another and then there's a body on the floor. That's what's so dangerous about the third kind.;A ver, lo que pasa con los dos primeros es que el asesino nunca se propone matar a alguien. Una cosa lleva a la otra y entonces hay un cuerpo en el suelo. Eso es lo peligroso del tercer tipo.
+Oh I very much did. That's why one of the first things I did was look into the death of your mother and sister. The investigation into their deaths was quite thorough...;Oh, vaya que sí. Por eso una de las primeras cosas que hice fue investigar la muerte de tu madre y tu hermana. La investigación de sus muertes fue bastante exhaustiva...
+Oh, don't worry. We'll be keeping a close eye on you... from a distance.;Oh, no te preocupes. Te vigilaremos de cerca... desde la distancia.
+Oh, yeah. You're meant to be getting our sails fixed up, right?;Ah, sí. Se supone que ibas a arreglar nuestras velas, ¿verdad?
+Okay, if you say so...;Vale, si tú lo dices...
+Okay... sure... A parrot, on your shoulder.;Vale... claro... Un loro en tu hombro.
+People like them... the only reason they get away with the things they do is because people like you stand by and let them!;Gente como ellos... la única razón por la que salen impunes es porque gente como tú se queda mirando y se lo permite.
+Perhaps you'll get to the bottom of it faster with an extra pair of hands. I could be quite useful.;Quizá llegues al fondo del asunto más rápido con un par de manos extra. Podría ser bastante útil.
+Please only talk to the King if it's important. He has a heavy burden to bear with the running of his kingdom.;Habla con el Rey solo si es importante. Tiene una pesada carga con el gobierno de su reino.
+Port Sarim? I see... Thanks.;¿Port Sarim? Ya veo... Gracias.
+Right, I think we've done all we need to here. Someone will be out soon to take care of your father's body. In the meantime, Betty, do you have anywhere else you can go?;Bien, creo que aquí hemos hecho todo lo necesario. Alguien vendrá pronto a ocuparse del cuerpo de tu padre. Mientras tanto, Betty, ¿tienes algún otro sitio al que puedas ir?
+Running away from the house.;Escapar de la casa.
+She lives in Port Piscarilius now.;Ahora vive en Port Piscarilius.
+So here you are.;Así que aquí estás.
+So you found the diadem? That's... Er... That's wonderful news!;¿Así que encontraste la diadema? Eso es... Eh... ¡Es una noticia maravillosa!
+Sorry, I shouldn't give out sensitive information to civilians. You should go to General Hining. He's in command since the death of the king.;Lo siento, no debería dar información sensible a civiles. Deberías ir con General Hining. Él está al mando desde la muerte del rey.
+Surely there must be someone?;Seguro que tiene que haber alguien.
+Thank you for agreeing to help. My uncle lives south of Hosidius, just north west of the Tithe Farm.;Gracias por aceptar ayudar. Mi tío vive al sur de Hosidius, justo al noroeste de Tithe Farm.
+Thankfully, the sacred River Salve marks a natural border between Misthalin and Morytania. The waters of the river have been blessed with Saradomin's almighty power, preventing any invasion by the vampyres.;Por suerte, el sagrado River Salve marca una frontera natural entre Misthalin y Morytania. Las aguas del río han sido bendecidas con el poder todopoderoso de Saradomin, lo que impide cualquier invasión de los vampyres.
+That means they've almost certainly revealed their location to us already. We just need to work out how they've done so. Given their love for symbols and ciphers, it's unlikely to be obvious.;Eso significa que casi con certeza ya nos han revelado su ubicación. Solo tenemos que averiguar cómo lo han hecho. Dado su gusto por los símbolos y las cifras, es poco probable que sea obvio.
+That's an awful big something girl.;Eso es algo terriblemente grande, muchacha.
+That's not true! I mean, I am better than this. I mean... oh, I'm all mixed up.;¡Eso no es verdad! Quiero decir, soy mejor que esto. Quiero decir... oh, tengo todo revuelto.
+That's why I put it in storage! No, wait, that's not what I meant!;¡Por eso lo puse en el almacén! No, espera, ¡no era eso lo que quería decir!
+The other museums will never trust you again!;¡Los otros museos nunca volverán a confiar en ti!
+The victim was seemingly killed by a stab wound to the heart, and it seems they were specifically targeted by the killer. Some sort of encoded message was left on them, and there were more symbols on the wall as well.;Al parecer, la víctima murió por una puñalada en el corazón, y da la impresión de que el asesino la eligió específicamente. Dejaron sobre ella algún tipo de mensaje cifrado, y también había más símbolos en la pared.
+Then you've got your domestic violence. An argument breaks out between the victim and someone close to them and it spirals out of control. It's by far the most common type of murder we see.;Luego está la violencia doméstica. Estalla una discusión entre la víctima y alguien cercano a ella y se descontrola. Es con diferencia el tipo de asesinato más común que vemos.
+There is nothing you need to do my friend, for I am the Doomsayer! I roam the world sensing danger.;No hay nada que necesites hacer, amigo mío, ¡porque soy el Doomsayer! Recorro el mundo percibiendo el peligro.
+There's a reason why the Church of Saradomin is by far the largest religion in all these lands!;¡Hay una razón por la que la Church of Saradomin es con diferencia la religión más grande de todas estas tierras!
+They will only accept you into their ranks if you have proven yourself as an adventurer. To do so, you will need to increase your reputation by completing quests.;Solo te aceptarán en sus filas si has demostrado ser un aventurero. Para ello, tendrás que aumentar tu reputación completando misiones.
+This is hardly the Shayzien Prison. These walls are rotting away! There must be a way through one of them.;Esto no es precisamente la Shayzien Prison. ¡Estas paredes se están pudriendo! Tiene que haber una forma de pasar por una de ellas.
+To my uncle's south of Hosidius, but... is that it? You're not going to do anything else?;A casa de mi tío, al sur de Hosidius, pero... ¿eso es todo? ¿No vas a hacer nada más?
+Very good. Now, can I help you at all?;Muy bien. Ahora, ¿puedo ayudarte en algo?
+Wandered up north, I think. Said something about trying to get hold of some runes.;Se fue al norte, creo. Dijo algo de intentar conseguir unas runas.
+We had to drive them out, in case their condition infected the rest of the troops. Their wives will be given a full widow pension when we return home.;Tuvimos que expulsarlos, por si su condición contagiaba al resto de las tropas. A sus esposas se les dará una pensión completa de viudedad cuando volvamos a casa.
+We've been meaning to get our old sails stitched up, but haven't had a chance to get away and have it done...;Llevamos tiempo queriendo remendar nuestras viejas velas, pero no hemos tenido ocasión de ir a que lo hagan...
+Well, I'm looking for something and I think he might have it...;Bueno, estoy buscando algo y creo que él podría tenerlo...
+Well, it's missing from the Grand Museum in Fortis. I was hoping to try and find it...;Bueno, falta del Grand Museum de Fortis. Tenía la esperanza de intentar encontrarlo...
+Well, maybe I could help. I could do some investigating of my own.;Bueno, quizá yo podría ayudar. Podría investigar por mi cuenta.
+Well, we explained how it does work and he then asked us to take him to Port Sarim...;Bueno, le explicamos cómo funciona y luego nos pidió que lo lleváramos a Port Sarim...
+Well... No, but this one could be particularly nasty. You see, there are generally three kinds of murder.;Bueno... No, pero este podría ser especialmente desagradable. Verás, en general hay tres tipos de asesinato.
+What a mess... Let's hope we can find something here that can lead us to the killer. I needn't remind you that if we can't, then you're still the prime suspect.;Qué desastre... Esperemos encontrar aquí algo que nos lleve al asesino. No hace falta que te recuerde que, si no lo conseguimos, sigues siendo el principal sospechoso.
+What did he confront you about?;¿Por qué te encaró?
+What kind of suspicious?;¿Sospechoso de qué tipo?
+What? Are you mad girl?;¿Qué? ¿Estás loca, muchacha?
+Where did he go?;¿Adónde fue?
+With good reason!;¡Con razón!
+Yeah, I know the one. Came all the way from Fortis, right?;Sí, ya sé cuál dices. Vino desde Fortis, ¿verdad?
+Yes, and right now you're the prime suspect.;Sí, y ahora mismo eres el principal sospechoso.
+You can't just be taking these things as your own!;¡No puedes simplemente quedarte con estas cosas como si fueran tuyas!
+You find murder funny?;¿El asesinato te parece gracioso?
+You never really cared! You people never do! This was all just a bit of fun to you. But now the fun is over...;¡Nunca te importó de verdad! ¡A gente como tú nunca le importa! Para ti todo esto era solo diversión. Pero ahora la diversión se acabó...
+You were seriously great when you defeated the Culinaromancer! I can't believe I nearly caused all of those people to be killed!;¡Estuviste realmente genial cuando derrotaste al Culinaromancer! ¡No puedo creer que casi hice que mataran a toda esa gente!
+Recover your boat for 50,000 coins?;¿Recuperar tu barco por 50,000 monedas?
+Yes, pay 50,000 coins and don't ask again;Sí, paga 50,000 monedas y no vuelvas a preguntar
+Yes, disembark at the Void Knights' Outpost.;Sí, desembarca en el Void Knights' Outpost.
+And you'd like me to join this alliance as well?;¿Y te gustaría que yo también me uniera a esta alianza?
+Yes. You have opposed Lucien before, and you have shown that you have the skills needed to make a difference in this fight.;Sí. Ya te has enfrentado a Lucien antes y has demostrado que tienes las habilidades necesarias para marcar la diferencia en esta lucha.
+I will be departing shortly, but I'd like you to head for the Temple of Ikov instead. We've lost contact with Idria and the Guardians of Armadyl.;Partiré en breve, pero me gustaría que tú te dirigieras al Temple of Ikov. Hemos perdido el contacto con Idria y los Guardians of Armadyl.
+Anyway, now that we're all here, I think it's time we discussed the contents of the notes that [PLAYER_NAME] found. To put it bluntly, these notes confirm all of our worst fears.;En fin, ahora que estamos todos aquí, creo que es hora de que hablemos del contenido de las notas que encontró [PLAYER_NAME]. Hablando claro, estas notas confirman todos nuestros peores temores.
+I agree, but unfortunately our spies have had little luck in finding him so far.;Estoy de acuerdo, pero lamentablemente nuestros espías han tenido poca suerte para encontrarlo hasta ahora.
+I'm sure that Guthix had just as much of a role in this as anyone else did.;Estoy seguro de que Guthix tuvo tanto que ver en esto como cualquier otro.
+Perhaps it would be best if we kept theology out of this for now. While I'm sure all of us here would love to debate our differing viewpoints, we need to keep our focus on Lucien.;Quizá sería mejor dejar la teología de lado por ahora. Aunque estoy seguro de que a todos los aquí presentes nos encantaría debatir nuestros distintos puntos de vista, debemos centrarnos en Lucien.
+That depends on how loyal they are. Most of Lucien's followers seem to be mere mercenaries so far, but he does have some true believers as well.;Eso depende de su lealtad. Por lo visto, la mayoría de los seguidores de Lucien no son más que mercenarios, pero también tiene algunos verdaderos creyentes.
+We cannot afford to make these mistakes. The spy should have been restrained.;No podemos permitirnos cometer estos errores. El espía debería haber sido detenido.
+I have heard that the elusive Moon Clan have methods for contacting people across great distances. Perhaps that might allow you to easily reach out to Cyrisus and the others.;He oído que el esquivo Moon Clan tiene métodos para contactar con gente a grandes distancias. Quizá eso te permita llegar fácilmente a Cyrisus y a los demás.
+Lord Daquarius is a devout Zamorakian. I doubt he would betray his god.;Lord Daquarius es un devoto zamorakiano. Dudo que traicionara a su dios.
+Claim a shortsword and a shield;Reclama un shortsword y un shield
+He could bring an end to this world without even trying!;¡Podría acabar con este mundo sin siquiera intentarlo!
+It's starting to seem like Lucien's allied with more Zamorakian organisations than he hasn't!;¡Empieza a parecer que Lucien está aliado con más organizaciones zamorakianas que con las que no!
+Surely it can't be...?;Seguro que no puede ser...
+However, that does then pose a problem.;Sin embargo, eso plantea un problema.
+Shut up, Darve! The adults are talking!;¡Cállate, Darve! ¡Los adultos están hablando!
+Alright, let's get going then.;Muy bien, vamos allá.
+Could you remind me where those stolen goods were seen?;¿Podrías recordarme dónde se vieron esos objetos robados?
+Have you spoken to Hild about locating Bob?;¿Has hablado con Hild sobre cómo localizar a Bob?
+I guess I'll start over there then.;Entonces supongo que empezaré por allí.
+It happened in the night, so no one got a clear view, but a traveller passing through reckons he saw some of those goblins on the other side of the river playing with the stolen goods.;Ocurrió de noche, así que nadie lo vio con claridad, pero un viajero que pasaba por aquí cree que vio a algunos de esos goblins al otro lado del río jugando con los objetos robados.
+Me on quest.;Estoy en una misión.
+Okay... And why are you killing me?;Vale... ¿Y por qué me estás matando?
+Sounds like a job for me. What do you know about these thieves?;Suena a un trabajo para mí. ¿Qué sabes de esos ladrones?
+Well, I do actually have a bounty available at the moment that you might be interested in. 1,000 coins to whoever can bring justice to some thieves that robbed the General Store.;Bueno, la verdad es que ahora mismo tengo una recompensa disponible que podría interesarte. 1,000 monedas para quien haga justicia con unos ladrones que robaron el General Store.
+You're not doing a very good job...;No lo estás haciendo muy bien...
+Come on, lets go.;Vamos, vámonos.
+Greetings adventurer, have you spoken to Reldo in the palace library about Robert the Strong?;Saludos, aventurero. ¿Has hablado con Reldo en la biblioteca del palacio sobre Robert the Strong?
+Hi, my name is Bob.;Hola, me llamo Bob.
+If only you knew the power of Bob. Your master never told you who your real father was, did she?;Si supieras el poder de Bob... Tu maestro nunca te dijo quién era tu verdadero padre, ¿verdad?
+OK, I will try.;Vale, lo intentaré.
+This is all getting very weird.;Todo esto se está volviendo muy raro.
+Yes. I am your father!;Sí. ¡Yo soy tu padre!
+Absolutely! Smithing is the art of making weapons and armour from metal. While you can always buy the equipment you need from shops like mine, it's often beneficial to know how to make your own.;¡Sin duda! Smithing es el arte de fabricar armas y armaduras con metal. Siempre puedes comprar el equipo que necesitas en tiendas como la mía, pero a menudo resulta útil saber fabricar el tuyo propio.
+Could I have a hammer?;¿Me podrías dar un hammer?
+Did you see or hear anything before your father's death?;¿Viste u oíste algo antes de la muerte de tu padre?
+Don't mention it. Now, is there anything else I can do for you?;No hay de qué. Ahora bien, ¿hay algo más que pueda hacer por ti?
+I reckon I've learnt everything I can.;Creo que ya he aprendido todo lo que podía.
+No you're not! You aren't wearing a white robe bottom!;¡No, no lo eres! ¡No llevas una parte inferior de túnica blanca!
+Oh... Hello. The name's Betty.;Oh... Hola. Me llamo Betty.
+Once you have some ore, you'll want to use a furnace, like this one here, to smelt it into bars.;Cuando tengas algo de ore, querrás usar un horno como este para fundirlo y convertirlo en barras.
+Yes, I have a spare one here.;Sí, tengo uno de repuesto aquí.
+A cipher...? I don't understand. Why would the killer be doing this?;¿Un cifrado...? No lo entiendo. ¿Por qué haría eso el asesino?
+About that empty display...;Sobre esa vitrina vacía...
+Ah, yes. How goes your search?;Ah, sí. ¿Cómo va tu búsqueda?
+All I ask is that you tell the charter crew that Artima says thanks for the latest shipment they brought in!;Solo te pido que le digas a la tripulación del charter que Artima da las gracias por el último envío que trajeron.
+An accomplice then... Sent here to cause a distraction for the killer so they could strike again.;Un cómplice, entonces... Enviado aquí para crear una distracción para el asesino y que pudiera volver a atacar.
+And if I do manage to work it out?;¿Y si consigo descifrarlo?
+And what about you? Are you not going to help with the piecing everything together?;¿Y tú? ¿No vas a ayudar a atar los cabos?
+And? Surely you must have some thoughts by now?;¿Y? Seguro que ya tienes algunas ideas, ¿no?
+Anyway, I'll let you get on with your investigation. If you need anything, just let me or my partner know. She should be outside somewhere.;En fin, te dejo continuar con tu investigación. Si necesitas algo, avísame a mí o a mi compañera. Debe de estar por ahí fuera.
+Arrr! Anyway, if ye' be wantin' to fish, just grab some suitable gear and head to the water. You'll be findin' fishing spots in seas and rivers alike.;¡Arrr! En fin, si quieres pescar, coge el equipo adecuado y ve al agua. Encontrarás sitios de pesca tanto en mares como en ríos.
+At this point, all manner of things. Once again, you are currently the prime suspect. I don't wish to share any more with you than I need to. If you wish to prove your innocence, the onus is on you.;A estas alturas, todo tipo de cosas. Una vez más, ahora mismo eres el principal sospechoso. No deseo compartir contigo más de lo necesario. Si quieres demostrar tu inocencia, la responsabilidad es tuya.
+Because he was a monster! For my entire childhood we lived in fear of him, until the day finally came when my mother decided enough was enough...;¡Porque era un monstruo! Durante toda mi infancia vivimos con miedo de él, hasta que por fin llegó el día en que mi madre decidió que ya era suficiente...
+Betty...? What is this...?;¿Betty...? ¿Qué es esto...?
+But now, after all these years, it's finally over! They're finally dead! All that remains now, is you.;Pero ahora, después de todos estos años, ¡por fin se acabó! ¡Por fin están muertos! Ahora solo quedas tú.
+But... if they're leaving clues, yet you don't have enough to translate the letter yet, that can only mean...;Pero... si están dejando pistas y aun así no tienes lo suficiente para traducir la carta, eso solo puede significar...
+Come on then, let's get over there.;Vamos, entonces. Acérquemonos.
+Could you give me some advice on catching fish?;¿Podrías darme algún consejo para pescar?
+Did you see much of him?;¿Lo veías mucho?
+Do you have, mmm, a connection with King Arthur? He wouldn't like me to just give his picture to anyone.;¿Tienes, mmm, alguna conexión con King Arthur? No le gustaría que le diera su retrato a cualquiera.
+Do you know where I found it?;¿Sabes dónde lo encontré?
+Don't worry, there's nothing you need to do. I'll get back to you when I have something.;No te preocupes, no tienes que hacer nada. Te avisaré cuando tenga algo.
+Er... How did you come to hear about that? It's not something you hear of much around these parts!;Eh... ¿Cómo te enteraste de eso? ¡No es algo que se oiga mucho por estos lares!
+From what I can tell, they used some kind of potion to pollute the Salve. With this being the source, it has already started to spread down the river.;Por lo que puedo deducir, usaron algún tipo de potion para contaminar el Salve. Al estar aquí la fuente, ya ha empezado a extenderse río abajo.
+Good stuff, old gal. Oh and Colonel O'Niall has been placed on our disavowed list. He should be considered extremely dangerous and is to be killed on sight.;Bien hecho, muchacha. Ah, y el Colonel O'Niall ha sido incluido en nuestra lista de desafectos. Debe considerarse extremadamente peligroso y hay que matarlo en cuanto se le vea.
+Hang on! We can explain!;¡Espera! ¡Podemos explicarlo!
+Have you seen a grey-haired man with a case?;¿Has visto a un hombre de pelo canoso con un maletín?
+He asked if he could have a go with your bird?;¿Preguntó si podía probar tu ave?
+He was advised against it. She was unpredictable. Sometimes even violent. But he insisted.;Se le aconsejó que no lo hiciera. Era impredecible. A veces incluso violenta. Pero insistió.
+Heh! I don't keep it up here, do I? It's all down in the basement. I keep it there, that I do.;¡Je! No lo guardo aquí arriba, ¿verdad? Está todo en el sótano. Allí lo guardo, sí señor.
+Hey, Betty. Is your uncle not around?;Eh, Betty. ¿Tu tío no está por aquí?
+Hmm... And if I do manage to work it out?;Mmm... ¿Y si consigo descifrarlo?
+How goes it? You're the one doing some of your own investigating, right?;¿Cómo va? Tú eres quien está investigando por su cuenta, ¿no?
+I am attempting to do so right now.;Estoy intentando hacerlo ahora mismo.
+I didn't steal anything! These are ethically acquired antiquities!;¡No robé nada! ¡Estas antigüedades se adquirieron de forma ética!
+I don't like this, Betty, but alright. I'll see if I can find a way out.;No me gusta esto, Betty, pero está bien. Veré si encuentro una salida.
+I guess you were just in it for the glory, were you?;Supongo que solo lo hacías por la gloria, ¿eh?
+I said get up.;He dicho que te levantes.
+I shouldn't ask any more of you... but I just don't trust the authorities to see this through. Could you meet me at my uncle's house? I want to talk through everything a bit more.;No debería pedirte más... pero es que no confío en que las autoridades lleven esto hasta el final. ¿Podrías reunirte conmigo en la casa de mi tío? Quiero repasar todo un poco más.
+I thought archaeology was cool. I didn't realise it was just thieving!;Pensaba que la arqueología era genial. ¡No me di cuenta de que solo era robar!
+I'd better get back in there and finish this properly.;Será mejor que vuelva a entrar y termine esto como es debido.
+I'll stay here. I can throw the guards off your scent if they find out you're gone. And if the killer is after me, I'll hopefully be a little bit safer here... for now at least.;Yo me quedaré aquí. Puedo despistar a los guardias si descubren que te has ido. Y si el asesino va tras de mí, espero estar un poco más a salvo aquí... al menos por ahora.
+I'm looking into the murder that happened just up the road. I wanted to ask you a few questions.;Estoy investigando el asesinato que ocurrió un poco más arriba por el camino. Quería hacerte unas cuantas preguntas.
+I'm sure that the Grand Museum will be thrilled to hear it.;Seguro que el Grand Museum se alegrará mucho de oírlo.
+I've found some interesting things that you should know about.;He encontrado algunas cosas interesantes que deberías saber.
+If it makes you feel better, your work did end up being useful. You found a couple of things we missed, and you did a good job piecing everything together.;Si te consuela, tu trabajo acabó siendo útil. Encontraste un par de cosas que se nos pasaron e hiciste un buen trabajo atando los cabos.
+In that case, let's head over there. It's not safe for you to travel alone, so we'll go together.;En ese caso, vamos hacia allí. No es seguro que viajes solo, así que iremos juntos.
+It seems things might not be as simple as we first thought. I'll let you know once I've learnt more.;Parece que las cosas podrían no ser tan sencillas como pensamos al principio. Te avisaré cuando sepa más.
+It would have been nice of you to tell me...;Habría sido un detalle por tu parte decírmelo...
+Jake will do fine girl.;Jake servirá, muchacha.
+Maybe he's downstairs... Wait here. I'll go have a look.;Quizá esté abajo... Espera aquí. Iré a echar un vistazo.
+Me parrot Percy on me shoulder!;¡Tengo a mi loro Percy en el hombro!
+Mostly alone. He liked his privacy. He'd always be happy to get a bottle or two out if he did have visitors though. He'd always insist on me or my father having at least one drink with him if we visited.;Casi siempre solo. Le gustaba su intimidad. Aunque siempre sacaba una botella o dos de buena gana si tenía visitas. Siempre insistía en que yo o mi padre tomáramos al menos una copa con él cuando lo visitábamos.
+Nilsal to you, iknami. Welcome back to the Grand Museum. If you have any questions, I'm happy to help.;Nilsal para ti, iknami. Bienvenido de nuevo al Grand Museum. Si tienes alguna pregunta, encantado de ayudar.
+No, I don't think so. Everything has been nice and quiet.;No, no lo creo. Todo ha estado tranquilo y en calma.
+No. Thank you, but I'd like some time alone. A quiet walk is the sort of thing I need. But...;No. Gracias, pero me gustaría estar un tiempo a solas. Un paseo tranquilo es lo que necesito. Pero...
+No. You people can't protect me. I'll be better off on my own.;No. Ustedes no pueden protegerme. Estaré mejor por mi cuenta.
+No... We can't trust him! This kingdom is rotten to its core. It's the very thing my father spent so long fighting. We can't trust anyone of authority here.;No... ¡No podemos confiar en él! Este reino está podrido hasta la médula. Es justo aquello contra lo que mi padre luchó tanto tiempo. No podemos confiar en nadie con autoridad aquí.
+Nope. He kept 'imself to 'imself. I like to do the same. It's nice an' peaceful here. No disturbances. You can get on with things without people botherin' you.;No. No se metía con nadie. A mí me gusta hacer lo mismo. Aquí se está tranquilo y en paz. Sin molestias. Puedes hacer tus cosas sin que la gente te fastidie.
+Not like we are. I think for him it's more of a hobby. I seem to recall that he didn't always live around here. Shayzien is where he used to be from I think.;No como nosotros. Creo que para él es más bien un pasatiempo. Me parece recordar que no siempre vivió por aquí. Creo que era de Shayzien.
+Now, I'd best get to work. We have a lot of tidying up to do. All the best, adventurer.;Bueno, será mejor que me ponga a trabajar. Tenemos mucho que ordenar. Mucha suerte, aventurero.
+Of course it was me. Who else could it have been?;Claro que fui yo. ¿Quién más podría haber sido?
+Oh dear... Children! Pay no attention to this loud, dramatic argument!;Ay, cielos... ¡Niños! ¡No presten atención a esta discusión tan ruidosa y dramática!
+Oh, in that case, I'll help you out, just so long as you can do me a small favour.;Oh, en ese caso, te ayudaré, siempre que puedas hacerme un pequeño favor.
+Oh... I guess tha's okay...;Oh... Supongo que está bien...
+Okay, there's clearly a story here.;Vale, está claro que aquí hay una historia.
+Only what I've already told you. It seems the the killer wants to be found... or at least, they want to prove that we're not smart enough to find them.;Solo lo que ya te he dicho. Parece que el asesino quiere que lo encuentren... o al menos, quiere demostrar que no somos lo bastante listos para encontrarlo.
+Perfect! There's a crafting store just down the road. They should be able to fix them up.;¡Perfecto! Hay una tienda de artesanía aquí cerca, calle abajo. Deberían poder arreglarlos.
+Perhaps, but breaking out of here is going to make us look even more guilty!;Quizá, pero ¡escaparnos de aquí hará que parezcamos aún más culpables!
+Please... let me help, Sergeant. We still have a chance to save Betty.;Por favor... déjame ayudar, Sergeant. Aún tenemos una oportunidad de salvar a Betty.
+Right, take this one to a cell. Make sure it's a bit more secure this time...;Bien, lleva a este a una celda. Asegúrate de que esta vez esté un poco más protegida...
+Sergeant Hudson! We need to act fast! I think the killer is targeting a Shayzien leader!;¡Sergeant Hudson! ¡Tenemos que actuar rápido! ¡Creo que el asesino va tras un líder de Shayzien!
+She was a prime suspect from the start. Such is always the case when dealing with a murder. In the vast majority of cases, the killer and the victim know each other.;Fue la principal sospechosa desde el principio. Siempre pasa lo mismo en un asesinato. En la gran mayoría de los casos, el asesino y la víctima se conocen.
+So, about that man with the case.;Entonces, sobre ese hombre con el maletín.
+Steal?! I would never! You need to get your facts straight!;¿¡Robar!? ¡Yo nunca lo haría! ¡Deberías informarte bien!
+Surely you must know of Saradomin? He is the god of all that is good in this world! A bastion of order and peace against Zamorak and other gods of evil!;Seguro que conoces a Saradomin, ¿no? ¡Es el dios de todo lo bueno en este mundo! ¡Un bastión de orden y paz contra Zamorak y otros dioses del mal!
+Thank you. I'll head over there and let them know.;Gracias. Iré para allá y se lo diré.
+That I did! I was just pouring myself a bit of *hic* wine, when I heard someone shout something.;¡Pues sí! Estaba sirviéndome un poco de vino *hic* cuando oí a alguien gritar algo.
+That there is, my child. I am from the nearby camp of peaceful monks. We spend our days dedicating ourselves to Saradomin, and sometimes spreading his teachings across the kingdom.;Así es, hijo mío. Soy del campamento de monjes pacíficos que hay cerca. Pasamos los días dedicándonos a Saradomin y, a veces, difundiendo sus enseñanzas por el reino.
+That's good to hear. Hopefully you can bring some quick justice to the thieves responsible!;Me alegra oírlo. ¡Esperemos que puedas hacer justicia rápidamente con los ladrones responsables!
+That's right! Do you know where he went?;¡Exacto! ¿Sabes adónde fue?
+That, combined with the lovely decoration on the wall, and the way the victim's been dismembered... Well, it doesn't paint a good picture...;Eso, junto con la bonita decoración de la pared y la forma en que han descuartizado a la víctima... Bueno, no pinta nada bien...
+The people you killed were innocent, Betty. No one is to blame for what happened to your mother and sister. You've just never been able to accept that.;Las personas que mataste eran inocentes, Betty. Nadie tiene la culpa de lo que les pasó a tu madre y a tu hermana. Simplemente nunca has podido aceptarlo.
+Then how did you know where the killer would be next?;Entonces, ¿cómo sabías dónde estaría el asesino después?
+Then, once you are ready, head to the guild south of Varrock, and see what awaits you.;Entonces, cuando estés listo, dirígete al guild al sur de Varrock y mira lo que te espera.
+There was a big event over at the Colosseum, so it was nice and quiet. Perfect for taking in everything the museum had to offer.;Hubo un gran evento en el Colosseum, así que todo estaba tranquilo y en calma. Perfecto para disfrutar de todo lo que ofrecía el museo.
+There's been a murder. No need to worry though, we're here to get to the bottom of it.;Ha habido un asesinato. Pero no hay que preocuparse, estamos aquí para llegar al fondo del asunto.
+They'd understand my actions... I'm just trying to preserve history.;Ellos entenderían mis acciones... Solo intento preservar la historia.
+This is the reason why the lack of communication from him bothers me somewhat, although I am sure it's nothing too serious. Nobody would dare to try and attack our kingdom!;Por eso me preocupa un poco la falta de comunicación por su parte, aunque estoy seguro de que no es nada demasiado grave. ¡Nadie se atrevería a intentar atacar nuestro reino!
+To the Cothon... Okay, I guess I'll go and see if I can find some more leads there. Thanks for the help!;Al Cothon... Vale, supongo que iré a ver si encuentro más pistas allí. ¡Gracias por la ayuda!
+Very well. Good luck, adventurer.;Muy bien. Buena suerte, aventurero.
+Was your uncle a big drinker?;¿Tu tío bebía mucho?
+We work for the Shayzien Constabulary. It's part of the Shayzien Military. We investigate crimes all across the kingdom.;Trabajamos para la Shayzien Constabulary. Forma parte de la Shayzien Military. Investigamos delitos por todo el reino.
+Welcome to this church of holy Saradomin.;Bienvenido a esta iglesia del sagrado Saradomin.
+Well, from what a neighbour overheard, the killer was likely known to the victim.;Bueno, por lo que oyó un vecino, es probable que la víctima conociera al asesino.
+Well, it's still a bit early to suggest too much. That said, this one doesn't look good.;Bueno, aún es pronto para sacar demasiadas conclusiones. Dicho esto, este no tiene buena pinta.
+Well, thank you for the offer, but we've got this in hand.;Bueno, gracias por el ofrecimiento, pero esto ya lo tenemos controlado.
+Well, what matters is that you found it. Now, I guess you'll be expecting that reward the display mentioned? Here you go.;Bueno, lo importante es que lo encontraste. Ahora supongo que esperas la recompensa que mencionaba la vitrina, ¿no? Aquí tienes.
+Well... This one is going to have some paperwork to deal with...;Bueno... Este va a traer bastante papeleo...
+What awful news! I'm not sure I can help you with that, though...;¡Qué noticia tan terrible! Aunque no estoy seguro de poder ayudarte con eso...
+What do you mean? How did you come into possession of Xerna's Diadem? I've heard all about your travels back here with it.;¿Qué quieres decir? ¿Cómo entraste en posesión de Xerna's Diadem? Ya me he enterado de todo sobre tus viajes de vuelta con él.
+What sort of help?;¿Qué tipo de ayuda?
+What? We can't just stay here! Don't you see? They were already here when we arrived! They can't have known where we were going. Something bad must have happened! We need to find out what!;¿Qué? ¡No podemos quedarnos aquí! ¿No lo ves? ¡Ya estaban aquí cuando llegamos! No podían saber adónde íbamos. ¡Debe de haber pasado algo malo! ¡Tenemos que averiguar qué!
+Who is the victim, Corporal?;¿Quién es la víctima, Corporal?
+Would he drink with others, or alone?;¿Bebía con otros o solo?
+Yes, Betty told us that as well, but none of this gives us much to go on. As you said, he likely had multiple enemies. We need something more specific.;Sí, Betty también nos lo dijo, pero nada de esto nos da muchas pistas. Como dijiste, probablemente tenía varios enemigos. Necesitamos algo más concreto.
+Yes, it would have been, but through your own choices, you made yourself a suspect as well. It's nothing personal, but that is the way of things I'm afraid.;Sí, lo habría sido, pero con tus propias decisiones te convertiste también en sospechoso. No es nada personal, pero me temo que así son las cosas.
+You can't just keep claiming these stolen goods as your own!;¡No puedes seguir diciendo que estos objetos robados son tuyos!
+You flee one crime scene, arrive at another, then escape imprisonment, but now you expect me to listen to you? Why?;Huyes de una escena del crimen, llegas a otra, luego escapas de la prisión y ahora esperas que te escuche, ¿por qué?
+You see, with the third kind of murder, the killer wants the victim dead. They plan for it, sometimes for months. They set out with the intention of ending someone's life.;Verás, en el tercer tipo de asesinato, el asesino quiere que la víctima muera. Lo planea, a veces durante meses. Sale con la intención de acabar con la vida de alguien.
+You're lying!;¡Mientes!
+You're still hunting hobgoblins, you have 31 to go.;Sigues cazando hobgoblins, te quedan 31.
+Yes, pay 50,000 coins and don't ask again.;Sí, paga 50,000 monedas y no vuelvas a preguntar.
+Do you wish to disembark at the Void Knights' Outpost;Deseas desembarcar en el Void Knights' Outpost
+Perhaps he also sees you as a threat as well. It may not be a coincidence that his assassins attacked so soon after your arrival.;Puede que él también te vea como una amenaza. No ha de ser casualidad que sus asesinos atacaran tan poco después de tu llegada.
+Hang on... What was it you were saying earlier about those broavs?;Espera... ¿Qué era eso que decías antes sobre esos broavs?
+Ah, yes. We should have everything we need here to conduct an interrogation.;Ah, sí. Aquí deberíamos tener todo lo necesario para realizar un interrogatorio.
+As you wish...;Como quieras...
+I have one of my druids preparing you some fine juice as we speak.;Tengo a uno de mis druidas preparándote un buen zumo ahora mismo.
+Now look...;Mira...
+Pleased to meet you, Idria.;Encantado de conocerte, Idria.
+That's all well and good, but how are we going to capture one of these spies?;Todo eso está muy bien, pero ¿cómo vamos a capturar a uno de estos espías?
+What could be more powerful than the Staff?;¿Qué podría ser más poderoso que el Staff?
+With that in mind, we're looking to recruit a group of heroes to form a small task force. They will be the ones to deal with Lucien.;Con eso en mente, buscamos reclutar a un grupo de héroes para formar una pequeña fuerza especial. Serán ellos los que se encarguen de Lucien.
+*whispers* I haven't the slightest clue...;*susurra* No tengo la menor idea...
+Claim a shortsword and a shield.;Reclama una shortsword y un shield.
+I can find out what he knows, and if the Stone is down there, I can hopefully reach it before he does.;Puedo averiguar lo que sabe y, si la Stone está ahí abajo, espero llegar a ella antes que él.
+Let's finish this.;Acabemos con esto.
+Surok is likely one of the few people who can directly reach Lucien. That orb is presumably how he does it.;Es probable que Surok sea una de las pocas personas que pueden contactar directamente con Lucien. Supongo que lo hace mediante ese orbe.
+I attempted to recruit some goblins to find a way down, but they proved... inadequate. I fear a gantry will need building, which will not be a quick process.;Intenté reclutar a algunos goblins para encontrar un camino hacia abajo, pero resultaron... insuficientes. Me temo que habrá que construir una pasarela, y eso no será rápido.
+Yes, Darve, I can see who it is. Let it be known, Surok, that I am not one of your minions. I will not bow down to your attempts to intimidate me.;Sí, Darve, ya veo quién es. Que quede claro, Surok, que no soy uno de tus secuaces. No me doblegaré ante tus intentos de intimidarme.
+And what is this quest you're on?;¿Y cuál es esta misión que estás haciendo?
+Hello again, adventurer, Is there anything I can do for you?;Hola de nuevo, aventurero, ¿hay algo que pueda hacer por ti?
+I see. Sounds like that's where I should start then.;Ya veo. Entonces parece que por ahí debería empezar.
+Look, me have proof.;Mira, yo tener pruebas.
+No. We goblins innocent. We never rob, apart from all the other times when we did, but this not those times. This time we no do it.;No. Nosotros goblins inocentes. Nunca robamos, aparte de todas las otras veces que sí lo hicimos, pero esta no es una de esas veces. Esta vez nosotros no hacerlo.
+Other goblins see man with bow go back across river from goblin house. We find him there.;Otros goblins ver hombre con arco volver al otro lado del río desde casa goblin. Nosotros encontrarlo ahí.
+That sounds... wonderful. Where do we begin?;Eso suena... maravilloso. ¿Por dónde empezamos?
+Where to, Mudfoot?;¿Adónde vamos, Mudfoot?
+Do you two know each other?;¿Ustedes dos se conocen?
+Hello Bob!;¡Hola, Bob!
+I don't think so.....;No lo creo.....
+No, but what's that got to do with.... no, nooooo! It cannot be!!;No, pero qué tiene eso que ver con.... ¡no, nooooo! ¡No puede ser!!
+Oh... you have a goblin with you... Er... What can I do for you?;Oh... traes un goblin contigo... Eh... ¿Qué puedo hacer por ti?
+What do you know about the victim?;¿Qué sabes de la víctima?
+You can destroy Zamorak. He has foreseen this. It is your destiny. Join me, and together we can rule this place as father and son.;Puedes destruir a Zamorak. Él lo ha previsto. Es tu destino. Únete a mí y, juntos, podremos gobernar este lugar como padre e hijo.
+Ah, so you noticed that? It's symbol of achievement. One that marks me as someone who has mastered the art of woodcutting. Only someone skilled enough is allowed to wear one.;Ah, ¿así que te has fijado? Es un símbolo de logro. Uno que me identifica como alguien que ha dominado el arte de Woodcutting. Solo a alguien con la habilidad suficiente se le permite llevar uno.
+Could you give me some mining advice?;¿Podrías darme algún consejo sobre Mining?
+Do you know why someone would want the victim dead?;¿Sabes por qué alguien querría ver muerta a la víctima?
+Feel free to use my furnace or anvil any time you like. I should warn you though, my anvil is getting a bit old. I've found it's only good enough for smithing with bronze these days.;Puedes usar mi horno o mi yunque cuando quieras. Aunque te advierto que mi yunque ya está algo viejo. Me he dado cuenta de que hoy en día solo sirve para forjar con bronze.
+I'm afraid not, but I'm sure you'll get there one day.;Me temo que no, pero seguro que algún día lo conseguirás.
+Maybe... but... it surely can't be possible...;Quizá... pero... seguro que no es posible...
+No, I wasn't here when it happened. I was doing some shopping up in Shayzien. Everything seemed normal when I left, but then I came back and I found him like... like that...;No, no estaba aquí cuando ocurrió. Estaba comprando en Shayzien. Todo parecía normal cuando me fui, pero luego volví y lo encontré así... así...
+Once you've got your bars, you can then smith them into weapons and armour. To do so, just take a hammer and the bars to an anvil.;Una vez que tengas tus barras, podrás forjarlas para convertirlas en armas y armaduras. Para ello, solo tienes que llevar un hammer y las barras a un yunque.
+You seem upset. What's wrong?;Pareces molesto. ¿Qué te pasa?
+A little. Seen him picking berries before.;Un poco. Lo he visto recoger bayas antes.
+Ah, I do indeed.;Ah, sí, en efecto.
+Ah, you mean that blaspheming dissident! He is not someone worth knowing about, but alas, I have had the misfortune of interacting with him.;Ah, te refieres a ese disidente blasfemo. No es alguien que merezca la pena conocer, pero, ay, he tenido la mala suerte de tratar con él.
+All in good time, [PLAYER_NAME]. We stand forever in your debt, and will certainly put in a good word for you when we pass over.;Todo a su debido tiempo, [PLAYER_NAME]. Estaremos siempre en deuda contigo y, sin duda, hablaremos bien de ti cuando pasemos al otro lado.
+An odd acting butcher who has no produce, yet did have a blood-covered knife hidden under his bed. Does that not seem a bit suspicious?;Un carnicero de conducta extraña que no tiene productos, pero que sí tenía un cuchillo cubierto de sangre escondido bajo la cama. ¿No te parece un tanto sospechoso?
+And in the meantime, the killer gets to remain loose?! What if they come back?! What if I'm next?!;¿Y mientras tanto, el asesino sigue libre?! ¿Y si vuelven?! ¿Y si soy el siguiente?!
+And you guys at the ones who investigate things like this?;¿Y ustedes son los que investigan cosas como esta?
+Anything else you can tell me about them?;¿Puedes contarme algo más sobre ellos?
+Anyway, the man with the case. Grey-haired fella, right? Yeah, he came by. Asked if he could have a go with our boat. Told him that's not really how this works.;En fin, el hombre del maletín. El de pelo gris, ¿verdad? Sí, vino por aquí. Preguntó si podía probar nuestro barco. Le dije que no funciona así.
+Arrr! It be a fine hobby, and a useful craft to boot. Aye, me parrot concurs.;¡Arrr! Es un buen pasatiempo y, además, un oficio útil. Sí, mi loro está de acuerdo.
+Aye, that's the home of Bernard Holland. He's not the most social of people, but he's normally friendly enough. Always says hello when he heads out to tend to his onions.;Sí, esa es la casa de Bernard Holland. No es de los más sociables, pero normalmente es bastante amable. Siempre saluda cuando sale a cuidar sus onions.
+Believe me, 'real' historians have done far worse.;Créeme, los historiadores 'de verdad' han hecho cosas mucho peores.
+Both parties panic in that situation, and it sometimes ends badly.;En esa situación ambas partes entran en pánico y a veces acaba mal.
+But you did know him?;¿Pero lo conocías?
+But... your own father... Why?;Pero... tu propio padre... ¿Por qué?
+Come on, adventurer, let's get you out of here. Corporals... get started on cleaning up here.;Vamos, aventurero, salgamos de aquí. Cabos... empezad a limpiar esto.
+Could you tell me more about Saradomin?;¿Podrías contarme más sobre Saradomin?
+Did you want to leave?;¿Querías irte?
+Do you know anything about the person who lives in that house?;¿Sabes algo sobre la persona que vive en esa casa?
+Do you know why it closed?;¿Sabes por qué cerró?
+Don't you see? We can't trust him! We can't trust anyone! No. We need to work out what happened on our own.;¿No lo ves? No podemos confiar en él. ¡No podemos confiar en nadie! No. Tenemos que averiguar por nuestra cuenta qué pasó.
+First, you've got your petty crime that gets out of hand. Thievery and the like. From time to time, a thief ends up biting off more than they can chew, and the victim fights back.;Primero, está el crimen menor que se descontrola. Robos y cosas así. De vez en cuando, un ladrón se mete en algo que le queda grande y la víctima se defiende.
+General Hining concluded that, whatever is down there, it's not affiliated with any of the elf factions, and it should be left alone.;El General Hining concluyó que, sea lo que sea que hay ahí abajo, no está afiliado a ninguna de las facciones élficas y debería dejarse en paz.
+Got any *hic* wine?;¿Tienes algo de *hip* wine?
+Hard to believe that Trader Stan had these clothes enchanted to re-stitch themselves so we can't ruin them, but the sails were too much to ask for! Some people's priorities, huh?;Cuesta creer que Trader Stan encantara esta ropa para que se cosiera sola y así no pudiéramos estropearla, ¡pero las velas ya era pedir demasiado! Hay prioridades y prioridades, ¿eh?
+Have you seen a man with a case?;¿Has visto a un hombre con un maletín?
+He came along and asked if he could have a go with my bird.;Vino y me preguntó si podía probar mi pájaro.
+He was important once. Put criminals away... or killed them.;Antes fue alguien importante. Encerraba a criminales... o los mataba.
+Hello there. Could I ask you some questions about the recent murder?;Hola. ¿Podría hacerte algunas preguntas sobre el asesinato reciente?
+Hmm, I'm going to take a quick scan of the slug and perform some analysis.;Mmm, voy a escanear la babosa rápidamente y hacer algunos análisis.
+Hmm... Very well, but the Corporal here will be keeping a very close eye on you.;Mmm... Muy bien, pero el Cabo de aquí te vigilará muy de cerca.
+How would you feel if someone came in here and stole all your stuff?;¿Cómo te sentirías si alguien entrara aquí y te robara todas tus cosas?
+I can't offer you much as thanks, but I do have an amulet here that might be useful to you.;No puedo ofrecerte mucho como agradecimiento, pero tengo un amulet aquí que podría serte útil.
+I don't know what you're talking about!;¡No sé de qué hablas!
+I don't think it was him, Sergeant. A hooded figure was spotted leaving the crime scene, literally just now!;No creo que fuera él, Sargento. ¡Se ha visto a una figura encapuchada salir de la escena del crimen, literalmente ahora mismo!
+I had to act quick. I called upon my skills from my time in the Varrock Guard and I showed him what for!;Tuve que actuar rápido. Recurrí a las habilidades que adquirí en la Varrock Guard y le enseñé quién manda.
+I promise you, we don't want a killer out there any longer than they need to be. We will find them, Betty. You have my word.;Te lo prometo, no queremos que un asesino ande suelto ni un momento más de lo necesario. Los encontraremos, Betty. Tienes mi palabra.
+I see. What are your thoughts so far?;Ya veo. ¿Qué opinas hasta ahora?
+I suppose I can help with that.;Supongo que puedo ayudar con eso.
+I thought you were going to pass over to the next world.;Creía que ibas a pasar al otro mundo.
+I'd like to get rid of some of your warning signs.;Me gustaría deshacerme de algunas de tus señales de advertencia.
+I'm afraid not, adventurer, but I'm sure you'll get there one day.;Me temo que no, aventurero, pero seguro que algún día lo conseguirás.
+I'm looking into the recent robbery.;Estoy investigando el robo reciente.
+I'm very aware... Any help that you'd like to provide?;Soy muy consciente... ¿Hay alguna ayuda que quieras prestar?
+I've got these sails that need fixing up for the charter ship in the Cothon. The crew thought you could help.;Tengo unas velas que hay que arreglar para el charter ship del Cothon. La tripulación pensó que podrías ayudar.
+If you do get a new one, you will reset your standard task streak of 0. Is that okay? It won't affect your Wilderness task streak of 0.;Si consigues uno nuevo, reiniciarás tu racha de tareas estándar de 0. ¿Te parece bien? No afectará a tu racha de tareas de Wilderness de 0.
+It all seemed a bit silly to me, but it kept them happy, at least... until the group closed down a few months ago.;A mí me parecía un poco absurdo, pero a ellos los mantenía contentos, al menos... hasta que el grupo se disolvió hace unos meses.
+It was a little far away... But we'll save that story for another day.;Estaba un poco lejos... Pero dejaremos esa historia para otro día.
+It's not good, Sergeant. The killer has struck again!;No es buena, Sargento. ¡El asesino ha vuelto a atacar!
+Lack of new members apparently.;Por lo visto, falta de miembros nuevos.
+Like I said, a whelp. And don't 'Sir' me girl, I work for a living.;Como te dije, un imberbe. Y no me llames 'señor', chica, yo trabajo para vivir.
+Maybe his daughter killed him 'cause he was snoring too loud?;¿Quizá su hija lo mató porque roncaba demasiado fuerte?
+Me? Why? I tried to help you!;¿Yo? ¿Por qué? ¡Intenté ayudarte!
+My father, Jack. He's been murdered! The authorities are here, but they don't seem to care! I don't know what to do.;Mi padre, Jack. ¡Lo han asesinado! Las autoridades están aquí, pero parece que no les importa. No sé qué hacer.
+No one acting suspicious at all? Or even just someone you didn't recognise?;¿Nadie con actitud sospechosa? ¿Ni siquiera alguien que no reconocieras?
+No, he came in looking to buy some runes, but he didn't really know what he was looking for.;No, entró buscando comprar unas runes, pero en realidad no sabía qué estaba buscando.
+No. This is a very safe area. He never normally needs to.;No. Esta es una zona muy segura. Normalmente nunca tiene por qué.
+No... But I did want to ask you some questions about the murder that happened up the road.;No... Pero sí quería hacerte algunas preguntas sobre el asesinato que ocurrió calle arriba.
+No? It's a very small house for two people. I wouldn't blame her if she'd got a bit sick of 'im.;¿No? Es una casa muy pequeña para dos personas. No la culparía si se hubiera cansado un poco de él.
+Nope. I think he was some big important somebody up in Shayzien once, but that was a long time ago. By the end he was just a nobody. Forgotten. Just like the rest of us...;No. Creo que en su día fue alguien importante en Shayzien, pero eso fue hace mucho. Al final ya no era nadie. Olvidado. Como el resto de nosotros...
+Nothing you can help me with.;Nada en lo que puedas ayudarme.
+Now, a little warning for ye' to consider: some fish be a bit tricker to catch than others. If ye' ain't skilled enough, then ye' won't be havin' any luck.;Ahora, un pequeño aviso que conviene tener en cuenta: algunos peces son más difíciles de pescar que otros. Si no tienes la habilidad suficiente, no tendrás suerte.
+Of course you are, old gal.  Now you will need access to some of the more restricted resources of the Temple Knights.;Claro que sí, vieja amiga.  Ahora necesitarás acceso a algunos de los recursos más restringidos de los Temple Knights.
+Oh! No not really. He was a *hic* private sort. Never looked happy really. Probably could have done with having a bit of wine.;¡Oh! No, la verdad es que no. Era un tipo *hip* reservado. Nunca parecía feliz, la verdad. Probablemente le habría venido bien un poco de wine.
+Oh... Very well.;Oh... Muy bien.
+Okay... I'll have it sent back at once.;Vale... Lo haré devolver de inmediato.
+Perfect. Now hand those sails over.;Perfecto. Ahora entrégame esas velas.
+Person in a hood.;Una persona encapuchada.
+Pleased to meet you. I'm Corporal Michael Breiman. I work with Corporal Campter and Sergeant Hudson.;Encantado de conocerte. Soy el Cabo Michael Breiman. Trabajo con el Cabo Campter y el Sargento Hudson.
+Protection? From you? I know what you people are like. Father told me more than a few stories about the 'honourable' Shayzien Constabulary...;¿Protección? ¿De ti? Sé cómo es tu gente. Padre me contó más de una historia sobre la 'honorable' Shayzien Constabulary...
+Right. So I need to unlock your cell and do something about the vampyre. Got it.;Bien. Así que tengo que abrir tu celda y hacer algo con el vampyre. Entendido.
+Sergeant Hudson? What is this?;¿Sargento Hudson? ¿Qué es esto?
+So girl, what have you learned?;Y bien, chica, ¿qué has averiguado?
+So you can execute me in front of a cheering crowd? Or lock me in a cell to live the rest of my life with no sunlight and a diet of mouldy bread? No. This ends here!;¿Para que puedas ejecutarme ante una multitud que vitoree? ¿O encerrarme en una celda para vivir el resto de mi vida sin luz del sol y a base de pan mohoso? No. ¡Esto se acaba aquí!
+Some. You yourself said that the killer has been toying with us from the get go. It seems they want to be found... or at least, they want to prove that we're not smart enough to find them.;Algunas. Tú mismo dijiste que el asesino lleva jugando con nosotros desde el principio. Parece que quieren que los encuentren... o al menos, quieren demostrar que no somos lo bastante listos para encontrarlos.
+Still, it's hardly proof of anything. We haven't found any real link between him and the victim, nor do we have any more information on the odd symbols.;Aun así, apenas es prueba de nada. No hemos encontrado ningún vínculo real entre él y la víctima, ni tenemos más información sobre los extraños símbolos.
+Symbols? What do they mean?;¿Símbolos? ¿Qué significan?
+Thank you. My uncle lives south of the city itself, just north west of the Tithe Farm. I'll meet you there.;Gracias. Mi tío vive al sur de la ciudad, justo al noroeste del Tithe Farm. Nos vemos allí.
+That doesn't seem likely...;Eso no parece probable...
+That would be against procedure.;Eso iría contra el procedimiento.
+That's great! Always nice to hear from a happy customer!;¡Eso es genial! ¡Siempre es agradable tener noticias de un cliente satisfecho!
+That's right. What do you need?;Así es. ¿Qué necesitas?
+The conclusion? An illness. One so tragic, the surviving daughter never fully recovered. She spent years in care, but eventually her father decided to bring her home.;¿La conclusión? Una enfermedad. Tan trágica que la hija superviviente nunca se recuperó del todo. Pasó años recibiendo cuidados, pero al final su padre decidió llevarla a casa.
+The temple of Paterdomus where Drezel lives. It is but a short journey east from here. It lies at the source of the River Salve. Don't worry, you can't miss it.;El templo de Paterdomus, donde vive Drezel. Está a un corto viaje hacia el este desde aquí. Se encuentra en el nacimiento del River Salve. No te preocupes, no tiene pérdida.
+Then suddenly they returned, with a wild gleam in their eyes, raving about gods and snakes and all kinds of madness.;Entonces, de repente, volvieron con un brillo salvaje en los ojos, desvariando sobre dioses y serpientes y todo tipo de locuras.
+Then, with a little help from his Keystone Lodge friends, he had it all covered up!;Y luego, con un poco de ayuda de sus amigos del Keystone Lodge, ¡lo encubrió todo!
+There we have it! They might not look the prettiest, but they'll be sturdy enough for the job at least.;¡Ahí está! Puede que no sean las más bonitas, pero al menos serán lo bastante resistentes para el trabajo.
+They plan to strike again... if they haven't already. Betty, we need to get you to safety. We need to go to Sergeant Hudson.;Planean atacar de nuevo... si no lo han hecho ya. Betty, tenemos que ponerte a salvo. Tenemos que ir a ver al Sargento Hudson.
+They're not wrong though. We did fail to report a murder to them.;Aunque no les falta razón. No denunciamos un asesinato ante ellos.
+This was a priceless artefact, and it was at risk! I knew it had to be protected, and there was nowhere better than in Varrock...;¡Era un artefacto incalculable y estaba en peligro! Sabía que había que protegerlo, y no había mejor lugar que Varrock...
+Viva! That's all 25 sets of bones;Viva! Esos son todos los 25 conjuntos de bones
+We can't keep the authorities out of this, Betty. But... maybe I could take a look around first. I could at least make sure we know what happened before we speak to them.;No podemos mantener a las autoridades al margen, Betty. Pero... quizá podría echar un vistazo primero. Al menos podría asegurarme de saber qué pasó antes de hablar con ellos.
+We'd better get to Shayzien right away. We need to tell Sergeant Hudson about this.;Será mejor que vayamos a Shayzien ahora mismo. Tenemos que contarle esto al Sargento Hudson.
+Well, hang on... What about the local butcher?;Bueno, espera... ¿Y el carnicero del pueblo?
+Well, let's hope we can explain that to them when they come to question us.;Bueno, esperemos poder explicárselo cuando vengan a interrogarnos.
+Well, that is a slightly impertinent question to ask of your King, but I shall overlook it this time.;Bueno, es una pregunta un tanto impertinente para hacérsela a tu Rey, pero esta vez la pasaré por alto.
+Well, you'd best hope that changes soon.;Bueno, más te vale esperar que eso cambie pronto.
+Well... er... he didn't used to live 'ere all the time. I think this was his holiday home or somethin' like that. Then 'bout ten years ago he moved here permanently.;Bueno... esto... antes no vivía aquí todo el tiempo. Creo que esto era su casa de vacaciones o algo así. Luego, hace unos diez años, se mudó aquí de forma permanente.
+What can you tell me about the victim?;¿Qué puedes contarme sobre la víctima?
+What is it, Corporal?;¿Qué ocurre, Cabo?
+What this is, is the two of you now being suspects in a murder investigation. You were spotted at a crime scene, and yet you chose not to report what happened there.;Lo que pasa es que ahora ustedes dos son sospechosos en una investigación de asesinato. Se les vio en la escena de un crimen y, aun así, decidieron no informar de lo que ocurrió allí.
+What? What does that even mean?;¿Qué? ¿Y eso qué significa?
+Would you like me to take you to Hosidius?;¿Quieres que te lleve a Hosidius?
+Yes, I thought it was quite strange. I told him no, and he made his way east, towards the Cothon.;Sí, me pareció bastante extraño. Le dije que no, y se fue hacia el este, en dirección al Cothon.
+Yes... Do it.;Sí... Hazlo.
+You can't just steal artefacts and claim them as your own for the museum!;¡No puedes simplemente robar artefactos y reclamarlos como tuyos para el museo!
+You made it.;Lo lograste.
+You should know what this is... You investigated it. All those clues... and you still couldn't work it out.;Deberías saber qué es esto... Tú lo investigaste. Todas esas pistas... y aun así no pudiste deducirlo.
+You're not planning to use me as bait, are you?;No estarás pensando en usarme como cebo, ¿verdad?
+You... You'd do that?;Tú... ¿Harías eso?
+Yes, escape to the Void Knights' Outpost;Sí, escapar al Void Knights' Outpost
+Yes, pay 50,000 coins.;Sí, pagar 50,000 monedas.
+Do you wish to disembark at the Void Knights' Outpost?;¿Deseas desembarcar en el Void Knights' Outpost?
+However, truth be told, until recently, we didn't consider Lucien to be among that number. All that changed when, despite your best attempts to stop him, he managed to obtain the Staff of Armadyl.;Sin embargo, a decir verdad, hasta hace poco no considerábamos a Lucien parte de ese grupo. Todo cambió cuando, a pesar de tus mejores intentos por detenerlo, logró conseguir el Staff of Armadyl.
+Regardless, this is another reminder that time is not on our side. We must find out what Lucien is planning and stop him before it's too late.;De todos modos, es un recordatorio más de que el tiempo no juega a nuestro favor. Debemos averiguar qué planea Lucien y detenerlo antes de que sea demasiado tarde.
+As Taverley no longer seems to be safe, we've decided it best that we establish a base of operations for this new alliance at the White Knights' Castle in Falador.;Como Taverley ya no parece ser un lugar seguro, hemos decidido que lo mejor es establecer una base de operaciones para esta nueva alianza en el White Knights' Castle, en Falador.
+And this Stone... You really think it can grant Lucien godhood?;¿Y esta Stone...? ¿De verdad crees que puede otorgarle la divinidad a Lucien?
+Excellent! Now, if you could give it to our friend here...;¡Excelente! Ahora, si pudieras dárselo a nuestro amigo de aquí...
+I reckon that is something I can help with. Silif, do you have the teleorb?;Creo que eso es algo en lo que puedo ayudar. Silif, ¿tienes el teleorb?
+Oh that is clever!;¡Oh, qué ingenioso!
+Snapdragon seeds aren't the cheapest.;Las Snapdragon seeds no son de las más baratas.
+The potion!;¡La poción!
+Yes, of course, of course. Now, I believe it's time we invite one of Lucien's friends over for a little chat!;Sí, claro, claro. Ahora creo que es hora de invitar a uno de los amigos de Lucien a una pequeña charla.
+If you think I'm going to talk, you're kidding yourself!;Si crees que voy a hablar, te estás engañando.
+A fair point. Regardless, I sent Silif to investigate, but we lost contact with him shortly after he entered the fortress.;Es un buen punto. De todos modos, envié a Silif a investigar, pero perdimos el contacto con él poco después de que entrara en la fortaleza.
+Claim a shortbow and some arrows;Reclamar un arco corto y unas flechas
+Claim a staff and some runes;Reclamar un bastón y unas runas
+I fear no amount of preparation would have been enough. We were never going to have a hope against that level of power...;Me temo que ninguna cantidad de preparación habría sido suficiente. Nunca íbamos a tener ninguna posibilidad contra ese nivel de poder...
+Lumbridge Swamp? There's nothing of value there, is there?;¿Lumbridge Swamp? No hay nada de valor allí, ¿verdad?
+The task force is already in position, and thanks to the information Silif was able to obtain, we believe we now know where to find Lucien.;El grupo de operaciones ya está en posición y, gracias a la información que Silif pudo obtener, creemos que ahora sabemos dónde encontrar a Lucien.
+I think Surok has an idea for using them, boss!;¡Creo que Surok tiene una idea para usarlos, jefe!
+You are clearly an expert in this area, and I am open to letting you continue to take the lead, provided we are able to quickly conclude our work here.;Está claro que eres un experto en este tema, y estoy dispuesto a dejarte seguir llevando la iniciativa, siempre que podamos concluir rápidamente nuestro trabajo aquí.
+I need 16 more before I can pay you.;Necesito 16 más antes de poder pagarte.
+A quest?;¿Una misión?
+Er... What are you doing?;Eh... ¿Qué estás haciendo?
+Hello, I see you have a cat.;Hola, veo que tienes un gato.
+I see... Well, perhaps I can help you with your quest. I'm actually on a quest myself to find whoever robbed the General Store. Maybe we can work together?;Ya veo... Bueno, quizá pueda ayudarte con tu misión. En realidad, yo también estoy en una misión: encontrar a quien robó el General Store. ¿Quizá podamos trabajar juntos?
+Me kill the nasty humans. Nasty humans rob other humans, but then they dump the stuff they rob here. Now we get blamed.;Yo matar a humanos malos. Humanos malos robar a otros humanos, pero luego tirar aquí las cosas que roban. Ahora a nosotros culpar.
+Not much compared to the bigger shops up in Varrock, but maybe something will still take your fancy. Why don't you take a look?;No es mucho comparado con las tiendas más grandes de Varrock, pero quizá algo te llame la atención. ¿Por qué no echas un vistazo?
+Other goblins see three humans who dump robbed stuff. We find all humans and make them dead. First one was man with bow. Other goblins see him go back across river. We find him there.;Otros goblins ver a tres humanos que tiran cosas robadas. Nosotros encontrar a todos los humanos y matarlos. Primero ser hombre con arco. Otros goblins verlo cruzar el río de vuelta. Nosotros encontrarlo allí.
+Wrong. You dead now.;Mal. Ahora tú muerto.
+Hello Gertrude!;¡Hola, Gertrude!
+I think that's about enough of that. I'm off.;Creo que ya es suficiente. Me voy.
+No. It seems things might not be as simple as we first thought. I'll let you know once I've learnt more.;No. Parece que las cosas podrían no ser tan simples como pensábamos al principio. Te avisaré cuando sepa más.
+So, about those thieves...;Entonces, sobre esos ladrones...
+What's up kitty?;¿Qué pasa, gatito?
+You seem to have a goblin with you. Is he one of them?;Parece que tienes un goblin contigo. ¿Es uno de ellos?
+Anyway, I think that covers everything you need to get started, though I'm sure you'll end up learning plenty more as you progress.;En fin, creo que eso cubre todo lo que necesitas para empezar, aunque seguro que aprenderás mucho más a medida que avances.
+Could you give me some smithing advice?;¿Podrías darme algún consejo sobre Smithing?
+Do you know why someone would want your father dead?;¿Sabes por qué alguien querría a tu padre muerto?
+Hello there. Here to chop some trees? The wood is great for making fires.;Hola. ¿Vienes a cortar algunos árboles? La madera es genial para hacer fuego.
+If you want to work with any other kind of metal, you'll need to find a better anvil. That shouldn't be too hard. For example, I know Varrock has plenty.;Si quieres trabajar con cualquier otro tipo de metal, tendrás que encontrar un yunque mejor. No debería ser muy difícil. Por ejemplo, sé que en Varrock hay muchos.
+My father used to be a judge you see. A lot of criminals would have considered him an enemy. Most likely one of them killed my family to get to him.;Mi padre fue juez, ¿sabes? Muchos criminales lo habrían considerado un enemigo. Lo más probable es que uno de ellos matara a mi familia para llegar a él.
+Now how can I help you old gal?;¿Y bien, cómo puedo ayudarte, vieja?
+Okay, me go. Goblins have better super secret pub anyway.;Vale, yo ir. De todos modos goblins tener mejor pub súper secreto.
+So could I have one?;¿Así que podría tener uno?
+*hic* Jack Holland! That was his name. Older *hic* chap. Lived here a long time with his daughter, Betty.;*hic* ¡Jack Holland! Ese era su nombre. Un tipo *hic* mayor. Vivió aquí mucho tiempo con su hija, Betty.
+A portrait please.;Un retrato, por favor.
+Ah, [PLAYER_NAME]. Glad you made it. Things are worse than I feared down here. It seems those Zamorakians were able to kill the guardian of this place. There was nothing to stop their desecration.;Ah, [PLAYER_NAME]. Me alegro de que hayas llegado. Las cosas están peor de lo que temía aquí abajo. Parece que esos Zamorakians lograron matar al guardián de este lugar. No hubo nada que detuviera su profanación.
+Ah... that's... not good. How bad is the damage?;Ah... eso... no es bueno. ¿Qué tan grave es el daño?
+All of a sudden, I heard a strange noise coming from behind me...;De repente, oí un ruido extraño a mi espalda...
+And did you know him well?;¿Y lo conocías bien?
+And then what? Where did he go?;¿Y luego qué? ¿Adónde fue?
+And you think that's what we're dealing with here?;¿Y crees que eso es lo que tenemos aquí?
+Anything more specific?;¿Algo más concreto?
+Archaeology is cool! This was just an exceptional circumstance...;¡La arqueología es genial! Esto fue solo una circunstancia excepcional...
+Arrr! The only thing I be havin' is a small net, but it looks like you already have one.;¡Arrr! Lo único que tengo es una red pequeña, pero parece que ya tienes una.
+Be honest with me, curator!;¡Sé sincero conmigo, curador!
+Betty doesn't seem to feel that way. She doesn't think you care.;Betty no parece sentirse así. Cree que no te importa.
+Business must be slow if you're running a butchers in a quiet place like this. Especially given you don't seem to have much product around...;El negocio debe ir lento si tienes una carnicería en un lugar tan tranquilo como este. Sobre todo teniendo en cuenta que no parece que tengas mucho producto...
+But you never even cared!;¡Pero si nunca te importó!
+By following the clues, Betty. Isn't that what you wanted?;Siguiendo las pistas, Betty. ¿No es eso lo que querías?
+Commissioner Edwards. He led the Shayzien Constabulary for years, until he stepped down a couple of years ago. This is where he retired to.;El comisionado Edwards. Dirigió la Shayzien Constabulary durante años, hasta que dimitió hace un par de años. Aquí es donde se retiró.
+Curious... Let me see if I can find a way inside.;Curioso... Déjame ver si puedo encontrar la forma de entrar.
+Do any murders look good?;¿Algún asesinato queda bien?
+Do you know anything about the person who lives in this house?;¿Sabes algo de la persona que vive en esta casa?
+Do you know why someone would want your uncle dead?;¿Sabes por qué alguien querría a tu tío muerto?
+For now, if you're feeling unsafe, I can arrange for you to have some protection.;Por ahora, si te sientes insegura, puedo hacer que te den algo de protección.
+Get up.;Levántate.
+Grab some of that, then pull that through...;Toma un poco de eso, luego pasa eso por ahí...
+Have you got any idea what runes he was looking for?;¿Tienes idea de qué runas buscaba?
+Have you seen anybody suspicious around?;¿Has visto a alguien sospechoso por aquí?
+He doesn't normally lock them?;¿Normalmente no los cierra con llave?
+He went down easily, but I was left with a conundrum: What to do with the diadem.;Cayó fácilmente, pero me quedé con un dilema: qué hacer con la diadema.
+Hello there. I was wondering if I could ask you some questions?;Hola. Me preguntaba si podría hacerte algunas preguntas.
+Hmm, well yes, I did consider that you might not be right for the job. Be off with you then before I turn my men loose on you.;Hmm, pues sí, consideré que podrías no ser el adecuado para el trabajo. Así que lárgate antes de que suelte a mis hombres contra ti.
+Hmm... Well if it makes Betty feel better, then fine. Feel free to have a look around the house. Just don't go messing up any evidence.;Hmm... Bueno, si eso hace que Betty se sienta mejor, está bien. Puedes echar un vistazo por la casa. Solo no estropees ninguna prueba.
+How? Betty, we're locked in a cell.;¿Cómo? Betty, estamos encerrados en una celda.
+I can't tell you what it will be, but alongside working on your reputation, I'd advise honing your skills to ensure you can survive whatever task they set for you.;No puedo decirte cuál será, pero además de trabajar en tu reputación, te aconsejo que perfecciones tus habilidades para asegurarte de sobrevivir a cualquier tarea que te asignen.
+I don't know. He took a look at my stock, but didn't see what he wanted. He then left.;No lo sé. Echó un vistazo a mi mercancía, pero no vio lo que quería. Luego se fue.
+I don't think people would really like us talking all about their travels...;No creo que a la gente le guste que hablemos de sus viajes...
+I hope you can, and you will very much get your chance to do so. Corporal, find a cell for them in the local guardhouse. We'll question them once we're done here.;Espero que puedas, y tendrás muchas oportunidades de hacerlo. Cabo, búscales una celda en el cuartel de la guardia local. Los interrogaremos cuando terminemos aquí.
+I promise, I only wanted to keep it safe. I guess I panicked...;Lo prometo, solo quería mantenerlo a salvo. Supongo que entré en pánico...
+I see... Thanks for the help!;Ya veo... ¡Gracias por la ayuda!
+I suppose so. He was always a big fan of wine.;Supongo que sí. Siempre le ha gustado mucho el vino.
+I was hoping for some help.;Esperaba algo de ayuda.
+I'll do you a deal. If you arrange for the safe delivery of the diadem back to the Grand Museum, I'll let them know it's taken care of without mentioning your name.;Te propongo un trato. Si te encargas de que la diadema llegue sana y salva al Grand Museum, les diré que está resuelto sin mencionar tu nombre.
+I'm afraid there's been a murder. Now please, move along. We need space to conduct our investigation.;Me temo que ha habido un asesinato. Ahora, por favor, sigue tu camino. Necesitamos espacio para llevar a cabo nuestra investigación.
+I'm not sure, but it seems they want us to translate the letter. They're clearly intentionally leaving clues for how to do so.;No estoy seguro, pero parece que quieren que traduzcamos la carta. Está claro que dejan pistas a propósito sobre cómo hacerlo.
+I've detected a sea slug on you. Is everything okay?;He detectado una babosa marina en ti. ¿Todo está bien?
+I've still not managed to piece things together yet.;Todavía no he conseguido atar los cabos.
+If you wish to investigate the crime scene, I won't stop you, but I'm not going to waste time telling you how to do it. I'm busy enough as it is.;Si quieres investigar la escena del crimen, no te lo impediré, pero no voy a perder el tiempo explicándote cómo hacerlo. Ya tengo suficiente trabajo.
+It definitely looks that way. Our victim here was a bit of a public figure before he retired. I even remember hearing stories about him when I was a kid.;Sin duda lo parece. Nuestra víctima era una figura pública antes de retirarse. Incluso recuerdo haber oído historias sobre él cuando era niño.
+It was a thief! He'd stolen Xerna's Diadem!;¡Fue un ladrón! ¡Había robado Xerna's Diadem!
+It's okay Savant. It's dead.;Tranquila, Savant. Está muerto.
+Let me guess, he asked if he could have a go with your runes?;Déjame adivinar, ¿te preguntó si podía probar tus runas?
+Like murder? Yup, that's our domain. Very cheery.;¿Como asesinatos? Sí, ese es nuestro terreno. Muy alegre.
+Maybe someone carrying something out of the museum, perhaps?;¿Quizá alguien que sacara algo del museo?
+Mmm, I'm not sure you've had enough adventures in Lumbridge to deserve a painting of it.;Mmm, no estoy seguro de que hayas vivido suficientes aventuras en Lumbridge como para merecer un cuadro de allí.
+My father... he was good friends with a Shayzien captain, before they both retired. Captain Jensen is her name. She was one of the good ones. She can help us. I trust her.;Mi padre... era muy amigo de una capitana de Shayzien, antes de que ambos se retiraran. Se llama Captain Jensen. Era una de las buenas. Puede ayudarnos. Confío en ella.
+No one at all. I'm very good at remembering people. It's an important part of my work.;A nadie. Se me da muy bien recordar a la gente. Es una parte importante de mi trabajo.
+No, no, no! This can't be happening...;¡No, no, no! Esto no puede estar pasando...
+No. Uncle Bernard wasn't like my father, working some dangerous job. Before he retired, he was just a clerical assistant. He spent his days filing papers! He wasn't even a proper member of the army!;No. El tío Bernard no era como mi padre, con un trabajo peligroso. Antes de retirarse, solo era auxiliar administrativo. ¡Se pasaba los días archivando papeles! ¡Ni siquiera era un miembro de verdad del ejército!
+No... I'll make my own way there... after I've properly said goodbye to my father.;No... Iré por mi cuenta... después de despedirme como es debido de mi padre.
+Nobody wants to see stolen goods on display!;¡Nadie quiere ver mercancía robada en exhibición!
+Nope. I was sleepin'. Guess that's what he's doing now, heh!;No. Estaba durmiendo. Supongo que eso es lo que hace ahora, ¡je!
+Now I don't know what to do...;Ahora no sé qué hacer...
+Now, once you actually join the guild, they will no doubt have their own quest to send you on.;Ahora bien, una vez que te unas al gremio, sin duda tendrán su propia misión que encargarte.
+Of course. It's not a problem.;Claro. No es un problema.
+Oh, and Artima said thanks for the latest shipment.;Ah, y Artima dio las gracias por el último envío.
+Oh, the one with the monocle? Yes, he did come in.;Ah, ¿el del monóculo? Sí, sí vino.
+Oh... er... I think it was... 'You!';Oh... eh... creo que fue... '¡Tú!'
+Okay... Just let me know when you're ready to go.;Vale... Avísame cuando estés listo para ir.
+Peace be with you child.;La paz sea contigo, hijo.
+Perhaps you should make sure you've questioned everyone before making an accusation, [PLAYER_NAME].;Quizá deberías asegurarte de haber interrogado a todos antes de hacer una acusación, [PLAYER_NAME].
+Phew. I was very worried there for a moment.;Uf. Estuve muy preocupado por un momento.
+Questions? Yes, I suppose so.;¿Preguntas? Sí, supongo que sí.
+Righty ho Savant. I look forward to your results.;Muy bien, Savant. Espero tus resultados.
+Sergeant, I know you don't trust me, but you have to believe me! I had nothing to do with any of this. I'm just trying to save Betty!;Sargento, sé que no confías en mí, pero tienes que creerme. No tuve nada que ver con nada de esto. ¡Solo intento salvar a Betty!
+So he's a farmer as well then?;¿Así que también es granjero?
+So you can't think of any actual reason why someone would want him dead?;¿Así que no se te ocurre ninguna razón real por la que alguien querría verlo muerto?
+Someone new? We don't get many new people coming through here. We're nice and out of the way. Typically it's just people heading past to go to the Tithe Farm.;¿Alguien nuevo? No pasa mucha gente nueva por aquí. Estamos bien apartados. Normalmente solo son personas que van de paso hacia el Tithe Farm.
+Sure. What do you need?;Claro. ¿Qué necesitas?
+Take these spots here. Ye' can be usin' a small net to catch shrimps, or sometimes anchovies. Other spots though might be havin' different fish, and needin' different tools to catch 'em.;Prueba en estos sitios de aquí. Puedes usar una red pequeña para pescar gambas o, a veces, anchoas. Otros sitios pueden tener peces diferentes y necesitar herramientas distintas para pescarlos.
+Thank you. Talk to Sergeant Hudson. He's in charge of the investigation. You'll need his permission to help.;Gracias. Habla con Sergeant Hudson. Él está a cargo de la investigación. Necesitarás su permiso para ayudar.
+That it was Betty.;Así fue, Betty.
+That's all for now.;Eso es todo por ahora.
+That's not too surprising and doesn't actually narrow things down much. He knew a lot of people, and would remember a lot more from his past.;No es muy sorprendente y, en realidad, no reduce mucho las posibilidades. Conocía a mucha gente y recordaría muchas más cosas de su pasado.
+That's the door open. No sign of your uncle though...;Ya está abierta la puerta. Aunque no hay rastro de tu tío...
+The girl has just lost her father. Of course she's going to be emotional right now. She has nothing to fear though. We'll get to the bottom of this.;La chica acaba de perder a su padre. Claro que va a estar emocional ahora. Pero no tiene nada que temer. Llegaremos al fondo de esto.
+The victim was once a judge and made a fair few enemies. It's possible one of them specifically targeted him. If so, it might not be the first time. Many years ago, his wife and daughter were killed as well.;La víctima fue juez y se hizo unos cuantos enemigos. Es posible que uno de ellos lo eligiera como objetivo. Si es así, puede que no sea la primera vez. Hace muchos años, también mataron a su esposa y a su hija.
+Then what is it you're not telling me?;¿Entonces qué es lo que no me estás contando?
+There are a few potential things of note, but nothing obvious that could lead us to the killer.;Hay algunas cosas que podrían ser relevantes, pero nada evidente que nos lleve al asesino.
+There's a good chance we've found them ourselves already, but let's hear them.;Es muy posible que ya las hayamos encontrado nosotros, pero vamos a oírlas.
+They seem to be part of some sort of cipher. There was also a letter back at your home that had the same symbols on it.;Parecen formar parte de algún tipo de cifrado. También había una carta en tu casa con los mismos símbolos.
+This can't be happening... This can't be happening!;Esto no puede estar pasando... ¡Esto no puede estar pasando!
+Tie off the end there and...;Ata el extremo ahí y...
+Unfortunately, it doesn't seem you've really uncovered anything that will help us. Still, maybe your work will reassure Betty a bit. Now, it's time we started wrapping up here.;Lamentablemente, parece que no has descubierto nada que realmente nos ayude. Aun así, quizá tu trabajo tranquilice un poco a Betty. Ahora es momento de ir terminando aquí.
+We don't have a choice. You need to get out of here, get over to Captain Jensen's house and then investigate whatever has happened there.;No tenemos elección. Tienes que salir de aquí, ir a la casa de Captain Jensen e investigar lo que haya pasado allí.
+We'll continue our investigation back at the Shayzien Administration. We have some leads to explore and a person of interest to question further. We'll let you know if we learn anything.;Continuaremos nuestra investigación en la Shayzien Administration. Tenemos algunas pistas que seguir y una persona de interés a la que interrogar más. Te avisaremos si descubrimos algo.
+Well, I'd feel terrible! Wait...;Bueno, ¡me sentiría fatal! Espera...
+Well, it turned out to be quite the saga, but I found it! Xerna's Diadem is on its way back here, as we speak.;Bueno, resultó ser toda una saga, pero ¡lo encontré! Xerna's Diadem está de camino de vuelta aquí, ahora mismo.
+Well, let's see... Come to think of it, there was this one person carrying some sort of case...;Bueno, veamos... Ahora que lo pienso, hubo una persona que llevaba una especie de maletín...
+Well, there's no better mark of an accomplished adventurer than having gained entry into one of the esteemed adventurers' guilds. The first of those is the Champions' Guild.;Bueno, no hay mejor señal de ser un aventurero consumado que conseguir entrar en uno de los prestigiosos gremios de aventureros. El primero de ellos es el Champions' Guild.
+Well, you'd best start piecing it all together. We need to work out where the killer is. If we can't, then I needn't remind you that you're still the prime suspect.;Bueno, será mejor que empieces a atar cabos. Necesitamos averiguar dónde está el asesino. Y si no lo logramos, no hace falta que te recuerde que sigues siendo el principal sospechoso.
+Well? No I don't think he *hic* is very well. Someone killed him!;¿Y bien? No, no creo que *hic* se encuentre muy bien. ¡Alguien lo mató!
+What could this mean?;¿Qué podría significar esto?
+What kind of goals should I be aiming for?;¿Qué tipo de objetivos debería proponerme?
+What...? How?!;¿Qué...? ¡¿Cómo?!
+When did you realise?;¿Cuándo te diste cuenta?
+With a role like that, I'm guessing there are no shortages of possible suspects?;Con un papel así, supongo que no faltarán posibles sospechosos.
+Xerna's Diadem? How did you-;¿Xerna's Diadem? ¿Cómo has-
+Yes, I'm aware. I meant 'well' as in 'familiar'.;Sí, lo sé. Me refería a 'bien' en el sentido de 'familiarizado'.
+Yes... It was some special group Uncle Bernard was part of. Father was a member as well. I don't really know what it was all about. Something to do with self- betterment for the good of all, I think.;Sí... Era un grupo especial del que el tío Bernard formaba parte. Padre también era miembro. No sé muy bien de qué se trataba. Algo relacionado con la superación personal por el bien de todos, creo.
+You don't need to be doing anything. We have everything in hand here.;No necesitas hacer nada. Aquí lo tenemos todo bajo control.
+You must have interacted with each other quite a bit then in that time?;Entonces debieron de tratar bastante entre ustedes en aquel tiempo, ¿no?
+You translated the letter? Curious...;¿Tradujiste la carta? Curioso...
+You're setting a terrible example.;Estás dando un ejemplo terrible.
+Yup. I've been runnin' me butchers here for a long time. A long time indeed...;Sí. Llevo mucho tiempo con mi carnicería aquí. Mucho tiempo, la verdad...
+re:^\QWell ... it's just two Penguins\E\x3b\Q Penguins disguised as a sheep.\E$;Bueno ... solo son dos Penguins; Penguins disfrazados de oveja.
+re:^\QYou're still hunting bloodveld\E\x3b\Q you have 143 to go. Come back when you've finished your task.\E$;Sigues cazando bloodveld; te quedan 143. Vuelve cuando hayas terminado tu tarea.
+re:^\QWell, the Black Knights have started making strange threats to us\E\x3b\Q demanding large amounts of money and land, and threatening to invade Falador if we don't pay them.\E$;Bueno, los Black Knights han empezado a hacernos extrañas amenazas: exigen grandes cantidades de dinero y tierras, y amenazan con invadir Falador si no les pagamos.
+re:^\QIt's quite simple. Unferth is what we call a hypochondriac\E\x3b\Q he isn't ill but he thinks he is. All you need to do is convince him you are a Doctor or a Nurse and give him a potion to make him 'better'.\E$;Es muy sencillo. Unferth es lo que llamamos un hipocondríaco: no está enfermo, pero cree que lo está. Solo tienes que convencerlo de que eres un doctor o una enfermera y darle una potion para que se 'mejore'.
+re:^\QI must have caught my finger with the quill. Apologies\E\x3b\Q please continue.\E$;Debo de haberme pinchado el dedo con la pluma. Disculpas. Continúa, por favor.
+re:^\QLet's worry about that later\E\x3b\Q Go get Solus!\E$;Preocupémonos por eso más tarde. ¡Ve a buscar a Solus!
+re:^\QSo then, old bean\E\x3b\Q with that in mind, we have a mission for you.\E$;Así que, amigo mío, con eso en mente, tenemos una misión para ti.
+re:^\QThanks for helping us out\E\x3b\Q we really do appreciate it.\E$;Gracias por ayudarnos; de verdad te lo agradecemos.
+re:^\QOh, right! That explains the mild insanity. No problem\E\x3b\Q hand over the document and I'll have a look\E$;¡Ah, claro! Eso explica la leve locura. No hay problema; dame el documento y le echaré un vistazo
+re:^\QOur shore is brimming, with gold from the sea, the most loyal of our people, are handed the key. We'll let you stand on our shores and collect, the great anglerfish\E\x3b\Q other only... covet?\E$;Nuestra orilla rebosa, de oro del mar, a los más leales de nuestro pueblo, se les entrega la llave. Te dejaremos estar en nuestras orillas y recolectar, el gran anglerfish; otros solo... ¿codiciar?
+re:^\QWell hello there\E\x3b\Q welcome to our little village. Pray, stay a while.\E$;Vaya, hola; bienvenido a nuestra pequeña aldea. Te ruego que te quedes un rato.
+re:^\QWings of dark and colour too, Spreading in the morning dew\E\x3b\Q Locked away I have a key; Return it now, please, unto me.\E$;Alas de oscuridad y también de color, desplegándose en el rocío de la mañana; encerrada guardo una llave; devuélvemela ahora, por favor, a mí.
+re:^\QUsing the enchanted amulet is easy\E\x3b\Q open up the amulet and you'll see a cat's face, use the whiskers to rotate the cats nose. You'll see the nose move and the new direction highlighted. When the nose points in the\E$;Usar el amuleto encantado es fácil; abre el amuleto y verás la cara de un gato, usa los bigotes para girar la nariz del gato. Verás cómo se mueve la nariz y cómo se resalta la nueva dirección. Cuando la nariz apunte en la

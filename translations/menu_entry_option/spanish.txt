@@ -3414,3 +3414,5 @@ Contact <col=ff981f>Turael;Contactar <col=ff981f>Turael
 Contact <col=ff981f>Vannaka;Contactar <col=ff981f>Vannaka
 Contact <col=ff981f>Watson;Contactar <col=ff981f>Watson
 Plant-orb;Plantar-orb
+View tab ;Ver pestaña
+View missing items ;Ver elementos faltantes

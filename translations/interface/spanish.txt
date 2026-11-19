@@ -1722,3 +1722,146 @@ You have completed Demon Slayer;Has completado Demon Slayer
 <str>Movario's Research Notes. They revealed Lucien's desire to;<str>Movario's Research Notes. Revelaron el deseo de Lucien de
 <str>Spies from Draynor Village. As such, I planted a Teleorb given;<str>Espías de Draynor Village. Como tal, planté un Teleorb dado
 <str>Thaerisk asked me to head to McGrubor's Wood to find Idria;<str>Thaerisk me pidió que fuera a McGrubor's Wood para encontrar a Idria
+Congratulations!;¡Felicidades!
+<str>Combat Level 15<br>;<str>Nivel de combate 15<br>
+<col=800000>Battlefield<col=000080>. I should explore this <col=800000>Base<col=000080> and see what I can find.;<col=800000>Battlefield<col=000080>. Debería explorar esta <col=800000>Base<col=000080> y ver qué puedo encontrar.
+<col=800000>Castle<col=000080> in <col=800000>Falador<col=000080>. I should meet up with her and <col=800000>Thaerisk<col=000080> there.;<col=800000>Castle<col=000080> en <col=800000>Falador<col=000080>. Debería reunirme con ella y con <col=800000>Thaerisk<col=000080> allí.
+<str>I returned to the Fight Arena and was able to use my Broav to;<str>Volví a la Fight Arena y pude usar mi Broav para
+<str>Thaerisk, as well as Akrisae of the Temple Knights.;<str>Thaerisk, así como Akrisae de los Temple Knights.
+<str>To find Lucien, Thaerisk suggested we capture one of his;<str>Para encontrar a Lucien, Thaerisk sugirió que capturáramos a uno de sus
+<str>Upon arrival, I found them being attacked by some;<str>Al llegar, los encontré siendo atacados por unos
+<str>White Knights' Castle in Falador. There we met up with;<str>White Knights' Castle en Falador. Allí nos reunimos con
+<str>With the Mercenaries dealt with, Idria and I journeyed to the;<str>Con los Mercenaries resueltos, Idria y yo viajamos a la
+<str>and the Guardians of Armadyl, as he'd lost contact with them.;<str>y los Guardians of Armadyl, ya que había perdido contacto con ellos.
+<str>find and claim an artefact of unimaginable power called the;<str>encontrar y reclamar un artefacto de poder inimaginable llamado la
+<str>teleport the Spy into a cell.;<str>teletransportar al Spy a una celda.
+<str>them to Thaerisk in Taverley.;<str>llevarlos a Thaerisk en Taverley.
+<str>to me by Akrisae on one of them. He then used this Teleorb to;<str>que me dio Akrisae en uno de ellos. Luego usó este Teleorb para
+<str>track Movario's scent to a Hidden Base below the Khazard;<str>seguir el rastro de Movario hasta una Hidden Base bajo el Khazard
+<col=000080>I still need to recruit the following people:;<col=000080>Todavía necesito reclutar a las siguientes personas:
+<col=000080>To make some more <col=800000>Truth Serum<col=000080>, I prepared an <col=800000>Enriched;<col=000080>Para hacer más <col=800000>Truth Serum<col=000080>, preparé un <col=800000>Enriched
+<col=000080>asked me to recruit four heroes to our cause. If needed, I;<col=000080>me pidió que reclutara a cuatro héroes para nuestra causa. Si es necesario,
+<col=000080>on the roof of the <col=800000>White Knights' Castle<col=000080>. While it grows, <col=800000>Idria<col=000080>;<col=000080>en el techo del <col=800000>White Knights' Castle<col=000080>. Mientras crece, <col=800000>Idria<col=000080>
+<col=000080>should be able to contact all of them using <col=800000>Lunar Magics<col=000080>.;<col=000080>debería poder contactar con todos ellos usando <col=800000>Lunar Magics<col=000080>.
+<str>With the Spy captured, we attempted to interrogate him using;<str>Con el Spy capturado, intentamos interrogarlo usando
+<str>some Truth Serum. However, the Spy was able to destroy it.;<str>un poco de Truth Serum. Sin embargo, el Spy logró destruirlo.
+<str>Combat Level 30<br>;<str>Nivel de combate 30<br>
+Monster: <col=ffffff>Hespori</col>;Monstruo: <col=ffffff>Hespori</col>
+Total Points: 1 - Next unlock in 40 points;Puntos totales: 1 - Próximo desbloqueo en 40 puntos
+<col=000080>I should investigate the site of the attack to see if there are;<col=000080>Debería investigar el lugar del ataque para ver si hay
+<col=000080>I spoke to <col=800000>Sarah<col=000080> at the farm. She explained that she was;<col=000080>Hablé con <col=800000>Sarah<col=000080> en la granja. Me explicó que fue
+<col=000080>It's a good job I remembered that, as I have lost the <col=800000>note.;<col=000080>Menos mal que recordé eso, pues he perdido la <col=800000>note.
+<col=000080>any clues as to its whereabouts.;<col=000080>pistas sobre su paradero.
+<col=000080>attacked by a charging <col=800000>Monster<col=000080> at the <col=800000>Crossroads<col=000080> north of;<col=000080>atacada por un <col=800000>Monstruo<col=000080> en el <col=800000>Crossroads<col=000080> al norte de
+<str>Combat Level 50<br>;<str>Nivel de combate 50<br>
+<str>Combat Level 65<br>;<str>Nivel de combate 65<br>
+<str>Combat Level 85<br>;<str>Nivel de combate 85<br>
+<str>I found a note on the notice board in Draynor Village. It was;<str>Encontré una nota en el tablón de anuncios de Draynor Village. Era
+<str>offering a reward for the slaying of a Monster that's been;<str>ofrecía una recompensa por matar a un monstruo que ha estado
+<str>troubling the area.;<str>perturbando la zona.
+Description: <col=ffffff>Kill Brutus.</col>;Descripción: <col=ffffff>Mata a Brutus.</col>
+<str>Kill Callisto, Venenatis & Vet'ion.;<str>Mata a Callisto, Venenatis & Vet'ion.
+<col=000000>If I ever lose my Falador shield I can speak to<br>Sir Rebral in;<col=000000>Si alguna vez pierdo mi Falador shield, puedo hablar con<br>Sir Rebral en
+<str>Kill Zulrah.<col=ffffff>(<col=000080><str>Started Regicide</str><col=ffffff>);<str>Mata a Zulrah.<col=ffffff>(<col=000080><str>Regicide iniciada</str><col=ffffff>)
+<col=000000>Lesser Fanatic by the Wilderness ditch in Edgeville.;<col=000000>Lesser Fanatic junto a la zanja del Wilderness en Edgeville.
+<col=000080>Using information provided by <col=800000>Movario<col=000080>, I was able to reach;<col=000080>Usando la información proporcionada por <col=800000>Movario<col=000080>, pude llegar
+<col=000080>open a tunnel into an <col=800000>Ancient Temple<col=000080>. I should explore this;<col=000080>abrir un túnel hacia un <col=800000>Ancient Temple<col=000080>. Debería explorar este
+<col=000080>the bottom of a <col=800000>Large Chasm<col=000080> by attracting a <col=800000>Light Creature<col=000080>;<col=000080>el fondo de un <col=800000>Large Chasm<col=000080> atrayendo a una <col=800000>Light Creature<col=000080>
+<col=000080>with a <col=800000>Sapphire Lantern<col=000080>. I searched the area and managed to;<col=000080>con una <col=800000>Sapphire Lantern<col=000080>. Registré la zona y logré
+<str>Based on the information provided, Idria and Akrisae initiated;<str>Según la información proporcionada, Idria y Akrisae iniciaron
+<str>Despite the situation looking dire, Akrisae presented a;<str>Aunque la situación parecía desesperada, Akrisae presentó un
+<str>Heroes. However, he was too powerful for us. Duradel, Turael,;<str>Héroes. Sin embargo, era demasiado poderoso para nosotros. Duradel, Turael,
+<str>I found Movario in the Lumbridge Swamp Caves. By disguising;<str>Encontré a Movario en las Lumbridge Swamp Caves. Disfrazándome
+<str>I harvested the Enriched Snapdragon and used it to make;<str>Coseché la Enriched Snapdragon y la usé para hacer
+<str>I managed to free Silif from his imprisonment in the Black;<str>Logré liberar a Silif de su prisión en la Black
+<str>I returned to the White Knights' Castle and updated the;<str>Volví al White Knights' Castle y puse al día a los
+<str>I spoke to Akrisae and he told me there had been a possible;<str>Hablé con Akrisae y me dijo que había habido un posible
+<str>I travelled to Lucien's Camp and confronted Lucien with the;<str>Viajé al Lucien's Camp y me enfrenté a Lucien con la
+<str>Intelligence, I set out to find the Dark Squall. However, upon;<str>Intelligence, partí a buscar al Dark Squall. Sin embargo, al
+<str>Knight Catacombs and gave him a Disguise. While he gathered;<str>Knight Catacombs y le di un Disguise. Mientras reunía
+<str>Lucien's Camp near the Wilderness.;<str>Lucien's Camp cerca del Wilderness.
+<str>Menarous, Ghommal and Sloane to our cause. However, while;<str>Menarous, Ghommal y Sloane a nuestra causa. Sin embargo, mientras
+<str>Silif imprisoned in some Catacombs beneath the Fortress.;<str>Silif encarcelado en unas Catacombs bajo la Fortress.
+<str>Sloane, Cyrisus, Ghommal and Hazelmere were all killed. The;<str>Sloane, Cyrisus, Ghommal y Hazelmere murieron todos. El
+<str>Snapdragon Seed and planted it in a Specially Prepared Patch;<str>Snapdragon Seed y la planté en un Specially Prepared Patch
+<str>To make some more Truth Serum, I prepared an Enriched;<str>Para hacer más Truth Serum, preparé una Enriched
+<str>Using information found by Silif, we were able to locate;<str>Usando la información hallada por Silif, pudimos localizar
+<str>a search for the Dark Squall. I then recruited Harrallak;<str>una búsqueda del Dark Squall. Luego recluté a Harrallak
+<str>discussing our next steps, Hazelmere arrived and;<str>discutíamos nuestros siguientes pasos, llegó Hazelmere y
+<str>entering a cavern full of Floating Lights in the Lumbridge;<str>entrar en una caverna llena de Floating Lights en Lumbridge
+<str>finding him, I discovered him to actually be Surok Magis. He;<str>encontrarlo, descubrí que en realidad era Surok Magis. Él
+<str>grow, I recruited Turael, Mazchna, Duradel and Cyrisus to our;<str>creciera, recluté a Turael, Mazchna, Duradel y Cyrisus para nuestra
+<str>myself as the Dark Squall, I managed to convince him that I;<str>disfrazarme del Dark Squall, logré convencerlo de que
+<str>on the roof of the White Knights' Castle. While waiting for it to;<str>en el techo del White Knights' Castle. Mientras esperaba a que
+<str>others on what happened in the Black Knight Catacombs.;<str>demás sobre lo que ocurrió en las Black Knight Catacombs.
+<str>plant a Teleorb on him.;<str>colocarle un Teleorb encima.
+<str>potential new lead. According to him, Movario was spotted;<str>posible nueva pista. Según él, Movario fue visto
+<str>recognised me and attacked, but I was able to defeat him and;<str>me reconoció y atacó, pero pude derrotarlo y
+<str>rest of us were forced to flee.;<str>resto de nosotros nos vimos obligados a huir.
+<str>sent Silif to investigate, but lost contact with him. I travelled;<str>envié a Silif a investigar, pero perdí el contacto con él. Viajé
+<str>sighting of the Dark Squall at the Black Knights' Fortress. He;<str>avistamiento del Dark Squall en la Black Knights' Fortress. Él
+<str>some new Truth Serum. I then administered the Truth Serum to;<str>un poco de Truth Serum nuevo. Luego administré el Truth Serum al
+<str>the Spy and he provided details on an individual known as the;<str>Spy y él dio detalles sobre un individuo conocido como el
+<str>to the Black Knights' Fortress myself to investigate. I found;<str>a la Black Knights' Fortress yo mismo para investigar. Encontré
+<str>volunteered to join us as well.;<str>se ofreció a unirse a nosotros también.
+<str>was there to help him find the Stone of Jas.;<str>estaba allí para ayudarlo a encontrar la Stone of Jas.
+<col=000000>If I ever lose my Wilderness sword I can speak to the;<col=000000>Si alguna vez pierdo mi Wilderness sword, puedo hablar con el
+<col=800000>Store<col=000080>. Apparently, some <col=800000>Goblins<col=000080> east of the <col=800000>River Lum<col=000080> in;<col=800000>Store<col=000080>. Al parecer, unos <col=800000>Goblins<col=000080> al este del <col=800000>River Lum<col=000080> en
+<col=000000>If I ever lose my Varrock armour I can speak to Toby in;<col=000000>Si alguna vez pierdo mi Varrock armour, puedo hablar con Toby en
+<col=000000>If I ever lose my Western banner I can speak to<br>the Elder;<col=000000>Si alguna vez pierdo mi Western banner, puedo hablar con<br>el Elder
+<str>Enter the second level of the Stronghold of Security.;<str>Entra en el segundo nivel del Stronghold of Security.
+<str>Have Aubury teleport you to the Essence mine.<col=ffffff>(<col=000080><str>Rune Mysteries</str><col=ffffff>);<str>Haz que Aubury te teletransporte a la Essence mine.<col=ffffff>(<col=000080><str>Rune Mysteries</str><col=ffffff>)
+<str>I spoke with Captain Harlan north of Lumbridge Castle. He told;<str>Hablé con Captain Harlan al norte de Lumbridge Castle. Me contó
+<str>Speak to Haig Halen after obtaining at least 50 Kudos.;<str>Habla con Haig Halen tras obtener al menos 50 Kudos.
+<str>Spin a bowl on the pottery wheel and fire it in the oven in;<str>Gira un bowl en el torno de alfarero y cuécelo en el horno de
+<str>me about a bounty for some Thieves who robbed the General;<str>sobre una recompensa por unos ladrones que robaron al General
+<col=000000>If I ever lose my Falador shield I can speak<br>to Sir Rebral in;<col=000000>Si alguna vez pierdo mi Falador shield, puedo hablar<br>con Sir Rebral en
+<col=000000>If I ever lose my Fremennik sea boots I can speak<br>to;<col=000000>Si alguna vez pierdo mis Fremennik sea boots, puedo hablar<br>con
+<str>Combat Level 40<br>;<str>Nivel de combate 40<br>
+<str>Craft 56 astral runes from Essence simultaneously<br>from;<str>Fabrica 56 astral runes a partir de Essence simultáneamente<br>desde
+<str>Harmony Island.<col=ffffff>(<col=000080><str>47 Farming</str>, <col=000080><str>Started The Great<br>Brain Robbery</str><col=ffffff>);<str>Harmony Island.<col=ffffff>(<col=000080><str>47 Farming</str>, <col=000080><str>The Great<br>Brain Robbery iniciada</str><col=ffffff>)
+<col=000000>If I ever lose my Falador shield I can speak to<br>Sir<br>Rebral in;<col=000000>Si alguna vez pierdo mi Falador shield, puedo hablar con<br>Sir<br>Rebral en
+<col=000000>If I ever lose my Kandarin headgear I can speak to<br>The;<col=000000>Si alguna vez pierdo mi Kandarin headgear, puedo hablar con<br>El
+<col=000000>If I ever lose my Kandarin headgear I can<br>speak to The;<col=000000>Si alguna vez pierdo mi Kandarin headgear, puedo<br>hablar con El
+<col=000000>If I ever lose my Morytania legs I can speak to Le-sabrè in;<col=000000>Si alguna vez pierdo mis Morytania legs, puedo hablar con Le-sabrè en
+<col=000000>If I ever lose my Rada's blessing, I can speak to<br>Elise;<col=000000>Si alguna vez pierdo mi Rada's blessing, puedo hablar con<br>Elise
+<col=000000>If I ever lose my Rada's blessing, I can<br>speak to Elise;<col=000000>Si alguna vez pierdo mi Rada's blessing, puedo<br>hablar con Elise
+<col=000000>If I ever lose my Rada's blessing, I can<br>speak to<br>Elise;<col=000000>Si alguna vez pierdo mi Rada's blessing, puedo<br>hablar con<br>Elise
+<col=000000>If I ever lose my Varrock armour I can speak<br>to Toby in;<col=000000>Si alguna vez pierdo mi Varrock armour, puedo hablar<br>con Toby en
+<col=000000>If I ever lose my Western banner I can speak<br>to the Elder;<col=000000>Si alguna vez pierdo mi Western banner, puedo hablar<br>con el Elder
+<str><br><col=ffffff>(<col=000080><str>35 Woodcutting</str>, <col=000080><str>35 Firemaking</str>, <col=000080><str>Started Monkey Madness I</str><col=ffffff>);<str><br><col=ffffff>(<col=000080><str>35 Woodcutting</str>, <col=000080><str>35 Firemaking</str>, <col=000080><str>Monkey Madness I iniciada</str><col=ffffff>)
+<str>Cast the teleport to Varrock spell.<col=ffffff>(<col=000080><str>25<br>Magic</str><col=ffffff>);<str>Lanza el hechizo de teletransporte a Varrock.<col=ffffff>(<col=000080><str>25<br>Magic</str><col=ffffff>)
+<str>Chop some yew logs in Varrock and burn them<br>at the top of;<str>Corta unos yew logs en Varrock y quémalos<br>en lo alto de
+<str>Collect at least 2 yew roots from the Tree<br>patch in Varrock;<str>Recoge al menos 2 yew roots del Tree<br>patch de Varrock
+<str>Craft 100 or more earth runes simultaneously<br>from;<str>Fabrica 100 o más earth runes simultáneamente<br>a partir de
+<str>Craft some Earth runes from Essence.<col=ffffff>(<col=000080><str>9<br>Runecraft</str><col=ffffff>);<str>Fabrica algunos Earth runes a partir de Essence.<col=ffffff>(<col=000080><str>9<br>Runecraft</str><col=ffffff>)
+<str>Create a super combat potion in Varrock west<br>bank.;<str>Crea una super combat potion en el banco<br>del oeste de Varrock.
+<str>Enter the Tolna dungeon after completing A<br>Soul's Bane.<col=ffffff>(<col=000080><str>A Soul's Bane</str><col=ffffff>);<str>Entra en la Tolna dungeon tras completar A<br>Soul's Bane.<col=ffffff>(<col=000080><str>A Soul's Bane</str><col=ffffff>)
+<str>Essence without the use of Extracts.<col=ffffff>(<col=000080><str>78<br>Runecraft</str><col=ffffff>);<str>Essence sin usar Extracts.<col=ffffff>(<col=000080><str>78<br>Runecraft</str><col=ffffff>)
+<str>Have Aubury teleport you to the Essence<br>mine.<col=ffffff>(<col=000080><str>Rune Mysteries</str><col=ffffff>);<str>Haz que Aubury te teletransporte a la Essence<br>mine.<col=ffffff>(<col=000080><str>Rune Mysteries</str><col=ffffff>)
+<str>Have the Apothecary in Varrock make you a<br>strength;<str>Haz que el Apothecary de Varrock te haga una<br>strength
+<str>Have the Varrock estate agent decorate your<br>house with;<str>Haz que el agente inmobiliario de Varrock decore tu<br>casa con
+<str>Jump over the fence south of Varrock.<col=ffffff>(<col=000080><str>13<br>Agility</str><col=ffffff>);<str>Salta la valla al sur de Varrock.<col=ffffff>(<col=000080><str>13<br>Agility</str><col=ffffff>)
+<str>Kill a Fire Giant inside Baxtorian Waterfall.;<str>Mata a un Fire Giant dentro de Baxtorian Waterfall.
+<str>Make a Waka Canoe near Edgeville.<col=ffffff>(<col=000080><str>57<br>Woodcutting</str><col=ffffff>);<str>Fabrica una Waka Canoe cerca de Edgeville.<col=ffffff>(<col=000080><str>57<br>Woodcutting</str><col=ffffff>)
+<str>Mine some Iron in the south east mining<br>patch near;<str>Mina algo de Iron en la zona minera<br>del sureste cerca de
+<str>Obtain the Blast Furnace Foremans permission to<br>use the;<str>Obtén el permiso del Blast Furnace Foreman para<br>usar el
+<str>Obtain the Blast Furnace Foremans permission to<br>use<br>the;<str>Obtén el permiso del Blast Furnace Foreman para<br>usar<br>el
+<str>Pick a White tree fruit.<col=ffffff>(<col=000080><str>25 Farming</str>, <col=000080><str>Garden<br>of Tranquillity</str><col=ffffff>);<str>Recoge una White tree fruit.<col=ffffff>(<col=000080><str>25 Farming</str>, <col=000080><str>Garden<br>of Tranquillity</str><col=ffffff>)
+<str>Smith and fletch ten rune darts within<br>Varrock.;<str>Forja y flecha diez rune darts en<br>Varrock.
+<str>Speak to Haig Halen after obtaining at least<br>50 Kudos.;<str>Habla con Haig Halen tras obtener al menos<br>50 Kudos.
+<str>Speak to Orlando Smith when you have<br>achieved 153;<str>Habla con Orlando Smith cuando hayas<br>alcanzado 153
+<str>Spin a bowl on the pottery wheel and fire it<br>in the oven in;<str>Gira un bowl en el torno de alfarero y cuécelo<br>en el horno de
+<str>Squeeze through an obstacle pipe in<br>Edgeville dungeon.;<str>Pasa por una tubería de obstáculos en<br>la Edgeville dungeon.
+<str>Steal from the Tea stall in Varrock.<col=ffffff>(<col=000080><str>5<br>Thieving</str><col=ffffff>);<str>Roba del Tea stall de Varrock.<col=ffffff>(<col=000080><str>5<br>Thieving</str><col=ffffff>)
+<str>Use Lunar magic to make 20 mahogany planks<br>at the;<str>Usa magia Lunar para hacer 20 mahogany planks<br>en el
+<str>the Varrock church.<col=ffffff>(<col=000080><str>60 Woodcutting</str>, <col=000080><str>60<br>Firemaking</str><col=ffffff>);<str>la iglesia de Varrock.<col=ffffff>(<col=000080><str>60 Woodcutting</str>, <col=000080><str>60<br>Firemaking</str><col=ffffff>)
+You have completed Demon Slayer!;¡Has completado Demon Slayer!
+You have completed While Guthix Sleeps!;¡Has completado While Guthix Sleeps!
+re:^Total Quest Points: (\d+)$;Puntos de misión totales: $1
+re:^1 Quest Point$;1 Punto de misión
+re:^(\d+) Quest Points$;$1 Puntos de misión
+re:^([\d,]+) Coins$;$1 monedas
+re:^([\d,]+) (.*) de XP$;$1 XP de $2
+re:^([\d,]+) (.*) XP$;$1 XP de $2
+re:^Total Points: (\d+) - Next unlock in (\d+) points$;Puntos totales: $1 - Próximo desbloqueo en $2 puntos
