@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "version": "20261118211132",
+  "version": "20261118211233",
   "files": {
     "translations/dialogue/spanish.txt": "7ae30460c51918d6d4d25fbdb95d615950dc001de6da2ab7c70bafe17e278e2f",
     "translations/interface/dutch.txt": "616cebd5202b3f23b399168b6ff66102095b07d8e1b4b6b405dd0c6a485c5846",
@@ -9,7 +9,7 @@
     "translations/interface/german.txt": "da7f81371b5d9367fd983fec146cc809472fcfcd9e170ff46c2be1f728e9f071",
     "translations/interface/italian.txt": "315724b3a5b07f4ea6685d286c45bc79bb15e9bfca90844ee722aa3d00265efb",
     "translations/interface/portuguese.txt": "93f6675ae69babe49d03f2171a61317e06933543ed6b4daa6f04b5a102744cd6",
-    "translations/interface/spanish.txt": "983ab6008f21d6f4796313778d475628283d932033c351cf538fa4fdbfbcd560",
+    "translations/interface/spanish.txt": "cd012ab3153fc6da7c98929a0138294be5d2337966c02d14e44bdc1513faeeb3",
     "translations/interface/swedish.txt": "84ab955b1177f71f93b5672b263ff18c2a26ccc4f35b898ac6a313fd77cc7b86",
     "translations/menu_entry_option/dutch.txt": "2ebda772bbbf9c24640e1021c036b8badba38bf58a432234873c382da1335a84",
     "translations/menu_entry_option/finnish.txt": "0296567c3eb00e758f87f9e92afb82945ea1629d7fe936ed0e650ce7f2f57bb2",
