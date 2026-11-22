@@ -1126,7 +1126,7 @@ Type: <col=ffffff>Perfection</col> <col=dfdfdf>(+5 points)</col>;Tipo: <col=ffff
 <col=000000>Enter your Player Owned House from Hosidius.</col><col=ffffff>(<col=800000>25 Construction<col=000080><col=ffffff>);<col=000000>Entra a tu Player Owned House desde Hosidius.</col><col=ffffff>(<col=800000>25 Construction<col=000080><col=ffffff>)
 <col=000000>Enter your POH from Yanille.;<col=000000>Entra a tu POH desde Yanille.
 <col=000000>Exchange gems for a machete.;<col=000000>Canjea gems por un machete.
-<col=000000>Find out what your family crest is from Sir Renitee.;<col=000000>Descubre cuál es tu escudo familiar con Sir Renitee.
+<col=000000>Find out what your family crest is from Sir Renitee.;<col=000000>Averigua cuál es tu escudo familiar con Sir Renitee.
 <col=000000>Fish a Trout from the River Molch.</col><col=ffffff>(<col=800000>20 Fishing<col=000080><col=ffffff>);<col=000000>Pesca una Trout del River Molch.</col><col=ffffff>(<col=800000>20 Fishing<col=000080><col=ffffff>)
 <col=000000>Get a slayer task from the Slayer Master in Canifis.<col=ffffff>(<col=800000>20 Combat<col=000080><col=ffffff>);<col=000000>Obtén una slayer task del Slayer Master en Canifis.<col=ffffff>(<col=800000>20 Combat<col=000080><col=ffffff>)
 <col=000000>Grapple over Yanille's south wall.;<col=000000>Escala la pared sur de Yanille.
