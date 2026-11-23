@@ -3686,3 +3686,43 @@ Contact <col=ff981f>Turael;Contattare <col=ff981f>Turael
 Contact <col=ff981f>Vannaka;Contattare <col=ff981f>Vannaka
 Contact <col=ff981f>Watson;Contattare <col=ff981f>Watson
 Plant-orb;Piantare-orb
+Asesor de actividades abiertas;Consulente attività aperte
+<col=ffff00>PÃºblico:</col> Borrar historial;<col=ffff00>Público:</col> Cancella cronologia
+<col=ffff00>PÃºblico:</col> Mostrar amigos;<col=ffff00>Público:</col> Mostra amici
+Ajustes;Impostazioni
+Agregar a la lista de reproducciÃ³n 1;Aggiungi alla playlist 1
+Agregar a la lista de reproducciÃ³n 2;Aggiungi alla playlist 2
+Agregar a la lista de reproducciÃ³n 3;Aggiungi alla playlist 3
+Intercambiar;Scambia
+GestiÃ³n de cuentas;Gestione account
+Realiza <col=ff9040>Desbloqueo de reliquias</col>;Esegui <col=ff9040>Sblocco reliquie</col>
+Silenciar;Silenzia
+Activar;Attiva
+Alternar ejecutar;Alterna esecuzione
+Beber;Bevi
+Botar;Getta
+Caminar aquÃ­;Cammina lì
+ConfiguraciÃ³n;Configurazione
+Equipamiento;Equipaggiamento
+OraciÃ³n;Preghiera
+VacÃ­o;Svuota
+<col=00afff>Configura tu chat automÃ¡tico</col>;<col=00afff>Configura la tua chat automatica</col>
+<col=00ff00>Filtrar chat pÃºblico</col>;<col=00ff00>Filtra chat pubblico</col>
+<col=ffff00>Juego:</col> Filtro;<col=ffff00>Gioco:</col> Filtro
+<col=ffff00>PÃºblico:</col> Mostrar chat automÃ¡tico;<col=ffff00>Pubblico:</col> Mostra chat automatica
+<col=ffff00>PÃºblico:</col> Mostrar estÃ¡ndar;<col=ffff00>Pubblico:</col> Mostra standard
+<col=ffff00>PÃºblico:</col> No mostrar ninguno;<col=ffff00>Pubblico:</col> Non mostrare nessuno
+<col=ffff00>PÃºblico:</col> Ocultar;<col=ffff00>Pubblico:</col> Nascondi
+Banquear;Bancare
+Cambiar pestaÃ±a;Cambia scheda
+Cerrar sesiÃ³n;Chiudi sessione
+Comerciar con;Commercia con
+Emoticones;Emoticon
+Pareja;Partner
+Reportar;Segnalare
+Reproductor de mÃºsica;Riproduttore musicale
+<col=ffff00>Establecer modo de chat:</col> PÃºblico (/@p);<col=ffff00>Imposta modalità chat:</col> Pubblico (/@p)
+<col=ffff00>Intercambiar:</col> Mostrar amigos;<col=ffff00>Scambia:</col> Mostra amici
+Aceptar;Accetta
+Agregar amigo;Aggiungi amico
+Bucle;Ciclo
