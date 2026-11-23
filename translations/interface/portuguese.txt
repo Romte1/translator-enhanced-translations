@@ -797,3 +797,39 @@ Description: <col=ffffff>Kill a Skeletal Wyvern</col>;Descrição: <col=ffffff>M
 <str>Movario's Research Notes. They revealed Lucien's desire to;<str>Research Notes de Movario. Elas revelaram o desejo de Lucien de
 <str>Spies from Draynor Village. As such, I planted a Teleorb given;<str>Espiões de Draynor Village. Assim, plantei um Teleport dado
 <str>Thaerisk asked me to head to McGrubor's Wood to find Idria;<str>Thaerisk me pediu para ir a McGrubor's Wood para encontrar Idria
+<str>Thaerisk, as well as Akrisae of the Temple Knights.;<str>Thaerisk, bem como Akrisae do Temple Knights.
+<str>To find Lucien, Thaerisk suggested we capture one of his;<str>Para encontrar Lucien, Thaerisk sugeriu que capturássemos um dos seus
+<str>White Knights' Castle in Falador. There we met up with;<str>Castelo dos White Knights em Falador. Lá nos encontramos com
+<str>With the Mercenaries dealt with, Idria and I journeyed to the;<str>Com os Mercenaries resolvidos, Idria e eu viajamos para o
+<str>and the Guardians of Armadyl, as he'd lost contact with them.;<str>e os Guardians of Armadyl, pois ele havia perdido contato com eles.
+<str>find and claim an artefact of unimaginable power called the;<str>encontrar e reivindicar um artefato de poder inimaginável chamado
+<str>teleport the Spy into a cell.;<str>teleportar o Spy para uma cela.
+<str>them to Thaerisk in Taverley.;<str>eles para Thaerisk em Taverley.
+<str>to me by Akrisae on one of them. He then used this Teleorb to;<str>para mim por Akrisae em um deles. Ele então usou este Teleport Orb para
+<col=000080>I still need to recruit the following people:;<col=000080>Ainda preciso recrutar as seguintes pessoas:
+<col=000080>To make some more <col=800000>Truth Serum<col=000080>, I prepared an <col=800000>Enriched;<col=000080>Para fazer mais <col=800000>Truth Serum<col=000080>, preparei um <col=800000>Enriched
+<col=000080>asked me to recruit four heroes to our cause. If needed, I;<col=000080>pediu-me para recrutar quatro heróis para nossa causa. Se necessário, eu
+<col=000080>on the roof of the <col=800000>White Knights' Castle<col=000080>. While it grows, <col=800000>Idria<col=000080>;<col=000080>no telhado do <col=800000>White Knights' Castle<col=000080>. Enquanto cresce, <col=800000>Idria<col=000080>
+<col=000080>should be able to contact all of them using <col=800000>Lunar Magics<col=000080>.;<col=000080>deve ser capaz de contatar todos eles usando <col=800000>Lunar Magics<col=000080>.
+<str>some Truth Serum. However, the Spy was able to destroy it.;<str>algum Truth Serum. No entanto, o Spy conseguiu destruí-lo.
+<col=000080>I should investigate the site of the attack to see if there are;<col=000080>Devo investigar o local do ataque para ver se há
+<col=000080>I spoke to <col=800000>Sarah<col=000080> at the farm. She explained that she was;<col=000080>Falei com <col=800000>Sarah<col=000080> na fazenda. Ela explicou que estava
+<col=000080>It's a good job I remembered that, as I have lost the <col=800000>note.;<col=000080>É uma boa coisa eu ter lembrado disso, já que perdi o <col=800000>note.
+<col=000080>any clues as to its whereabouts.;<col=000080>alguma pista sobre onde está.
+<col=000080>attacked by a charging <col=800000>Monster<col=000080> at the <col=800000>Crossroads<col=000080> north of;<col=000080>atacado por um <col=800000>Monster<col=000080> no <col=800000>Crossroads<col=000080> ao norte de
+<str>I found a note on the notice board in Draynor Village. It was;<str>Encontrei um note no quadro de avisos em Draynor Village. Era
+<str>offering a reward for the slaying of a Monster that's been;<str>oferecendo uma recompensa pela matança de um Monster que tem sido
+<str>troubling the area.;<str>perturbando a área.
+Description: <col=ffffff>Kill a Wyrm.</col>;Description: <col=ffffff>Mate um Wyrm.</col>
+Description: <col=ffffff>Kill one Titan at a time, without attacking the other.</col>;Description: <col=ffffff>Mate um Titan de cada vez, sem atacar o outro.</col>
+Description: <col=ffffff>Kill the Crazy Archaeologist with only magical attacks.</col>;Description: <col=ffffff>Mate o Crazy Archaeologist apenas com ataques mágicos.</col>
+Description: <col=ffffff>Kill the Crazy Archaeologist without anyone being hit by his "Rain of Knowledge" attack.</col>;Description: <col=ffffff>Mate o Crazy Archaeologist sem que ninguém seja atingido pelo seu ataque "Rain of Knowledge".</col>
+Description: <col=ffffff>Kill the Deranged Archaeologist 10 times.</col>;Description: <col=ffffff>Mate o Deranged Archaeologist 10 vezes.</col>
+Description: <col=ffffff>Kill the Deranged Archaeologist 25 times.</col>;Description: <col=ffffff>Mate o Deranged Archaeologist 25 vezes.</col>
+Description: <col=ffffff>Kill the Deranged Archaeologist without anyone being hit by his "Learn to Read" attack.</col>;Description: <col=ffffff>Mate o Deranged Archaeologist sem que ninguém seja atingido pelo seu ataque "Learn to Read".</col>
+Description: <col=ffffff>Kill the Giant Mole without her damaging anyone.</col>;Description: <col=ffffff>Mate o Giant Mole sem que ela cause dano a ninguém.</col>
+Description: <col=ffffff>Kill the Giant mole 25 times.</col>;Description: <col=ffffff>Mate o Giant mole 25 vezes.</col>
+Description: <col=ffffff>Kill the King Black Dragon 10 times.</col>;Description: <col=ffffff>Mate o King Black Dragon 10 vezes.</col>
+Description: <col=ffffff>Kill the King Black Dragon with a stab weapon.</col>;Description: <col=ffffff>Mate o King Black Dragon com uma arma de perfuração.</col>
+Description: <col=ffffff>Kill the King Black Dragon with an antifire potion active and an antidragon shield equipped.</col>;Description: <col=ffffff>Mate o King Black Dragon com poção antifogo ativa e escudo antidragon equipado.</col>
+Description: <col=ffffff>Kill the Royal Titans while having them kill a total of 10 elementals.</col>;Description: <col=ffffff>Mate os Royal Titans enquanto eles matam um total de 10 elementais.</col>

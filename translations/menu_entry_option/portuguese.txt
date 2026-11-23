@@ -3686,3 +3686,37 @@ Contact <col=ff981f>Turael;Contactar <col=ff981f>Turael
 Contact <col=ff981f>Vannaka;Contactar <col=ff981f>Vannaka
 Contact <col=ff981f>Watson;Contactar <col=ff981f>Watson
 Plant-orb;Plantar-orb
+Asesor de actividades abiertas;Assistente de atividades abertas
+<col=ffff00>PÃºblico:</col> Borrar historial;<col=ffff00>Público:</col> Apagar histórico
+Ajustes;Configurações
+Agregar a la lista de reproducciÃ³n 1;Adicionar à lista de reprodução 1
+Agregar a la lista de reproducciÃ³n 2;Adicionar à lista de reprodução 2
+Agregar a la lista de reproducciÃ³n 3;Adicionar à lista de reprodução 3
+Intercambiar;Trocar
+GestiÃ³n de cuentas;Gerenciamento de contas
+Realiza <col=ff9040>Desbloqueo de reliquias</col>;Realiza <col=ff9040>Desbloqueio de relíquias</col>
+Activar;Ativar
+Alternar ejecutar;Alternar executar
+Botar;Descartar
+Caminar aquÃ­;Caminhar aí
+ConfiguraciÃ³n;Configurações
+Equipamiento;Equipamento
+Inventario;Inventário
+OraciÃ³n;Oração
+VacÃ­o;Esvaziar
+<col=00afff>Configura tu chat automÃ¡tico</col>;<col=00afff>Configurar chat automático</col>
+<col=ffff00>Juego:</col> Filtro;<col=ffff00>Jogo:</col> Filtro
+<col=ffff00>PÃºblico:</col> Mostrar estÃ¡ndar;<col=ffff00>Público:</col> Mostrar padrão
+<col=ffff00>PÃºblico:</col> No mostrar ninguno;<col=ffff00>Público:</col> Não mostrar nenhum
+Banquear;Banco
+Cambiar pestaÃ±a;Mudar aba
+Cerrar sesiÃ³n;Encerrar sessão
+Comerciar con;Comerciar com
+Emoticones;Emoticons
+Pareja;Parceiro
+Reportar;Denunciar
+Reproductor de mÃºsica;Reprodutor de música
+<col=ffff00>Establecer modo de chat:</col> PÃºblico (/@p);<col=ffff00>Definir modo de chat:</col> Público (/@p)
+<col=ffff00>Intercambiar:</col> Mostrar amigos;<col=ffff00>Trocar:</col> Mostrar amigos
+Aceptar;Aceitar
+Agregar amigo;Adicionar amigo
