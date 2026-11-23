@@ -509,3 +509,39 @@ Description: <col=ffffff>Kill a Wyrm.</col>;Beschreibung: <col=ffffff>Töte eine
 <str>Spies from Draynor Village. As such, I planted a Teleorb given;<str>Spione aus Draynor Village. Daher pflanzte ich einen Teleorb, der gegeben wurde
 <str>Thaerisk asked me to head to McGrubor's Wood to find Idria;<str>Thaerisk bat mich, zu McGrubor's Wood zu gehen, um Idria zu finden
 <str>Thaerisk, as well as Akrisae of the Temple Knights.;<str>Thaerisk, sowie Akrisae von den Temple Knights.
+<str>To find Lucien, Thaerisk suggested we capture one of his;<str>Um Lucien zu finden, schlug Thaerisk vor, dass wir einen seiner
+<str>White Knights' Castle in Falador. There we met up with;<str>White Knights' Castle in Falador. Dort trafen wir
+<str>With the Mercenaries dealt with, Idria and I journeyed to the;<str>Nachdem die Söldner erledigt waren, reisten Idria und ich zum
+<str>and the Guardians of Armadyl, as he'd lost contact with them.;<str>und die Guardians of Armadyl, da er den Kontakt zu ihnen verloren hatte.
+<str>find and claim an artefact of unimaginable power called the;<str>finden und ein Artefakt unvorstellbarer Macht namens
+<str>teleport the Spy into a cell.;<str>teleportiere den Spy in eine Zelle.
+<str>them to Thaerisk in Taverley.;<str>sie zu Thaerisk in Taverley.
+<str>to me by Akrisae on one of them. He then used this Teleorb to;<str>zu mir von Akrisae auf einem von ihnen. Er benutzte dann diesen Teleorb, um
+<col=000080>I still need to recruit the following people:;<col=000080>Ich muss noch die folgenden Personen rekrutieren:
+<col=000080>To make some more <col=800000>Truth Serum<col=000080>, I prepared an <col=800000>Enriched;<col=000080>Um etwas mehr <col=800000>Truth Serum<col=000080> herzustellen, bereitete ich ein <col=800000>Enriched
+<col=000080>asked me to recruit four heroes to our cause. If needed, I;<col=000080>bat mich, vier Helden für unsere Sache zu rekrutieren. Falls nötig, ich
+<col=000080>on the roof of the <col=800000>White Knights' Castle<col=000080>. While it grows, <col=800000>Idria<col=000080>;<col=000080>auf dem Dach des <col=800000>White Knights' Castle<col=000080>. Während es wächst, <col=800000>Idria<col=000080>
+<col=000080>should be able to contact all of them using <col=800000>Lunar Magics<col=000080>.;<col=000080>sollte in der Lage sein, alle mit <col=800000>Lunar Magics<col=000080> zu kontaktieren.
+<str>some Truth Serum. However, the Spy was able to destroy it.;<str>einige Truth Serum. Der Spy konnte es jedoch zerstören.
+<col=000080>I should investigate the site of the attack to see if there are;<col=000080>Ich sollte den Ort des Angriffs untersuchen, um zu sehen, ob es
+<col=000080>I spoke to <col=800000>Sarah<col=000080> at the farm. She explained that she was;<col=000080>Ich sprach mit <col=800000>Sarah<col=000080> auf dem Bauernhof. Sie erklärte, dass sie
+<col=000080>It's a good job I remembered that, as I have lost the <col=800000>note.;<col=000080>Gut, dass ich mich daran erinnerte, da ich die <col=800000>note verloren habe.
+<col=000080>any clues as to its whereabouts.;<col=000080>irgendeine Hinweise zu seinem Verbleib.
+<col=000080>attacked by a charging <col=800000>Monster<col=000080> at the <col=800000>Crossroads<col=000080> north of;<col=000080>angegriffen von einem stürmenden <col=800000>Monster<col=000080> am <col=800000>Crossroads<col=000080> nördlich von
+<str>I found a note on the notice board in Draynor Village. It was;<str>Ich fand eine Notiz am Schwarzen Brett in Draynor Village. Es war
+<str>offering a reward for the slaying of a Monster that's been;<str>bietet eine Belohnung für das Töten eines Monster, das
+<str>troubling the area.;<str>die Gegend belästigt.
+Description: <col=ffffff>Kill one Titan at a time, without attacking the other.</col>;Description: <col=ffffff>Töte einen Titan nach dem anderen, ohne den anderen anzugreifen.</col>
+Description: <col=ffffff>Kill the Crazy Archaeologist with only magical attacks.</col>;Description: <col=ffffff>Töte den Crazy Archaeologist nur mit magischen Angriffen.</col>
+Description: <col=ffffff>Kill the Crazy Archaeologist without anyone being hit by his "Rain of Knowledge" attack.</col>;Description: <col=ffffff>Töte den Crazy Archaeologist, ohne dass jemand von seinem "Rain of Knowledge"-Angriff getroffen wird.</col>
+Description: <col=ffffff>Kill the Deranged Archaeologist 10 times.</col>;Description: <col=ffffff>Töte den Deranged Archaeologist 10 Mal.</col>
+Description: <col=ffffff>Kill the Deranged Archaeologist 25 times.</col>;Description: <col=ffffff>Töte den Deranged Archaeologist 25 Mal.</col>
+Description: <col=ffffff>Kill the Deranged Archaeologist without anyone being hit by his "Learn to Read" attack.</col>;Description: <col=ffffff>Töte den Deranged Archaeologist, ohne dass jemand von seinem "Learn to Read"-Angriff getroffen wird.</col>
+Description: <col=ffffff>Kill the Giant Mole without her damaging anyone.</col>;Description: <col=ffffff>Töte die Giant Mole, ohne dass sie jemandem Schaden zufügt.</col>
+Description: <col=ffffff>Kill the Giant mole 25 times.</col>;Description: <col=ffffff>Töte die Giant mole 25 Mal.</col>
+Description: <col=ffffff>Kill the King Black Dragon 10 times.</col>;Description: <col=ffffff>Töte den King Black Dragon 10 Mal.</col>
+Description: <col=ffffff>Kill the King Black Dragon with a stab weapon.</col>;Description: <col=ffffff>Töte den King Black Dragon mit einer Stichwaffe.</col>
+Description: <col=ffffff>Kill the King Black Dragon with an antifire potion active and an antidragon shield equipped.</col>;Description: <col=ffffff>Töte den King Black Dragon mit aktivem Antifire-Trank und ausgerüstetem Antidragon-Schild.</col>
+Description: <col=ffffff>Kill the Royal Titans while having them kill a total of 10 elementals.</col>;Description: <col=ffffff>Töte die Royal Titans, während sie insgesamt 10 Elementare töten.</col>
+Description: <col=ffffff>Kill the Royal Titans without attacking any elementals.</col>;Description: <col=ffffff>Töte die Royal Titans, ohne irgendwelche Elementare anzugreifen.</col>
+Description: <col=ffffff>Kill the Shellbane Gryphon 25 times.</col>;Description: <col=ffffff>Töte den Shellbane Gryphon 25 Mal.</col>
