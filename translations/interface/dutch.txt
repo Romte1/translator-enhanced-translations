@@ -465,3 +465,39 @@ Description: <col=ffffff>Kill one Titan at a time, without attacking the other.<
 <str>Movario's Research Notes. They revealed Lucien's desire to;<str>Movario's Research Notes. Ze onthulden Lucien's verlangen om
 <str>Spies from Draynor Village. As such, I planted a Teleorb given;<str>Spionnen uit Draynor Village. Daarom plantte ik een Teleorb gegeven
 <str>Thaerisk asked me to head to McGrubor's Wood to find Idria;<str>Thaerisk vroeg me om naar McGrubor's Wood te gaan om Idria te vinden
+<str>Thaerisk, as well as Akrisae of the Temple Knights.;<str>Thaerisk, evenals Akrisae van de Temple Knights.
+<str>To find Lucien, Thaerisk suggested we capture one of his;<str>Om Lucien te vinden, stelde Thaerisk voor dat we een van zijn
+<str>White Knights' Castle in Falador. There we met up with;<str>White Knights' Castle in Falador. Daar ontmoetten we
+<str>With the Mercenaries dealt with, Idria and I journeyed to the;<str>Met de Mercenaries afgehandeld, reisden Idria en ik naar de
+<str>and the Guardians of Armadyl, as he'd lost contact with them.;<str>en de Guardians of Armadyl, omdat hij het contact met hen verloren had.
+<str>find and claim an artefact of unimaginable power called the;<str>vinden en opeisen een artefact van onvoorstelbare kracht genaamd de
+<str>teleport the Spy into a cell.;<str>teleporteer de Spy naar een cel.
+<str>them to Thaerisk in Taverley.;<str>hen naar Thaerisk in Taverley.
+<str>to me by Akrisae on one of them. He then used this Teleorb to;<str>aan mij door Akrisae op een van hen. Hij gebruikte vervolgens deze Teleorb om
+<col=000080>I still need to recruit the following people:;<col=000080>Ik moet nog de volgende personen rekruteren:
+<col=000080>To make some more <col=800000>Truth Serum<col=000080>, I prepared an <col=800000>Enriched;<col=000080>Om wat meer <col=800000>Truth Serum<col=000080> te maken, bereidde ik een <col=800000>Enriched
+<col=000080>asked me to recruit four heroes to our cause. If needed, I;<col=000080>vroeg me om vier helden voor onze zaak te rekruteren. Indien nodig, ik
+<col=000080>on the roof of the <col=800000>White Knights' Castle<col=000080>. While it grows, <col=800000>Idria<col=000080>;<col=000080>op het dak van het <col=800000>White Knights' Castle<col=000080>. Terwijl het groeit, <col=800000>Idria<col=000080>
+<col=000080>should be able to contact all of them using <col=800000>Lunar Magics<col=000080>.;<col=000080>zou in staat moeten zijn om met hen allen contact te maken met behulp van <col=800000>Lunar Magics<col=000080>.
+<str>some Truth Serum. However, the Spy was able to destroy it.;<str>een beetje Truth Serum. De Spy kon het echter vernietigen.
+<col=000080>I should investigate the site of the attack to see if there are;<col=000080>Ik moet de plaats van de aanval onderzoeken om te zien of er
+<col=000080>I spoke to <col=800000>Sarah<col=000080> at the farm. She explained that she was;<col=000080>Ik sprak met <col=800000>Sarah<col=000080> op de boerderij. Ze legde uit dat ze
+<col=000080>any clues as to its whereabouts.;<col=000080>enige aanwijzingen over de locatie.
+<col=000080>attacked by a charging <col=800000>Monster<col=000080> at the <col=800000>Crossroads<col=000080> north of;<col=000080>aanval door een aanstormende <col=800000>Monster<col=000080> bij de <col=800000>Crossroads<col=000080> ten noorden van
+<str>I found a note on the notice board in Draynor Village. It was;<str>Ik vond een brief op het prikbord in Draynor Village. Het was
+<str>offering a reward for the slaying of a Monster that's been;<str>biedt een beloning voor het doden van een Monster dat
+<str>troubling the area.;<str>het gebied lastigvalt.
+Description: <col=ffffff>Kill the Crazy Archaeologist with only magical attacks.</col>;Description: <col=ffffff>Vermoord de Crazy Archaeologist alleen met magische aanvallen.</col>
+Description: <col=ffffff>Kill the Crazy Archaeologist without anyone being hit by his "Rain of Knowledge" attack.</col>;Description: <col=ffffff>Vermoord de Crazy Archaeologist zonder dat iemand wordt geraakt door zijn "Rain of Knowledge"-aanval.</col>
+Description: <col=ffffff>Kill the Deranged Archaeologist 10 times.</col>;Description: <col=ffffff>Vermoord de Deranged Archaeologist 10 keer.</col>
+Description: <col=ffffff>Kill the Deranged Archaeologist 25 times.</col>;Description: <col=ffffff>Vermoord de Deranged Archaeologist 25 keer.</col>
+Description: <col=ffffff>Kill the Deranged Archaeologist without anyone being hit by his "Learn to Read" attack.</col>;Description: <col=ffffff>Vermoord de Deranged Archaeologist zonder dat iemand wordt geraakt door zijn "Learn to Read"-aanval.</col>
+Description: <col=ffffff>Kill the Giant Mole without her damaging anyone.</col>;Description: <col=ffffff>Vermoord de Giant Mole zonder dat hij iemand schade toebrengt.</col>
+Description: <col=ffffff>Kill the Giant mole 25 times.</col>;Description: <col=ffffff>Vermoord de Giant mole 25 keer.</col>
+Description: <col=ffffff>Kill the King Black Dragon 10 times.</col>;Description: <col=ffffff>Vermoord de King Black Dragon 10 keer.</col>
+Description: <col=ffffff>Kill the King Black Dragon with a stab weapon.</col>;Description: <col=ffffff>Vermoord de King Black Dragon met een steekwapen.</col>
+Description: <col=ffffff>Kill the King Black Dragon with an antifire potion active and an antidragon shield equipped.</col>;Description: <col=ffffff>Vermoord de King Black Dragon met een actieve antifire potion en een antidragon shield uitgerust.</col>
+Description: <col=ffffff>Kill the Royal Titans while having them kill a total of 10 elementals.</col>;Description: <col=ffffff>Vermoord de Royal Titans terwijl ze in totaal 10 elementals doden.</col>
+Description: <col=ffffff>Kill the Royal Titans without attacking any elementals.</col>;Description: <col=ffffff>Vermoord de Royal Titans zonder enige elementals aan te vallen.</col>
+Description: <col=ffffff>Kill the Shellbane Gryphon 25 times.</col>;Description: <col=ffffff>Vermoord de Shellbane Gryphon 25 keer.</col>
+Description: <col=ffffff>Open Obor's chest once.</col>;Description: <col=ffffff>Open Obor's chest één keer.</col>
