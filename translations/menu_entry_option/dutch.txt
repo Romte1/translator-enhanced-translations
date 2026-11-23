@@ -3683,3 +3683,43 @@ Contact <col=ff981f>Random;Contact opnemen met <col=ff981f>Random
 Contact <col=ff981f>Smoggy;Contact opnemen met <col=ff981f>Smoggy
 Contact <col=ff981f>Spria;Contact opnemen met <col=ff981f>Spria
 Plant-orb;Planten-orb
+Asesor de actividades abiertas;Open activiteitenadviseur
+<col=ffff00>PÃºblico:</col> Borrar historial;<col=ffff00>Publiek:</col> Geschiedenis wissen
+<col=ffff00>PÃºblico:</col> Mostrar amigos;<col=ffff00>Publiek:</col> Vrienden tonen
+Ajustes;Instellingen
+Agregar a la lista de reproducciÃ³n 1;Toevoegen aan afspeellijst 1
+Agregar a la lista de reproducciÃ³n 2;Toevoegen aan afspeellijst 2
+Agregar a la lista de reproducciÃ³n 3;Toevoegen aan afspeellijst 3
+Intercambiar;Ruilen
+GestiÃ³n de cuentas;Accountbeheer
+Realiza <col=ff9040>Desbloqueo de reliquias</col>;Voer <col=ff9040>Relikwieën ontgrendelen</col> uit
+Silenciar;Dempen
+Activar;Activeren
+Alternar ejecutar;Schakel uitvoeren
+Beber;Drinken
+Botar;Weggooien
+Caminar aquÃ­;Loop daarheen
+ConfiguraciÃ³n;Configuratie
+Equipamiento;Uitrusting
+Inventario;Inventaris
+OraciÃ³n;Gebed
+VacÃ­o;Leegmaken
+<col=00afff>Configura tu chat automÃ¡tico</col>;<col=00afff>Configureer je automatische chat</col>
+<col=00ff00>Filtrar chat pÃºblico</col>;<col=00ff00>Filter openbare chat</col>
+<col=ffff00>Juego:</col> Filtro;<col=ffff00>Spel:</col> Filter
+<col=ffff00>PÃºblico:</col> Mostrar chat automÃ¡tico;<col=ffff00>Openbaar:</col> Toon automatische chat
+<col=ffff00>PÃºblico:</col> Mostrar estÃ¡ndar;<col=ffff00>Openbaar:</col> Toon standaard
+<col=ffff00>PÃºblico:</col> No mostrar ninguno;<col=ffff00>Openbaar:</col> Toon niets
+<col=ffff00>PÃºblico:</col> Ocultar;<col=ffff00>Openbaar:</col> Verbergen
+Banquear;Bank
+Cambiar pestaÃ±a;Tabblad wisselen
+Cerrar sesiÃ³n;Uitloggen
+Comerciar con;Handelen met
+Emoticones;Emoticons
+Pareja;Partner
+Reportar;Rapporteren
+Reproductor de mÃºsica;Muziekspeler
+<col=ffff00>Establecer modo de chat:</col> PÃºblico (/@p);<col=ffff00>Stel chatmodus in:</col> Openbaar (/@p)
+<col=ffff00>Intercambiar:</col> Mostrar amigos;<col=ffff00>Wisselen:</col> Toon vrienden
+Aceptar;Accepteren
+Agregar amigo;Vriend toevoegen
