@@ -3686,3 +3686,43 @@ Contact <col=ff981f>Turael;Ota yhteyttä <col=ff981f>Turael
 Contact <col=ff981f>Vannaka;Ota yhteyttä <col=ff981f>Vannaka
 Contact <col=ff981f>Watson;Ota yhteyttä <col=ff981f>Watson
 Plant-orb;Istuta-orb
+Asesor de actividades abiertas;Avoimien toimintojen neuvonantaja
+<col=ffff00>PÃºblico:</col> Borrar historial;<col=ffff00>Julkinen:</col> Tyhjennä historia
+<col=ffff00>PÃºblico:</col> Mostrar amigos;<col=ffff00>Julkinen:</col> Näytä ystävät
+Ajustes;Asetukset
+Agregar a la lista de reproducciÃ³n 1;Lisää soittolistaan 1
+Agregar a la lista de reproducciÃ³n 2;Lisää soittolistaan 2
+Agregar a la lista de reproducciÃ³n 3;Lisää soittolistaan 3
+Intercambiar;Vaihda
+GestiÃ³n de cuentas;Tilien hallinta
+Realiza <col=ff9040>Desbloqueo de reliquias</col>;Suorita <col=ff9040>Reliikkien avaus</col>
+Silenciar;Mykistä
+Activar;Aktivoi
+Alternar ejecutar;Vaihda suoritus
+Beber;Juoda
+Botar;Heitä
+Caminar aquÃ­;Kävele sinne
+ConfiguraciÃ³n;Asetukset
+Equipamiento;Varustus
+Inventario;Inventaario
+OraciÃ³n;Rukous
+VacÃ­o;Tyhjennä
+<col=00afff>Configura tu chat automÃ¡tico</col>;<col=00afff>Aseta automaattinen chat</col>
+<col=00ff00>Filtrar chat pÃºblico</col>;<col=00ff00>Suodata julkinen chat</col>
+<col=ffff00>Juego:</col> Filtro;<col=ffff00>Peli:</col> Suodatin
+<col=ffff00>PÃºblico:</col> Mostrar chat automÃ¡tico;<col=ffff00>Julkinen:</col> Näytä automaattinen chat
+<col=ffff00>PÃºblico:</col> Mostrar estÃ¡ndar;<col=ffff00>Julkinen:</col> Näytä oletus
+<col=ffff00>PÃºblico:</col> No mostrar ninguno;<col=ffff00>Julkinen:</col> Älä näytä mitään
+<col=ffff00>PÃºblico:</col> Ocultar;<col=ffff00>Julkinen:</col> Piilota
+Banquear;Pankki
+Cambiar pestaÃ±a;Vaihda välilehti
+Cerrar sesiÃ³n;Kirjaudu ulos
+Comerciar con;Kauppaa
+Emoticones;Hymiöt
+Pareja;Pari
+Reportar;Ilmoita
+Reproductor de mÃºsica;Musiikkisoitin
+<col=ffff00>Establecer modo de chat:</col> PÃºblico (/@p);<col=ffff00>Aseta chat-tila:</col> Julkinen (/@p)
+<col=ffff00>Intercambiar:</col> Mostrar amigos;<col=ffff00>Vaihda:</col> Näytä ystävät
+Aceptar;Hyväksy
+Agregar amigo;Lisää ystävä

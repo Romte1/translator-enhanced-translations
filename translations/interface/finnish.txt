@@ -444,3 +444,38 @@ Description: <col=ffffff>Kill a Skeletal Wyvern</col>;Kuvaus: <col=ffffff>Tapa S
 <str>Movario's Research Notes. They revealed Lucien's desire to;<str>Movario's Research Notes. Ne paljastivat Lucienin halun
 <str>Spies from Draynor Village. As such, I planted a Teleorb given;<str>Vakoilijoita Draynor Villageista. Näin ollen istutin annetun Teleorbin
 <str>Thaerisk asked me to head to McGrubor's Wood to find Idria;<str>Thaerisk pyysi minua menemään McGrubor's Woodiin löytämään Idria
+<str>Thaerisk, as well as Akrisae of the Temple Knights.;<str>Thaerisk, sekä Akrisae Temple Knightsin.
+<str>To find Lucien, Thaerisk suggested we capture one of his;<str>Löytääksemme Lucienin, Thaerisk ehdotti että sieppaamme yhden hänen
+<str>White Knights' Castle in Falador. There we met up with;<str>White Knights' Castle Faladorissa. Siellä tapasimme
+<str>With the Mercenaries dealt with, Idria and I journeyed to the;<str>Kun palkkasoturit oli hoidettu, Idria ja minä matkasimme kohti
+<str>and the Guardians of Armadyl, as he'd lost contact with them.;<str>ja Armadylin vartijat, koska hän oli menettänyt yhteyden heihin.
+<str>find and claim an artefact of unimaginable power called the;<str>löytää ja ottaa haltuun käsittämättömän voiman artefaktin nimeltä
+<str>teleport the Spy into a cell.;<str>teleporttaa Spy selliin.
+<str>them to Thaerisk in Taverley.;<str>ne Thaerikselle Taverleyn.
+<str>to me by Akrisae on one of them. He then used this Teleorb to;<str>minulle Akrisaen toimesta yhdellä niistä. Hän käytti sitten tätä Teleport Orbia
+<col=000080>I still need to recruit the following people:;<col=000080>Minun täytyy vielä rekrytoida seuraavat henkilöt:
+<col=000080>To make some more <col=800000>Truth Serum<col=000080>, I prepared an <col=800000>Enriched;<col=000080>Tehdäkseni lisää <col=800000>Truth Serum<col=000080>, valmistin <col=800000>Enriched
+<col=000080>asked me to recruit four heroes to our cause. If needed, I;<col=000080>pyysi minua rekrytoimaan neljä sankaria meidän asiaamme. Tarvittaessa, minä
+<col=000080>on the roof of the <col=800000>White Knights' Castle<col=000080>. While it grows, <col=800000>Idria<col=000080>;<col=000080>katolla <col=800000>White Knights' Castle<col=000080>. Kun se kasvaa, <col=800000>Idria<col=000080>
+<col=000080>should be able to contact all of them using <col=800000>Lunar Magics<col=000080>.;<col=000080>pystyy ottamaan yhteyttä kaikkiin käyttäen <col=800000>Lunar Magics<col=000080>.
+<str>some Truth Serum. However, the Spy was able to destroy it.;<str>jotain Truth Serumia. Kuitenkin Spy onnistui tuhoamaan sen.
+<col=000080>I should investigate the site of the attack to see if there are;<col=000080>Minun pitäisi tutkia hyökkäyksen paikkaa nähdäkseni onko siellä
+<col=000080>I spoke to <col=800000>Sarah<col=000080> at the farm. She explained that she was;<col=000080>Puhuin <col=800000>Sarah<col=000080>lle farmilla. Hän selitti, että hän oli
+<col=000080>It's a good job I remembered that, as I have lost the <col=800000>note.;<col=000080>Onneksi muistin sen, koska olen menettänyt <col=800000>note.
+<col=000080>any clues as to its whereabouts.;<col=000080>mitään vihjeitä sen sijainnista.
+<col=000080>attacked by a charging <col=800000>Monster<col=000080> at the <col=800000>Crossroads<col=000080> north of;<col=000080>hyökkättyä hyökkäävän <col=800000>Monster<col=000080>n toimesta <col=800000>Crossroads<col=000080>n pohjoispuolella
+<str>I found a note on the notice board in Draynor Village. It was;<str>Löysin muistiinpanon ilmoitustaululta Draynor Village -kylässä. Se oli
+<str>offering a reward for the slaying of a Monster that's been;<str>tarjotaan palkkio Monsterin tappamisesta, joka on ollut
+<str>troubling the area.;<str>häiritsemässä aluetta.
+Description: <col=ffffff>Kill a Wyrm.</col>;Kuvaus: <col=ffffff>Tapa Wyrm.</col>
+Description: <col=ffffff>Kill one Titan at a time, without attacking the other.</col>;Kuvaus: <col=ffffff>Tapa yksi Titan kerrallaan, hyökkäämättä toiseen.</col>
+Description: <col=ffffff>Kill the Crazy Archaeologist with only magical attacks.</col>;Kuvaus: <col=ffffff>Tapa Crazy Archaeologist vain maagisilla hyökkäyksillä.</col>
+Description: <col=ffffff>Kill the Crazy Archaeologist without anyone being hit by his "Rain of Knowledge" attack.</col>;Kuvaus: <col=ffffff>Tapa Crazy Archaeologist ilman, että kukaan saa osumaa hänen "Rain of Knowledge" -hyökkäykseensä.</col>
+Description: <col=ffffff>Kill the Deranged Archaeologist 10 times.</col>;Kuvaus: <col=ffffff>Tapa Deranged Archaeologist 10 kertaa.</col>
+Description: <col=ffffff>Kill the Deranged Archaeologist 25 times.</col>;Kuvaus: <col=ffffff>Tapa Deranged Archaeologist 25 kertaa.</col>
+Description: <col=ffffff>Kill the Deranged Archaeologist without anyone being hit by his "Learn to Read" attack.</col>;Kuvaus: <col=ffffff>Tapa Deranged Archaeologist ilman, että kukaan saa osumaa hänen "Learn to Read" -hyökkäykseensä.</col>
+Description: <col=ffffff>Kill the Giant Mole without her damaging anyone.</col>;Kuvaus: <col=ffffff>Tapa Giant Mole ilman, että hän vahingoittaa ketään.</col>
+Description: <col=ffffff>Kill the Giant mole 25 times.</col>;Kuvaus: <col=ffffff>Tapa Giant mole 25 kertaa.</col>
+Description: <col=ffffff>Kill the King Black Dragon 10 times.</col>;Kuvaus: <col=ffffff>Tapa King Black Dragon 10 kertaa.</col>
+Description: <col=ffffff>Kill the King Black Dragon with a stab weapon.</col>;Kuvaus: <col=ffffff>Tapa King Black Dragon pistotyökalulla.</col>
+Description: <col=ffffff>Kill the King Black Dragon with an antifire potion active and an antidragon shield equipped.</col>;Kuvaus: <col=ffffff>Tapa King Black Dragon käyttäen aktiivista antifire potionia ja varustettuna antidragon shieldilla.</col>
