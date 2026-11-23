@@ -555,3 +555,42 @@ Description: <col=ffffff>Kill a Skeletal Wyvern</col>;Descrizione: <col=ffffff>U
 <str>Movario's Research Notes. They revealed Lucien's desire to;<str>Movario's Research Notes. Hanno rivelato il desiderio di Lucien di
 <str>Spies from Draynor Village. As such, I planted a Teleorb given;<str>Spie di Draynor Village. Perciò, ho piantato un Teleorb dato
 <str>Thaerisk asked me to head to McGrubor's Wood to find Idria;<str>Thaerisk mi ha chiesto di andare a McGrubor's Wood per trovare Idria
+<str>Stone of Jas.;<str>Pietra di Jas.
+<str>Thaerisk, as well as Akrisae of the Temple Knights.;<str>Thaerisk, così come Akrisae dei Temple Knights.
+<str>To find Lucien, Thaerisk suggested we capture one of his;<str>Per trovare Lucien, Thaerisk ha suggerito di catturare uno dei suoi
+<str>White Knights' Castle in Falador. There we met up with;<str>White Knights' Castle a Falador. Lì ci siamo incontrati con
+<str>With the Mercenaries dealt with, Idria and I journeyed to the;<str>Con i Mercenaries sistemati, Idria ed io siamo partiti per il
+<str>and the Guardians of Armadyl, as he'd lost contact with them.;<str>e i Guardians of Armadyl, poiché aveva perso i contatti con loro.
+<str>find and claim an artefact of unimaginable power called the;<str>trovare e reclamare un artefatto di potere inimmaginabile chiamato il
+<str>teleport the Spy into a cell.;<str>teletrasportare lo Spy in una cella.
+<str>them to Thaerisk in Taverley.;<str>consegnarli a Thaerisk in Taverley.
+<str>to me by Akrisae on one of them. He then used this Teleorb to;<str>a me da Akrisae su uno di loro. Poi ha usato questo Teleorb per
+<col=000080>I still need to recruit the following people:;<col=000080>Devo ancora reclutare le seguenti persone:
+<col=000080>To make some more <col=800000>Truth Serum<col=000080>, I prepared an <col=800000>Enriched;<col=000080>Per fare altro <col=800000>Truth Serum<col=000080>, ho preparato un <col=800000>Enriched
+<col=000080>asked me to recruit four heroes to our cause. If needed, I;<col=000080>mi ha chiesto di reclutare quattro eroi per la nostra causa. Se necessario, io
+<col=000080>on the roof of the <col=800000>White Knights' Castle<col=000080>. While it grows, <col=800000>Idria<col=000080>;<col=000080>sul tetto del <col=800000>White Knights' Castle<col=000080>. Mentre cresce, <col=800000>Idria<col=000080>
+<col=000080>should be able to contact all of them using <col=800000>Lunar Magics<col=000080>.;<col=000080>dovrebbe essere in grado di contattare tutti loro usando <col=800000>Lunar Magics<col=000080>.
+<str>some Truth Serum. However, the Spy was able to destroy it.;<str>un po' di Truth Serum. Tuttavia, lo Spy è riuscito a distruggerlo.
+<col=000080>I should investigate the site of the attack to see if there are;<col=000080>Dovrei investigare il luogo dell'attacco per vedere se ci sono
+<col=000080>I spoke to <col=800000>Sarah<col=000080> at the farm. She explained that she was;<col=000080>Ho parlato con <col=800000>Sarah<col=000080> nella fattoria. Ha spiegato che era
+<col=000080>It's a good job I remembered that, as I have lost the <col=800000>note.;<col=000080>È una buona cosa che l'abbia ricordato, poiché ho perso il <col=800000>note.
+<col=000080>any clues as to its whereabouts.;<col=000080>qualche indizio sulla sua posizione.
+<col=000080>attacked by a charging <col=800000>Monster<col=000080> at the <col=800000>Crossroads<col=000080> north of;<col=000080>attaccato da un <col=800000>Monster<col=000080> al <col=800000>Crossroads<col=000080> a nord di
+<str>I found a note on the notice board in Draynor Village. It was;<str>Ho trovato un appunto sul tabellone a Draynor Village. Era
+<str>offering a reward for the slaying of a Monster that's been;<str>offrendo una ricompensa per l'uccisione di un Monster che è stato
+<str>troubling the area.;<str>che disturba l'area.
+Description: <col=ffffff>Kill a Wyrm.</col>;Description: <col=ffffff>Uccidi un Wyrm.</col>
+Description: <col=ffffff>Kill one Titan at a time, without attacking the other.</col>;Description: <col=ffffff>Uccidi un Titan alla volta, senza attaccare l'altro.</col>
+Description: <col=ffffff>Kill the Crazy Archaeologist with only magical attacks.</col>;Description: <col=ffffff>Uccidi il Crazy Archaeologist solo con attacchi magici.</col>
+Description: <col=ffffff>Kill the Crazy Archaeologist without anyone being hit by his "Rain of Knowledge" attack.</col>;Description: <col=ffffff>Uccidi il Crazy Archaeologist senza che nessuno venga colpito dal suo attacco "Rain of Knowledge".</col>
+Description: <col=ffffff>Kill the Deranged Archaeologist 10 times.</col>;Description: <col=ffffff>Uccidi il Deranged Archaeologist 10 volte.</col>
+Description: <col=ffffff>Kill the Deranged Archaeologist 25 times.</col>;Description: <col=ffffff>Uccidi il Deranged Archaeologist 25 volte.</col>
+Description: <col=ffffff>Kill the Deranged Archaeologist without anyone being hit by his "Learn to Read" attack.</col>;Description: <col=ffffff>Uccidi il Deranged Archaeologist senza che nessuno venga colpito dal suo attacco "Learn to Read".</col>
+Description: <col=ffffff>Kill the Giant Mole without her damaging anyone.</col>;Description: <col=ffffff>Uccidi il Giant Mole senza che lei danneggi nessuno.</col>
+Description: <col=ffffff>Kill the Giant mole 25 times.</col>;Description: <col=ffffff>Uccidi il Giant mole 25 volte.</col>
+Description: <col=ffffff>Kill the King Black Dragon 10 times.</col>;Description: <col=ffffff>Uccidi il King Black Dragon 10 volte.</col>
+Description: <col=ffffff>Kill the King Black Dragon with a stab weapon.</col>;Description: <col=ffffff>Uccidi il King Black Dragon con un'arma da punta.</col>
+Description: <col=ffffff>Kill the King Black Dragon with an antifire potion active and an antidragon shield equipped.</col>;Description: <col=ffffff>Uccidi il King Black Dragon con una pozione antifiamma attiva e uno scudo antidrago equipaggiato.</col>
+Description: <col=ffffff>Kill the Royal Titans while having them kill a total of 10 elementals.</col>;Description: <col=ffffff>Uccidi i Royal Titans facendoli uccidere un totale di 10 elementali.</col>
+Description: <col=ffffff>Kill the Royal Titans without attacking any elementals.</col>;Description: <col=ffffff>Uccidi i Royal Titans senza attaccare alcun elementale.</col>
+Description: <col=ffffff>Kill the Shellbane Gryphon 25 times.</col>;Description: <col=ffffff>Uccidi il Shellbane Gryphon 25 volte.</col>
