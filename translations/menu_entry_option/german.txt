@@ -3686,3 +3686,43 @@ Contact <col=ff981f>Turael;Kontaktieren <col=ff981f>Turael
 Contact <col=ff981f>Vannaka;Kontaktieren <col=ff981f>Vannaka
 Contact <col=ff981f>Watson;Kontaktieren <col=ff981f>Watson
 Plant-orb;Pflanzen-orb
+Asesor de actividades abiertas;Berater für offene Aktivitäten
+<col=ffff00>PÃºblico:</col> Borrar historial;<col=ffff00>Público:</col> Verlauf löschen
+<col=ffff00>PÃºblico:</col> Mostrar amigos;<col=ffff00>Público:</col> Freunde anzeigen
+Ajustes;Einstellungen
+Agregar a la lista de reproducciÃ³n 1;Zur Wiedergabeliste 1 hinzufügen
+Agregar a la lista de reproducciÃ³n 2;Zur Wiedergabeliste 2 hinzufügen
+Agregar a la lista de reproducciÃ³n 3;Zur Wiedergabeliste 3 hinzufügen
+Intercambiar;Tauschen
+GestiÃ³n de cuentas;Kontoverwaltung
+Realiza <col=ff9040>Desbloqueo de reliquias</col>;Führe <col=ff9040>Reliquien-Entsperrung</col> aus
+Silenciar;Stummschalten
+Activar;Aktivieren
+Alternar ejecutar;Ausführen umschalten
+Beber;Trinken
+Botar;Werfen
+Caminar aquÃ­;Dorthin gehen
+ConfiguraciÃ³n;Einstellungen
+Equipamiento;Ausrüstung
+Inventario;Inventar
+OraciÃ³n;Gebet
+VacÃ­o;Leeren
+<col=00afff>Configura tu chat automÃ¡tico</col>;<col=00afff>Automatischen Chat konfigurieren</col>
+<col=00ff00>Filtrar chat pÃºblico</col>;<col=00ff00>Öffentlichen Chat filtern</col>
+<col=ffff00>Juego:</col> Filtro;<col=ffff00>Spiel:</col> Filter
+<col=ffff00>PÃºblico:</col> Mostrar chat automÃ¡tico;<col=ffff00>Öffentlich:</col> Automatischen Chat anzeigen
+<col=ffff00>PÃºblico:</col> Mostrar estÃ¡ndar;<col=ffff00>Öffentlich:</col> Standard anzeigen
+<col=ffff00>PÃºblico:</col> No mostrar ninguno;<col=ffff00>Öffentlich:</col> Keinen anzeigen
+<col=ffff00>PÃºblico:</col> Ocultar;<col=ffff00>Öffentlich:</col> Verstecken
+Banquear;Banken
+Cambiar pestaÃ±a;Tab wechseln
+Cerrar sesiÃ³n;Abmelden
+Comerciar con;Handeln mit
+Emoticones;Emotes
+Pareja;Partner
+Reportar;Melden
+Reproductor de mÃºsica;Musikspieler
+<col=ffff00>Establecer modo de chat:</col> PÃºblico (/@p);<col=ffff00>Chatmodus festlegen:</col> Öffentlich (/@p)
+<col=ffff00>Intercambiar:</col> Mostrar amigos;<col=ffff00>Tauschen:</col> Freunde anzeigen
+Aceptar;Akzeptieren
+Agregar amigo;Freund hinzufügen
