@@ -3686,3 +3686,43 @@ Contact <col=ff981f>Turael;Contacter <col=ff981f>Turael
 Contact <col=ff981f>Vannaka;Contacter <col=ff981f>Vannaka
 Contact <col=ff981f>Watson;Contacter <col=ff981f>Watson
 Plant-orb;Planter-orb
+Asesor de actividades abiertas;Conseiller d'activités ouvertes
+<col=ffff00>PÃºblico:</col> Borrar historial;<col=ffff00>Público:</col> Effacer l'historique
+<col=ffff00>PÃºblico:</col> Mostrar amigos;<col=ffff00>Público:</col> Afficher les amis
+Ajustes;Paramètres
+Agregar a la lista de reproducciÃ³n 1;Ajouter à la liste de lecture 1
+Agregar a la lista de reproducciÃ³n 2;Ajouter à la liste de lecture 2
+Agregar a la lista de reproducciÃ³n 3;Ajouter à la liste de lecture 3
+Intercambiar;Échanger
+GestiÃ³n de cuentas;Gestion des comptes
+Realiza <col=ff9040>Desbloqueo de reliquias</col>;Effectuer <col=ff9040>Déblocage de reliques</col>
+Silenciar;Silencer
+Activar;Activer
+Alternar ejecutar;Basculer exécution
+Beber;Boire
+Botar;Jeter
+Caminar aquÃ­;Marcher ici
+ConfiguraciÃ³n;Configuration
+Equipamiento;Équipement
+Inventario;Inventaire
+OraciÃ³n;Prière
+VacÃ­o;Vider
+<col=00afff>Configura tu chat automÃ¡tico</col>;<col=00afff>Configurer votre chat automatique</col>
+<col=00ff00>Filtrar chat pÃºblico</col>;<col=00ff00>Filtrer le chat public</col>
+<col=ffff00>Juego:</col> Filtro;<col=ffff00>Jeu:</col> Filtre
+<col=ffff00>PÃºblico:</col> Mostrar chat automÃ¡tico;<col=ffff00>Public:</col> Afficher le chat automatique
+<col=ffff00>PÃºblico:</col> Mostrar estÃ¡ndar;<col=ffff00>Public:</col> Afficher standard
+<col=ffff00>PÃºblico:</col> No mostrar ninguno;<col=ffff00>Public:</col> Ne rien afficher
+<col=ffff00>PÃºblico:</col> Ocultar;<col=ffff00>Public:</col> Masquer
+Banquear;Banquer
+Cambiar pestaÃ±a;Changer d'onglet
+Cerrar sesiÃ³n;Fermer la session
+Comerciar con;Commerce avec
+Emoticones;Émoticônes
+Pareja;Partenaire
+Reportar;Signaler
+Reproductor de mÃºsica;Lecteur de musique
+<col=ffff00>Establecer modo de chat:</col> PÃºblico (/@p);<col=ffff00>Définir le mode de chat:</col> Public (/@p)
+<col=ffff00>Intercambiar:</col> Mostrar amigos;<col=ffff00>Échanger:</col> Afficher les amis
+Aceptar;Accepter
+Agregar amigo;Ajouter un ami
