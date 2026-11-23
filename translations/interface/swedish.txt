@@ -431,3 +431,40 @@ Description: <col=ffffff>Kill a Wyrm.</col>;Beskrivning: <col=ffffff>Döda en Wy
 <str>Movario's Research Notes. They revealed Lucien's desire to;<str>Movario's Research Notes. De avslöjade Lucien's önskan att
 <str>Spies from Draynor Village. As such, I planted a Teleorb given;<str>Spioner från Draynor Village. Därför planterade jag en Teleorb given
 <str>Thaerisk asked me to head to McGrubor's Wood to find Idria;<str>Thaerisk bad mig att bege mig till McGrubor's Wood för att hitta Idria
+<str>Stone of Jas.;<str>Sten av Jas.
+<str>Thaerisk, as well as Akrisae of the Temple Knights.;<str>Thaerisk, såväl som Akrisae från Temple Knights.
+<str>To find Lucien, Thaerisk suggested we capture one of his;<str>För att hitta Lucien föreslog Thaerisk att vi fångar en av hans
+<str>White Knights' Castle in Falador. There we met up with;<str>White Knights' Castle i Falador. Där mötte vi
+<str>With the Mercenaries dealt with, Idria and I journeyed to the;<str>När legosoldaterna var avklarade reste Idria och jag till
+<str>and the Guardians of Armadyl, as he'd lost contact with them.;<str>och Guardians of Armadyl, eftersom han förlorat kontakten med dem.
+<str>find and claim an artefact of unimaginable power called the;<str>hitta och ta ett artefakt av ofattbar kraft kallad
+<str>teleport the Spy into a cell.;<str>teleportera Spionen till en cell.
+<str>them to Thaerisk in Taverley.;<str>dem till Thaerisk i Taverley.
+<str>to me by Akrisae on one of them. He then used this Teleorb to;<str>till mig av Akrisae på en av dem. Han använde sedan denna Teleorb för att
+<col=000080>I still need to recruit the following people:;<col=000080>Jag behöver fortfarande rekrytera följande personer:
+<col=000080>To make some more <col=800000>Truth Serum<col=000080>, I prepared an <col=800000>Enriched;<col=000080>För att göra mer <col=800000>Truth Serum<col=000080>, förberedde jag en <col=800000>Enriched
+<col=000080>asked me to recruit four heroes to our cause. If needed, I;<col=000080>bad mig att rekrytera fyra hjältar till vår sak. Om det behövs, jag
+<col=000080>on the roof of the <col=800000>White Knights' Castle<col=000080>. While it grows, <col=800000>Idria<col=000080>;<col=000080>på taket av <col=800000>White Knights' Castle<col=000080>. Medan den växer, <col=800000>Idria<col=000080>
+<col=000080>should be able to contact all of them using <col=800000>Lunar Magics<col=000080>.;<col=000080>ska kunna kontakta dem alla med <col=800000>Lunar Magics<col=000080>.
+<str>some Truth Serum. However, the Spy was able to destroy it.;<str>några Truth Serum. Dock kunde Spionen förstöra den.
+<col=000080>I should investigate the site of the attack to see if there are;<col=000080>Jag bör undersöka attackplatsen för att se om det finns
+<col=000080>I spoke to <col=800000>Sarah<col=000080> at the farm. She explained that she was;<col=000080>Jag pratade med <col=800000>Sarah<col=000080> på gården. Hon förklarade att hon var
+<col=000080>It's a good job I remembered that, as I have lost the <col=800000>note.;<col=000080>Det är tur att jag kom ihåg det, eftersom jag har förlorat <col=800000>note.
+<col=000080>any clues as to its whereabouts.;<col=000080>några ledtrådar om var den kan vara.
+<col=000080>attacked by a charging <col=800000>Monster<col=000080> at the <col=800000>Crossroads<col=000080> north of;<col=000080>attackeras av en stormande <col=800000>Monster<col=000080> vid <col=800000>Crossroads<col=000080> norr om
+<str>I found a note on the notice board in Draynor Village. It was;<str>Jag hittade ett note på anslagstavlan i Draynor Village. Det var
+<str>offering a reward for the slaying of a Monster that's been;<str>erbjuder en belöning för att döda en Monster som har
+<str>troubling the area.;<str>besvärat området.
+Description: <col=ffffff>Kill one Titan at a time, without attacking the other.</col>;Description: <col=ffffff>Döda en Titan åt gången, utan att attackera den andra.</col>
+Description: <col=ffffff>Kill the Crazy Archaeologist with only magical attacks.</col>;Description: <col=ffffff>Döda den Galna Arkeologen endast med magiska attacker.</col>
+Description: <col=ffffff>Kill the Crazy Archaeologist without anyone being hit by his "Rain of Knowledge" attack.</col>;Description: <col=ffffff>Döda den Galna Arkeologen utan att någon blir träffad av hans "Rain of Knowledge"-attack.</col>
+Description: <col=ffffff>Kill the Deranged Archaeologist 10 times.</col>;Description: <col=ffffff>Döda den Deranged Archaeologist 10 gånger.</col>
+Description: <col=ffffff>Kill the Deranged Archaeologist 25 times.</col>;Description: <col=ffffff>Döda den Deranged Archaeologist 25 gånger.</col>
+Description: <col=ffffff>Kill the Deranged Archaeologist without anyone being hit by his "Learn to Read" attack.</col>;Description: <col=ffffff>Döda den Deranged Archaeologist utan att någon blir träffad av hans "Learn to Read"-attack.</col>
+Description: <col=ffffff>Kill the Giant Mole without her damaging anyone.</col>;Description: <col=ffffff>Döda den Giant Mole utan att hon skadar någon.</col>
+Description: <col=ffffff>Kill the Giant mole 25 times.</col>;Description: <col=ffffff>Döda den Giant mole 25 gånger.</col>
+Description: <col=ffffff>Kill the King Black Dragon 10 times.</col>;Description: <col=ffffff>Döda King Black Dragon 10 gånger.</col>
+Description: <col=ffffff>Kill the King Black Dragon with a stab weapon.</col>;Description: <col=ffffff>Döda King Black Dragon med ett stickvapen.</col>
+Description: <col=ffffff>Kill the King Black Dragon with an antifire potion active and an antidragon shield equipped.</col>;Description: <col=ffffff>Döda King Black Dragon med en aktiv antifire potion och ett antidragon shield utrustat.</col>
+Description: <col=ffffff>Kill the Royal Titans while having them kill a total of 10 elementals.</col>;Description: <col=ffffff>Döda Royal Titans medan de dödar totalt 10 elementals.</col>
+Description: <col=ffffff>Kill the Royal Titans without attacking any elementals.</col>;Description: <col=ffffff>Döda Royal Titans utan att attackera några elementals.</col>
