@@ -3685,3 +3685,43 @@ Contact <col=ff981f>Turael;Kontakta <col=ff981f>Turael
 Contact <col=ff981f>Vannaka;Kontakta <col=ff981f>Vannaka
 Contact <col=ff981f>Watson;Kontakta <col=ff981f>Watson
 Plant-orb;Plantera-orb
+Asesor de actividades abiertas;Öppna aktivitetsrådgivare
+<col=ffff00>PÃºblico:</col> Borrar historial;<col=ffff00>Público:</col> Rensa historik
+<col=ffff00>PÃºblico:</col> Mostrar amigos;<col=ffff00>Público:</col> Visa vänner
+Ajustes;Inställningar
+Agregar a la lista de reproducciÃ³n 1;Lägg till i spellista 1
+Agregar a la lista de reproducciÃ³n 2;Lägg till i spellista 2
+Agregar a la lista de reproducciÃ³n 3;Lägg till i spellista 3
+Intercambiar;Byta
+GestiÃ³n de cuentas;Kontohantering
+Realiza <col=ff9040>Desbloqueo de reliquias</col>;Utför <col=ff9040>Låsa upp reliker</col>
+Silenciar;Tysta
+Activar;Aktivera
+Alternar ejecutar;Växla kör
+Beber;Dricka
+Botar;Kasta
+Caminar aquÃ­;Gå dit
+ConfiguraciÃ³n;Inställningar
+Equipamiento;Utrustning
+Inventario;Inventarie
+OraciÃ³n;Bön
+VacÃ­o;Töm
+<col=00afff>Configura tu chat automÃ¡tico</col>;<col=00afff>Ställ in din automatiska chatt</col>
+<col=00ff00>Filtrar chat pÃºblico</col>;<col=00ff00>Filtrera offentlig chatt</col>
+<col=ffff00>Juego:</col> Filtro;<col=ffff00>Spel:</col> Filter
+<col=ffff00>PÃºblico:</col> Mostrar chat automÃ¡tico;<col=ffff00>Offentlig:</col> Visa automatisk chatt
+<col=ffff00>PÃºblico:</col> Mostrar estÃ¡ndar;<col=ffff00>Offentlig:</col> Visa standard
+<col=ffff00>PÃºblico:</col> No mostrar ninguno;<col=ffff00>Offentlig:</col> Visa inget
+<col=ffff00>PÃºblico:</col> Ocultar;<col=ffff00>Offentlig:</col> Dölj
+Banquear;Banka
+Cambiar pestaÃ±a;Byt flik
+Cerrar sesiÃ³n;Logga ut
+Comerciar con;Handla med
+Emoticones;Emoticons
+Pareja;Partner
+Reportar;Rapportera
+Reproductor de mÃºsica;Musikspelare
+<col=ffff00>Establecer modo de chat:</col> PÃºblico (/@p);<col=ffff00>Ställ in chattläge:</col> Offentlig (/@p)
+<col=ffff00>Intercambiar:</col> Mostrar amigos;<col=ffff00>Byt:</col> Visa vänner
+Aceptar;Acceptera
+Agregar amigo;Lägg till vän
