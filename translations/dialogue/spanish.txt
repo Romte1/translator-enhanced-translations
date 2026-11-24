@@ -648,4 +648,4 @@ re:^\QWings of dark and colour too, Spreading in the morning dew\E\x3b\Q Locked 
 re:^\QUsing the enchanted amulet is easy\E\x3b\Q open up the amulet and you'll see a cat's face, use the whiskers to rotate the cats nose. You'll see the nose move and the new direction highlighted. When the nose points in the\E$;Usar el amuleto encantado es fácil; abre el amuleto y verás la cara de un gato, usa los bigotes para girar la nariz del gato. Verás cómo se mueve la nariz y cómo se resalta la nueva dirección. Cuando la nariz apunte en la
 [PLAYER_NAME]. How goes it?;[PLAYER_NAME]. ¿Cómo va?
 [PLAYER_NAME].;[PLAYER_NAME].
-I negotiated with them. Convinced them that I was on their side. After that, bringing them in was trivial.;Negocié con ellos. Les convencí de que estaba de mi lado. Después de eso, traerlos fue trivial.
+I negotiated with them. Convinced them that I was on their side. After that, bringing them in was trivial.;Negocié con ellos. Les convencí de que estaba de su lado. Después de eso, traerlos fue trivial.

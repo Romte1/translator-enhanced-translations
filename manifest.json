@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "version": "20261124000017",
+  "version": "20261124000337",
   "files": {
-    "translations/dialogue/spanish.txt": "9ff47d8275ab622665d42cf62379d455a758482c1c58a9e9a81597a1cfa5ee56",
+    "translations/dialogue/spanish.txt": "a2509a4289ca8731382e557073cd92fbb1d696bd40197a391f9f3f07421d0f99",
     "translations/interface/dutch.txt": "616cebd5202b3f23b399168b6ff66102095b07d8e1b4b6b405dd0c6a485c5846",
     "translations/interface/finnish.txt": "5821cb4b2ce95f352ca609596b69d8e59d6481a2319233a79fecb110a9e6ff53",
     "translations/interface/french.txt": "10abf4e6b9424cdfefac3536a6dd9522e703124e8bfb412f6cf7355a939fd356",
