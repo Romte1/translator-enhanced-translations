@@ -437,7 +437,7 @@ function tags(text) {
 }
 
 function numbers(text) {
-	return (text.replace(/<[^>]*>/g, "").match(/\d+/g) ?? []).sort();
+	return text.replace(/<[^>]*>/g, "").match(/\d+/g) ?? [];
 }
 
 function readLines(file) {
