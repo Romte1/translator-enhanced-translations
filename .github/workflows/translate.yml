@@ -60,6 +60,22 @@ jobs:
         if: ${{ inputs.language == '' || inputs.language == matrix.language }}
         run: node scripts/merge-translations.mjs "${{ matrix.language }}"
 
+      - name: Translate dialogue
+        if: ${{ inputs.language == '' || inputs.language == matrix.language }}
+        env:
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: ${{ vars.LLM_BASE_URL }}
+          LLM_MODEL: ${{ vars.LLM_MODEL }}
+          PENDING_URL: ${{ vars.PENDING_URL }}
+          PENDING_TOKEN: ${{ secrets.PENDING_TOKEN }}
+          LIMIT: ${{ inputs.limit || '40' }}
+          BATCH_SIZE: 20
+        run: node scripts/translate-worker.mjs "${{ matrix.language }}" dialogue
+
+      - name: Merge dialogue
+        if: ${{ inputs.language == '' || inputs.language == matrix.language }}
+        run: node scripts/merge-translations.mjs "${{ matrix.language }}" dialogue
+
       - name: Translate menu options
         if: ${{ inputs.language == '' || inputs.language == matrix.language }}
         env:
@@ -96,7 +112,7 @@ jobs:
           title: "Translations: ${{ matrix.language }}"
           body: |
             Machine first pass generated with `scripts/translate-worker.mjs` for
-            **${{ matrix.language }}** (journals and menu options).
+            **${{ matrix.language }}** (journals, dialogues and menu options).
 
             The validator checks tags, numbers, placeholders, duplicates and the manifest,
             but the wording still needs a review before merging.
@@ -111,7 +127,7 @@ jobs:
           title: "Translations: ${{ matrix.language }}"
           body: |
             Machine first pass generated with `scripts/translate-worker.mjs` for
-            **${{ matrix.language }}** (journals and menu options).
+            **${{ matrix.language }}** (journals, dialogues and menu options).
 
             The validator checks tags, numbers, placeholders, duplicates and the manifest,
             but the wording still needs a review before merging.
