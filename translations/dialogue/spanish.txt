@@ -646,3 +646,6 @@ re:^\QOur shore is brimming, with gold from the sea, the most loyal of our peopl
 re:^\QWell hello there\E\x3b\Q welcome to our little village. Pray, stay a while.\E$;Vaya, hola; bienvenido a nuestra pequeña aldea. Te ruego que te quedes un rato.
 re:^\QWings of dark and colour too, Spreading in the morning dew\E\x3b\Q Locked away I have a key; Return it now, please, unto me.\E$;Alas de oscuridad y también de color, desplegándose en el rocío de la mañana; encerrada guardo una llave; devuélvemela ahora, por favor, a mí.
 re:^\QUsing the enchanted amulet is easy\E\x3b\Q open up the amulet and you'll see a cat's face, use the whiskers to rotate the cats nose. You'll see the nose move and the new direction highlighted. When the nose points in the\E$;Usar el amuleto encantado es fácil; abre el amuleto y verás la cara de un gato, usa los bigotes para girar la nariz del gato. Verás cómo se mueve la nariz y cómo se resalta la nueva dirección. Cuando la nariz apunte en la
+[PLAYER_NAME]. How goes it?;[PLAYER_NAME]. ¿Cómo va?
+[PLAYER_NAME].;[PLAYER_NAME].
+I negotiated with them. Convinced them that I was on their side. After that, bringing them in was trivial.;Negocié con ellos. Les convencí de que estaba de mi lado. Después de eso, traerlos fue trivial.
