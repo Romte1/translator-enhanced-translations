@@ -649,3 +649,5 @@ re:^\QUsing the enchanted amulet is easy\E\x3b\Q open up the amulet and you'll s
 [PLAYER_NAME]. How goes it?;[PLAYER_NAME]. ¿Cómo va?
 [PLAYER_NAME].;[PLAYER_NAME].
 I negotiated with them. Convinced them that I was on their side. After that, bringing them in was trivial.;Negocié con ellos. Les convencí de que estaba de su lado. Después de eso, traerlos fue trivial.
+re:^\QYou're still hunting lizardmen\E\x3b\Q you have \E(\d+)\Q to go. Come back when you've finished your task.\E$;Todavía estás cazando lizardmen; te quedan $1. Vuelve cuando hayas terminado tu tarea.
+*whispers* Play along...;*susurra* Sigue el juego...

@@ -1493,3 +1493,5 @@ re:^Total Points: (\d+) - Next unlock in (\d+) points$;Puntos totales: $1 - Pró
 <col=000000>Slay a spiritual mage inside the wilderness Godwars Dungeon.<col=ffffff>(<col=800000>83 Slayer<col=000080>, <col=800000>60 Agility or 60 Strength<col=000080><col=ffffff>);<col=000000>Mata a un spiritual mage dentro de la wilderness Godwars Dungeon.<col=ffffff>(<col=800000>83 Slayer<col=000080>, <col=800000>60 Agility or 60 Strength<col=000080><col=ffffff>)
 <col=000000>Cast one of the 3 God spells against another player in the Wilderness.<col=ffffff>(<col=800000>60 Magic<col=000080>, <col=800000>Mage Arena I<col=000080><col=ffffff>);<col=000000>Lanza uno de los 3 God spells contra otro jugador en el Wilderness.<col=ffffff>(<col=800000>60 Magic<col=000080>, <col=800000>Mage Arena I<col=000080><col=ffffff>)
 Click here to continue;Haz clic aquí para continuar
+Access to puppies;Acceso a cachorros
+You have completed A Ruff Situation!;¡Has completado A Ruff Situation!
