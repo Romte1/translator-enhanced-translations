@@ -36,10 +36,16 @@ for (const line of readFileSync(translatedFile, "utf8").replace(/^\uFEFF/, "").s
 		continue;
 	}
 
-	const key = line.slice(0, separator);
+	const sourceKey = line.slice(0, separator);
 	const value = line.slice(separator + 1);
+	const key = sourceKey.includes(";")
+		? sourceKey.split(";")
+			.map(part => "\\Q" + part.replace(/\\E/g, "\\E\\\\E\\Q") + "\\E")
+			.join("\\x3b")
+			.replace(/^/, "re:^") + "$"
+		: sourceKey;
 
-	if (!value || key === value || keys.has(signature(key))) {
+	if (!value || sourceKey === value || keys.has(signature(key))) {
 		continue;
 	}
 

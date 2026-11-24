@@ -81,6 +81,22 @@ const knownValues = new Set(
 		.filter(line => line.includes(";"))
 		.map(line => normalize(line.slice(line.indexOf(";") + 1)))
 );
+const annotatedTasks = new Set();
+for (const line of readLines(dictionaryFile))
+{
+	if (!line.includes(";"))
+	{
+		continue;
+	}
+
+	const key = line.slice(0, line.indexOf(";"));
+	const annotation = key.indexOf("<col=ffffff>(");
+	if (annotation > 0)
+	{
+		annotatedTasks.add(normalize(key.slice(0, annotation)));
+	}
+}
+
 const knownPatterns = readLines(dictionaryFile)
 	.filter(line => line.startsWith("re:") && line.includes(";"))
 	.map(line => {
@@ -121,6 +137,8 @@ const pending = [...new Set([...texts, ...seedTexts])]
 	.filter(key => key.length > 0 && !known.has(normalize(key)) && !knownValues.has(normalize(key)))
 	.filter(key => !knownPatterns.some(pattern => pattern.test(key)))
 	.filter(key => !IGNORED_PREFIXES.some(prefix => key.startsWith(prefix)))
+	.filter(key => !annotatedTasks.has(normalize(key)))
+	.filter(key => !/[ÃÂ]/.test(key))
 	.filter(key => !SPANISH_LABEL.test(key))
 	.filter(key => !(normalize(key).length > 12 && sourceValues.has(normalize(key))))
 	.filter(type === "menu_entry_option" ? looksLikeMenuOption : looksLikeText)
