@@ -92,6 +92,14 @@ jobs:
         if: ${{ inputs.language == '' || inputs.language == matrix.language }}
         run: node scripts/merge-translations.mjs "${{ matrix.language }}" menu_entry_option
 
+      - name: Upload worker output
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: translated-${{ matrix.language }}
+          path: build/translated-*.txt
+          if-no-files-found: ignore
+
       - name: Update manifest
         if: ${{ inputs.language == '' || inputs.language == matrix.language }}
         env:
